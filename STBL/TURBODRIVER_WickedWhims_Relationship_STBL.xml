@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x5C6D86BF" TextString="--------- Settings ---------" />
+    <TextStringDefinition InstanceID="0xC7260D0F" TextString="Relationship Settings" />
+    <TextStringDefinition InstanceID="0x756E9625" TextString="Change relationship settings.\n\nThese settings affect the base game mechanics like age restrictions, gender preferences, incest, polygamy or jealousy)." />
+    <TextStringDefinition InstanceID="0x373B0956" TextString="This option requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
+    <TextStringDefinition InstanceID="0xD55C03E0" TextString="Romance Age Restrictions Settings" />
+    <TextStringDefinition InstanceID="0x2917F239" TextString="Allow/Disallow romance interactions for all ages.\n\n(from Teen to Elder)" />
+    <TextStringDefinition InstanceID="0x758CAE27" TextString="Allow All Ages Romance" />
+    <TextStringDefinition InstanceID="0x6DB6A9BB" TextString="Disallow All Ages Romance" />
+    <TextStringDefinition InstanceID="0x7B0B0FAE" TextString="Polyamory Relationships Settings" />
+    <TextStringDefinition InstanceID="0x24231769" TextString="Allow/Disallow polyamory and polygamy relationships." />
+    <TextStringDefinition InstanceID="0xCFDA20D5" TextString="Allow Polyamory/Polygamy Relationships" />
+    <TextStringDefinition InstanceID="0xFB9D6E89" TextString="Disallow Polyamory/Polygamy Relationships" />
+    <TextStringDefinition InstanceID="0xAE4B5304" TextString="Gender Preference Switch" />
+    <TextStringDefinition InstanceID="0x9C043049" TextString="Acknowledge/Ignore gender preference of Sims.\n\nGender Preference changes base on Sims interactions no matter what. This setting affects Sims sex partners choices." />
+    <TextStringDefinition InstanceID="0x6D8C644F" TextString="Acknowledge Gender Preferences" />
+    <TextStringDefinition InstanceID="0x6BEE8AA9" TextString="Ignore Gender Preferences" />
+    <TextStringDefinition InstanceID="0xE5EB4A6C" TextString="Global Jealousy Cheat" />
+    <TextStringDefinition InstanceID="0xEFC2F997" TextString="Enable/Disable jealousy of relationships globally.\n\nUse the Polyamorous reward trait for individual Sims." />
+    <TextStringDefinition InstanceID="0x22DA6CDA" TextString="Use the Polyamorous reward trait for individual Sims.\n\nReward traits can be found in the Rewards Store for Sims." />
+    <TextStringDefinition InstanceID="0x6D7B49A1" TextString="Enable Jealousy" />
+    <TextStringDefinition InstanceID="0x52C5AAF2" TextString="Disable Jealousy" />
+    <TextStringDefinition InstanceID="0xE27C1210" TextString="Global Incest Cheat" />
+    <TextStringDefinition InstanceID="0xC9BF7F96" TextString="Enable/Disable incest relationships globally.\n\nUse the Incest reward trait for individual Sims." />
+    <TextStringDefinition InstanceID="0x54774F84" TextString="Use the Incest reward trait for individual Sims.\n\nReward traits can be found in the Rewards Store for Sims." />
+    <TextStringDefinition InstanceID="0x6D7E512C" TextString="Enable Incest Relationships" />
+    <TextStringDefinition InstanceID="0xB75C20CF" TextString="Disable Incest Relationships" />
+    <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Traits ---------" />
+    <TextStringDefinition InstanceID="0x4528A2FC" TextString="Polyamorous" />
+    <TextStringDefinition InstanceID="0xD054832F" TextString="Polyamorous" />
+    <TextStringDefinition InstanceID="0x02E00C87" TextString="These Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
+    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
+    <TextStringDefinition InstanceID="0x11C412A8" TextString="Gender Preference" />
+    <TextStringDefinition InstanceID="0xBED1A509" TextString="Male" />
+    <TextStringDefinition InstanceID="0xBAC351E2" TextString="Female" />
+    <TextStringDefinition InstanceID="0x0728CB43" TextString="All" />
+    <TextStringDefinition InstanceID="0xADBD2BE5" TextString="--------- End ---------" />
+  </TextStringDefinitions>
+</StblData>

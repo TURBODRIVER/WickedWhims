@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StblData>
+  <TextStringDefinitions>
+    <TextStringDefinition InstanceID="0x712B19E6" TextString="--------------- Main ---------------" />
+    <TextStringDefinition InstanceID="0xF7694739" TextString="Wicked" />
+    <TextStringDefinition InstanceID="0xF0ABB689" TextString="Congratulations!\nWickedWhims {0.String} has been installed!\n\nIf this is not your first time, some data has been set to default. No worries, this is a standard procedure.\n\nEverything should be working without any problems." />
+    <TextStringDefinition InstanceID="0x14195596" TextString="--------------- Warnings ---------------" />
+    <TextStringDefinition InstanceID="0x38DA74DA" TextString="Warning!" />
+    <TextStringDefinition InstanceID="0xC8FC21DE" TextString="Failed to load parts of WickedWhims save data!\n\nDefault data was used instead.\n\nSaving the game should override incorrect data and fix the issue.\nRemoving 'WickedWhimsMod' folder from 'saves' folder can help too." />
+    <TextStringDefinition InstanceID="0x801BA754" TextString="Failed to load CAS Parts Config File (ww_cas_parts.json).\n\nDefault configuration is used instead." />
+    <TextStringDefinition InstanceID="0x563072CC" TextString="An error has occurred in the game!\nReally common reason for errors like these are outdated mods.\nMake sure to remove or update outdated mods!\n\nlastException.txt and/or WickedWhimsException.txt file has been created!\n\nThere is a possibility that this error was caused by WickedWhims. It's worth considering sending it to TURBODRIVER. You can find an instruction on how to report this at: http://wickedwhims.tumblr.com/\n\nException files location: {0.String}" />
+    <TextStringDefinition InstanceID="0x9AF804FA" TextString="--------------- Settings ---------------" />
+    <TextStringDefinition InstanceID="0xA917DC98" TextString="Settings" />
+    <TextStringDefinition InstanceID="0x0838B2BF" TextString="WickedWhims Settings" />
+    <TextStringDefinition InstanceID="0xC3B7DC2A" TextString="Headline Effects Settings" />
+    <TextStringDefinition InstanceID="0xE8DDE113" TextString="Change headline effects visibility." />
+    <TextStringDefinition InstanceID="0x15D398D2" TextString="Enable Headline Effects" />
+    <TextStringDefinition InstanceID="0xF207EBA7" TextString="Visible headline effects and plumbob" />
+    <TextStringDefinition InstanceID="0x8F3E7B79" TextString="Disable Headline Effects" />
+    <TextStringDefinition InstanceID="0x582BF4BE" TextString="Invisible headline effects and plumbob" />
+    <TextStringDefinition InstanceID="0xE9C3D72A" TextString="More Information" />
+    <TextStringDefinition InstanceID="0x56CDF362" TextString="Information about this modification." />
+    <TextStringDefinition InstanceID="0x53A232ED" TextString="Do you want to visit WickedWhims Blog? (http://wickedwhims.tumblr.com/)\n\nThis will open your web browser!" />
+    <TextStringDefinition InstanceID="0x146EE69C" TextString="--------------- Statistics ---------------" />
+    <TextStringDefinition InstanceID="0xE13179A9" TextString="Global Statistics" />
+    <TextStringDefinition InstanceID="0x7CCEFBAB" TextString="Sex Statistics\n   _STAT_: {10.String}\n   _STAT_: {11.String}\n   _STAT_: {12.String}\n   _STAT_: {13.String}\n   _STAT_: {14.String}\n   _STAT_: {15.String}\n   _STAT_: {16.String}\n   _STAT_: {17.String}\n   _STAT_: {18.String}\n   _STAT_: {19.String}\n\nExhibitionism Statistics\n   _STAT_: {30.String}\n   _STAT_: {31.String}\n   _STAT_: {32.String}\n   _STAT_: {33.String}\n   _STAT_: {34.String}\n   _STAT_: {35.String}\n   _STAT_: {36.String}\n   _STAT_: {37.String}\n   _STAT_: {38.String}\n   _STAT_: {39.String}\n\nOther Statistics\n   _STAT_: {50.String}\n   _STAT_: {51.String}\n   _STAT_: {52.String}\n   _STAT_: {53.String}\n   _STAT_: {54.String}\n   _STAT_: {55.String}\n   _STAT_: {56.String}\n   _STAT_: {57.String}\n   _STAT_: {58.String}\n   _STAT_: {59.String}\n" />
+    <TextStringDefinition InstanceID="0x448E8719" TextString="Sim Statistics" />
+    <TextStringDefinition InstanceID="0x00AFF5AF" TextString="{0.String} {1.String} Statistics" />
+    <TextStringDefinition InstanceID="0x337D5B1A" TextString="Sex Statistics\n  ┗ Times Had Sex: {10.String}\n     ┗ (Incest: {11.String}%)\n  ┗ Times Masturbated: {12.String}\n  ┗ Has Been Seen In Sex: {13.String}\n  ┗ Reacted To Sex: {14.String}\n  ┗ Asked For Sex: {15.String}\n     ┗ (Accepted: {16.String}%, Rejected: {17.String}%)\n  ┗ Time Spent In Sex: {21.String} hour(s)\n    ┗ (Teasing: {22.String}%, Handjob: {23.String}%,\n          Footjob: {24.String}%, Oraljob: {25.String}%,\n          Vaginal: {26.String}%, Anal: {27.String}%,\n          Climax: {28.String}%)\n  ┗ Unique Sex Partners: {30.String}\n     ┗ (Teen: {31.String}%, Young Adult: {32.String}%,\n           Adult: {33.String}%, Elder: {34.String}%)\n  ┗ Times Received Cum: {40.String}\n     ┗ (Face: {41.String}%, Chest: {42.String}%, Back: {43.String}%,\n           Vagina: {44.String}%, Butt: {45.String}%, Feet: {46.String}%)\n\nNudity Statistics\n  ┗ Time Spent Nude: {50.String} hour(s)\n  ┗ Has Been Seen Nude: {51.String}\n  ┗ Reacted To Nudity: {52.String}\n  ┗ Times Talked About Nudity: {53.String}\n  ┗ Flashed Someone: {60.String}\n     ┗ (Top: {61.String}%, Bottom: {62.String}%, Full: {63.String}%)\n\nOther Statistics\n  ┗ Times Impregnated: {100.String}\n  ┗ Times Got Pregnant: {101.String}\n  ┗ Times Terminated Pregnancy: {102.String}\n  ┗ Times Used Contraception: {103.String}\n" />
+    <TextStringDefinition InstanceID="0x1A2796D6" TextString="--------------- Welcome Message ---------------" />
+    <TextStringDefinition InstanceID="0xAF0812AB" TextString="{0.String}\n\nYou're running version:\n{1.String}\n\nLoaded {2.String} animations by {3.String}.\n\nWickedWhims by TURBODRIVER.\nCustom Content by CmarNYC, ZoahcX, Kirirhyn, Luumia and derover.\n\nWickedWhims is under CC BY-NC-ND 3.0 license." />
+    <TextStringDefinition InstanceID="0x798AD3D6" TextString="Hello!" />
+    <TextStringDefinition InstanceID="0x8441AF1A" TextString="Hallo!" />
+    <TextStringDefinition InstanceID="0xFE9E12ED" TextString="Olá!" />
+    <TextStringDefinition InstanceID="0x160F99C1" TextString="¡Hola!" />
+    <TextStringDefinition InstanceID="0x22F011E1" TextString="Hej!" />
+    <TextStringDefinition InstanceID="0x2F242017" TextString="Aloha!" />
+    <TextStringDefinition InstanceID="0x48507FE0" TextString="Saluto!" />
+    <TextStringDefinition InstanceID="0xF4DB20E1" TextString="今日は" />
+    <TextStringDefinition InstanceID="0xA132A319" TextString="你好" />
+    <TextStringDefinition InstanceID="0x2D19430B" TextString="안녕" />
+    <TextStringDefinition InstanceID="0xE434C431" TextString="Bonjour!" />
+    <TextStringDefinition InstanceID="0x767EEE4F" TextString="Вітаю!" />
+    <TextStringDefinition InstanceID="0xE448FF2E" TextString="Ahoj!" />
+    <TextStringDefinition InstanceID="0xBC7D3BAC" TextString="Здравствуйте!" />
+    <TextStringDefinition InstanceID="0xDA095FE2" TextString="Ciao!" />
+    <TextStringDefinition InstanceID="0x55451640" TextString="Hai!" />
+    <TextStringDefinition InstanceID="0xAAE412D4" TextString="Hei!" />
+    <TextStringDefinition InstanceID="0x5071CAEA" TextString="Oi!" />
+    <TextStringDefinition InstanceID="0x6B4D4B8C" TextString="--------------- End ---------------" />
+  </TextStringDefinitions>
+</StblData>
