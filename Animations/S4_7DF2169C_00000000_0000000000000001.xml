@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWoohooAnimationPackage" i="snippet" m="wickedwoohoo.utils_snippets" n="YourName:YourPackageName" s="12345">
+  <T n="wickedwoohoo_animations">1</T>
+  <L n="animations_list">
+    <T>
+      <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] -->
+      <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF USING "animation_display_name" FIELD] -->
+      <T n="animation_author">YourName</T>
+
+      <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T>
+      <T n="animation_custom_locations">123456789, 987654321</T> <!-- [REMOVE IF UNUSED] -->
+      <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
+
+      <T n="animation_category">VAGINAL</T>
+      <T n="animation_length">7</T>
+
+      <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
+      <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNUSED] -->
+
+      <T n="animation_actors_list">
+        <T>
+          <T n="actor_id">0</T>
+          <T n="animation_clip_name">AnimationClipName1x</T>
+          <T n="animation_type">VAGINAL</T>
+          <T n="animation_genders">MALE</T>
+          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_naked_flags">BOTTOM</T>
+          <T n="animation_force_nude_feet">0</T>
+          <T n="animation_allow_strapon">0</T>
+          <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="actor_interactions">
+            <T>
+              <T n="receiving_actor_id">1</T>
+              <T n="receiving_actor_category">VAGINAL</T>
+              <T n="receiving_actor_cum_layers">VAGINA</T>
+              <T n="receiving_actor_cum_inside">1</T>
+            </T>
+          </T>
+        </T>
+
+        <T>
+          <T n="actor_id">1</T>
+          <T n="animation_clip_name">AnimationClipName1y</T>
+          <T n="animation_type">VAGINAL</T>
+          <T n="animation_genders">FEMALE</T>
+          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_naked_flags">ALL</T>
+          <T n="animation_force_nude_feet">0</T>
+          <T n="animation_allow_strapon">0</T>
+          <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="actor_interactions">
+            <T>
+              <T n="receiving_actor_id">0</T>
+              <T n="receiving_actor_category">VAGINAL</T>
+              <T n="receiving_actor_cum_layers">DISABLED</T>
+              <T n="receiving_actor_cum_inside">0</T>
+            </T>
+          </T>
+        </T>
+
+      </T>
+    </T>
+
+    <!-- Next Animation Goes Here -->
+  </L>
+</I>

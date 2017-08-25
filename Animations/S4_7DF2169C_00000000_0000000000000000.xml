@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWoohooAnimationPackage" i="snippet" m="wickedwoohoo.utils_snippets" n="YourName:YourPackageName" s="12345"> <!-- 'n' as your package name and 's' as decimal id of your package -->
+  <T n="wickedwoohoo_animations">1</T>
+  <L n="animations_list">
+    <T>
+      <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF UNSUSED] STBL Hexadecimal Identificator for displayed animation name. Remove this field if using the "animation_raw_display_name" field. -->
+      <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF UNSUSED] Raw Text for displayed animation name. Remove this field if using the "animation_display_name" field. -->
+      <T n="animation_author">YourName</T> <!-- Raw Text for author name of this animation. -->
+      
+      <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T> <!-- List of location categories where this animation can be used at. Use the "Creating WickedWhims Animation XML File" tutorial for locations. -->
+      <T n="animation_custom_locations">123456789, 987654321</T> <!-- [REMOVE IF UNSUSED] List of specific objects WWIDs where this animation can be used at. -->
+      <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNSUSED] Object animation CLIP name. -->
+      
+      <T n="animation_category">VAGINAL</T> <!-- Category of the animation (TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL, CLIMAX). -->
+      <T n="animation_length">7</T> <!-- Duration of the animation in sims minutes (real time seconds that are affected by in-game time speed). -->
+      
+      <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNSUSED] Unique stage name of this animation that is used to trigger this animation as the next stage. -->
+      <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNSUSED] List of stage names that are used as next animation after this one ends. -->
+
+      <T n="animation_actors_list"> <!-- List of actors in this animation -->
+        <T>
+          <T n="actor_id">0</T> <!-- Numerical ID that represents this actor, should be 0 if this is the first actor. -->
+          <T n="animation_clip_name">AnimationClipName1x</T> <!-- Sim animation CLIP name. -->
+          <T n="animation_type">VAGINAL</T> <!-- Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL). -->
+          <T n="animation_genders">MALE</T> <!-- Gender type  of this actor (MALE, FEMALE, BOTH) -->
+          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNSUSED] Preferenced gender type of this actor if actor gender is set to BOTH (MALE, FEMALE) -->
+          <T n="animation_naked_flags">BOTTOM</T> <!-- Naked flag type this actor will undress when performing (NONE, TOP, BOTTOM, ALL) -->
+          <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
+          <T n="animation_allow_strapon">0</T> <!-- Flag to allow to equip strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
+          <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNSUSED] Offset of actor position in y axis (not stable to use) -->
+          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNSUSED] Offset of actor position angle in 360 degrees (not stable to use) -->
+          <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
+            <T>
+              <T n="receiving_actor_id">1</T> <!-- Numerical ID of an actor this actor is interacting with -->
+              <T n="receiving_actor_category">VAGINAL</T> <!-- Category of interaction this actor is performing on the receiving actor -->
+              <T n="receiving_actor_cum_layers">VAGINA</T> <!-- List of cum layer types to apply on receiving actor (DISABLED, FACE, CHEST, BACK, VAGINA, BUTT, FEET, NONE) -->
+              <T n="receiving_actor_cum_inside">1</T> <!-- Flag to define if cum goes inside or outside the receiving actor (0=Outside, 1=Inside) -->
+            </T>
+          </T>
+        </T>
+
+        <T>
+          <T n="actor_id">1</T> <!-- Numerical ID that represents this actor, should be 0 if this is the first actor. -->
+          <T n="animation_clip_name">AnimationClipName1y</T> <!-- Sim animation CLIP name. -->
+          <T n="animation_type">VAGINAL</T> <!-- Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL). -->
+          <T n="animation_genders">FEMALE</T> <!-- Gender type  of this actor (MALE, FEMALE, BOTH) -->
+          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNSUSED] Preferenced gender type of this actor if actor gender is set to BOTH (MALE, FEMALE) -->
+          <T n="animation_naked_flags">ALL</T> <!-- Naked flag type this actor will undress when performing (NONE, TOP, BOTTOM, ALL) -->
+          <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
+          <T n="animation_allow_strapon">0</T> <!-- Flag to allow to equip strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
+          <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNSUSED] Offset of actor position in y axis (not stable to use) -->
+          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNSUSED] Offset of actor position angle in 360 degrees (not stable to use) -->
+          <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
+            <T>
+              <T n="receiving_actor_id">0</T> <!-- Numerical ID of an actor this actor is interacting with -->
+              <T n="receiving_actor_category">VAGINAL</T> <!-- Category of interaction this actor is performing on the receiving actor -->
+              <T n="receiving_actor_cum_layers">DISABLED</T> <!-- List of cum layer types to apply on receiving actor (DISABLED, FACE, CHEST, BACK, VAGINA, BUTT, FEET, NONE) -->
+              <T n="receiving_actor_cum_inside">0</T> <!-- Flag to define if cum goes inside or outside the receiving actor (0=Outside, 1=Inside) -->
+            </T>
+          </T>
+        </T>
+
+      </T>
+    </T>
+
+    <!-- Next Animation Goes Here -->
+  </L>
+</I>
