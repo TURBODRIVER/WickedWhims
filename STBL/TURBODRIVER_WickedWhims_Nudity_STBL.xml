@@ -10,6 +10,12 @@
     <TextStringDefinition InstanceID="0x9964E528" TextString="Enable/Disable if Sims use underwear and are able to undress to underwear." />
     <TextStringDefinition InstanceID="0x72D7548B" TextString="Outfit Settings" />
     <TextStringDefinition InstanceID="0xCC94B352" TextString="Change outfit undressing behavior." />
+    <TextStringDefinition InstanceID="0x29499BF8" TextString="Complete Undressing Type" />
+    <TextStringDefinition InstanceID="0xB55962BB" TextString="Choose a type of how complete undressing should work." />
+    <TextStringDefinition InstanceID="0x48CC49FC" TextString="Default" />
+    <TextStringDefinition InstanceID="0x4AE98091" TextString="Sim bathing outfit with auto fixing will be used for undressing." />
+    <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
+    <TextStringDefinition InstanceID="0x43A4A0B1" TextString="Sim current outfit will be used as the base for undressing." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
     <TextStringDefinition InstanceID="0xADEC7C21" TextString="Shoes will be undressed with the bottom part of Sim outfit." />
     <TextStringDefinition InstanceID="0x8E22D933" TextString="Auto Undress Socks with Shoes" />
@@ -38,18 +44,28 @@
     <TextStringDefinition InstanceID="0x13547555" TextString="Only NPC Sims will attempt autonomy nudity activities." />
     <TextStringDefinition InstanceID="0xE8B17AD8" TextString="Full Autonomy" />
     <TextStringDefinition InstanceID="0xFC016B0B" TextString="All Sims will attempt autonomy nudity activities." />
+    <TextStringDefinition InstanceID="0x9B0AC774" TextString="Interaction Undressing Autonomy Settings" />
+    <TextStringDefinition InstanceID="0x50034AA7" TextString="Choose a type of interaction undressing autonomy.\n\nSpecific undressing interactions (like changing to sleep or changing for workout) are affected with possibility of undressing to nude." />
+    <TextStringDefinition InstanceID="0x1BFA2543" TextString="Disable Interaction Undressing Autonomy" />
+    <TextStringDefinition InstanceID="0x5174CB13" TextString="Sims will not try to get naked for undressing interactions." />
+    <TextStringDefinition InstanceID="0xA5E18202" TextString="Random Interaction Undressing Autonomy" />
+    <TextStringDefinition InstanceID="0xD7F2BF80" TextString="Sims will randomly (based on skill level) decide if they want to get naked for undressing interactions." />
+    <TextStringDefinition InstanceID="0x6B09C2CB" TextString="Constant Interaction Undressing Autonomy" />
+    <TextStringDefinition InstanceID="0xA9F64C5B" TextString="Sims will always get naked for undressing interactions." />
     <TextStringDefinition InstanceID="0x5E475386" TextString="Story Progression Settings" />
     <TextStringDefinition InstanceID="0x742C001C" TextString="Change nudity story progression related settings." />
     <TextStringDefinition InstanceID="0xB21F2859" TextString="Story Progression Switch" />
     <TextStringDefinition InstanceID="0x2EEA0EF7" TextString="Enable/Disable nudity story progression.\n\nSims will learn secrets of living without clothes on while they are not around." />
     <TextStringDefinition InstanceID="0xC78AE2AA" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0xCF91D653" TextString="Change all of the unrelated settings." />
+    <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
+    <TextStringDefinition InstanceID="0x5C0508A8" TextString="Enable/Disable if teens can use nudity interactions." />
     <TextStringDefinition InstanceID="0x49013E6B" TextString="Nudity Assurance Switch" />
     <TextStringDefinition InstanceID="0xC575E9D0" TextString="Enable/Disable nudity body parts assurance system." />
-    <TextStringDefinition InstanceID="0xD5E3DF22" TextString="Interaction Outfit Change Switch" />
-    <TextStringDefinition InstanceID="0x9425494F" TextString="Enable/Disable if Sims will keep the nudity outfit when performing interactions that require outfit changing (like sleeping, exercise, etc.)." />
     <TextStringDefinition InstanceID="0x5AADB196" TextString="Toilet Undressing Switch" />
     <TextStringDefinition InstanceID="0x7CDEE319" TextString="Enable/Disable if Sims will undress bottom when using a toilet." />
+    <TextStringDefinition InstanceID="0xE6D0E27A" TextString="Breast Feeding Undressing Switch" />
+    <TextStringDefinition InstanceID="0x996E6E42" TextString="Enable/Disable if Sims will undress top when breast feeding." />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
     <TextStringDefinition InstanceID="0x6ABAB020" TextString="Change things that you find annoying." />
     <TextStringDefinition InstanceID="0xC348A6AF" TextString="Nudity Reaction Switch" />
@@ -101,6 +117,9 @@
     <TextStringDefinition InstanceID="0x7A9B75B8" TextString="Exhibitionist" />
     <TextStringDefinition InstanceID="0xF05F3D5D" TextString="Turn your naturism into exhibitionism and unlock more nudity related interactions.\n\n(At least level 3 of Naturism Skill is required to purchase this trait)." />
     <TextStringDefinition InstanceID="0x9D419D97" TextString="Exhibitionists expose their bodies to gain sexual satisfaction from seeing shocked faces of others." />
+    <TextStringDefinition InstanceID="0xBE8FCB9F" TextString="---------- Lot Traits ----------" />
+    <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
+    <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
     <TextStringDefinition InstanceID="0x66AC60E9" TextString="---------- Buffs ----------" />
     <TextStringDefinition InstanceID="0xB5789D86" TextString="Flashed a Sim" />
     <TextStringDefinition InstanceID="0x1BD49A54" TextString="Sims that are experienced with Exhibitionism get a lot of joy from flashing others." />
