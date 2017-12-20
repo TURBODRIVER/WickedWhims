@@ -108,7 +108,7 @@
     <TextStringDefinition InstanceID="0x86CD9185" TextString="Simple Mode" />
     <TextStringDefinition InstanceID="0xF581AF26" TextString="Sims will get pregnant based on the set percentage chance." />
     <TextStringDefinition InstanceID="0x212943B1" TextString="Pregnancy Duration" />
-    <TextStringDefinition InstanceID="0x49145843" TextString="Pregnancy duration in Sims days.\n(Default: 3, Minimum: 3)" />
+    <TextStringDefinition InstanceID="0x6709A772" TextString="Pregnancy duration in Sim days.\n(Default: 3, Minimum: 1)" />
     <TextStringDefinition InstanceID="0x9DB1D8AB" TextString="Birth Control Mode" />
     <TextStringDefinition InstanceID="0x855E2B74" TextString="Change birth control behavior." />
     <TextStringDefinition InstanceID="0xD817F24C" TextString="Perfect Mode" />
@@ -429,6 +429,7 @@
     <TextStringDefinition InstanceID="0x4572BEC8" TextString="{0.SimFirstName} is really stressed from riding the crimson wave." />
     <TextStringDefinition InstanceID="0x6A0899BB" TextString="It's a gusher!" />
     <TextStringDefinition InstanceID="0x14DC91FA" TextString="Having your period is never fun, {0.SimFirstName} is fighting against the flow." />
+    <TextStringDefinition InstanceID="0xE88F121F" TextString="The darkness inside {0.SimFirstName}'s body feels ever stronger. How is this even possible?" />
     <TextStringDefinition InstanceID="0x79736054" TextString="---------- Shop ----------" />
     <TextStringDefinition InstanceID="0xA167046F" TextString="Purchase Sex Items" />
     <TextStringDefinition InstanceID="0xA38EBAEB" TextString="Thanks for ordering! The sex items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
