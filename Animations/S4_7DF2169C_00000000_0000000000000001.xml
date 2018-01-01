@@ -17,6 +17,8 @@
       <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNUSED] -->
 
+      <T n="animation_allowed_for_random">1</T>
+
       <T n="animation_actors_list">
         <T>
           <T n="actor_id">0</T>
