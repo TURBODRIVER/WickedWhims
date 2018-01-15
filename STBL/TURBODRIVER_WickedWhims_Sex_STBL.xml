@@ -425,7 +425,7 @@
     <TextStringDefinition InstanceID="0x25501B3A" TextString="{0.SimFirstName} is in high discomfort, as if someone was violently squeezing her insides..." />
     <TextStringDefinition InstanceID="0x3AFBA462" TextString="On Period" />
     <TextStringDefinition InstanceID="0x920F4A02" TextString="{0.SimFirstName} is feeling blue. Wait, no... it's red." />
-    <TextStringDefinition InstanceID="0xCAC8A8BF" TextString="{0.SimFirstName} can't concentrate on anything while the ovaries are shedding..." />
+    <TextStringDefinition InstanceID="0xBC3AC32A" TextString="{0.SimFirstName} can't concentrate on anything while the uterus is shedding..." />
     <TextStringDefinition InstanceID="0x4572BEC8" TextString="{0.SimFirstName} is really stressed from riding the crimson wave." />
     <TextStringDefinition InstanceID="0x6A0899BB" TextString="It's a gusher!" />
     <TextStringDefinition InstanceID="0x14DC91FA" TextString="Having your period is never fun, {0.SimFirstName} is fighting against the flow." />
