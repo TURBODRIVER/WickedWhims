@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0x9214BD5B" TextString="---------- Settings ----------" />
@@ -40,8 +40,10 @@
     <TextStringDefinition InstanceID="0x101D0763" TextString="NPC sex interaction duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0xBD3EC40F" TextString="Player Sims Autonomy" />
     <TextStringDefinition InstanceID="0x047923B7" TextString="Enable/Disable Player Sims Sex Autonomy." />
-    <TextStringDefinition InstanceID="0x0EC08B28" TextString="Display Sex Asking Dialogs" />
-    <TextStringDefinition InstanceID="0x882FACDD" TextString="Enable/Disable asking for sex dialogs." />
+    <TextStringDefinition InstanceID="0x6BF61F65" TextString="Display NPC Sex Asking Dialogs" />
+    <TextStringDefinition InstanceID="0x7460EFE0" TextString="Enable/Disable NPC Sims asking for sex dialogs." />
+    <TextStringDefinition InstanceID="0x33C0C61B" TextString="Display Player Sex Asking Dialogs" />
+    <TextStringDefinition InstanceID="0xDEAF5676" TextString="Enable/Disable Player Sims asking for sex dialogs." />
     <TextStringDefinition InstanceID="0xE71734FF" TextString="Player Sims Joining Sex Autonomy" />
     <TextStringDefinition InstanceID="0x092C852D" TextString="Enable/Disable if Player Sims will try and allow to join to existing sex interactions." />
     <TextStringDefinition InstanceID="0x2879E8D5" TextString="Interaction Settings" />
@@ -348,10 +350,10 @@
     <TextStringDefinition InstanceID="0xEE68D90B" TextString="When certain choices leave you with the burden of guilt..." />
     <TextStringDefinition InstanceID="0xA9C2023F" TextString="Hasta La Vista, Baby" />
     <TextStringDefinition InstanceID="0x8278FDEA" TextString="When the stress is gone, the party can go on." />
-    <TextStringDefinition InstanceID="0xCD272010" TextString="(from Pregnancy Termination)" />
+    <TextStringDefinition InstanceID="0xCD272010" TextString="(From Pregnancy Termination)" />
     <TextStringDefinition InstanceID="0x59FABA91" TextString="Miscarriage" />
     <TextStringDefinition InstanceID="0x37B77221" TextString="Consequences of not taking care of yourself..." />
-    <TextStringDefinition InstanceID="0xC179D0BC" TextString="(from Miscarriage)" />
+    <TextStringDefinition InstanceID="0xC179D0BC" TextString="(From Miscarriage)" />
     <TextStringDefinition InstanceID="0x2FE2669B" TextString="---------- Traits ----------" />
     <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
     <TextStringDefinition InstanceID="0xBDEC4A74" TextString="Cum Slut" />
@@ -416,7 +418,7 @@
     <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
     <TextStringDefinition InstanceID="0x9618506C" TextString="{0.SimFirstName} {0.SimLastName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
     <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
-    <TextStringDefinition InstanceID="0xB3A45A22" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant. It's best to test it or wait and see." />
+    <TextStringDefinition InstanceID="0x13CBA023" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
     <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
