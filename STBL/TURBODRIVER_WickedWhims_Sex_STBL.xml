@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0x9214BD5B" TextString="---------- Settings ----------" />
@@ -40,10 +40,8 @@
     <TextStringDefinition InstanceID="0x101D0763" TextString="NPC sex interaction duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0xBD3EC40F" TextString="Player Sims Autonomy" />
     <TextStringDefinition InstanceID="0x047923B7" TextString="Enable/Disable Player Sims Sex Autonomy." />
-    <TextStringDefinition InstanceID="0x6BF61F65" TextString="Display NPC Sex Asking Dialogs" />
-    <TextStringDefinition InstanceID="0x7460EFE0" TextString="Enable/Disable NPC Sims asking for sex dialogs." />
-    <TextStringDefinition InstanceID="0x33C0C61B" TextString="Display Player Sex Asking Dialogs" />
-    <TextStringDefinition InstanceID="0xDEAF5676" TextString="Enable/Disable Player Sims asking for sex dialogs." />
+    <TextStringDefinition InstanceID="0x0EC08B28" TextString="Display Sex Asking Dialogs" />
+    <TextStringDefinition InstanceID="0x882FACDD" TextString="Enable/Disable asking for sex dialogs." />
     <TextStringDefinition InstanceID="0xE71734FF" TextString="Player Sims Joining Sex Autonomy" />
     <TextStringDefinition InstanceID="0x092C852D" TextString="Enable/Disable if Player Sims will try and allow to join to existing sex interactions." />
     <TextStringDefinition InstanceID="0x2879E8D5" TextString="Interaction Settings" />
@@ -126,7 +124,7 @@
     <TextStringDefinition InstanceID="0xBFF340F9" TextString="Unsafe Mode" />
     <TextStringDefinition InstanceID="0xFB69E6D1" TextString="NPC Sims will not own birth control unless given." />
     <TextStringDefinition InstanceID="0x4CCF0404" TextString="Birth Control Automatic Use" />
-    <TextStringDefinition InstanceID="0xD1DC7E41" TextString="Makes Sims use birth control automatically when needed.\n\nCondoms are used during any sex that can cause pregnancy.\nBirth Control Pills is used once a day." />
+    <TextStringDefinition InstanceID="0xDF103E05" TextString="Makes Sims use birth control automatically when needed.\n\nCondoms are used during any sex that can cause pregnancy.\nBirth Control is used once a day." />
     <TextStringDefinition InstanceID="0x24E7813C" TextString="NPC Pregnancy Switch" />
     <TextStringDefinition InstanceID="0xD71E319A" TextString="Enable/Disable if NPC Sims can get pregnant on their own." />
     <TextStringDefinition InstanceID="0x853ED1F7" TextString="Miscarriage Switch" />
@@ -326,7 +324,6 @@
     <TextStringDefinition InstanceID="0x78164747" TextString="Such a lust for love... Who? Who do you desire?" />
     <TextStringDefinition InstanceID="0xBC73A7F2" TextString="Intense Lust" />
     <TextStringDefinition InstanceID="0x3495394A" TextString="So much lust makes you uncomfortable! It would be wise to find a way to release this tension." />
-    <TextStringDefinition InstanceID="0x8F4BF39D" TextString="(From High Desire)" />
     <TextStringDefinition InstanceID="0x4DC10072" TextString="Cum Whore" />
     <TextStringDefinition InstanceID="0xD777244E" TextString="The feel of cum on skin makes you so much more aroused." />
     <TextStringDefinition InstanceID="0x1C248797" TextString="Cum Dump" />
@@ -351,10 +348,10 @@
     <TextStringDefinition InstanceID="0xEE68D90B" TextString="When certain choices leave you with the burden of guilt..." />
     <TextStringDefinition InstanceID="0xA9C2023F" TextString="Hasta La Vista, Baby" />
     <TextStringDefinition InstanceID="0x8278FDEA" TextString="When the stress is gone, the party can go on." />
-    <TextStringDefinition InstanceID="0xCD272010" TextString="(From Pregnancy Termination)" />
+    <TextStringDefinition InstanceID="0xCD272010" TextString="(from Pregnancy Termination)" />
     <TextStringDefinition InstanceID="0x59FABA91" TextString="Miscarriage" />
     <TextStringDefinition InstanceID="0x37B77221" TextString="Consequences of not taking care of yourself..." />
-    <TextStringDefinition InstanceID="0xC179D0BC" TextString="(From Miscarriage)" />
+    <TextStringDefinition InstanceID="0xC179D0BC" TextString="(from Miscarriage)" />
     <TextStringDefinition InstanceID="0x2FE2669B" TextString="---------- Traits ----------" />
     <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
     <TextStringDefinition InstanceID="0xBDEC4A74" TextString="Cum Slut" />
@@ -396,8 +393,8 @@
     <TextStringDefinition InstanceID="0x7E84555B" TextString="Unpack Box" />
     <TextStringDefinition InstanceID="0xAA33353B" TextString="Use Condom(s)" />
     <TextStringDefinition InstanceID="0x2B6249AC" TextString="Condoms can only be used during sex." />
-    <TextStringDefinition InstanceID="0xFC15B814" TextString="Allow Condoms Auto Use" />
-    <TextStringDefinition InstanceID="0x2F349510" TextString="Disallow Condoms Auto Use" />
+    <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
+    <TextStringDefinition InstanceID="0x1F939A83" TextString="{0.SimFirstName} is already on birth control." />
     <TextStringDefinition InstanceID="0xF358AC37" TextString="Used a condom. (Owned by {0.SimFirstName} {0.SimLastName})" />
     <TextStringDefinition InstanceID="0x90D64EA2" TextString="Used {0.String} condoms. (Owned by {1.SimFirstName} {1.SimLastName})" />
     <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
@@ -405,15 +402,11 @@
     <TextStringDefinition InstanceID="0x184BB312" TextString="Box of 24 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\n\nUnpack the box and get 24 usable condoms." />
     <TextStringDefinition InstanceID="0xC68DC425" TextString="Wicked Condom" />
     <TextStringDefinition InstanceID="0xAE0C27A1" TextString="Exactly what you need to avoid unwanted pregnancy. Keep them around, you never know when you would need one.\n\nUse it during sex by clicking on it in Sim inventory, don't wait, it can get too late!" />
-    <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
-    <TextStringDefinition InstanceID="0x1F939A83" TextString="{0.SimFirstName} is already on birth control." />
-    <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0x617AD88A" TextString="Wicked Birth Control Pills Box" />
     <TextStringDefinition InstanceID="0xEF5CBB03" TextString="Box of 28 birth control pills. Use one every day and don't worry about unwanted pregnancy.\n\nUnpack the box and get 28 usable pills." />
     <TextStringDefinition InstanceID="0xBA4D5BD3" TextString="Wicked Birth Control Pills" />
     <TextStringDefinition InstanceID="0x6C5CA582" TextString="Helps with periods and unwanted pregnancy. Remember to take one once a day!\n\nUse it once a day by clicking on it in Sim inventory. With each missed day, you risk becoming pregnant." />
+    <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0xEFD4B461" TextString="---------- Pregnancy ----------" />
     <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
     <TextStringDefinition InstanceID="0x16C92A58" TextString="Terminate Pregnancy" />
@@ -423,21 +416,19 @@
     <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
     <TextStringDefinition InstanceID="0x9618506C" TextString="{0.SimFirstName} {0.SimLastName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
     <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
-    <TextStringDefinition InstanceID="0x13CBA023" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
+    <TextStringDefinition InstanceID="0xB3A45A22" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant. It's best to test it or wait and see." />
     <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
     <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
     <TextStringDefinition InstanceID="0xE4FF6132" TextString="Cramps" />
-    <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
     <TextStringDefinition InstanceID="0x25501B3A" TextString="{0.SimFirstName} is in high discomfort, as if someone was violently squeezing her insides..." />
     <TextStringDefinition InstanceID="0x3AFBA462" TextString="On Period" />
-    <TextStringDefinition InstanceID="0xB5CC92CA" TextString="The hormone shift inside {0.SimFirstName}'s body is making {M0.him}{F0.her} feel all hot and heavy." />
-    <TextStringDefinition InstanceID="0x4B177081" TextString="{0.SimFirstName} is feeling just fine today... or is {M0.he}{F0.she}?" />
-    <TextStringDefinition InstanceID="0x674F1E7B" TextString="{0.SimFirstName} can't concentrate while the uterus is shedding..." />
     <TextStringDefinition InstanceID="0x920F4A02" TextString="{0.SimFirstName} is feeling blue. Wait, no... it's red." />
-    <TextStringDefinition InstanceID="0x02649141" TextString="{0.SimFirstName} is very stressed from riding the crimson wave." />
-    <TextStringDefinition InstanceID="0xFFD06906" TextString="{0.SimFirstName} is fighting against the flow." />
+    <TextStringDefinition InstanceID="0xBC3AC32A" TextString="{0.SimFirstName} can't concentrate on anything while the uterus is shedding..." />
+    <TextStringDefinition InstanceID="0x4572BEC8" TextString="{0.SimFirstName} is really stressed from riding the crimson wave." />
+    <TextStringDefinition InstanceID="0x6A0899BB" TextString="It's a gusher!" />
+    <TextStringDefinition InstanceID="0x14DC91FA" TextString="Having your period is never fun, {0.SimFirstName} is fighting against the flow." />
     <TextStringDefinition InstanceID="0xE88F121F" TextString="The darkness inside {0.SimFirstName}'s body feels ever stronger. How is this even possible?" />
     <TextStringDefinition InstanceID="0x79736054" TextString="---------- Shop ----------" />
     <TextStringDefinition InstanceID="0xA167046F" TextString="Purchase Sex Items" />
