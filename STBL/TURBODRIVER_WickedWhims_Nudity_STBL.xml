@@ -16,6 +16,8 @@
     <TextStringDefinition InstanceID="0x4AE98091" TextString="Sim bathing outfit with auto fixing will be used for undressing." />
     <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
     <TextStringDefinition InstanceID="0x43A4A0B1" TextString="Sim current outfit will be used as the base for undressing." />
+    <TextStringDefinition InstanceID="0xAA59D56F" TextString="Auto Undress Gloves with Top" />
+    <TextStringDefinition InstanceID="0x071DF5B1" TextString="Gloves will be undressed with the top part of Sim outfit." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
     <TextStringDefinition InstanceID="0xADEC7C21" TextString="Shoes will be undressed with the bottom part of Sim outfit." />
     <TextStringDefinition InstanceID="0x8E22D933" TextString="Auto Undress Socks with Shoes" />
@@ -68,6 +70,8 @@
     <TextStringDefinition InstanceID="0x996E6E42" TextString="Enable/Disable if Sims will undress top when breast feeding." />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
     <TextStringDefinition InstanceID="0x6ABAB020" TextString="Change things that you find annoying." />
+    <TextStringDefinition InstanceID="0x949FD76A" TextString="Nudity Privacy Switch" />
+    <TextStringDefinition InstanceID="0x8DD33097" TextString="Enable/Disable if Sims will respect nudity privacy." />
     <TextStringDefinition InstanceID="0xC348A6AF" TextString="Nudity Reaction Switch" />
     <TextStringDefinition InstanceID="0xD3283393" TextString="Enable/Disable if Sims will react to nudity." />
     <TextStringDefinition InstanceID="0x2426B73B" TextString="---------- Penis Settings ----------" />
@@ -117,6 +121,9 @@
     <TextStringDefinition InstanceID="0x7A9B75B8" TextString="Exhibitionist" />
     <TextStringDefinition InstanceID="0xF05F3D5D" TextString="Turn your naturism into exhibitionism and unlock more nudity related interactions.\n\n(At least level 3 of Naturism Skill is required to purchase this trait)." />
     <TextStringDefinition InstanceID="0x9D419D97" TextString="Exhibitionists expose their bodies to gain sexual satisfaction from seeing shocked faces of others." />
+    <TextStringDefinition InstanceID="0xF7B00D90" TextString="No Underwear" />
+    <TextStringDefinition InstanceID="0x15550E5D" TextString="No Underwear" />
+    <TextStringDefinition InstanceID="0x7A72DB2E" TextString="Sims with no underwear will never be wearing underwear ever again." />
     <TextStringDefinition InstanceID="0xBE8FCB9F" TextString="---------- Lot Traits ----------" />
     <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
     <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
@@ -125,6 +132,8 @@
     <TextStringDefinition InstanceID="0x1BD49A54" TextString="Sims that are experienced with Exhibitionism get a lot of joy from flashing others." />
     <TextStringDefinition InstanceID="0xA08E23AF" TextString="Being Naked" />
     <TextStringDefinition InstanceID="0x32E7A30B" TextString="When you shed your clothes you also shed just a few of the burdens of everyday life." />
+    <TextStringDefinition InstanceID="0x99DD14A8" TextString="Seen with Pants Down" />
+    <TextStringDefinition InstanceID="0x67B5C798" TextString="How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {M0.him}{F0.her} urinating. Whether urgent or not, this just wasn't worth it." />
     <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
     <TextStringDefinition InstanceID="0x77A6756D" TextString="Flash a Sim" />
     <TextStringDefinition InstanceID="0x0005DD74" TextString="Click on a Sim and select any flashing option from the Wicked Exhibitionism category." />
@@ -191,6 +200,7 @@
     <TextStringDefinition InstanceID="0xFCEE0F64" TextString="{0.SimFirstName} {0.SimLastName} flashed his butt to {1.SimFirstName} {1.SimLastName}." />
     <TextStringDefinition InstanceID="0xED70BDD0" TextString="{0.SimFirstName} {0.SimLastName} flashed everything to {1.SimFirstName} {1.SimLastName}." />
     <TextStringDefinition InstanceID="0x044D064E" TextString="{0.SimFirstName} {0.SimLastName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x0FF16CD2" TextString="{0.SimFirstName} {0.SimLastName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
   </TextStringDefinitions>
 </StblData>
