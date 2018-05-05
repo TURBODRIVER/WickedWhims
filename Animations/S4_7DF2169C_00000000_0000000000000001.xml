@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<I c="WickedWoohooAnimationPackage" i="snippet" m="wickedwoohoo.utils_snippets" n="YourName:YourPackageName" s="12345">
-  <T n="wickedwoohoo_animations">1</T>
+<I c="WickedWoohooAnimationPackage" i="snippet" m="wickedwhims.sex.animations.animations_tuning" n="YourName:YourPackageName" s="12345">
+  <T n="wickedwhims_animations">1</T>
   <L n="animations_list">
     <T>
       <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] -->
@@ -12,7 +12,7 @@
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_category">VAGINAL</T>
-      <T n="animation_length">7</T>
+      <T n="animation_loops">1</T>
 
       <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNUSED] -->
@@ -23,14 +23,20 @@
         <T>
           <T n="actor_id">0</T>
           <T n="animation_clip_name">AnimationClipName1x</T>
+
           <T n="animation_type">VAGINAL</T>
+
           <T n="animation_genders">MALE</T>
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] -->
-          <T n="animation_naked_flags">BOTTOM</T>
+
+          <T n="animation_naked_type">BOTTOM</T>
+          <T n="animation_force_nude_hands">0</T>
           <T n="animation_force_nude_feet">0</T>
           <T n="animation_allow_strapon">0</T>
+
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
           <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+
           <T n="actor_interactions">
             <T>
               <T n="receiving_actor_id">1</T>
@@ -44,14 +50,20 @@
         <T>
           <T n="actor_id">1</T>
           <T n="animation_clip_name">AnimationClipName1y</T>
+
           <T n="animation_type">VAGINAL</T>
+
           <T n="animation_genders">FEMALE</T>
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] -->
-          <T n="animation_naked_flags">ALL</T>
+
+          <T n="animation_naked_type">ALL</T>
+          <T n="animation_force_nude_hands">0</T>
           <T n="animation_force_nude_feet">0</T>
           <T n="animation_allow_strapon">0</T>
+
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
           <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+
           <T n="actor_interactions">
             <T>
               <T n="receiving_actor_id">0</T>
