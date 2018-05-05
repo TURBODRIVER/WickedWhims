@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<I c="WickedWoohooAnimationPackage" i="snippet" m="wickedwhims.sex.animations.animations_tuning" n="YourName:YourPackageName" s="12345"> <!-- 'n' as your package name and 's' as decimal id of your package -->
+<I c="WickedWhimsAnimationPackage" i="snippet" m="wickedwhims.sex.animations.animations_tuning" n="YourName:YourPackageName" s="12345"> <!-- 'n' as your package name and 's' as decimal id of your package -->
   <T n="wickedwhims_animations">1</T>
   <L n="animations_list">
     <T>
