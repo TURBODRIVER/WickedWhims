@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0x9214BD5B" TextString="---------- Settings ----------" />
@@ -400,15 +400,15 @@
     <TextStringDefinition InstanceID="0x1C248797" TextString="Cum Dump" />
     <TextStringDefinition InstanceID="0xD17BDD64" TextString="Having sticky thick fluid on your body is pretty uncomfortable." />
     <TextStringDefinition InstanceID="0x1591A89F" TextString="(From Being Caught Masturbating)" />
-    <TextStringDefinition InstanceID="0x984E04D7" TextString="Unexpected" />
-    <TextStringDefinition InstanceID="0x523E17FD" TextString="{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!" />
+    <TextStringDefinition InstanceID="0xCFC6B4F5" TextString="Some Privacy Please!" />
+    <TextStringDefinition InstanceID="0x0C0FC695" TextString="{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!" />
     <TextStringDefinition InstanceID="0xF6BE775D" TextString="(From Reacting To Sex)" />
     <TextStringDefinition InstanceID="0x46BE1EF8" TextString="{M0.Cuckold}{F0.Cuckquean}" />
     <TextStringDefinition InstanceID="0xE8412F45" TextString="{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else." />
     <TextStringDefinition InstanceID="0x173999EE" TextString="Scandal In The Family" />
     <TextStringDefinition InstanceID="0x8E644298" TextString="They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!" />
     <TextStringDefinition InstanceID="0x087DD326" TextString="Scandalous Scenery" />
-    <TextStringDefinition InstanceID="0x339FBD6D" TextString="How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have." />
+    <TextStringDefinition InstanceID="0xCF70533E" TextString="How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{M0.she} really shouldn't have." />
     <TextStringDefinition InstanceID="0xD44724B9" TextString="Adult Activities" />
     <TextStringDefinition InstanceID="0x5776F6AE" TextString="{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good." />
     <TextStringDefinition InstanceID="0xE3B6C851" TextString="Growing up too fast!" />
@@ -435,6 +435,8 @@
     <TextStringDefinition InstanceID="0xFB79F7FB" TextString="Good for them! {0.SimFirstName} fondly remembers a pleasant encounter with that Sim and now seeing them enjoy themselves so vigorously makes {M0.him}{F0.her} just want to cheer them on." />
     <TextStringDefinition InstanceID="0x2D5821E5" TextString="Lover's Delight" />
     <TextStringDefinition InstanceID="0xA2349658" TextString="If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning." />
+    <TextStringDefinition InstanceID="0x984E04D7" TextString="Unexpected" />
+    <TextStringDefinition InstanceID="0x523E17FD" TextString="{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!" />
     <TextStringDefinition InstanceID="0x9924CF89" TextString="Discovered Teen Pregnancy" />
     <TextStringDefinition InstanceID="0x25324005" TextString="Amidst all the doubtfulness, sadness and confusion, there is anger. Can {0.SimFirstName} cope with having {M0.his}{F0.her} teen child pregnant?" />
     <TextStringDefinition InstanceID="0x40A1B3AD" TextString="Pregnancy Termination" />
