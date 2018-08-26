@@ -408,7 +408,7 @@
     <TextStringDefinition InstanceID="0x173999EE" TextString="Scandal In The Family" />
     <TextStringDefinition InstanceID="0x8E644298" TextString="They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!" />
     <TextStringDefinition InstanceID="0x087DD326" TextString="Scandalous Scenery" />
-    <TextStringDefinition InstanceID="0xCF70533E" TextString="How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{M0.she} really shouldn't have." />
+    <TextStringDefinition InstanceID="0x339FBD6D" TextString="How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have." />
     <TextStringDefinition InstanceID="0xD44724B9" TextString="Adult Activities" />
     <TextStringDefinition InstanceID="0x5776F6AE" TextString="{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good." />
     <TextStringDefinition InstanceID="0xE3B6C851" TextString="Growing up too fast!" />
