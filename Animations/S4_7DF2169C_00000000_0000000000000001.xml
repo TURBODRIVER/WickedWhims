@@ -2,7 +2,8 @@
 <I c="WickedWhimsAnimationPackage" i="snippet" m="wickedwhims.sex.animations.animations_tuning" n="YourName:YourPackageName" s="12345">
   <T n="wickedwhims_animations">1</T>
   <L n="animations_list">
-    <T>
+
+    <T> <!-- [START OF ANIMATION ENTRY] -->
       <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] -->
       <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF USING "animation_display_name" FIELD] -->
       <T n="animation_author">YourName</T>
@@ -12,6 +13,7 @@
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_category">VAGINAL</T>
+      <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_loops">1</T>
 
       <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
@@ -20,7 +22,8 @@
       <T n="animation_allowed_for_random">1</T>
 
       <T n="animation_actors_list">
-        <T>
+
+        <T> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">0</T>
           <T n="animation_clip_name">AnimationClipName1x</T>
 
@@ -45,9 +48,9 @@
               <T n="receiving_actor_cum_inside">1</T>
             </T>
           </T>
-        </T>
+        </T> <!-- [END OF ACTOR ENTRY] -->
 
-        <T>
+        <T> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">1</T>
           <T n="animation_clip_name">AnimationClipName1y</T>
 
@@ -72,10 +75,32 @@
               <T n="receiving_actor_cum_inside">0</T>
             </T>
           </T>
-        </T>
-
+        </T> <!-- [END OF ACTOR ENTRY] -->
       </T>
-    </T>
+
+      <T n="animation_events_list">
+        <T> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">EFFECT</T>
+          <T n="event_start_timecode">1.23456</T>
+          <T n="event_end_timecode">9.87654</T>
+
+          <T n="event_target">a0</T>
+          <T n="effect_name">EffectName</T>
+          <T n="effect_joint_name">BoneJointName</T>
+
+          <T n="dont_run_if">
+            <T n="actor_has_condom">1</T>
+          </T>
+        </T> <!-- [END OF EVENT ENTRY] -->
+
+        <T> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">CUM</T>
+          <T n="event_start_timecode">1.23456</T>
+          <T n="event_target">a1</T>
+          <T n="cum_layer_type">FACE</T>
+        </T> <!-- [END OF EVENT ENTRY] -->
+      </T>
+    </T> <!-- [END OF ANIMATION ENTRY] -->
 
     <!-- Next Animation Goes Here -->
   </L>
