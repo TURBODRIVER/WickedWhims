@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:Underwear_CAS_Parts" s="000000000000000000">
+  <T n="wickedwhims_cas_parts">1</T>
+  <L n="cas_parts_list">
+
+    <T>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Male Underwear</T> <!-- Raw Text for displayed CAS part name. Remove this field if using the "cas_part_display_name" field. -->
+      <T n="cas_part_author">YourName</T> <!-- Raw Text for author name of this CAS part. -->
+      <T n="cas_part_type">UNDERWEAR_MALE</T> <!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE) -->
+      <T n="cas_part_id">111111111111111111</T> <!-- Numerical ID of the CAS part. Use "cas_part_ids" when CAS part type requires it. -->
+    </T>
+
+    <T>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Female Underwear</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_type">UNDERWEAR_FEMALE</T>
+      <T n="cas_part_ids">111111111111111111, 22222222222222222</T>
+    </T>
+
+  </L>
+</I>
