@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:Condom_CAS_Parts" s="000000000000000000">
+<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:Condom_CAS_Parts" s="000000000000000001">
   <T n="wickedwhims_cas_parts">1</T>
   <L n="cas_parts_list">
 
     <T>
       <T n="cas_part_raw_display_name">Fancy Name Of The Condom</T> <!-- Raw Text for displayed CAS part name. Remove this field if using the "cas_part_display_name" field. -->
       <T n="cas_part_author">YourName</T> <!-- Raw Text for author name of this CAS part. -->
-      <T n="cas_part_type">CONDOM</T> <!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE) -->
+      <T n="cas_part_type">CONDOM</T> <!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE) -->
       <T n="cas_part_id">111111111111111111</T> <!-- Numerical ID of the CAS part. Use "cas_part_ids" when CAS part type requires it. -->
       <T n="cas_part_reference_id">22222222222222222</T> <!-- Numerical ID of a reference to the CAS part. For example, condom CAS part should refer to the object tuning ID of the condom object. -->
       <T n="required_cas_part_id">33333333333333333</T> <!-- Numerical ID of the CAS part that is required for this CAS part to be used. -->
