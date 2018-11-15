@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
-    <TextStringDefinition InstanceID="0x9214BD5B" TextString="---------- Settings ----------" />
+    <TextStringDefinition InstanceID="0xB6C2495F" TextString="---------- SETTINGS GENERAL ----------" />
     <TextStringDefinition InstanceID="0x14F72DE6" TextString="Warning! Changing sex settings with running sex interactions can cause issues!\n\nEnd running sex interaction first to avoid possible problems." />
     <TextStringDefinition InstanceID="0x39E9CFE9" TextString="Sex Settings" />
     <TextStringDefinition InstanceID="0x09E30EDA" TextString="Change sex settings.\n\nThese settings affect only sex related functions like gender role recognition, positions progression, autonomy, outfit or pregnancy)." />
@@ -13,51 +13,107 @@
     <TextStringDefinition InstanceID="0xA9E7B26F" TextString="Pregnancy Notifications" />
     <TextStringDefinition InstanceID="0xC16796FA" TextString="Display extra pregnancy related notifications." />
     <TextStringDefinition InstanceID="0x2E0B7D13" TextString="Autonomy Settings" />
-    <TextStringDefinition InstanceID="0x152E455C" TextString="Change sex autonomy related settings." />
-    <TextStringDefinition InstanceID="0xD3715835" TextString="Autonomy Level Settings" />
-    <TextStringDefinition InstanceID="0x2623B776" TextString="Choose a level of autonomy.\n\nAffects autonomy locations, Sims, and frequency." />
-    <TextStringDefinition InstanceID="0xA7A95AE2" TextString="Disable Autonomy" />
-    <TextStringDefinition InstanceID="0xEEC0320C" TextString="Sims will never have autonomy sex." />
-    <TextStringDefinition InstanceID="0x410CE9E4" TextString="Low Autonomy" />
-    <TextStringDefinition InstanceID="0x4C4A1E3B" TextString="Lower base chance. Less Sims having sex. Sims relationships matter. Less open sex locations." />
-    <TextStringDefinition InstanceID="0x6DE5836B" TextString="Normal Autonomy" />
-    <TextStringDefinition InstanceID="0x7B89AD40" TextString="Moderate base chance. Sims relationships matter. Moderate chance for open sex locations." />
-    <TextStringDefinition InstanceID="0x02A18D52" TextString="High Autonomy" />
-    <TextStringDefinition InstanceID="0x99082774" TextString="High base chance. Sims relationships don't matter. High chance for open sex locations." />
-    <TextStringDefinition InstanceID="0x6D880C9F" TextString="Autonomy Specifics" />
-    <TextStringDefinition InstanceID="0x49BD7924" TextString="Change how autonomy works." />
-    <TextStringDefinition InstanceID="0x74BB4DB9" TextString="Relationship Awareness Switch" />
-    <TextStringDefinition InstanceID="0x6E7CB99E" TextString="Enable/Disable if Sims will stay faithful to their partner and not have sex with others.\n\nThe 'Polyamorous' and 'Noncommittal' traits on Sims ignore this setting." />
+    <TextStringDefinition InstanceID="0x152E455C" TextString="Change Sex Autonomy related settings." />
+    <TextStringDefinition InstanceID="0x3EE0D7D2" TextString="Autonomy Switch" />
+    <TextStringDefinition InstanceID="0xB20413C0" TextString="Check to enable Sims Sex Autonomy." />
+    <TextStringDefinition InstanceID="0xCD73FD6F" TextString="Autonomy Intensity Presets" />
+    <TextStringDefinition InstanceID="0xFCB4A505" TextString="Choose an intensity preset for autonomy.\n(this alters the Autonomy Awareness settings and Autonomy Specifics settings)" />
+    <TextStringDefinition InstanceID="0x74B333EB" TextString="Low Intensity" />
+    <TextStringDefinition InstanceID="0x58C240BD" TextString="Select for less frequent sex, higher Sims and Location precision, slower cooldowns." />
+    <TextStringDefinition InstanceID="0x7C08C420" TextString="Default Intensity" />
+    <TextStringDefinition InstanceID="0x1021C6B0" TextString="Select for default settings for Sex Autonomy." />
+    <TextStringDefinition InstanceID="0xB868AE55" TextString="High Intensity" />
+    <TextStringDefinition InstanceID="0xF7F5B654" TextString="Select for more frequent sex, higher chances, quicker cooldowns." />
+    <TextStringDefinition InstanceID="0xCD83EE51" TextString="Extreme Intensity" />
+    <TextStringDefinition InstanceID="0x3A9E341B" TextString="Select for very frequent sex, very high chances, relationships don't matter, almost no cooldowns." />
+    <TextStringDefinition InstanceID="0x61A18927" TextString="Autonomy Triggers" />
+    <TextStringDefinition InstanceID="0xFA61C8A4" TextString="Choose which types of autonomy are allowed to run." />
     <TextStringDefinition InstanceID="0xAAF92019" TextString="Random Sex Switch" />
-    <TextStringDefinition InstanceID="0xA654290C" TextString="Enable/Disable if Sims will randomly have sex with each other." />
+    <TextStringDefinition InstanceID="0x115BE714" TextString="Check to allow Sims to perform random sex interactions with other Sims." />
     <TextStringDefinition InstanceID="0x29DFD6F1" TextString="Solo Sex Switch" />
-    <TextStringDefinition InstanceID="0x03FF4D8E" TextString="Enable/Disable if Sims will randomly have fun with themselves." />
-    <TextStringDefinition InstanceID="0xFFBE14EC" TextString="Romance Conversation Sex Switch" />
-    <TextStringDefinition InstanceID="0x3261169A" TextString="Enable/Disable if Sims will have sex from romantic conversations." />
-    <TextStringDefinition InstanceID="0xC96ECC84" TextString="Solo Watching Sex Switch" />
-    <TextStringDefinition InstanceID="0x9DB6C5C7" TextString="Enable/Disable if Sims will get off from watching sex.\n\n(Requires Amra72 and ooOLaLa World animations.)" />
-    <TextStringDefinition InstanceID="0x1EFECEB8" TextString="Club Sex Switch" />
-    <TextStringDefinition InstanceID="0xDE1B8D98" TextString="Enable/Disable if Sims will have sex when at a sex club gathering." />
+    <TextStringDefinition InstanceID="0x1C921B31" TextString="Check to allow Sims to perform random masturbation interactions." />
     <TextStringDefinition InstanceID="0x59A68EF4" TextString="Joining Sex Switch" />
-    <TextStringDefinition InstanceID="0x6E11A796" TextString="Enable/Disable if Sims will try to join to existing sex interactions." />
-    <TextStringDefinition InstanceID="0xF93747C7" TextString="NPC Pregnancy Awareness Switch" />
-    <TextStringDefinition InstanceID="0x4D48ECA4" TextString="Enable/Disable if NPC Sims will avoid sex if they have a high chance of getting pregnant.\n(Only works with Menstrual Cycle Pregnancy Mode enabled.)" />
-    <TextStringDefinition InstanceID="0xC0D61043" TextString="Block Around Children Switch" />
-    <TextStringDefinition InstanceID="0x84253072" TextString="Enable/Disable if Sims will attempt sex when children are on the lot." />
-    <TextStringDefinition InstanceID="0xB01BFB9D" TextString="NPC Sex Duration" />
-    <TextStringDefinition InstanceID="0x101D0763" TextString="NPC sex interaction duration in realtime minutes.\n(Default: 3)" />
+    <TextStringDefinition InstanceID="0x943581C5" TextString="Check to allow Sims to try to join existing sex interactions." />
+    <TextStringDefinition InstanceID="0xFFBE14EC" TextString="Romance Conversation Sex Switch" />
+    <TextStringDefinition InstanceID="0x9F76B937" TextString="Check to allow Sims to initiate sex from romantic conversations." />
+    <TextStringDefinition InstanceID="0xC96ECC84" TextString="Solo Watching Sex Switch" />
+    <TextStringDefinition InstanceID="0x785E2DB8" TextString="Check to allow Sims to perform masturbation interactions while watching sex.\n\n(requires Amra72 and ooOLaLa World animations)" />
+    <TextStringDefinition InstanceID="0x1EFECEB8" TextString="Club Sex Switch" />
+    <TextStringDefinition InstanceID="0x92A34392" TextString="Check to allow Sims to perform sex interactions when at a sex club gathering." />
+    <TextStringDefinition InstanceID="0x0D1F566B" TextString="Autonomy Awareness" />
+    <TextStringDefinition InstanceID="0x86A8C987" TextString="Choose which elements are considered when triggering autonomy." />
     <TextStringDefinition InstanceID="0xBD3EC40F" TextString="Player Sims Autonomy" />
-    <TextStringDefinition InstanceID="0x047923B7" TextString="Enable/Disable Player Sims Sex Autonomy." />
-    <TextStringDefinition InstanceID="0xA9ECC932" TextString="Asking for Sex Dialogs Settings" />
-    <TextStringDefinition InstanceID="0x6A6E0F96" TextString="Change which asking sex dialogs are used." />
-    <TextStringDefinition InstanceID="0x9234BF69" TextString="Display Player Asking Player Sex Dialog" />
-    <TextStringDefinition InstanceID="0x63630517" TextString="Enable/Disable Player Sims asking Player Sims for sex dialogs." />
-    <TextStringDefinition InstanceID="0xE7EC962B" TextString="Display NPC Asking Player Sex Dialog" />
-    <TextStringDefinition InstanceID="0x4AC5C23D" TextString="Enable/Disable NPC Sims asking Player Sims for sex dialogs." />
-    <TextStringDefinition InstanceID="0x27015517" TextString="Display Player Asking NPC Sex Dialog" />
-    <TextStringDefinition InstanceID="0xF441E115" TextString="Enable/Disable Player Sims asking NPC Sims for sex dialogs." />
+    <TextStringDefinition InstanceID="0xD86BF067" TextString="Check to allow Player Sims to participate in Sex Autonomy." />
     <TextStringDefinition InstanceID="0xE71734FF" TextString="Player Sims Joining Sex Autonomy" />
-    <TextStringDefinition InstanceID="0xDD04F202" TextString="Enable/Disable if Player Sims will try and allow joining to existing sex interactions." />
+    <TextStringDefinition InstanceID="0x9A945F9B" TextString="Check to allow Player Sims to join to existing sex interactions." />
+    <TextStringDefinition InstanceID="0x74BB4DB9" TextString="Relationship Awareness Switch" />
+    <TextStringDefinition InstanceID="0x3B09EBE1" TextString="Check for Sims to stay faithful to their partner and not have sex with others.\n\nThe 'Polyamorous' and 'Noncommittal' traits on Sims ignore this setting." />
+    <TextStringDefinition InstanceID="0xF93747C7" TextString="NPC Pregnancy Awareness Switch" />
+    <TextStringDefinition InstanceID="0xC53CE741" TextString="Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\n(only works with Menstrual Cycle Pregnancy Mode enabled)" />
+    <TextStringDefinition InstanceID="0xC0D61043" TextString="Block Around Children Switch" />
+    <TextStringDefinition InstanceID="0x0FE568C6" TextString="Check for Sims to avoid attempting sex when children are on the lot.\nUncheck for Sims to attempt sex when children are on the lot." />
+    <TextStringDefinition InstanceID="0x030E869E" TextString="Risk Roll Switch" />
+    <TextStringDefinition InstanceID="0x132BDB92" TextString="Check for Sims to assess risk of having sex by their age, number of Sims around, number of children around, and family relations." />
+    <TextStringDefinition InstanceID="0x6D880C9F" TextString="Autonomy Specifics" />
+    <TextStringDefinition InstanceID="0xD40B3B2A" TextString="Edit specific parts of autonomy and mess up everything." />
+    <TextStringDefinition InstanceID="0xC5C62052" TextString="Random Sex Frequency Modifier" />
+    <TextStringDefinition InstanceID="0xA1C17F32" TextString="Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\n(Default: 1.0, Minimum: 0.01)" />
+    <TextStringDefinition InstanceID="0x22971499" TextString="Random Solo Sex Probability" />
+    <TextStringDefinition InstanceID="0x7AB57E76" TextString="Set a unit interval value for chance of random solo sex occuring. Value 1.0 is 100% chance.\n(Default: 0.70, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x8F7D682E" TextString="Random Club Sex Probability" />
+    <TextStringDefinition InstanceID="0x203805C1" TextString="Set a unit interval value for chance of random club sex occuring. Value 1.0 is 100% chance.\n(Default: 1.0, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x52C9B0FC" TextString="Watching Sex Random Solo Probability" />
+    <TextStringDefinition InstanceID="0x818BDC86" TextString="Set a unit interval value for chance of random sex watching occuring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x60D9AD86" TextString="Romance Sex Probability" />
+    <TextStringDefinition InstanceID="0x3D10A6F0" TextString="Set a unit interval value for chance of random sex from romantic conversations occuring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x52EDB46D" TextString="Trigger Attempts Count" />
+    <TextStringDefinition InstanceID="0x704D76EC" TextString="Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\n(Default: 5, Minimum: 1, Maximum: 120)" />
+    <TextStringDefinition InstanceID="0xD3A5F7EE" TextString="Sims Sex Pairs Sample Size" />
+    <TextStringDefinition InstanceID="0x5285DD51" TextString="Set a number of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\n(Default: 8, Minimum: 1)" />
+    <TextStringDefinition InstanceID="0xBA43CAC3" TextString="Sex Locations Sample Size" />
+    <TextStringDefinition InstanceID="0x9DFD6EF3" TextString="Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\n(Default: 8, Minimum: 1)" />
+    <TextStringDefinition InstanceID="0x90B95FD1" TextString="Minimum Sex Actors Limit" />
+    <TextStringDefinition InstanceID="0x0C99CD79" TextString="Set a minimum number of actors that can join sex with autonomy.\n(Default: 3, Minimum: 2)" />
+    <TextStringDefinition InstanceID="0x62803C2E" TextString="NPC Sims Relationship Modifier" />
+    <TextStringDefinition InstanceID="0xE377357B" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 10, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0xF48591CC" TextString="Player to NPC Sims Relationship Modifier" />
+    <TextStringDefinition InstanceID="0xEA32BB1C" TextString="Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 0, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0x5C733BDD" TextString="Autonomy Location Styles" />
+    <TextStringDefinition InstanceID="0x3A583A16" TextString="Choose and Set allowed for autonomy location styles." />
+    <TextStringDefinition InstanceID="0xFA48E2A4" TextString="Outside Lots Style Locations" />
+    <TextStringDefinition InstanceID="0x5F59051C" TextString="Check to allow picking of sex locations outside of the lot boundaries." />
+    <TextStringDefinition InstanceID="0xDF5B9BA0" TextString="Outdoors Style Locations" />
+    <TextStringDefinition InstanceID="0xF7448F33" TextString="Check to allow picking of sex locations outdoors within lot boundaries" />
+    <TextStringDefinition InstanceID="0x3A19652B" TextString="Risky Style Locations" />
+    <TextStringDefinition InstanceID="0x36EBB258" TextString="Check to allow picking of risky sex locations." />
+    <TextStringDefinition InstanceID="0x47290295" TextString="Comfort Style Locations" />
+    <TextStringDefinition InstanceID="0x31F1764A" TextString="Check to allow picking of comfortable sex locations." />
+    <TextStringDefinition InstanceID="0xF38596DA" TextString="Private Style Locations" />
+    <TextStringDefinition InstanceID="0x2355180F" TextString="Check to allow picking of private sex locations." />
+    <TextStringDefinition InstanceID="0xFADD3551" TextString="Sims Risky Factor" />
+    <TextStringDefinition InstanceID="0x89B72B19" TextString="Set a multiplier value per 'Sim In Room' that increases the likeliness of the room being considered as risky.\n(Default: 2.0, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0xFB0C4D05" TextString="NPC Household Relationship Modifier" />
+    <TextStringDefinition InstanceID="0xB646E1DF" TextString="Set a number of extra relationship points to add to the average of an NPC Household's relationship value when considering sex while an active Sim is visiting a residential lot.\n(Default: 0, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0x29D0EE3C" TextString="Autonomy Cooldowns" />
+    <TextStringDefinition InstanceID="0x5ECE6FB2" TextString="Set cooldown timers for autonomy sex." />
+    <TextStringDefinition InstanceID="0x1FDB2A09" TextString="Random Sex Minimum Cooldown Time" />
+    <TextStringDefinition InstanceID="0x192829D9" TextString="Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\n(Default: 90, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0xF3F7320F" TextString="Random Sex Maximum Cooldown Time" />
+    <TextStringDefinition InstanceID="0x5A37E1CE" TextString="Set a number of maximum realtime seconds Sims wait before attempting autonomy sex again.\n(Default: 1800, Minimum: 1)" />
+    <TextStringDefinition InstanceID="0xCF48FF9E" TextString="Club Sex Minimum Cooldown Time" />
+    <TextStringDefinition InstanceID="0x2634118F" TextString="Set a number of minimum realtime seconds Sims wait before attempting autonomy club sex again.\n(Default: 45, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0x9F3DC20C" TextString="Club Sex Maximum Cooldown Time" />
+    <TextStringDefinition InstanceID="0x6A66ED0A" TextString="Set a number of maximum realtime seconds Sims wait before attempting autonomy club sex again.\n(Default: 90, Minimum: 1)" />
+    <TextStringDefinition InstanceID="0xA9ECC932" TextString="Asking for Sex Dialogs Settings" />
+    <TextStringDefinition InstanceID="0xB088165F" TextString="Choose which asking sex dialogs are displayed." />
+    <TextStringDefinition InstanceID="0x9234BF69" TextString="Display Player Asking Player Sex Dialog" />
+    <TextStringDefinition InstanceID="0x0D018DAC" TextString="Check for Player Sims asking Player Sims for sex dialogs." />
+    <TextStringDefinition InstanceID="0xE7EC962B" TextString="Display NPC Asking Player Sex Dialog" />
+    <TextStringDefinition InstanceID="0x1BE752BC" TextString="Check for NPC Sims asking Player Sims for sex dialogs." />
+    <TextStringDefinition InstanceID="0x27015517" TextString="Display Player Asking NPC Sex Dialog" />
+    <TextStringDefinition InstanceID="0xC5B2B81C" TextString="Check for Player Sims asking NPC Sims for sex dialogs." />
+    <TextStringDefinition InstanceID="0x1CA1C80B" TextString="NPC Sims Sex Duration" />
+    <TextStringDefinition InstanceID="0x733E164D" TextString="Set NPC Sims sex interaction duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0x2879E8D5" TextString="Interaction Settings" />
     <TextStringDefinition InstanceID="0x8538DEF2" TextString="Change sex interaction related settings." />
     <TextStringDefinition InstanceID="0x863EB150" TextString="Sex Progression Settings" />
@@ -123,26 +179,19 @@
     <TextStringDefinition InstanceID="0xF581AF26" TextString="Sims will get pregnant based on the set percentage chance." />
     <TextStringDefinition InstanceID="0x212943B1" TextString="Pregnancy Duration" />
     <TextStringDefinition InstanceID="0x6709A772" TextString="Pregnancy duration in Sim days.\n(Default: 3, Minimum: 1)" />
-    <TextStringDefinition InstanceID="0x9DB1D8AB" TextString="Birth Control Mode" />
-    <TextStringDefinition InstanceID="0x855E2B74" TextString="Change birth control behavior." />
-    <TextStringDefinition InstanceID="0xD817F24C" TextString="Perfect Mode" />
-    <TextStringDefinition InstanceID="0x38526408" TextString="Every birth control method will prevent pregnancy with 100% success rate." />
-    <TextStringDefinition InstanceID="0xAF0221B7" TextString="Realistic Mode" />
-    <TextStringDefinition InstanceID="0x4186E61C" TextString="Every birth control method has a realistic chance of failing to prevent pregnancy." />
-    <TextStringDefinition InstanceID="0xC5160CDA" TextString="NPC Birth Control Mode" />
-    <TextStringDefinition InstanceID="0xA307A2DB" TextString="Change NPC Sims use of birth control behavior." />
-    <TextStringDefinition InstanceID="0x562C03C4" TextString="Safe Mode" />
-    <TextStringDefinition InstanceID="0x6FCF9E98" TextString="Most NPC Sims will own and use birth control." />
-    <TextStringDefinition InstanceID="0x61462840" TextString="Moderate Mode" />
-    <TextStringDefinition InstanceID="0xFA527A19" TextString="Some NPC Sims will own and use birth control." />
-    <TextStringDefinition InstanceID="0xBFF340F9" TextString="Unsafe Mode" />
-    <TextStringDefinition InstanceID="0xFB69E6D1" TextString="NPC Sims will not own birth control unless given." />
-    <TextStringDefinition InstanceID="0x4CCF0404" TextString="Birth Control Automatic Use" />
-    <TextStringDefinition InstanceID="0xD1DC7E41" TextString="Makes Sims use birth control automatically when needed.\n\nCondoms are used during any sex that can cause pregnancy.\nBirth Control Pills is used once a day." />
-    <TextStringDefinition InstanceID="0x24E7813C" TextString="NPC Pregnancy Switch" />
-    <TextStringDefinition InstanceID="0xD71E319A" TextString="Enable/Disable if NPC Sims can get pregnant on their own." />
-    <TextStringDefinition InstanceID="0x853ED1F7" TextString="Miscarriage Switch" />
-    <TextStringDefinition InstanceID="0xF2CB90EE" TextString="Enable/Disable if Sims can experience miscarriage." />
+    <TextStringDefinition InstanceID="0xB28D8082" TextString="Player Pregnancy Chance" />
+    <TextStringDefinition InstanceID="0x3BCD049B" TextString="Choose pregnancy percentage chance for sex interactions involving player Sims." />
+    <TextStringDefinition InstanceID="0x2A89926C" TextString="NPC Pregnancy Chance" />
+    <TextStringDefinition InstanceID="0xDA9C0DC3" TextString="Choose pregnancy percentage chance for NPC Sims sex interactions." />
+    <TextStringDefinition InstanceID="0x0AE70696" TextString="Pregnancy Chance: {0.String}" />
+    <TextStringDefinition InstanceID="0x6DF5CD9D" TextString="Menstrual Cycle Fertility Level" />
+    <TextStringDefinition InstanceID="0xFAE3382C" TextString="Choose Sims menstrual cycle fertility level." />
+    <TextStringDefinition InstanceID="0x1ED735B9" TextString="Realistic (Low)" />
+    <TextStringDefinition InstanceID="0xE08702B3" TextString="Realistic menstrual cycle fertility chances.\n(0%-10%, 16%-27%, 31%-33%)" />
+    <TextStringDefinition InstanceID="0x6D30329C" TextString="Boosted (Medium)" />
+    <TextStringDefinition InstanceID="0xC012298B" TextString="Boosted from realistic menstrual cycle fertility chances.\n(0%-10%, 20%-31%, 43%-78%)" />
+    <TextStringDefinition InstanceID="0x505A0763" TextString="Extreme (High)" />
+    <TextStringDefinition InstanceID="0xEECF33C1" TextString="Extremely high menstrual cycle fertility chances.\n(0%-10%, 50%-80%, 90%-100%, 100%)" />
     <TextStringDefinition InstanceID="0xC675FB77" TextString="Menstrual Cycle Duration" />
     <TextStringDefinition InstanceID="0xA0EFCC98" TextString="Choose Sims menstrual cycle duration." />
     <TextStringDefinition InstanceID="0xAF63B103" TextString="Automatic" />
@@ -155,11 +204,51 @@
     <TextStringDefinition InstanceID="0xA71E88CE" TextString="Life expectancy: 81 days (8-10 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0xCC236812" TextString="Short" />
     <TextStringDefinition InstanceID="0x0C783C93" TextString="Life expectancy: 42 days (6-7 days per menstrual cycle)" />
-    <TextStringDefinition InstanceID="0xB28D8082" TextString="Player Pregnancy Chance" />
-    <TextStringDefinition InstanceID="0x3BCD049B" TextString="Choose pregnancy percentage chance for sex interactions involving player Sims." />
-    <TextStringDefinition InstanceID="0x2A89926C" TextString="NPC Pregnancy Chance" />
-    <TextStringDefinition InstanceID="0xDA9C0DC3" TextString="Choose pregnancy percentage chance for NPC Sims sex interactions." />
-    <TextStringDefinition InstanceID="0x0AE70696" TextString="Pregnancy Chance: {0.String}" />
+    <TextStringDefinition InstanceID="0x93A1B7AC" TextString="Menstrual Cycle Tampon/Pad Absorbency" />
+    <TextStringDefinition InstanceID="0xD2B87C9E" TextString="Choose tampons/pads absorbency level." />
+    <TextStringDefinition InstanceID="0x396D43F5" TextString="Perfect" />
+    <TextStringDefinition InstanceID="0x40320E96" TextString="Tampons and pads will perfectly prevent any blood leaking." />
+    <TextStringDefinition InstanceID="0x48039E2A" TextString="Boosted" />
+    <TextStringDefinition InstanceID="0x503DA9F8" TextString="Tampons and pads will be slightly better at preventing blood leaking." />
+    <TextStringDefinition InstanceID="0x487C720E" TextString="Tampons and pads have normal blood leak preventing properties." />
+    <TextStringDefinition InstanceID="0xACEE7810" TextString="Menstrual Cycle Tampon Auto Use" />
+    <TextStringDefinition InstanceID="0x866B17FC" TextString="Makes Sims use tampons automatically when needed." />
+    <TextStringDefinition InstanceID="0x646DB25F" TextString="None" />
+    <TextStringDefinition InstanceID="0x3EB9183F" TextString="Sims will not use tampons automatically." />
+    <TextStringDefinition InstanceID="0x60E5C2D5" TextString="Realistic" />
+    <TextStringDefinition InstanceID="0x07992F7A" TextString="Sims will use and change tampons right before it becomes overused (every 15 hours)." />
+    <TextStringDefinition InstanceID="0x2EBF493E" TextString="Cautious" />
+    <TextStringDefinition InstanceID="0x74E10E22" TextString="Sims will use and change tampons right when there is any risk of them leaking (every 8 hours)." />
+    <TextStringDefinition InstanceID="0xA629E840" TextString="Menstrual Cycle Pad Auto Use" />
+    <TextStringDefinition InstanceID="0x1A0F4902" TextString="Makes Sims use pads automatically when needed." />
+    <TextStringDefinition InstanceID="0xCEC1EE65" TextString="None" />
+    <TextStringDefinition InstanceID="0xC39E0DA9" TextString="Sims will not use pads automatically." />
+    <TextStringDefinition InstanceID="0x23F33587" TextString="Realistic" />
+    <TextStringDefinition InstanceID="0x4313D605" TextString="Sims will use and change pads right before it becomes overused (every 16 hours)." />
+    <TextStringDefinition InstanceID="0x5B484FDE" TextString="Cautious" />
+    <TextStringDefinition InstanceID="0x458F5F8E" TextString="Sims will use and change pads right when there is any risk of them leaking (every 6 hours)." />
+    <TextStringDefinition InstanceID="0x24E7813C" TextString="NPC Pregnancy Switch" />
+    <TextStringDefinition InstanceID="0xD71E319A" TextString="Enable/Disable if NPC Sims can get pregnant on their own." />
+    <TextStringDefinition InstanceID="0x9DB1D8AB" TextString="Birth Control Mode" />
+    <TextStringDefinition InstanceID="0x855E2B74" TextString="Change birth control behavior." />
+    <TextStringDefinition InstanceID="0xD817F24C" TextString="Perfect Mode" />
+    <TextStringDefinition InstanceID="0x38526408" TextString="Every birth control method will prevent pregnancy with 100% success rate." />
+    <TextStringDefinition InstanceID="0xAF0221B7" TextString="Realistic Mode" />
+    <TextStringDefinition InstanceID="0x4186E61C" TextString="Every birth control method has a realistic chance of failing to prevent pregnancy." />
+    <TextStringDefinition InstanceID="0xC5160CDA" TextString="NPC Birth Control Mode" />
+    <TextStringDefinition InstanceID="0xA307A2DB" TextString="Change NPC Sims use of birth control behavior." />
+    <TextStringDefinition InstanceID="0x562C03C4" TextString="Safe Mode" />
+    <TextStringDefinition InstanceID="0x6FCF9E98" TextString="Most NPC Sims will own and use birth control." />
+    <TextStringDefinition InstanceID="0x61462840" TextString="Moderate Mode" />
+    <TextStringDefinition InstanceID="0xFA527A19" TextString="Some NPC Sims will own and use birth control." />
+    <TextStringDefinition InstanceID="0xD755627F" TextString="Rare Mode" />
+    <TextStringDefinition InstanceID="0x8AF5D616" TextString="NPC Sims will rarely own and use birth control." />
+    <TextStringDefinition InstanceID="0xBFF340F9" TextString="Unsafe Mode" />
+    <TextStringDefinition InstanceID="0xFB69E6D1" TextString="NPC Sims will not own birth control unless given." />
+    <TextStringDefinition InstanceID="0x4CCF0404" TextString="Birth Control Automatic Use" />
+    <TextStringDefinition InstanceID="0xD1DC7E41" TextString="Makes Sims use birth control automatically when needed.\n\nCondoms are used during any sex that can cause pregnancy.\nBirth Control Pills is used once a day." />
+    <TextStringDefinition InstanceID="0x853ED1F7" TextString="Miscarriage Switch" />
+    <TextStringDefinition InstanceID="0xF2CB90EE" TextString="Enable/Disable if Sims can experience miscarriage." />
     <TextStringDefinition InstanceID="0x8CAC249F" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0xB6B16360" TextString="Change all of the unrelated settings." />
     <TextStringDefinition InstanceID="0x124D4B77" TextString="Teens Sex Switch" />
@@ -222,7 +311,7 @@
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
     <TextStringDefinition InstanceID="0x2A4072B5" TextString="Locations: {0.String}{1.String}" />
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
-    <TextStringDefinition InstanceID="0x389F6D50" TextString="---------- General ----------" />
+    <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
     <TextStringDefinition InstanceID="0x6A3A3959" TextString="Teasing" />
     <TextStringDefinition InstanceID="0x795BA55C" TextString="Handjob" />
@@ -232,7 +321,39 @@
     <TextStringDefinition InstanceID="0xD3CD069A" TextString="Anal" />
     <TextStringDefinition InstanceID="0x5E1F3B80" TextString="Climax" />
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
-    <TextStringDefinition InstanceID="0xCCE28ED5" TextString="---------- Interface ----------" />
+    <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
+    <TextStringDefinition InstanceID="0xE0C90006" TextString="Ask for Sex" />
+    <TextStringDefinition InstanceID="0xBA4656AC" TextString="Ask for Sex (Random)" />
+    <TextStringDefinition InstanceID="0x4218F70A" TextString="Be Asked for Sex" />
+    <TextStringDefinition InstanceID="0x6D011246" TextString="Go to Sex Location" />
+    <TextStringDefinition InstanceID="0x9BFED398" TextString="Wait for Partner" />
+    <TextStringDefinition InstanceID="0x9EF9D738" TextString="Sex: {0.String} ({1.String})" />
+    <TextStringDefinition InstanceID="0xF30B5CB3" TextString="Join In" />
+    <TextStringDefinition InstanceID="0x7913A7FD" TextString="Ask to Join In" />
+    <TextStringDefinition InstanceID="0xA5EEE389" TextString="Next" />
+    <TextStringDefinition InstanceID="0x08AC137E" TextString="Change Sex Location to Here" />
+    <TextStringDefinition InstanceID="0xF7508C7E" TextString="Swap {1.SimFirstName}'s Spot" />
+    <TextStringDefinition InstanceID="0x48F53F24" TextString="Sim is not ready for climax yet." />
+    <TextStringDefinition InstanceID="0x9285BB84" TextString="Stop That!" />
+    <TextStringDefinition InstanceID="0xB8062F74" TextString="Go Away" />
+    <TextStringDefinition InstanceID="0xEBCF9844" TextString="This interaction is not available while in sex." />
+    <TextStringDefinition InstanceID="0xCB7A962B" TextString="NPC Sex" />
+    <TextStringDefinition InstanceID="0xBCAACF01" TextString="Change" />
+    <TextStringDefinition InstanceID="0x391DB6E6" TextString="Invite" />
+    <TextStringDefinition InstanceID="0x8B649A7C" TextString="Stop" />
+    <TextStringDefinition InstanceID="0x6DA61B52" TextString="Enable for Sex Autonomy" />
+    <TextStringDefinition InstanceID="0xD469212B" TextString="Disable for Sex Autonomy" />
+    <TextStringDefinition InstanceID="0x74C9DB2A" TextString="Gender Recognition" />
+    <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
+    <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
+    <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
+    <TextStringDefinition InstanceID="0xD8967BA2" TextString="---------- SEX BUFFS ----------" />
+    <TextStringDefinition InstanceID="0x8F4BF39D" TextString="(From High Desire)" />
+    <TextStringDefinition InstanceID="0x64BC6ED8" TextString="Sexual Desire" />
+    <TextStringDefinition InstanceID="0x78164747" TextString="Such a lust for love... Who? Who do you desire?" />
+    <TextStringDefinition InstanceID="0xBC73A7F2" TextString="Intense Lust" />
+    <TextStringDefinition InstanceID="0x3495394A" TextString="So much lust makes you uncomfortable! It would be wise to find a way to release this tension." />
+    <TextStringDefinition InstanceID="0x6500B60D" TextString="---------- SEX INTERFACE ----------" />
     <TextStringDefinition InstanceID="0x049DEAEC" TextString="Teasing Animations" />
     <TextStringDefinition InstanceID="0x54F85123" TextString="Handjob Animations" />
     <TextStringDefinition InstanceID="0x0D590CAA" TextString="Footjob Animations" />
@@ -260,67 +381,15 @@
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
     <TextStringDefinition InstanceID="0x3488AD14" TextString="Author: {0.String}" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
-    <TextStringDefinition InstanceID="0xA743F18B" TextString="---------- Clubs ----------" />
-    <TextStringDefinition InstanceID="0x26AD768D" TextString="Have Sex" />
-    <TextStringDefinition InstanceID="0x07F2F64A" TextString="Have Sex with {0.String}" />
-    <TextStringDefinition InstanceID="0x66FC63E4" TextString="Don't have Sex with {0.String}" />
-    <TextStringDefinition InstanceID="0x9166FAA6" TextString="Have Sex (Swinging)" />
-    <TextStringDefinition InstanceID="0x76D23E3D" TextString="Have Sex (Swinging) with {0.String}" />
-    <TextStringDefinition InstanceID="0x2D0ACBDB" TextString="Don't Have Sex (Swinging) with {0.String}" />
-    <TextStringDefinition InstanceID="0x4D6A9CE7" TextString="---------- Interactions ----------" />
-    <TextStringDefinition InstanceID="0xDB1CB7D7" TextString="Outfit" />
-    <TextStringDefinition InstanceID="0x5719812D" TextString="Undress Top" />
-    <TextStringDefinition InstanceID="0xCD80FE71" TextString="Undress Bottom" />
-    <TextStringDefinition InstanceID="0xAC82A7B5" TextString="Undress Outfit" />
-    <TextStringDefinition InstanceID="0x5CDDB40A" TextString="Undress Completely" />
-    <TextStringDefinition InstanceID="0xC2150D2F" TextString="Undress Hat" />
-    <TextStringDefinition InstanceID="0x07F818E4" TextString="Undress Gloves" />
-    <TextStringDefinition InstanceID="0x944EEC02" TextString="Undress Leggings" />
-    <TextStringDefinition InstanceID="0x5475948F" TextString="Undress Socks" />
-    <TextStringDefinition InstanceID="0x3356B322" TextString="Undress Shoes" />
-    <TextStringDefinition InstanceID="0xC5C92792" TextString="Accessories" />
-    <TextStringDefinition InstanceID="0x5C60DB3E" TextString="Undress Glasses" />
-    <TextStringDefinition InstanceID="0x8D5F2350" TextString="Undress Head" />
-    <TextStringDefinition InstanceID="0x51397AF4" TextString="Undress Left Hand" />
-    <TextStringDefinition InstanceID="0x162E1151" TextString="Undress Right Hand" />
-    <TextStringDefinition InstanceID="0xDD7C516A" TextString="Undress Other Accessories" />
-    <TextStringDefinition InstanceID="0xE9FBA083" TextString="Change Outfit..." />
-    <TextStringDefinition InstanceID="0xF585F22A" TextString="Change Outfit for {0.SimFirstName}" />
-    <TextStringDefinition InstanceID="0xB8C0FAB7" TextString="Cum" />
-    <TextStringDefinition InstanceID="0xC8F6D759" TextString="Face" />
-    <TextStringDefinition InstanceID="0xC3633745" TextString="Chest" />
-    <TextStringDefinition InstanceID="0x9E3BA177" TextString="Back" />
-    <TextStringDefinition InstanceID="0x8D518588" TextString="Vagina" />
-    <TextStringDefinition InstanceID="0x536140D1" TextString="Butt" />
-    <TextStringDefinition InstanceID="0xF3D28EC8" TextString="Feet" />
-    <TextStringDefinition InstanceID="0xE0C90006" TextString="Ask for Sex" />
-    <TextStringDefinition InstanceID="0xBA4656AC" TextString="Ask for Sex (Random)" />
-    <TextStringDefinition InstanceID="0x4218F70A" TextString="Be Asked for Sex" />
-    <TextStringDefinition InstanceID="0x6D011246" TextString="Go to Sex Location" />
-    <TextStringDefinition InstanceID="0x9BFED398" TextString="Wait for Partner" />
-    <TextStringDefinition InstanceID="0x9EF9D738" TextString="Sex: {0.String} ({1.String})" />
-    <TextStringDefinition InstanceID="0xF30B5CB3" TextString="Join In" />
-    <TextStringDefinition InstanceID="0x7913A7FD" TextString="Ask to Join In" />
-    <TextStringDefinition InstanceID="0xA5EEE389" TextString="Next" />
-    <TextStringDefinition InstanceID="0x08AC137E" TextString="Change Sex Location to Here" />
-    <TextStringDefinition InstanceID="0xF7508C7E" TextString="Swap {1.SimFirstName}'s Spot" />
-    <TextStringDefinition InstanceID="0x48F53F24" TextString="Sim is not ready for climax yet." />
-    <TextStringDefinition InstanceID="0x74C9DB2A" TextString="Gender Recognition" />
-    <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
-    <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
-    <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
-    <TextStringDefinition InstanceID="0xCB7A962B" TextString="NPC Sex" />
-    <TextStringDefinition InstanceID="0xBCAACF01" TextString="Change" />
-    <TextStringDefinition InstanceID="0x391DB6E6" TextString="Invite" />
-    <TextStringDefinition InstanceID="0x8B649A7C" TextString="Stop" />
-    <TextStringDefinition InstanceID="0xB8062F74" TextString="Go Away" />
-    <TextStringDefinition InstanceID="0xEBCF9844" TextString="This interaction is not available while in sex." />
-    <TextStringDefinition InstanceID="0xD0B19A16" TextString="Reacting to Sex" />
-    <TextStringDefinition InstanceID="0x9AF9827F" TextString="Watch Sex" />
-    <TextStringDefinition InstanceID="0x66CA9C71" TextString="Watching Sex" />
-    <TextStringDefinition InstanceID="0x82C7B5B0" TextString="Watch Porn" />
-    <TextStringDefinition InstanceID="0x991CA9C8" TextString="Sim just watched porn." />
-    <TextStringDefinition InstanceID="0x4C70FECA" TextString="---------- Autonomy ----------" />
+    <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
+    <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />
+    <TextStringDefinition InstanceID="0xCA90E74C" TextString="Accept" />
+    <TextStringDefinition InstanceID="0xC8860772" TextString="Decline" />
+    <TextStringDefinition InstanceID="0xE2582FB4" TextString="---------- SEX NOTIFICATIONS ----------" />
+    <TextStringDefinition InstanceID="0x81A6F8AD" TextString="Sex" />
+    <TextStringDefinition InstanceID="0x33AA51C5" TextString="{0.SimFirstName} {0.SimLastName} hates children! No Vaginal or Climax sex without protection!" />
+    <TextStringDefinition InstanceID="0x90E9C6B7" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction...\n\n\nIf you want to force stop all sex interactions:\n1. Open commands console (CTRL+SHIFT+C).\n2. Type in 'ww.stop_sex' command." />
+    <TextStringDefinition InstanceID="0x0CDD910C" TextString="{0.SimFirstName} {0.SimLastName} refused {1.SimFirstName}'s proposition for sex." />
     <TextStringDefinition InstanceID="0xE2B227A5" TextString="{0.SimName} is having some fun!" />
     <TextStringDefinition InstanceID="0xEB4C497E" TextString="{0.SimName} and {1.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0x25201370" TextString="{0.SimName}, {1.SimName} and {2.SimName} are having sex!" />
@@ -332,33 +401,38 @@
     <TextStringDefinition InstanceID="0x0DBCB31B" TextString="{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0xF133DCDE" TextString="{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0xE392734A" TextString="Sims are having sex!" />
-    <TextStringDefinition InstanceID="0x9285BB84" TextString="Stop That!" />
-    <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
-    <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />
-    <TextStringDefinition InstanceID="0xCA90E74C" TextString="Accept" />
-    <TextStringDefinition InstanceID="0xC8860772" TextString="Decline" />
-    <TextStringDefinition InstanceID="0x6DA61B52" TextString="Enable for Sex Autonomy" />
-    <TextStringDefinition InstanceID="0xD469212B" TextString="Disable for Sex Autonomy" />
-    <TextStringDefinition InstanceID="0xD993DBEC" TextString="---------- Notifications ----------" />
-    <TextStringDefinition InstanceID="0x33AA51C5" TextString="{0.SimFirstName} {0.SimLastName} hates children! No Vaginal or Climax sex without protection!" />
+    <TextStringDefinition InstanceID="0xABA62CF3" TextString="---------- SEX TRAITS ----------" />
+    <TextStringDefinition InstanceID="0xFAD9FBA0" TextString="Incest" />
+    <TextStringDefinition InstanceID="0xDA9DAA2D" TextString="Incest" />
+    <TextStringDefinition InstanceID="0xB2F028B8" TextString="These Sims are open to sexual activities with their family members and close relatives." />
+    <TextStringDefinition InstanceID="0x07501523" TextString="Sexually Alluring" />
+    <TextStringDefinition InstanceID="0x19747008" TextString="Sexually Alluring" />
+    <TextStringDefinition InstanceID="0xF825D8BA" TextString="Sexually Alluring Sims are really successful at convincing other to have sex with them." />
+    <TextStringDefinition InstanceID="0x6A8F4B55" TextString="Sexually Abstinent" />
+    <TextStringDefinition InstanceID="0x066DF4EE" TextString="Sexually Abstinent" />
+    <TextStringDefinition InstanceID="0xF0D3FB42" TextString="Sexually Abstinent Sims have no interest in sexual activities." />
+    <TextStringDefinition InstanceID="0x7E716804" TextString="---------- SEX LOT TRAITS ----------" />
+    <TextStringDefinition InstanceID="0x30E54B00" TextString="Hypersexual" />
+    <TextStringDefinition InstanceID="0x4945BA26" TextString="The extreme vibe of sexual desire makes this an especially great place to have sex." />
+    <TextStringDefinition InstanceID="0xA8A4207C" TextString="---------- SEX SHOP ----------" />
+    <TextStringDefinition InstanceID="0xA167046F" TextString="Purchase Sex Items" />
+    <TextStringDefinition InstanceID="0xA38EBAEB" TextString="Thanks for ordering! The sex items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
+    <TextStringDefinition InstanceID="0x5CE2AE4B" TextString="---------- WATCHING SEX ----------" />
+    <TextStringDefinition InstanceID="0x9AF9827F" TextString="Watch Sex" />
+    <TextStringDefinition InstanceID="0x66CA9C71" TextString="Watching Sex" />
+    <TextStringDefinition InstanceID="0xEDB578F0" TextString="{M0.Cuckold}{F0.Cuckquean}" />
+    <TextStringDefinition InstanceID="0x48A55A2C" TextString="Cuckold" />
+    <TextStringDefinition InstanceID="0x61F9EF38" TextString="These Sims desire to see their partner have sex with someone else and don't consider it cheating." />
+    <TextStringDefinition InstanceID="0x617321B6" TextString="---------- WATCHING PORN ----------" />
+    <TextStringDefinition InstanceID="0x82C7B5B0" TextString="Watch Porn" />
+    <TextStringDefinition InstanceID="0x991CA9C8" TextString="Sim just watched porn." />
+    <TextStringDefinition InstanceID="0x1591A89F" TextString="(From Being Caught Masturbating)" />
+    <TextStringDefinition InstanceID="0xCFC6B4F5" TextString="Some Privacy Please!" />
+    <TextStringDefinition InstanceID="0x0C0FC695" TextString="{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!" />
     <TextStringDefinition InstanceID="0x921CF15F" TextString="Caught Masturbating" />
     <TextStringDefinition InstanceID="0x29E9BF97" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {0.SimFirstName}, {1.SimFirstName} could not keep control and the dam had to blow letting loose a deluge of satisfaction for {M0.his}{F0.her} eyes to see!" />
     <TextStringDefinition InstanceID="0x103C7921" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {1.SimFirstName}, the sudden appearance of another Sim meant that {M1.he}{F1.she} needed to keep it in {M1.his}{F1.her} pants. {0.SimFirstName} saw something they really didn't need or want to see and {1.SimFirstName} has been left embarrassed and unsatisfied." />
-    <TextStringDefinition InstanceID="0x39EDCAB4" TextString="Miscarriage" />
-    <TextStringDefinition InstanceID="0x4994A13F" TextString="{0.SimFirstName} {0.SimLastName} just lost a new life that never got a chance to become one." />
-    <TextStringDefinition InstanceID="0xDD2201AE" TextString="---------- Skills ----------" />
-    <TextStringDefinition InstanceID="0x9F38A6EF" TextString="Sex" />
-    <TextStringDefinition InstanceID="0x750C71C2" TextString="Acquired the Sex Skill" />
-    <TextStringDefinition InstanceID="0x7C8CDD9E" TextString="{0.SimFirstName}'s new Sex skill will allow {M0.him}{F0.her} to satisfy Sims sexual needs better.\nMore sex, especially with skilled Sims, will make you better at it." />
-    <TextStringDefinition InstanceID="0x949CF992" TextString="Reached Sex Level 2" />
-    <TextStringDefinition InstanceID="0x2138F335" TextString="Reached Sex Level 3" />
-    <TextStringDefinition InstanceID="0xF2EF62D4" TextString="Reached Sex Level 4" />
-    <TextStringDefinition InstanceID="0xD972F5FD" TextString="{0.SimFirstName} has reached a higher level in Sex Skill!" />
-    <TextStringDefinition InstanceID="0x8F77EDFF" TextString="Reached Sex Level 5" />
-    <TextStringDefinition InstanceID="0x40C2ABD4" TextString="{0.SimFirstName} has reached max level in Sex Skill! It's almost impossible to have your partners not enjoy your touch." />
-    <TextStringDefinition InstanceID="0x1A559B40" TextString="Have sex with someone." />
-    <TextStringDefinition InstanceID="0x4088BADC" TextString="The higher the level of your Sex Skill, the higher the satisfaction you and your partners gain after sex.\nSex with skilled Sims, sex with different partners and, sex in general will increase your Sex Skill." />
-    <TextStringDefinition InstanceID="0xFD49D8CA" TextString="---------- Buffs ----------" />
+    <TextStringDefinition InstanceID="0x69AF1DC2" TextString="---------- SEX SATISFACTION BUFFS ----------" />
     <TextStringDefinition InstanceID="0xF184CFE7" TextString="(From Sex Satisfaction)" />
     <TextStringDefinition InstanceID="0xAD5BCCDA" TextString="Stranger" />
     <TextStringDefinition InstanceID="0x8FB869C2" TextString="Strangers always provide a wildcard to sex, but the touch of Sims unknown has left {0.SimFirstName} satisfied from {M0.his}{F0.her} moment of passion." />
@@ -386,22 +460,8 @@
     <TextStringDefinition InstanceID="0x5E97BCEA" TextString="First time sex with a new Sim is always a memorable experience!" />
     <TextStringDefinition InstanceID="0x697655C1" TextString="Sex Outdoors" />
     <TextStringDefinition InstanceID="0xEDA29AC0" TextString="There's nothing like the thrill of sex outside. That was fun!" />
-    <TextStringDefinition InstanceID="0x2BC8C356" TextString="Wearing a Condom" />
-    <TextStringDefinition InstanceID="0x9785A9F2" TextString="{0.SimFirstName} is wearing a condom." />
-    <TextStringDefinition InstanceID="0x67BBE6C5" TextString="On Birth Control Pills" />
-    <TextStringDefinition InstanceID="0x519E5BF5" TextString="{0.SimFirstName} is on {M0.his}{F0.her} birth control." />
-    <TextStringDefinition InstanceID="0x64BC6ED8" TextString="Sexual Desire" />
-    <TextStringDefinition InstanceID="0x78164747" TextString="Such a lust for love... Who? Who do you desire?" />
-    <TextStringDefinition InstanceID="0xBC73A7F2" TextString="Intense Lust" />
-    <TextStringDefinition InstanceID="0x3495394A" TextString="So much lust makes you uncomfortable! It would be wise to find a way to release this tension." />
-    <TextStringDefinition InstanceID="0x8F4BF39D" TextString="(From High Desire)" />
-    <TextStringDefinition InstanceID="0x4DC10072" TextString="Cum Whore" />
-    <TextStringDefinition InstanceID="0xD777244E" TextString="The feel of cum on skin makes you so much more aroused." />
-    <TextStringDefinition InstanceID="0x1C248797" TextString="Cum Dump" />
-    <TextStringDefinition InstanceID="0xD17BDD64" TextString="Having sticky thick fluid on your body is pretty uncomfortable." />
-    <TextStringDefinition InstanceID="0x1591A89F" TextString="(From Being Caught Masturbating)" />
-    <TextStringDefinition InstanceID="0xCFC6B4F5" TextString="Some Privacy Please!" />
-    <TextStringDefinition InstanceID="0x0C0FC695" TextString="{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!" />
+    <TextStringDefinition InstanceID="0xB78A0F30" TextString="---------- SEX REACTIONS ----------" />
+    <TextStringDefinition InstanceID="0xD0B19A16" TextString="Reacting to Sex" />
     <TextStringDefinition InstanceID="0xF6BE775D" TextString="(From Reacting To Sex)" />
     <TextStringDefinition InstanceID="0x46BE1EF8" TextString="{M0.Cuckold}{F0.Cuckquean}" />
     <TextStringDefinition InstanceID="0xE8412F45" TextString="{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else." />
@@ -437,39 +497,229 @@
     <TextStringDefinition InstanceID="0xA2349658" TextString="If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning." />
     <TextStringDefinition InstanceID="0x984E04D7" TextString="Unexpected" />
     <TextStringDefinition InstanceID="0x523E17FD" TextString="{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!" />
+    <TextStringDefinition InstanceID="0xBA28EA39" TextString="---------- CLUB RULES ----------" />
+    <TextStringDefinition InstanceID="0x26AD768D" TextString="Have Sex" />
+    <TextStringDefinition InstanceID="0x07F2F64A" TextString="Have Sex with {0.String}" />
+    <TextStringDefinition InstanceID="0x66FC63E4" TextString="Don't have Sex with {0.String}" />
+    <TextStringDefinition InstanceID="0x9166FAA6" TextString="Have Sex (Swinging)" />
+    <TextStringDefinition InstanceID="0x76D23E3D" TextString="Have Sex (Swinging) with {0.String}" />
+    <TextStringDefinition InstanceID="0x2D0ACBDB" TextString="Don't Have Sex (Swinging) with {0.String}" />
+    <TextStringDefinition InstanceID="0x8C3CF0F8" TextString="---------- OUTFIT INTERACTIONS ----------" />
+    <TextStringDefinition InstanceID="0xDB1CB7D7" TextString="Outfit" />
+    <TextStringDefinition InstanceID="0x5719812D" TextString="Undress Top" />
+    <TextStringDefinition InstanceID="0xCD80FE71" TextString="Undress Bottom" />
+    <TextStringDefinition InstanceID="0xAC82A7B5" TextString="Undress Outfit" />
+    <TextStringDefinition InstanceID="0x5CDDB40A" TextString="Undress Completely" />
+    <TextStringDefinition InstanceID="0xC2150D2F" TextString="Undress Hat" />
+    <TextStringDefinition InstanceID="0x07F818E4" TextString="Undress Gloves" />
+    <TextStringDefinition InstanceID="0x944EEC02" TextString="Undress Leggings" />
+    <TextStringDefinition InstanceID="0x5475948F" TextString="Undress Socks" />
+    <TextStringDefinition InstanceID="0x3356B322" TextString="Undress Shoes" />
+    <TextStringDefinition InstanceID="0xC5C92792" TextString="Accessories" />
+    <TextStringDefinition InstanceID="0x5C60DB3E" TextString="Undress Glasses" />
+    <TextStringDefinition InstanceID="0x8D5F2350" TextString="Undress Head" />
+    <TextStringDefinition InstanceID="0x51397AF4" TextString="Undress Left Hand" />
+    <TextStringDefinition InstanceID="0x162E1151" TextString="Undress Right Hand" />
+    <TextStringDefinition InstanceID="0xDD7C516A" TextString="Undress Other Accessories" />
+    <TextStringDefinition InstanceID="0xE9FBA083" TextString="Change Outfit..." />
+    <TextStringDefinition InstanceID="0xF585F22A" TextString="Change Outfit for {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xCEEEC4D8" TextString="---------- OUTFIT STRAPON ----------" />
+    <TextStringDefinition InstanceID="0x6E589498" TextString="Change Sim Strapon" />
+    <TextStringDefinition InstanceID="0x620D3840" TextString="Set mannequin bottom clothing to strapon you want to use only for the first Everyday Outfit Category.\nChanging strapon for different outfit categories will have no effect.\nChanging strapon to other clothing will result in problems." />
+    <TextStringDefinition InstanceID="0x237AAA3B" TextString="Strapon" />
+    <TextStringDefinition InstanceID="0x6E8A080E" TextString="Allow Strapon" />
+    <TextStringDefinition InstanceID="0xBFD19ECA" TextString="Disallow Strapon" />
+    <TextStringDefinition InstanceID="0xA83F3428" TextString="---------- CUM INTERACTIONS ----------" />
+    <TextStringDefinition InstanceID="0xB8C0FAB7" TextString="Cum" />
+    <TextStringDefinition InstanceID="0xC8F6D759" TextString="Face" />
+    <TextStringDefinition InstanceID="0xC3633745" TextString="Chest" />
+    <TextStringDefinition InstanceID="0x9E3BA177" TextString="Back" />
+    <TextStringDefinition InstanceID="0x8D518588" TextString="Vagina" />
+    <TextStringDefinition InstanceID="0x536140D1" TextString="Butt" />
+    <TextStringDefinition InstanceID="0xF3D28EC8" TextString="Feet" />
+    <TextStringDefinition InstanceID="0xE968969F" TextString="---------- CUM BUFFS ----------" />
+    <TextStringDefinition InstanceID="0x4DC10072" TextString="Cum Whore" />
+    <TextStringDefinition InstanceID="0xD777244E" TextString="The feel of cum on skin makes you so much more aroused." />
+    <TextStringDefinition InstanceID="0x1C248797" TextString="Cum Dump" />
+    <TextStringDefinition InstanceID="0xD17BDD64" TextString="Having sticky thick fluid on your body is pretty uncomfortable." />
+    <TextStringDefinition InstanceID="0x90246500" TextString="---------- CUM TRAITS ----------" />
+    <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
+    <TextStringDefinition InstanceID="0xBDEC4A74" TextString="Cum Slut" />
+    <TextStringDefinition InstanceID="0x1D528561" TextString="Cum Sluts love to receive hot loads of cum all over their body." />
+    <TextStringDefinition InstanceID="0x84347ED1" TextString="---------- PREGNANCY GENERAL ----------" />
+    <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
+    <TextStringDefinition InstanceID="0x13CBA023" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
+    <TextStringDefinition InstanceID="0x6DA00490" TextString="---------- PREGNANCY INTERACTIONS ----------" />
+    <TextStringDefinition InstanceID="0x95DD6D27" TextString="---------- PREGNANCY BUFFS ----------" />
     <TextStringDefinition InstanceID="0x9924CF89" TextString="Discovered Teen Pregnancy" />
     <TextStringDefinition InstanceID="0x25324005" TextString="Amidst all the doubtfulness, sadness and confusion, there is anger. Can {0.SimFirstName} cope with having {M0.his}{F0.her} teen child pregnant?" />
+    <TextStringDefinition InstanceID="0xAE29F968" TextString="---------- PREGNANCY TRAITS ----------" />
+    <TextStringDefinition InstanceID="0x78E25EF0" TextString="Infertile" />
+    <TextStringDefinition InstanceID="0x466D093D" TextString="Infertile" />
+    <TextStringDefinition InstanceID="0x84DEF596" TextString="Infertile Sims have no chances of having a biological child." />
+    <TextStringDefinition InstanceID="0x05CC9195" TextString="---------- PREGNANCY NOTIFICATIONS ----------" />
+    <TextStringDefinition InstanceID="0x31687893" TextString="---------- PREGNANCY TERMINATION ----------" />
+    <TextStringDefinition InstanceID="0x16C92A58" TextString="Terminate Pregnancy" />
+    <TextStringDefinition InstanceID="0x61612C84" TextString="{0.SimFirstName} is not able to do this while not pregnant." />
+    <TextStringDefinition InstanceID="0x9FAD3609" TextString="{0.SimFirstName} is not able to do this so late in pregnancy." />
     <TextStringDefinition InstanceID="0x40A1B3AD" TextString="Pregnancy Termination" />
     <TextStringDefinition InstanceID="0xEE68D90B" TextString="When certain choices leave you with the burden of guilt..." />
     <TextStringDefinition InstanceID="0xA9C2023F" TextString="Hasta La Vista, Baby" />
     <TextStringDefinition InstanceID="0x8278FDEA" TextString="When the stress is gone, the party can go on." />
     <TextStringDefinition InstanceID="0xCD272010" TextString="(From Pregnancy Termination)" />
+    <TextStringDefinition InstanceID="0xC7541BCD" TextString="{0.SimFirstName} {0.SimLastName} is not pregnant anymore.\nIt would be cheaper to think about protection before the next time." />
+    <TextStringDefinition InstanceID="0xEB0E1F5E" TextString="---------- PREGNANCY MISCARRIAGE ----------" />
     <TextStringDefinition InstanceID="0x59FABA91" TextString="Miscarriage" />
     <TextStringDefinition InstanceID="0x37B77221" TextString="Consequences of not taking care of yourself..." />
     <TextStringDefinition InstanceID="0xC179D0BC" TextString="(From Miscarriage)" />
-    <TextStringDefinition InstanceID="0x2FE2669B" TextString="---------- Traits ----------" />
-    <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
-    <TextStringDefinition InstanceID="0xBDEC4A74" TextString="Cum Slut" />
-    <TextStringDefinition InstanceID="0x1D528561" TextString="Cum Sluts love to receive hot loads of cum all over their body." />
-    <TextStringDefinition InstanceID="0xFAD9FBA0" TextString="Incest" />
-    <TextStringDefinition InstanceID="0xDA9DAA2D" TextString="Incest" />
-    <TextStringDefinition InstanceID="0xB2F028B8" TextString="These Sims are open to sexual activities with their family members and close relatives." />
-    <TextStringDefinition InstanceID="0x07501523" TextString="Sexually Alluring" />
-    <TextStringDefinition InstanceID="0x19747008" TextString="Sexually Alluring" />
-    <TextStringDefinition InstanceID="0xF825D8BA" TextString="Sexually Alluring Sims are really successful at convincing other to have sex with them." />
-    <TextStringDefinition InstanceID="0x6A8F4B55" TextString="Sexually Abstinent" />
-    <TextStringDefinition InstanceID="0x066DF4EE" TextString="Sexually Abstinent" />
-    <TextStringDefinition InstanceID="0xF0D3FB42" TextString="Sexually Abstinent Sims have no interest in sexual activities." />
-    <TextStringDefinition InstanceID="0x78E25EF0" TextString="Infertile" />
-    <TextStringDefinition InstanceID="0x466D093D" TextString="Infertile" />
-    <TextStringDefinition InstanceID="0x84DEF596" TextString="Infertile Sims have no chances of having a biological child." />
-    <TextStringDefinition InstanceID="0xEDB578F0" TextString="{M0.Cuckold}{F0.Cuckquean}" />
-    <TextStringDefinition InstanceID="0x48A55A2C" TextString="Cuckold" />
-    <TextStringDefinition InstanceID="0x61F9EF38" TextString="These Sims desire to see their partner have sex with someone else and don't consider it cheating." />
-    <TextStringDefinition InstanceID="0xDB32318C" TextString="---------- Lot Traits ----------" />
-    <TextStringDefinition InstanceID="0x30E54B00" TextString="Hypersexual" />
-    <TextStringDefinition InstanceID="0x4945BA26" TextString="The extreme vibe of sexual desire makes this an especially great place to have sex." />
-    <TextStringDefinition InstanceID="0x39D8F806" TextString="---------- Whims ----------" />
+    <TextStringDefinition InstanceID="0x39EDCAB4" TextString="Miscarriage" />
+    <TextStringDefinition InstanceID="0x4994A13F" TextString="{0.SimFirstName} {0.SimLastName} just lost a new life that never got a chance to become one." />
+    <TextStringDefinition InstanceID="0xE6F6DD8B" TextString="---------- PREGNANCY FERTILITY ----------" />
+    <TextStringDefinition InstanceID="0x1AFE12ED" TextString="Talk about Fertility" />
+    <TextStringDefinition InstanceID="0x455EAAE0" TextString="Talk about Fertility with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8DF8A32A" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} is on {M1.his}{F1.her} period right now." />
+    <TextStringDefinition InstanceID="0x4D7E7488" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just finished {M1.his}{F1.her} period. That means {M1.he}{F1.she} will be ovulating really soon." />
+    <TextStringDefinition InstanceID="0x35E1CC94" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just passed {M1.his}{F1.her} ovulation day. That means {M1.he}{F1.she} won't be able to get pregnant anytime soon." />
+    <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
+    <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
+    <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
+    <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
+    <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
+    <TextStringDefinition InstanceID="0x9618506C" TextString="{0.SimFirstName} {0.SimLastName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
+    <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
+    <TextStringDefinition InstanceID="0x50049C7D" TextString="---------- PREGNANCY BIRTH CONTROL ----------" />
+    <TextStringDefinition InstanceID="0x6FA67438" TextString="Birth Control" />
+    <TextStringDefinition InstanceID="0x2BC8C356" TextString="Wearing a Condom" />
+    <TextStringDefinition InstanceID="0x9785A9F2" TextString="{0.SimFirstName} is wearing a condom." />
+    <TextStringDefinition InstanceID="0x87A62788" TextString="Early On Birth Control Pills" />
+    <TextStringDefinition InstanceID="0xC70B7967" TextString="{0.SimFirstName} is early on {M0.his}{F0.her} birth control. It takes 3 days before birth control pills take full effect." />
+    <TextStringDefinition InstanceID="0x67BBE6C5" TextString="On Birth Control Pills" />
+    <TextStringDefinition InstanceID="0x519E5BF5" TextString="{0.SimFirstName} is on {M0.his}{F0.her} birth control." />
+    <TextStringDefinition InstanceID="0x7E84555B" TextString="Unpack Box" />
+    <TextStringDefinition InstanceID="0xC0D84ED7" TextString="Use This Condom" />
+    <TextStringDefinition InstanceID="0x6023EDD1" TextString="Use All Condoms" />
+    <TextStringDefinition InstanceID="0x2B6249AC" TextString="Condoms can only be used during sex." />
+    <TextStringDefinition InstanceID="0xFC15B814" TextString="Allow Condoms Auto Use" />
+    <TextStringDefinition InstanceID="0x2F349510" TextString="Disallow Condoms Auto Use" />
+    <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
+    <TextStringDefinition InstanceID="0x1F939A83" TextString="{0.SimFirstName} is already on birth control." />
+    <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
+    <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
+    <TextStringDefinition InstanceID="0xF358AC37" TextString="Used a condom. (Owned by {0.SimFirstName} {0.SimLastName})" />
+    <TextStringDefinition InstanceID="0x90D64EA2" TextString="Used {0.String} condoms. (Owned by {1.SimFirstName} {1.SimLastName})" />
+    <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
+    <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
+    <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />
+    <TextStringDefinition InstanceID="0x184BB312" TextString="Box of 24 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\n\nUnpack the box and get 24 usable condoms." />
+    <TextStringDefinition InstanceID="0xC05146E2" TextString="Wicked Condom (Purple)" />
+    <TextStringDefinition InstanceID="0x2E2B7F71" TextString="Wicked Condom (Cyan)" />
+    <TextStringDefinition InstanceID="0x8DDCBE38" TextString="Wicked Condom (Blue)" />
+    <TextStringDefinition InstanceID="0xE99D9433" TextString="Wicked Condom (Red)" />
+    <TextStringDefinition InstanceID="0xA6DB4703" TextString="Wicked Condom (Green)" />
+    <TextStringDefinition InstanceID="0x3F9453C4" TextString="Wicked Condom (Yellow)" />
+    <TextStringDefinition InstanceID="0x7129321D" TextString="Wicked Condom (White)" />
+    <TextStringDefinition InstanceID="0xAE0C27A1" TextString="Exactly what you need to avoid unwanted pregnancy. Keep them around, you never know when you would need one.\n\nUse it during sex by clicking on it in Sim inventory, don't wait, it can get too late!" />
+    <TextStringDefinition InstanceID="0x617AD88A" TextString="Wicked Birth Control Pills Box" />
+    <TextStringDefinition InstanceID="0xEF5CBB03" TextString="Box of 28 birth control pills. Use one every day and don't worry about unwanted pregnancy.\n\nUnpack the box and get 28 usable pills." />
+    <TextStringDefinition InstanceID="0xBA4D5BD3" TextString="Wicked Birth Control Pills" />
+    <TextStringDefinition InstanceID="0x6C5CA582" TextString="Helps with periods and unwanted pregnancy. Remember to take one once a day!\n\nUse it once a day by clicking on it in Sim inventory. With each missed day, you risk becoming pregnant." />
+    <TextStringDefinition InstanceID="0xF02EF784" TextString="---------- PREGNANCY PERIOD ----------" />
+    <TextStringDefinition InstanceID="0x7218CAB9" TextString="Period" />
+    <TextStringDefinition InstanceID="0xD1B564EA" TextString="Using a Pad" />
+    <TextStringDefinition InstanceID="0x7EEF6B76" TextString="{0.SimFirstName} is using a pad." />
+    <TextStringDefinition InstanceID="0xAEB329E6" TextString="Using a Tampon" />
+    <TextStringDefinition InstanceID="0xC645DE56" TextString="{0.SimFirstName} is using a tampon." />
+    <TextStringDefinition InstanceID="0xDC99F762" TextString="(From Used Menstrual Pad)" />
+    <TextStringDefinition InstanceID="0x9239FF2F" TextString="(From Smelling Used Menstrual Pad)" />
+    <TextStringDefinition InstanceID="0x44184670" TextString="Periodic Stench" />
+    <TextStringDefinition InstanceID="0x84AE5A64" TextString="Oh no! Other Sims seem to be reeling from the vile odour emanating from {0.SimFirstName}’s crotch. Their pad, currently stained in blood, has forced all those around {M0.him}{F0.her} to cover their noses in disgust." />
+    <TextStringDefinition InstanceID="0x1680BA98" TextString="Fishy Stench" />
+    <TextStringDefinition InstanceID="0xD3286C74" TextString="GROSS! What could possibly be that putrid smell? {0.SimFirstName} can’t escape that fishy stench in the air. Could it possibly be coming from that Sim?" />
+    <TextStringDefinition InstanceID="0x9EB23BF3" TextString="Dripping Blood" />
+    <TextStringDefinition InstanceID="0x46BA1646" TextString="Oh Dear, blood seems to really be accumulating down in {0.SimFirstName}’s loins, staining {M0.his}{F0.her} clothes. {M0.He}{F0.She} should quickly apply either a tampon or pad. If {0.SimFirstName} doesn’t already have one present perhaps they could ask for help." />
+    <TextStringDefinition InstanceID="0xCBF48E22" TextString="Soaked in Blood" />
+    <TextStringDefinition InstanceID="0x622D0162" TextString="Oh no, what a mess! {0.SimFirstName} didn’t use a pad or tampon when {M0.he}{F0.she} needed to and now the blood has stained {M0.his}{F0.her} clothes. This is a dreadful predicament, hopefully someone nearby can help if {0.SimFirstName} doesn’t already have something on hand." />
+    <TextStringDefinition InstanceID="0xF9013EB6" TextString="Drenched in Blood" />
+    <TextStringDefinition InstanceID="0x4215F985" TextString="THE BLOOD! IT’S EVERYWHERE! {0.SimFirstName}’s clothes look like those of a victim in a horror movie and {M0.he}{F0.she} desperately needs either a pad or tampon ASAP before the situation gets any worse. Quickly! If there isn’t any protection on hand maybe another Sim can help." />
+    <TextStringDefinition InstanceID="0xF8626190" TextString="Leaking Pad" />
+    <TextStringDefinition InstanceID="0xD4A4582C" TextString="There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} pad has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state." />
+    <TextStringDefinition InstanceID="0xFB0F12BF" TextString="Burst Pad" />
+    <TextStringDefinition InstanceID="0xF7747F84" TextString="The pad did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
+    <TextStringDefinition InstanceID="0x01A60591" TextString="Flooding Pad" />
+    <TextStringDefinition InstanceID="0x1B7C99D1" TextString="THE DAM HAS BROKEN! The pad tried as hard as it could but in the face of such a huge torrent it stood no chance. Blood has gushed down {0.SimFirstName}’s legs ruining {M0.his}{F0.her} clothing as it solidifies into the material. There’s definitely no further use out of this pad, a replacement must be applied ASAP!" />
+    <TextStringDefinition InstanceID="0x814ECB70" TextString="Leaking Tampon" />
+    <TextStringDefinition InstanceID="0xDE5A1F3C" TextString="There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} tampon has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state." />
+    <TextStringDefinition InstanceID="0x5055933D" TextString="Burst Tampon" />
+    <TextStringDefinition InstanceID="0x45B7C948" TextString="The tampon did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
+    <TextStringDefinition InstanceID="0x0DCB1D5B" TextString="Flooding Tampon" />
+    <TextStringDefinition InstanceID="0x21535C50" TextString="THE DAM HAS BROKEN! The tampon tried as hard as it could but in the face of such a huge torrent it stood no chance. Blood has gushed down {0.SimFirstName}’s legs ruining {M0.his}{F0.her} clothing as it solidifies into the material. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
+    <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
+    <TextStringDefinition InstanceID="0x89B249B4" TextString="(From Being on Period)" />
+    <TextStringDefinition InstanceID="0x405FBD3C" TextString="No More Bleeding" />
+    <TextStringDefinition InstanceID="0xC73C92AB" TextString="The period has been blocked. Through {M0.his}{F0.her} recent actions, {0.SimFirstName} has missed this part of {M0.his}{F0.her} menstrual cycle. For now, {0.SimFirstName} won't need to worry about pads or tampons." />
+    <TextStringDefinition InstanceID="0x2ABF2DD1" TextString="Nauseous" />
+    <TextStringDefinition InstanceID="0x00BFB768" TextString="{0.SimFirstName} can’t shake the queasy feeling going through {M0.his}{F0.her} mind and through {M0.his}{F0.her} gut. It’s like being on a small boat in the midst of rocky waters. {0.SimFirstName} doesn’t have the energy to do anything and no appetite at all." />
+    <TextStringDefinition InstanceID="0x8B4B1FD2" TextString="Irritated" />
+    <TextStringDefinition InstanceID="0x20F4AC51" TextString="Right now is not a good time for any Sim to be messing with {0.SimFirstName}. The stress that {M0.his}{F0.her} menstrual cycle can cause just makes the world itself so much more annoying. Any meddling Sim better watch out because {M0.he’s}{F0.she’s} seeing red!" />
+    <TextStringDefinition InstanceID="0x15027A91" TextString="Dizziness" />
+    <TextStringDefinition InstanceID="0x82213E88" TextString="Something doesn’t feel quite right. It may be a side effect from {M0.his}{F0.her} monthly cycle but {0.SimFirstName} can’t shake this dizzying feeling that the world around {M0.him}{F0.her} is spinning uncontrollably." />
+    <TextStringDefinition InstanceID="0xE26CC366" TextString="Oversensitive" />
+    <TextStringDefinition InstanceID="0x00F3F984" TextString="No one seems to understand or care about what {0.SimFirstName} is going through right now. At the moment, {M0.he}{F0.she} can’t seem to keep {M0.his}{F0.her} emotions in check. The effects of having a monthly cycle has left {M0.him}{F0.her} in a complete wreck." />
+    <TextStringDefinition InstanceID="0x26191C07" TextString="Cramping" />
+    <TextStringDefinition InstanceID="0xF3413535" TextString="{0.SimFirstName} is getting a painful sensation emanating from {M0.his}{F0.her} body that {M0.he}{F0.she} just can't ignore. This aching feeling that comes during one's cycle is never an enjoyable experience but this time it’s especially difficult. Hopefully this distress will subside." />
+    <TextStringDefinition InstanceID="0x895ED825" TextString="Anxious" />
+    <TextStringDefinition InstanceID="0xEB56CB5E" TextString="{0.SimFirstName} is all nerves right now and can’t seem to focus. {M0.He’s}{F0.She’s} having difficulty keeping still and is stressing {M0.himself}{F0.herself} over minor things. Having a uterus is no fun when you have to go through this." />
+    <TextStringDefinition InstanceID="0xA70CDAB9" TextString="Aroused" />
+    <TextStringDefinition InstanceID="0xDAB73BA8" TextString="{0.SimFirstName}’s really in the mood for some action. {M0.He}{F0.She} seems to have a sudden urge to get down and dirty. Maybe it’s the blood pumping but {M0.he’s}{F0.she’s} feeling especially titillated right now." />
+    <TextStringDefinition InstanceID="0xBC451E50" TextString="Extra Absorbency" />
+    <TextStringDefinition InstanceID="0xC7F4881D" TextString="Extra Absorbency" />
+    <TextStringDefinition InstanceID="0x1216D5ED" TextString="Sims with Extra Absorbency won't have to change tampons and pads so often." />
+    <TextStringDefinition InstanceID="0x53E48ECE" TextString="Menstrual Pad" />
+    <TextStringDefinition InstanceID="0x39E3BD54" TextString="{0.SimFirstName} used a menstrual pad." />
+    <TextStringDefinition InstanceID="0x0133EBD6" TextString="{0.SimFirstName} replaced {M0.his}{F0.her} menstrual pad." />
+    <TextStringDefinition InstanceID="0x2BF3FB6F" TextString="Tampon" />
+    <TextStringDefinition InstanceID="0x9FA07323" TextString="{0.SimFirstName} used a tampon." />
+    <TextStringDefinition InstanceID="0x2898CBE5" TextString="{0.SimFirstName} replaced {M0.his}{F0.her} tampon." />
+    <TextStringDefinition InstanceID="0xBBFD1296" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
+    <TextStringDefinition InstanceID="0xAC5B7CB4" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} first period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
+    <TextStringDefinition InstanceID="0xC5856650" TextString="Sure, here you go." />
+    <TextStringDefinition InstanceID="0x86AA8716" TextString="Open Box" />
+    <TextStringDefinition InstanceID="0x93465008" TextString="Unpack Box" />
+    <TextStringDefinition InstanceID="0xB413BD71" TextString="Unwrap Pad" />
+    <TextStringDefinition InstanceID="0x4E1308F1" TextString="Use Pad" />
+    <TextStringDefinition InstanceID="0x151F1202" TextString="Replace Pad" />
+    <TextStringDefinition InstanceID="0x8C7FF997" TextString="{0.SimFirstName} just used a pad." />
+    <TextStringDefinition InstanceID="0xEDDF8504" TextString="Allow Pad Auto Use" />
+    <TextStringDefinition InstanceID="0x0D6EEA50" TextString="Disallow Pad Auto Use" />
+    <TextStringDefinition InstanceID="0xE1E61495" TextString="Unwrap Tampon" />
+    <TextStringDefinition InstanceID="0x567BB315" TextString="Use Tampon" />
+    <TextStringDefinition InstanceID="0x9E609ACC" TextString="Replace Tampon" />
+    <TextStringDefinition InstanceID="0x48E413FD" TextString="{0.SimFirstName} just used a tampon." />
+    <TextStringDefinition InstanceID="0x36066004" TextString="Allow Tampon Auto Use" />
+    <TextStringDefinition InstanceID="0xB720CE60" TextString="Disallow Tampon Auto Use" />
+    <TextStringDefinition InstanceID="0xA93196E9" TextString="Open Bottle" />
+    <TextStringDefinition InstanceID="0x687888AF" TextString="Take Pill" />
+    <TextStringDefinition InstanceID="0xF7694D28" TextString="Ask for a Tampon or Pad" />
+    <TextStringDefinition InstanceID="0x4C52FCC5" TextString="You've already asked this Sim for a Tampon or Pad." />
+    <TextStringDefinition InstanceID="0x322439DF" TextString="Kaya Tampons &amp; Pads Box" />
+    <TextStringDefinition InstanceID="0x08DB8D18" TextString="Box of 7 tampons and 7 pads. A mix of both will guarantee the best protection from heavy menstrual bleeding.\n\nUnpack the box and get 7 wrapped tampons and 7 wrapped pads." />
+    <TextStringDefinition InstanceID="0xDB423F59" TextString="Kaya Pads Box" />
+    <TextStringDefinition InstanceID="0xE677DA68" TextString="Box of 14 menstrual pads. Great choice when you need protection from the light-flow days.\n\nUnpack the box and get 14 wrapped pads." />
+    <TextStringDefinition InstanceID="0x7903C62F" TextString="Kaya Tampons Box" />
+    <TextStringDefinition InstanceID="0x512161B3" TextString="Box of 14 tampons. A sleek and sophisticated feminine hygiene product to help keep your period private.\n\nUnpack the box and get 14 wrapped tampons." />
+    <TextStringDefinition InstanceID="0x3D7381EA" TextString="Kaya Wrapped Tampon" />
+    <TextStringDefinition InstanceID="0x3F06789F" TextString="Comfortable organic cotton Kaya Tampons security veil around the absorbent core that prevents fiber shedding and makes for softer extract.\n\nUnwrap it to get a tampon with an applicator." />
+    <TextStringDefinition InstanceID="0x40F865C9" TextString="Kaya Wrapped Menstrual Pad" />
+    <TextStringDefinition InstanceID="0x62F776C9" TextString="Made with 100% certified organic cotton, Kaya Pads use no chemicals, synthetics, or dyes. Great absorbency for day and night usage.\n\nUnwrap it to get a menstrual pad." />
+    <TextStringDefinition InstanceID="0xBD8DE395" TextString="Kaya Tampon" />
+    <TextStringDefinition InstanceID="0xCF0E6365" TextString="Comfortable organic cotton Kaya Tampons security veil around the absorbent core that prevents fiber shedding and makes for softer extract.\n\nUse it at least once a day by clicking on it in Sim inventory. Replacing it more often decreases the chance of potential issues." />
+    <TextStringDefinition InstanceID="0xDF291A84" TextString="Kaya Menstrual Pad" />
+    <TextStringDefinition InstanceID="0x8C89BA78" TextString="Made with 100% certified organic cotton, Kaya Pads use no chemicals, synthetics, or dyes. Great absorbency for day and night usage.\n\nUse it at least once a day by clicking on it in Sim inventory. Replacing it more often decreases the chance of potential issues." />
+    <TextStringDefinition InstanceID="0xEC0C4FB8" TextString="Kaya Wipette" />
+    <TextStringDefinition InstanceID="0x4D835309" TextString="Individually wrapped pre-moistened towelettes made with organic cotton. Use them anywhere on your body to freshen up." />
+    <TextStringDefinition InstanceID="0x34DFAF8F" TextString="Kaya Mist" />
+    <TextStringDefinition InstanceID="0x20FF9421" TextString="Spray the smut away and balance the pH of your skin with the hydrating and refreshing rosewater mist. Avoid spraying it in mouth or eyes!" />
+    <TextStringDefinition InstanceID="0x336DD4EE" TextString="---------- SEX WHIMS ----------" />
     <TextStringDefinition InstanceID="0x409C3656" TextString="Have Sex with {2.SimFirstName}" />
     <TextStringDefinition InstanceID="0xB7B18A12" TextString="Click on an object and select Sex from the Wicked category." />
     <TextStringDefinition InstanceID="0x79801E64" TextString="Sex with Someone" />
@@ -477,67 +727,5 @@
     <TextStringDefinition InstanceID="0x3A6BD6BC" TextString="Sex with Someone in Public" />
     <TextStringDefinition InstanceID="0x8244EF70" TextString="Click on an object and select Sex from the Wicked category. Sims need to have a good relationship to be able to have sex." />
     <TextStringDefinition InstanceID="0x484985EF" TextString="Have Sex with Your Date" />
-    <TextStringDefinition InstanceID="0x4D6982D4" TextString="---------- Messages ----------" />
-    <TextStringDefinition InstanceID="0x81A6F8AD" TextString="Sex" />
-    <TextStringDefinition InstanceID="0x90E9C6B7" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction...\n\n\nIf you want to force stop all sex interactions:\n1. Open commands console (CTRL+SHIFT+C).\n2. Type in 'ww.stop_sex' command." />
-    <TextStringDefinition InstanceID="0x0CDD910C" TextString="{0.SimFirstName} {0.SimLastName} refused {1.SimFirstName}'s proposition for sex." />
-    <TextStringDefinition InstanceID="0x7F40E019" TextString="---------- Strapon ----------" />
-    <TextStringDefinition InstanceID="0x6E589498" TextString="Change Sim Strapon" />
-    <TextStringDefinition InstanceID="0x620D3840" TextString="Set mannequin bottom clothing to strapon you want to use only for the first Everyday Outfit Category.\nChanging strapon for different outfit categories will have no effect.\nChanging strapon to other clothing will result in problems." />
-    <TextStringDefinition InstanceID="0x237AAA3B" TextString="Strapon" />
-    <TextStringDefinition InstanceID="0x6E8A080E" TextString="Allow Strapon" />
-    <TextStringDefinition InstanceID="0xBFD19ECA" TextString="Disallow Strapon" />
-    <TextStringDefinition InstanceID="0xCF4F8ECC" TextString="---------- Birth Control ----------" />
-    <TextStringDefinition InstanceID="0x6FA67438" TextString="Birth Control" />
-    <TextStringDefinition InstanceID="0x7E84555B" TextString="Unpack Box" />
-    <TextStringDefinition InstanceID="0xAA33353B" TextString="Use Condom(s)" />
-    <TextStringDefinition InstanceID="0x2B6249AC" TextString="Condoms can only be used during sex." />
-    <TextStringDefinition InstanceID="0xFC15B814" TextString="Allow Condoms Auto Use" />
-    <TextStringDefinition InstanceID="0x2F349510" TextString="Disallow Condoms Auto Use" />
-    <TextStringDefinition InstanceID="0xF358AC37" TextString="Used a condom. (Owned by {0.SimFirstName} {0.SimLastName})" />
-    <TextStringDefinition InstanceID="0x90D64EA2" TextString="Used {0.String} condoms. (Owned by {1.SimFirstName} {1.SimLastName})" />
-    <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
-    <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />
-    <TextStringDefinition InstanceID="0x184BB312" TextString="Box of 24 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\n\nUnpack the box and get 24 usable condoms." />
-    <TextStringDefinition InstanceID="0xC68DC425" TextString="Wicked Condom" />
-    <TextStringDefinition InstanceID="0xAE0C27A1" TextString="Exactly what you need to avoid unwanted pregnancy. Keep them around, you never know when you would need one.\n\nUse it during sex by clicking on it in Sim inventory, don't wait, it can get too late!" />
-    <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
-    <TextStringDefinition InstanceID="0x1F939A83" TextString="{0.SimFirstName} is already on birth control." />
-    <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
-    <TextStringDefinition InstanceID="0x617AD88A" TextString="Wicked Birth Control Pills Box" />
-    <TextStringDefinition InstanceID="0xEF5CBB03" TextString="Box of 28 birth control pills. Use one every day and don't worry about unwanted pregnancy.\n\nUnpack the box and get 28 usable pills." />
-    <TextStringDefinition InstanceID="0xBA4D5BD3" TextString="Wicked Birth Control Pills" />
-    <TextStringDefinition InstanceID="0x6C5CA582" TextString="Helps with periods and unwanted pregnancy. Remember to take one once a day!\n\nUse it once a day by clicking on it in Sim inventory. With each missed day, you risk becoming pregnant." />
-    <TextStringDefinition InstanceID="0xEFD4B461" TextString="---------- Pregnancy ----------" />
-    <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
-    <TextStringDefinition InstanceID="0x16C92A58" TextString="Terminate Pregnancy" />
-    <TextStringDefinition InstanceID="0xC7541BCD" TextString="{0.SimFirstName} {0.SimLastName} is not pregnant anymore.\nIt would be cheaper to think about protection before the next time." />
-    <TextStringDefinition InstanceID="0x61612C84" TextString="{0.SimFirstName} is not able to do this while not pregnant." />
-    <TextStringDefinition InstanceID="0x9FAD3609" TextString="{0.SimFirstName} is not able to do this so late in pregnancy." />
-    <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
-    <TextStringDefinition InstanceID="0x9618506C" TextString="{0.SimFirstName} {0.SimLastName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
-    <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
-    <TextStringDefinition InstanceID="0x13CBA023" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
-    <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
-    <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
-    <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
-    <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
-    <TextStringDefinition InstanceID="0xE4FF6132" TextString="Cramps" />
-    <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
-    <TextStringDefinition InstanceID="0x2FC8F697" TextString="{0.SimFirstName} is in high discomfort, as if someone was violently squeezing {M0.his}{F0.her} insides..." />
-    <TextStringDefinition InstanceID="0x3AFBA462" TextString="On Period" />
-    <TextStringDefinition InstanceID="0xB5CC92CA" TextString="The hormone shift inside {0.SimFirstName}'s body is making {M0.him}{F0.her} feel all hot and heavy." />
-    <TextStringDefinition InstanceID="0x4B177081" TextString="{0.SimFirstName} is feeling just fine today... or is {M0.he}{F0.she}?" />
-    <TextStringDefinition InstanceID="0x674F1E7B" TextString="{0.SimFirstName} can't concentrate while the uterus is shedding..." />
-    <TextStringDefinition InstanceID="0x920F4A02" TextString="{0.SimFirstName} is feeling blue. Wait, no... it's red." />
-    <TextStringDefinition InstanceID="0x02649141" TextString="{0.SimFirstName} is very stressed from riding the crimson wave." />
-    <TextStringDefinition InstanceID="0xFFD06906" TextString="{0.SimFirstName} is fighting against the flow." />
-    <TextStringDefinition InstanceID="0xE88F121F" TextString="The darkness inside {0.SimFirstName}'s body feels ever stronger. How is this even possible?" />
-    <TextStringDefinition InstanceID="0x79736054" TextString="---------- Shop ----------" />
-    <TextStringDefinition InstanceID="0xA167046F" TextString="Purchase Sex Items" />
-    <TextStringDefinition InstanceID="0xA38EBAEB" TextString="Thanks for ordering! The sex items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
-    <TextStringDefinition InstanceID="0xF7B28C2D" TextString="----------End----------" />
   </TextStringDefinitions>
 </StblData>

@@ -5,99 +5,113 @@
     <TextStringDefinition InstanceID="0xCF9480D9" TextString="Nudity Settings" />
     <TextStringDefinition InstanceID="0x73639F09" TextString="Change nudity settings.\n\nThese settings affect most of nudity/undressing functions." />
     <TextStringDefinition InstanceID="0x1B09D825" TextString="Naturism and Exhibitionism Switch" />
-    <TextStringDefinition InstanceID="0xB4731FA3" TextString="Enable/Disable nudity skills, nudity autonomy, and nudity story progression." />
+    <TextStringDefinition InstanceID="0x09B382A3" TextString="Check to enable nudity skills, nudity autonomy, and nudity story progression." />
     <TextStringDefinition InstanceID="0x5E13BB7A" TextString="Underwear Switch" />
-    <TextStringDefinition InstanceID="0x9964E528" TextString="Enable/Disable if Sims use underwear and are able to undress to underwear." />
+    <TextStringDefinition InstanceID="0xE3B6C69B" TextString="Check to enable Sims using underwear and undressing to underwear." />
     <TextStringDefinition InstanceID="0x72D7548B" TextString="Outfit Settings" />
-    <TextStringDefinition InstanceID="0xCC94B352" TextString="Change outfit undressing behavior." />
+    <TextStringDefinition InstanceID="0x7CE18E5A" TextString="Outfit undressing behavior." />
     <TextStringDefinition InstanceID="0x29499BF8" TextString="Complete Undressing Type" />
-    <TextStringDefinition InstanceID="0xB55962BB" TextString="Choose a type of how complete undressing should work." />
+    <TextStringDefinition InstanceID="0xCE63B8F1" TextString="Choose the type of how 'Undress Completely' interaction should undress Sims." />
     <TextStringDefinition InstanceID="0x48CC49FC" TextString="Default" />
-    <TextStringDefinition InstanceID="0x4AE98091" TextString="Sim bathing outfit with auto fixing will be used for undressing." />
+    <TextStringDefinition InstanceID="0x6A756FA5" TextString="Select to use Sim native bathing outfit with auto fixing when undressing." />
     <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
-    <TextStringDefinition InstanceID="0x43A4A0B1" TextString="Sim current outfit will be used as the base for undressing." />
+    <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
     <TextStringDefinition InstanceID="0xAA59D56F" TextString="Auto Undress Gloves with Top" />
-    <TextStringDefinition InstanceID="0x071DF5B1" TextString="Gloves will be undressed with the top part of Sim outfit." />
+    <TextStringDefinition InstanceID="0x9E3ACE3B" TextString="Check for gloves to be undressed with the top part of Sim outfit." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
-    <TextStringDefinition InstanceID="0xADEC7C21" TextString="Shoes will be undressed with the bottom part of Sim outfit." />
+    <TextStringDefinition InstanceID="0x6D83B6FD" TextString="Check for shoes to be undressed with the bottom part of Sim outfit." />
     <TextStringDefinition InstanceID="0x8E22D933" TextString="Auto Undress Socks with Shoes" />
-    <TextStringDefinition InstanceID="0xB2B03C8C" TextString="Socks will be undressed with shoes." />
+    <TextStringDefinition InstanceID="0x26470B08" TextString="Check for socks to be undressed with shoes." />
     <TextStringDefinition InstanceID="0xCF0B8F13" TextString="Auto Undress Leggings with Bottom" />
-    <TextStringDefinition InstanceID="0x9EB42835" TextString="Leggings will be undressed with the bottom part of Sim outfit." />
+    <TextStringDefinition InstanceID="0xAAA8117F" TextString="Check for leggings to be undressed with the bottom part of Sim outfit." />
+    <TextStringDefinition InstanceID="0xD2BF5A39" TextString="Respect Native Interaction Undressing Rules" />
+    <TextStringDefinition InstanceID="0x329DC941" TextString="Check for Sims to dress up to correct outfit before performing activities that require outfit changing.\nUncheck for Sims to keep the partially undressed outfit when performing activities that require outfit changing." />
     <TextStringDefinition InstanceID="0xC37C66E8" TextString="Notifications Settings" />
-    <TextStringDefinition InstanceID="0xA58B9367" TextString="Enable/Disable nudity related notifications." />
+    <TextStringDefinition InstanceID="0x71A3B0F8" TextString="Control nudity related notifications." />
     <TextStringDefinition InstanceID="0x3E95A01F" TextString="Notifications Visibility Type" />
-    <TextStringDefinition InstanceID="0xED276D98" TextString="Choose a type of notifications visibility." />
+    <TextStringDefinition InstanceID="0x42709878" TextString="Choose the type of notifications visibility." />
     <TextStringDefinition InstanceID="0x2838C8AF" TextString="Disable Notifications" />
-    <TextStringDefinition InstanceID="0xE7742037" TextString="No notifications about nudity actions will be displayed." />
+    <TextStringDefinition InstanceID="0xD3D90E77" TextString="Select to disable displaying notifications about nudity actions." />
     <TextStringDefinition InstanceID="0xE39B2963" TextString="Only Autonomy Notifications" />
-    <TextStringDefinition InstanceID="0xFEC21FE0" TextString="Only notifications about autonomy nudity actions will be displayed." />
+    <TextStringDefinition InstanceID="0x2DBDB9B7" TextString="Select to only display notifications about autonomy nudity actions." />
     <TextStringDefinition InstanceID="0x58A3A9F5" TextString="Show All Notifications" />
-    <TextStringDefinition InstanceID="0x4CDF1E23" TextString="All notifications about nudity actions will be displayed." />
+    <TextStringDefinition InstanceID="0xB7D95464" TextString="Select to display all notifications about nudity actions." />
     <TextStringDefinition InstanceID="0x8828ABA5" TextString="Notifications Household Limit Switch" />
-    <TextStringDefinition InstanceID="0x83CED3AC" TextString="Enable/Disable if nudity notifications should be displayed only about household Sims." />
+    <TextStringDefinition InstanceID="0x030353A2" TextString="Check for nudity notifications to be displayed only about household Sims.\nUncheck for nudity notifications to be displayed about all Sims." />
     <TextStringDefinition InstanceID="0x4AF92289" TextString="Occurrence Settings" />
-    <TextStringDefinition InstanceID="0x88F2A010" TextString="Change nudity occurrence and autonomy related settings." />
+    <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
     <TextStringDefinition InstanceID="0x1D50482F" TextString="Occurrence Level Settings" />
-    <TextStringDefinition InstanceID="0x2A3849C6" TextString="Choose a level of nudity occurrence." />
+    <TextStringDefinition InstanceID="0x1BA9F679" TextString="Choose the level of nudity occurrence and autonomy." />
     <TextStringDefinition InstanceID="0x03D07A02" TextString="Disable Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0x66DF3D4B" TextString="Disables random nudity occurrences as well as Sims nudity autonomy." />
+    <TextStringDefinition InstanceID="0x9C30BE23" TextString="Select to disable random nudity occurrences as well as Sims nudity autonomy." />
     <TextStringDefinition InstanceID="0x1F5A7A50" TextString="Low Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0xB446B308" TextString="Random nudity occurrences, as well as Sims nudity autonomy, will have a low base chance." />
+    <TextStringDefinition InstanceID="0xF8BE9A9C" TextString="Select to enable low base chance of random nudity occurrences as well as Sims nudity autonomy." />
     <TextStringDefinition InstanceID="0x0F02F921" TextString="Normal Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0xAFD40009" TextString="Random nudity occurrences, as well as Sims nudity autonomy, will have a normal base chance." />
+    <TextStringDefinition InstanceID="0xA607CC5B" TextString="Select to enable normal base chance of Random nudity occurrences as well as Sims nudity autonomy." />
     <TextStringDefinition InstanceID="0x3B442332" TextString="High Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0xD580999C" TextString="Nudity everywhere." />
+    <TextStringDefinition InstanceID="0x902F6A40" TextString="Select to enable nudity everywhere." />
     <TextStringDefinition InstanceID="0x5918AF2F" TextString="Occurrence Specifics" />
-    <TextStringDefinition InstanceID="0x0957386B" TextString="Change how nudity occurrences work." />
+    <TextStringDefinition InstanceID="0x9B74B8B2" TextString="Change how nudity occurrences and autonomy work." />
     <TextStringDefinition InstanceID="0x20673DDB" TextString="Random Swimwear Accidents" />
-    <TextStringDefinition InstanceID="0xECD904E3" TextString="Sims will randomly have swimwear related accidents when jumping to water." />
+    <TextStringDefinition InstanceID="0x3B607380" TextString="Check for Sims to randomly having swimwear related accidents when jumping to water." />
     <TextStringDefinition InstanceID="0x490CA9AF" TextString="Random Missing Towel" />
-    <TextStringDefinition InstanceID="0x0806C848" TextString="Sims will randomly not put their towel on after a shower in public." />
+    <TextStringDefinition InstanceID="0x4BA2E9C4" TextString="Check for Sims to randomly not putting on their towel after a shower in public." />
     <TextStringDefinition InstanceID="0xA5E18202" TextString="Random Interaction Undressing Autonomy" />
-    <TextStringDefinition InstanceID="0xE2862FA5" TextString="Sims will randomly (based on skill level) decide if they want to get naked for undressing interactions.\n\nSpecific undressing interactions (like changing to sleep or changing for workout) are affected with possibility of undressing to nude." />
+    <TextStringDefinition InstanceID="0xA5A6D79D" TextString="Check for Sims to randomly (based on skill level) decide if they want to get naked for undressing interactions.\n\n\nSpecific undressing interactions (like changing to sleep or changing to workout) are affected by the possibility of undressing to nude." />
     <TextStringDefinition InstanceID="0xB739DF8C" TextString="Random No Context Undressing Autonomy" />
-    <TextStringDefinition InstanceID="0x324884C6" TextString="Sims will randomly undress without any context." />
+    <TextStringDefinition InstanceID="0xD649E478" TextString="Check for Sims to randomly undress without any context." />
     <TextStringDefinition InstanceID="0x388A0E0B" TextString="Embrace Nudity Club Autonomy" />
-    <TextStringDefinition InstanceID="0xF892B1BA" TextString="Sims will talk about nudity and undress when at a nudity club gathering." />
+    <TextStringDefinition InstanceID="0xA97BF9D4" TextString="Check for Sims to talk about nudity and undress when at a nudity club gathering." />
     <TextStringDefinition InstanceID="0x805BB68F" TextString="Flash Club Autonomy" />
-    <TextStringDefinition InstanceID="0xCEDB1ACD" TextString="Sims will flash others when at a flashing club gathering." />
+    <TextStringDefinition InstanceID="0xEA59C767" TextString="Check for Sims to flash others when at a flashing club gathering." />
     <TextStringDefinition InstanceID="0xA397E916" TextString="Respect Children's Eyes" />
-    <TextStringDefinition InstanceID="0x0CF4A99E" TextString="Sims will not undress around children." />
+    <TextStringDefinition InstanceID="0x1455BD73" TextString="Check for Sims to never undress around children." />
     <TextStringDefinition InstanceID="0xF652C582" TextString="Respect Underwear" />
-    <TextStringDefinition InstanceID="0xD51B2359" TextString="Sims will first undress to underwear before getting naked." />
+    <TextStringDefinition InstanceID="0x2ED6446C" TextString="Check for Sims to first undress to underwear before getting naked.\nUncheck for Sims to undress directly to nudity and skip showing underwear." />
     <TextStringDefinition InstanceID="0x4EF5DA31" TextString="Player Sims Occurrence Inclusion" />
-    <TextStringDefinition InstanceID="0x25F31C01" TextString="Enable/Disable if player Sims will be included in random nudity occurrences." />
+    <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
     <TextStringDefinition InstanceID="0x5E475386" TextString="Story Progression Settings" />
-    <TextStringDefinition InstanceID="0x742C001C" TextString="Change nudity story progression related settings." />
+    <TextStringDefinition InstanceID="0x64554414" TextString="Nudity story progression related settings." />
     <TextStringDefinition InstanceID="0xB21F2859" TextString="Story Progression Switch" />
-    <TextStringDefinition InstanceID="0x2EEA0EF7" TextString="Enable/Disable nudity story progression.\n\nSims will learn secrets of living without clothes on while they are not around." />
+    <TextStringDefinition InstanceID="0x68C71394" TextString="Check to enable nudity story progression.\n\n\nSims will learn the secrets of living without clothes on while they are not around." />
     <TextStringDefinition InstanceID="0xC78AE2AA" TextString="Other Settings" />
-    <TextStringDefinition InstanceID="0xCF91D653" TextString="Change all of the unrelated settings." />
+    <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
     <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
-    <TextStringDefinition InstanceID="0x5C0508A8" TextString="Enable/Disable if teens can use nudity interactions." />
+    <TextStringDefinition InstanceID="0xC96D1EC8" TextString="Check for teens being able to participate in nudity interactions." />
     <TextStringDefinition InstanceID="0x49013E6B" TextString="Nudity Assurance Switch" />
-    <TextStringDefinition InstanceID="0xC575E9D0" TextString="Enable/Disable nudity body parts assurance system." />
+    <TextStringDefinition InstanceID="0x079CE400" TextString="Check to enable the nudity body parts assurance system.\n\nThe nudity body parts assurance system will attempt to always keep your Sim nudity visuals in check." />
     <TextStringDefinition InstanceID="0x5AADB196" TextString="Toilet Undressing Switch" />
-    <TextStringDefinition InstanceID="0x7CDEE319" TextString="Enable/Disable if Sims will undress bottom when using a toilet." />
+    <TextStringDefinition InstanceID="0x3151AF2B" TextString="Check for Sims to undress their pants when using a toilet." />
     <TextStringDefinition InstanceID="0xE6D0E27A" TextString="Breast Feeding Undressing Switch" />
-    <TextStringDefinition InstanceID="0x996E6E42" TextString="Enable/Disable if Sims will undress top when breast feeding." />
+    <TextStringDefinition InstanceID="0xB9DB716B" TextString="Check for Sims to undress their top when breastfeeding." />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
-    <TextStringDefinition InstanceID="0x6ABAB020" TextString="Change things that you find annoying." />
+    <TextStringDefinition InstanceID="0x1594FC47" TextString="Cheats to change things that you find annoying." />
     <TextStringDefinition InstanceID="0x949FD76A" TextString="Nudity Privacy Switch" />
-    <TextStringDefinition InstanceID="0x8DD33097" TextString="Enable/Disable if Sims will respect nudity privacy." />
+    <TextStringDefinition InstanceID="0xB03A387C" TextString="Check for Sims to respect nudity privacy." />
     <TextStringDefinition InstanceID="0xC348A6AF" TextString="Nudity Reaction Switch" />
-    <TextStringDefinition InstanceID="0xD3283393" TextString="Enable/Disable if Sims will react to nudity." />
-    <TextStringDefinition InstanceID="0x2426B73B" TextString="---------- Penis Settings ----------" />
-    <TextStringDefinition InstanceID="0x0F20650F" TextString="Penis Settings" />
-    <TextStringDefinition InstanceID="0xACC78C25" TextString="Change Sim Soft Penis" />
-    <TextStringDefinition InstanceID="0x3FF38232" TextString="Change Sim Hard Penis" />
-    <TextStringDefinition InstanceID="0xB0D18DAF" TextString="Change All Sims Soft Penis" />
-    <TextStringDefinition InstanceID="0xEE8A3D7C" TextString="Change All Sims Hard Penis" />
-    <TextStringDefinition InstanceID="0x10851C56" TextString="Sim Soft Penis Selector" />
-    <TextStringDefinition InstanceID="0x5A65041F" TextString="Sim Hard Penis Selector" />
-    <TextStringDefinition InstanceID="0x745A4FBE" TextString="Randomize All Sims Penis" />
-    <TextStringDefinition InstanceID="0x58D2FF38" TextString="(without default penis)" />
+    <TextStringDefinition InstanceID="0xE5BEAC46" TextString="Check for Sims to react to nudity." />
+    <TextStringDefinition InstanceID="0x14F7CDC6" TextString="---------- Body Selector ----------" />
+    <TextStringDefinition InstanceID="0x62D0E1EB" TextString="This Sim ({0.SimName})" />
+    <TextStringDefinition InstanceID="0xF2AC9584" TextString="Random Sims (like {0.SimName})" />
+    <TextStringDefinition InstanceID="0x44252BA0" TextString="All Sims (like {0.SimName})" />
+    <TextStringDefinition InstanceID="0x15059417" TextString="'This Sim Body Selector' is a selector for picking naked body parts for the selected Sim.\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim.\n\nSelected body parts in the 'This Sim Body Selector' override any parts selected in the 'All Sims Body Selector'.\n\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims." />
+    <TextStringDefinition InstanceID="0x7A64EAFC" TextString="'Random Sims Body Selector' is a selector for picking naked body parts for a random sample of Sims in the world.\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim and only Sims that match the same Gender Settings will be considered for this selector.\nSelecting a random body part multiple times will increase the number of Sims that have this part applied.\n\nSelected body parts in the 'Random Sim Body Selector' override any parts selected in the 'All Sims Body Selector'.\n\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims." />
+    <TextStringDefinition InstanceID="0xB292C99C" TextString="'All Sims Body Selector' is a selector for picking naked body parts for all of the Sims in the world.\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim and only Sims that match the same Gender Settings will be considered for this selector.\n\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims." />
+    <TextStringDefinition InstanceID="0xF2E32E78" TextString="Body Selector" />
+    <TextStringDefinition InstanceID="0xE62AC460" TextString="{0.SimName} Body Selector" />
+    <TextStringDefinition InstanceID="0x974053C7" TextString="All Sims Body Selector" />
+    <TextStringDefinition InstanceID="0x7928B76B" TextString="Random Sims Body Selector" />
+    <TextStringDefinition InstanceID="0x84AC0683" TextString="Male Body Top" />
+    <TextStringDefinition InstanceID="0xFD4ABCD6" TextString="Female Body Top" />
+    <TextStringDefinition InstanceID="0x947D2471" TextString="Male Body Bottom" />
+    <TextStringDefinition InstanceID="0xAC34CECE" TextString="Female Body Bottom" />
+    <TextStringDefinition InstanceID="0xB6E78B0B" TextString="Male Soft Penis" />
+    <TextStringDefinition InstanceID="0xF4E4960E" TextString="Female Soft Penis" />
+    <TextStringDefinition InstanceID="0x96ABA888" TextString="Male Hard Penis" />
+    <TextStringDefinition InstanceID="0xBE402CE5" TextString="Female Hard Penis" />
+    <TextStringDefinition InstanceID="0x5A86D77C" TextString="Male Body Feet" />
+    <TextStringDefinition InstanceID="0x169A2707" TextString="Female Body Feet" />
+    <TextStringDefinition InstanceID="0xBB04EB9B" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2E4B0A57" TextString="Author: {0.String}" />
     <TextStringDefinition InstanceID="0xF765D503" TextString="---------- General ----------" />
     <TextStringDefinition InstanceID="0xBB7FE824" TextString="Nudity" />
