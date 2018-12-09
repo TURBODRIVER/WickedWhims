@@ -78,8 +78,8 @@
     <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
     <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
     <TextStringDefinition InstanceID="0xC96D1EC8" TextString="Check for teens being able to participate in nudity interactions." />
-    <TextStringDefinition InstanceID="0x49013E6B" TextString="Nudity Assurance Switch" />
-    <TextStringDefinition InstanceID="0x079CE400" TextString="Check to enable the nudity body parts assurance system.\n\nThe nudity body parts assurance system will attempt to always keep your Sim nudity visuals in check." />
+    <TextStringDefinition InstanceID="0xD82578E3" TextString="Nudity Permitted Autonomy Signs Influence" />
+    <TextStringDefinition InstanceID="0xCD7CA0D7" TextString="Check for Sims to allow undressing without limits when the 'Nudity Permitted In Room Sign' is in the room.\nUncheck for Sims to allow undressing when the 'Nudity Permitted In Room Sign' in the room, while the 'No Nudity Permitted On Lot Sign' is present on the lot." />
     <TextStringDefinition InstanceID="0x5AADB196" TextString="Toilet Undressing Switch" />
     <TextStringDefinition InstanceID="0x3151AF2B" TextString="Check for Sims to undress their pants when using a toilet." />
     <TextStringDefinition InstanceID="0xE6D0E27A" TextString="Breast Feeding Undressing Switch" />
@@ -111,6 +111,7 @@
     <TextStringDefinition InstanceID="0xBE402CE5" TextString="Female Hard Penis" />
     <TextStringDefinition InstanceID="0x5A86D77C" TextString="Male Body Feet" />
     <TextStringDefinition InstanceID="0x169A2707" TextString="Female Body Feet" />
+    <TextStringDefinition InstanceID="0xF8C92227" TextString="Default" />
     <TextStringDefinition InstanceID="0xBB04EB9B" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2E4B0A57" TextString="Author: {0.String}" />
     <TextStringDefinition InstanceID="0xF765D503" TextString="---------- General ----------" />
@@ -122,6 +123,8 @@
     <TextStringDefinition InstanceID="0x84F241B6" TextString="Don't Embrace Nudity" />
     <TextStringDefinition InstanceID="0x1EC5DEB8" TextString="Flash" />
     <TextStringDefinition InstanceID="0xD2D3EF96" TextString="Don't Flash" />
+    <TextStringDefinition InstanceID="0x6F481BF1" TextString="Flash {0.String}" />
+    <TextStringDefinition InstanceID="0xB3B78873" TextString="Don't Flash {0.String}" />
     <TextStringDefinition InstanceID="0x4CD7E0BD" TextString="---------- Skills ----------" />
     <TextStringDefinition InstanceID="0x286F517D" TextString="Naturism" />
     <TextStringDefinition InstanceID="0x612420AC" TextString="Take off your clothes and discover the wonderful world of Naturism!" />
@@ -191,6 +194,8 @@
     <TextStringDefinition InstanceID="0x16CF9F1E" TextString="Put On Underwear" />
     <TextStringDefinition InstanceID="0x8B997542" TextString="Reacting to Nudity" />
     <TextStringDefinition InstanceID="0xE160474C" TextString="Reacting to Sim Peeing" />
+    <TextStringDefinition InstanceID="0x96DE8943" TextString="Enable Nudity Reactions" />
+    <TextStringDefinition InstanceID="0x6FC8B340" TextString="Disable Nudity Reactions" />
     <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
     <TextStringDefinition InstanceID="0x82EC97DF" TextString="Set mannequin top and bottom (only bottom for males) clothing to the underwear for the chosen outfit category to be used on that outfit.\n\nChanging underwear for sleepwear and swimwear outfit will have no effect.\n\nChanging underwear to the same parts as the outfit has will reset the underwear to default for that outfit." />
     <TextStringDefinition InstanceID="0x34365938" TextString="Flash Boobs" />
@@ -218,6 +223,19 @@
     <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} asks me to undress shoes" />
     <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
     <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} asks me to dress up" />
+    <TextStringDefinition InstanceID="0x228AE967" TextString="---------- Objects ----------" />
+    <TextStringDefinition InstanceID="0x050B260E" TextString="&lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x937591B9" TextString="The &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign prevents all Sims on the lot from explicitly undressing. This sign can be placed anywhere on the lot to take effect.\n\nThe &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign overrides the effect of this sign for the room it is placed in. Making nudity allowed only in that room." />
+    <TextStringDefinition InstanceID="0xB6130FCF" TextString="**INVISIBLE** &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0xFA3AA7CC" TextString="The Invisible &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign prevents all Sims on the lot from explicitly undressing. This sign can be placed anywhere on the lot to take effect. It will disappear when in Live Mode.\n\nThe &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign overrides the effect of this sign for the room it is placed in. Making nudity allowed only in that room." />
+    <TextStringDefinition InstanceID="0xC00573D0" TextString="&lt;font color='#EC262E'&gt;No Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x936E12CA" TextString="The &lt;font color='#EC262E'&gt;No Nudity Permitted In Room&lt;/font&gt; sign prevents all Sims in a room with this sign from explicitly undressing. This sign has to be placed within a room to take effect, and it only affects Sims within that room." />
+    <TextStringDefinition InstanceID="0xCDDA1303" TextString="**INVISIBLE** &lt;font color='#EC262E'&gt;No Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x86A4974B" TextString="The Invisible &lt;font color='#EC262E'&gt;No Nudity Permitted In Room&lt;/font&gt; sign prevents all Sims in a room with this sign from explicitly undressing. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode." />
+    <TextStringDefinition InstanceID="0xB48C7590" TextString="&lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x6F258005" TextString="The &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
+    <TextStringDefinition InstanceID="0x7BF1E74D" TextString="**INVISIBLE** &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x549B77FC" TextString="The Invisible &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
     <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
     <TextStringDefinition InstanceID="0xDF1D9EBF" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} top." />
     <TextStringDefinition InstanceID="0xB6ED8F11" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} bottom." />
@@ -228,6 +246,7 @@
     <TextStringDefinition InstanceID="0x9119AE4E" TextString="- The most comfortable place to undress will always be Sim home.\n\n" />
     <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
     <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
+    <TextStringDefinition InstanceID="0xB8EFEB49" TextString="- No nudity permitted signs on the lot or in the room prevent undressing.\n\n" />
     <TextStringDefinition InstanceID="0x50E27433" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} bra." />
     <TextStringDefinition InstanceID="0xB8D0BF8C" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} panties." />
     <TextStringDefinition InstanceID="0xB9613A75" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} underwear." />

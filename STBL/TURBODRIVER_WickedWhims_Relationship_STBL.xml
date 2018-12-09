@@ -28,9 +28,9 @@
     <TextStringDefinition InstanceID="0x8E0E0C86" TextString="Enable or Disable incest relationships for all Sims.\n\nUse the Incest reward trait for individual Sims." />
     <TextStringDefinition InstanceID="0x54774F84" TextString="Use the Incest reward trait for individual Sims.\n\nReward traits can be found in the Rewards Store for Sims." />
     <TextStringDefinition InstanceID="0x6D7E512C" TextString="Enable Incest Relationships" />
-    <TextStringDefinition InstanceID="0x4ADBF476" TextString="Select to enable incescious relationships." />
+    <TextStringDefinition InstanceID="0xA687768F" TextString="Select to enable incestuous relationships." />
     <TextStringDefinition InstanceID="0xB75C20CF" TextString="Disable Incest Relationships" />
-    <TextStringDefinition InstanceID="0xD7ACFB49" TextString="Select to disable incescious relationships." />
+    <TextStringDefinition InstanceID="0x8BBCAEFC" TextString="Select to disable incestuous relationships." />
     <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
     <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
     <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />

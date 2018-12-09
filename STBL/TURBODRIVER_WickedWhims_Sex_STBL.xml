@@ -17,7 +17,7 @@
     <TextStringDefinition InstanceID="0x3EE0D7D2" TextString="Autonomy Switch" />
     <TextStringDefinition InstanceID="0xB20413C0" TextString="Check to enable Sims Sex Autonomy." />
     <TextStringDefinition InstanceID="0xCD73FD6F" TextString="Autonomy Intensity Presets" />
-    <TextStringDefinition InstanceID="0xFCB4A505" TextString="Choose an intensity preset for autonomy.\n(this alters the Autonomy Awareness settings and Autonomy Specifics settings)" />
+    <TextStringDefinition InstanceID="0xEF9F53DB" TextString="Choose an intensity preset for autonomy.\n(this alters the Autonomy Awareness settings, Autonomy Triggers settings, and Autonomy Specifics settings)" />
     <TextStringDefinition InstanceID="0x74B333EB" TextString="Low Intensity" />
     <TextStringDefinition InstanceID="0x58C240BD" TextString="Select for less frequent sex, higher Sims and Location precision, slower cooldowns." />
     <TextStringDefinition InstanceID="0x7C08C420" TextString="Default Intensity" />
@@ -34,6 +34,8 @@
     <TextStringDefinition InstanceID="0x1C921B31" TextString="Check to allow Sims to perform random masturbation interactions." />
     <TextStringDefinition InstanceID="0x59A68EF4" TextString="Joining Sex Switch" />
     <TextStringDefinition InstanceID="0x943581C5" TextString="Check to allow Sims to try to join existing sex interactions." />
+    <TextStringDefinition InstanceID="0x7BAB0518" TextString="Travel Sex Switch" />
+    <TextStringDefinition InstanceID="0x7A7CBCAF" TextString="Check to allow Sims to perform random sex interactions when travelling to locations. Active household Sims and Sims in travel groups are not included." />
     <TextStringDefinition InstanceID="0xFFBE14EC" TextString="Romance Conversation Sex Switch" />
     <TextStringDefinition InstanceID="0x9F76B937" TextString="Check to allow Sims to initiate sex from romantic conversations." />
     <TextStringDefinition InstanceID="0xC96ECC84" TextString="Solo Watching Sex Switch" />
@@ -59,13 +61,17 @@
     <TextStringDefinition InstanceID="0xC5C62052" TextString="Random Sex Frequency Modifier" />
     <TextStringDefinition InstanceID="0xA1C17F32" TextString="Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\n(Default: 1.0, Minimum: 0.01)" />
     <TextStringDefinition InstanceID="0x22971499" TextString="Random Solo Sex Probability" />
-    <TextStringDefinition InstanceID="0x7AB57E76" TextString="Set a unit interval value for chance of random solo sex occuring. Value 1.0 is 100% chance.\n(Default: 0.70, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0xB15A2196" TextString="Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\n(Default: 0.70, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x125F7F2B" TextString="Travel Sex Probability" />
+    <TextStringDefinition InstanceID="0x8473D0C9" TextString="Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\n(Default: 0.80, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x331EC4F5" TextString="Sex Joining Maximum Distance" />
+    <TextStringDefinition InstanceID="0x07A6780C" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 16.0, Minimum: 1.0)" />
     <TextStringDefinition InstanceID="0x8F7D682E" TextString="Random Club Sex Probability" />
-    <TextStringDefinition InstanceID="0x203805C1" TextString="Set a unit interval value for chance of random club sex occuring. Value 1.0 is 100% chance.\n(Default: 1.0, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x02A2915F" TextString="Set a unit interval value for chance of random club sex occurring. Value 1.0 is 100% chance.\n(Default: 1.0, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x52C9B0FC" TextString="Watching Sex Random Solo Probability" />
-    <TextStringDefinition InstanceID="0x818BDC86" TextString="Set a unit interval value for chance of random sex watching occuring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x781607CD" TextString="Set a unit interval value for chance of random solo sex occurring from watching sex. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x60D9AD86" TextString="Romance Sex Probability" />
-    <TextStringDefinition InstanceID="0x3D10A6F0" TextString="Set a unit interval value for chance of random sex from romantic conversations occuring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0xA58CEA38" TextString="Set a unit interval value for chance of random sex from romantic conversations occurring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x52EDB46D" TextString="Trigger Attempts Count" />
     <TextStringDefinition InstanceID="0x704D76EC" TextString="Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\n(Default: 5, Minimum: 1, Maximum: 120)" />
     <TextStringDefinition InstanceID="0xD3A5F7EE" TextString="Sims Sex Pairs Sample Size" />
@@ -73,7 +79,7 @@
     <TextStringDefinition InstanceID="0xBA43CAC3" TextString="Sex Locations Sample Size" />
     <TextStringDefinition InstanceID="0x9DFD6EF3" TextString="Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\n(Default: 8, Minimum: 1)" />
     <TextStringDefinition InstanceID="0x90B95FD1" TextString="Minimum Sex Actors Limit" />
-    <TextStringDefinition InstanceID="0x0C99CD79" TextString="Set a minimum number of actors that can join sex with autonomy.\n(Default: 3, Minimum: 2)" />
+    <TextStringDefinition InstanceID="0x7659E3DC" TextString="Set a minimum number of actors that every sex interaction can be made out of by autonomy joining.\n\n(Default: 3, Minimum: 2)" />
     <TextStringDefinition InstanceID="0x62803C2E" TextString="NPC Sims Relationship Modifier" />
     <TextStringDefinition InstanceID="0xE377357B" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 10, Minimum: 0)" />
     <TextStringDefinition InstanceID="0xF48591CC" TextString="Player to NPC Sims Relationship Modifier" />
@@ -200,7 +206,7 @@
     <TextStringDefinition InstanceID="0x7FF0F1EC" TextString="Life expectancy: Forever (21-30 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0x8E231DC6" TextString="Long" />
     <TextStringDefinition InstanceID="0xA0610792" TextString="Life expectancy: 324 days (18-24 days per menstrual cycle)" />
-    <TextStringDefinition InstanceID="0xE6F9B51F" TextString="Normal" />
+    <TextStringDefinition InstanceID="0xB6B5C03A" TextString="Normal" />
     <TextStringDefinition InstanceID="0xA71E88CE" TextString="Life expectancy: 81 days (8-10 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0xCC236812" TextString="Short" />
     <TextStringDefinition InstanceID="0x0C783C93" TextString="Life expectancy: 42 days (6-7 days per menstrual cycle)" />
@@ -210,6 +216,7 @@
     <TextStringDefinition InstanceID="0x40320E96" TextString="Tampons and pads will perfectly prevent any blood leaking." />
     <TextStringDefinition InstanceID="0x48039E2A" TextString="Boosted" />
     <TextStringDefinition InstanceID="0x503DA9F8" TextString="Tampons and pads will be slightly better at preventing blood leaking." />
+    <TextStringDefinition InstanceID="0x5566F86D" TextString="Normal" />
     <TextStringDefinition InstanceID="0x487C720E" TextString="Tampons and pads have normal blood leak preventing properties." />
     <TextStringDefinition InstanceID="0xACEE7810" TextString="Menstrual Cycle Tampon Auto Use" />
     <TextStringDefinition InstanceID="0x866B17FC" TextString="Makes Sims use tampons automatically when needed." />
@@ -276,6 +283,8 @@
     <TextStringDefinition InstanceID="0xA4396C11" TextString="Enable/Disable visibility of cum layers when using a condom." />
     <TextStringDefinition InstanceID="0x15BB7E21" TextString="Auto Silence Phone During Sex" />
     <TextStringDefinition InstanceID="0x6CEEFF5A" TextString="Enable/Disable auto silencing of Sim phone during sex." />
+    <TextStringDefinition InstanceID="0xA033CE1D" TextString="Sex Location Reservation" />
+    <TextStringDefinition InstanceID="0x4711602F" TextString="Check to reserve objects used for sex. Reservation prevents Sims from using the objects while they are being used for sex." />
     <TextStringDefinition InstanceID="0xD4E78AE0" TextString="Vanilla Interactions Switch" />
     <TextStringDefinition InstanceID="0x1914C6AC" TextString="Enable/Disable if non-sex (vanilla) interactions are available during sex." />
     <TextStringDefinition InstanceID="0x087F5BE8" TextString="Default Woohoo Switch" />
@@ -288,6 +297,8 @@
     <TextStringDefinition InstanceID="0x0A8A6BDB" TextString="Enable/Disable global instant undressing outside sex." />
     <TextStringDefinition InstanceID="0x8F90A88F" TextString="Manual NPC Sex Switch" />
     <TextStringDefinition InstanceID="0x8ADCD2A0" TextString="Enable/Disable control over NPC Sims sex." />
+    <TextStringDefinition InstanceID="0x9949E5FC" TextString="Change Sex Location Anywhere Switch" />
+    <TextStringDefinition InstanceID="0x70245D58" TextString="Check to allow Sims to change sex location without limits." />
     <TextStringDefinition InstanceID="0xB63CC0CC" TextString="Sim Needs Decay Switch" />
     <TextStringDefinition InstanceID="0x12F97258" TextString="Enable/Disable if Sim needs will decay during sex." />
     <TextStringDefinition InstanceID="0xB6954984" TextString="Sex Privacy Switch" />
@@ -343,6 +354,8 @@
     <TextStringDefinition InstanceID="0x8B649A7C" TextString="Stop" />
     <TextStringDefinition InstanceID="0x6DA61B52" TextString="Enable for Sex Autonomy" />
     <TextStringDefinition InstanceID="0xD469212B" TextString="Disable for Sex Autonomy" />
+    <TextStringDefinition InstanceID="0x5A30BE2C" TextString="Enable Floor for Sex Autonomy" />
+    <TextStringDefinition InstanceID="0x638073BD" TextString="Disable Floor for Sex Autonomy" />
     <TextStringDefinition InstanceID="0x74C9DB2A" TextString="Gender Recognition" />
     <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
     <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
@@ -461,6 +474,8 @@
     <TextStringDefinition InstanceID="0x697655C1" TextString="Sex Outdoors" />
     <TextStringDefinition InstanceID="0xEDA29AC0" TextString="There's nothing like the thrill of sex outside. That was fun!" />
     <TextStringDefinition InstanceID="0xB78A0F30" TextString="---------- SEX REACTIONS ----------" />
+    <TextStringDefinition InstanceID="0xC27C730F" TextString="Enable Sex Reactions" />
+    <TextStringDefinition InstanceID="0x160AE154" TextString="Disable Sex Reactions" />
     <TextStringDefinition InstanceID="0xD0B19A16" TextString="Reacting to Sex" />
     <TextStringDefinition InstanceID="0xF6BE775D" TextString="(From Reacting To Sex)" />
     <TextStringDefinition InstanceID="0x46BE1EF8" TextString="{M0.Cuckold}{F0.Cuckquean}" />
@@ -632,9 +647,9 @@
     <TextStringDefinition InstanceID="0xDC99F762" TextString="(From Used Menstrual Pad)" />
     <TextStringDefinition InstanceID="0x9239FF2F" TextString="(From Smelling Used Menstrual Pad)" />
     <TextStringDefinition InstanceID="0x44184670" TextString="Periodic Stench" />
-    <TextStringDefinition InstanceID="0x84AE5A64" TextString="Oh no! Other Sims seem to be reeling from the vile odour emanating from {0.SimFirstName}’s crotch. Their pad, currently stained in blood, has forced all those around {M0.him}{F0.her} to cover their noses in disgust." />
+    <TextStringDefinition InstanceID="0x351EB357" TextString="Oh no! Does that Sim have an itchy nose or can they smell {0.SimFirstName}’s pad? The currently drenched in blood pad is causing a nervous feeling in {M0.him}{F0.her} gut." />
     <TextStringDefinition InstanceID="0x1680BA98" TextString="Fishy Stench" />
-    <TextStringDefinition InstanceID="0xD3286C74" TextString="GROSS! What could possibly be that putrid smell? {0.SimFirstName} can’t escape that fishy stench in the air. Could it possibly be coming from that Sim?" />
+    <TextStringDefinition InstanceID="0x76CB66E2" TextString="Oof! What could possibly be that putrid smell? {0.SimFirstName} can’t escape that fishy smell in the air. Could it possibly be coming from that Sim?" />
     <TextStringDefinition InstanceID="0x9EB23BF3" TextString="Dripping Blood" />
     <TextStringDefinition InstanceID="0x46BA1646" TextString="Oh Dear, blood seems to really be accumulating down in {0.SimFirstName}’s loins, staining {M0.his}{F0.her} clothes. {M0.He}{F0.She} should quickly apply either a tampon or pad. If {0.SimFirstName} doesn’t already have one present perhaps they could ask for help." />
     <TextStringDefinition InstanceID="0xCBF48E22" TextString="Soaked in Blood" />
@@ -646,13 +661,13 @@
     <TextStringDefinition InstanceID="0xFB0F12BF" TextString="Burst Pad" />
     <TextStringDefinition InstanceID="0xF7747F84" TextString="The pad did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
     <TextStringDefinition InstanceID="0x01A60591" TextString="Flooding Pad" />
-    <TextStringDefinition InstanceID="0x1B7C99D1" TextString="THE DAM HAS BROKEN! The pad tried as hard as it could but in the face of such a huge torrent it stood no chance. Blood has gushed down {0.SimFirstName}’s legs ruining {M0.his}{F0.her} clothing as it solidifies into the material. There’s definitely no further use out of this pad, a replacement must be applied ASAP!" />
+    <TextStringDefinition InstanceID="0x8600AC28" TextString="The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
     <TextStringDefinition InstanceID="0x814ECB70" TextString="Leaking Tampon" />
     <TextStringDefinition InstanceID="0xDE5A1F3C" TextString="There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} tampon has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state." />
     <TextStringDefinition InstanceID="0x5055933D" TextString="Burst Tampon" />
     <TextStringDefinition InstanceID="0x45B7C948" TextString="The tampon did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
     <TextStringDefinition InstanceID="0x0DCB1D5B" TextString="Flooding Tampon" />
-    <TextStringDefinition InstanceID="0x21535C50" TextString="THE DAM HAS BROKEN! The tampon tried as hard as it could but in the face of such a huge torrent it stood no chance. Blood has gushed down {0.SimFirstName}’s legs ruining {M0.his}{F0.her} clothing as it solidifies into the material. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
+    <TextStringDefinition InstanceID="0xB289992C" TextString="The tampon tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
     <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
     <TextStringDefinition InstanceID="0x89B249B4" TextString="(From Being on Period)" />
     <TextStringDefinition InstanceID="0x405FBD3C" TextString="No More Bleeding" />
@@ -697,8 +712,6 @@
     <TextStringDefinition InstanceID="0x48E413FD" TextString="{0.SimFirstName} just used a tampon." />
     <TextStringDefinition InstanceID="0x36066004" TextString="Allow Tampon Auto Use" />
     <TextStringDefinition InstanceID="0xB720CE60" TextString="Disallow Tampon Auto Use" />
-    <TextStringDefinition InstanceID="0xA93196E9" TextString="Open Bottle" />
-    <TextStringDefinition InstanceID="0x687888AF" TextString="Take Pill" />
     <TextStringDefinition InstanceID="0xF7694D28" TextString="Ask for a Tampon or Pad" />
     <TextStringDefinition InstanceID="0x4C52FCC5" TextString="You've already asked this Sim for a Tampon or Pad." />
     <TextStringDefinition InstanceID="0x322439DF" TextString="Kaya Tampons &amp; Pads Box" />
@@ -727,5 +740,18 @@
     <TextStringDefinition InstanceID="0x3A6BD6BC" TextString="Sex with Someone in Public" />
     <TextStringDefinition InstanceID="0x8244EF70" TextString="Click on an object and select Sex from the Wicked category. Sims need to have a good relationship to be able to have sex." />
     <TextStringDefinition InstanceID="0x484985EF" TextString="Have Sex with Your Date" />
+    <TextStringDefinition InstanceID="0x7B45B5BC" TextString="---------- SEX OBJECTS ----------" />
+    <TextStringDefinition InstanceID="0x88299D86" TextString="&lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0xA806C866" TextString="The &lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; sign prevents all Sims from attempting to have sex on the lot. This sign can be placed anywhere on the lot to take effect.\n\nThe &lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; sign overrides the effect of this sign for the room it is placed in. Making sex allowed only in that room." />
+    <TextStringDefinition InstanceID="0x95BA7FAF" TextString="**INVISIBLE** &lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x877B0B9E" TextString="The &lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; sign prevents all Sims from attempting to have sex on the lot. This sign can be placed anywhere on the lot to take effect. It will disappear when in Live Mode.\n\nThe &lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; sign overrides the effect of this sign for the room it is placed in. Making sex allowed only in that room." />
+    <TextStringDefinition InstanceID="0x71B44292" TextString="&lt;font color='#EC262E'&gt;No Sex Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x3360A095" TextString="The &lt;font color='#EC262E'&gt;No Sex Permitted In Room&lt;/font&gt; sign prevents all Sims in a room with this sign from attempting to have sex. This sign has to be placed within a room to take effect, and it only affects Sims within that room." />
+    <TextStringDefinition InstanceID="0x2A02C05D" TextString="**INVISIBLE** &lt;font color='#EC262E'&gt;No Sex Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0xB90E68A5" TextString="The &lt;font color='#EC262E'&gt;No Sex Permitted In Room&lt;/font&gt; sign prevents all Sims in a room with this sign from attempting to have sex. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode." />
+    <TextStringDefinition InstanceID="0xDE055C52" TextString="&lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0xC0524D30" TextString="The &lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; sign overrides the &lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; sign for the room it is placed in. Making sex allowed only in that room. This sign has to be placed within a room to take effect, and it only affects Sims within that room." />
+    <TextStringDefinition InstanceID="0x4ADCCA1F" TextString="**INVISIBLE** &lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
+    <TextStringDefinition InstanceID="0x25F4532A" TextString="The &lt;font color='#3AAF69'&gt;Sex Permitted In Room&lt;/font&gt; sign overrides the &lt;font color='#EC262E'&gt;No Sex Permitted On Lot&lt;/font&gt; sign for the room it is placed in. Making sex allowed only in that room. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode." />
   </TextStringDefinitions>
 </StblData>
