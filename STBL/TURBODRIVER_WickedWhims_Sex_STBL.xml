@@ -81,9 +81,9 @@
     <TextStringDefinition InstanceID="0x90B95FD1" TextString="Minimum Sex Actors Limit" />
     <TextStringDefinition InstanceID="0x7659E3DC" TextString="Set a minimum number of actors that every sex interaction can be made out of by autonomy joining.\n\n(Default: 3, Minimum: 2)" />
     <TextStringDefinition InstanceID="0x62803C2E" TextString="NPC Sims Relationship Modifier" />
-    <TextStringDefinition InstanceID="0xE377357B" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 10, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0xD15C8455" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 10)" />
     <TextStringDefinition InstanceID="0xF48591CC" TextString="Player to NPC Sims Relationship Modifier" />
-    <TextStringDefinition InstanceID="0xEA32BB1C" TextString="Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 0, Minimum: 0)" />
+    <TextStringDefinition InstanceID="0x724E46F6" TextString="Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 0)" />
     <TextStringDefinition InstanceID="0x5C733BDD" TextString="Autonomy Location Styles" />
     <TextStringDefinition InstanceID="0x3A583A16" TextString="Choose and Set allowed for autonomy location styles." />
     <TextStringDefinition InstanceID="0xFA48E2A4" TextString="Outside Lots Style Locations" />
@@ -173,6 +173,8 @@
     <TextStringDefinition InstanceID="0x067EFE77" TextString="Allow/Disallow male actors roles as both male and female roles (F/F)." />
     <TextStringDefinition InstanceID="0x1D515CDD" TextString="Sim Specific Gender Recognition" />
     <TextStringDefinition InstanceID="0xF9DD0450" TextString="Allow/Disallow deciding about individual Sim gender role." />
+    <TextStringDefinition InstanceID="0x16F11D0D" TextString="Ignore Occult Genders Restrictions" />
+    <TextStringDefinition InstanceID="0x05E05E62" TextString="Check to disable restrictions for animations that require specific occult to be available.\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)" />
     <TextStringDefinition InstanceID="0xFF4E8C90" TextString="Pregnancy Settings" />
     <TextStringDefinition InstanceID="0x1E5F1D2D" TextString="Change pregnancy related settings." />
     <TextStringDefinition InstanceID="0xD14FC8FE" TextString="Pregnancy Mode" />
@@ -356,6 +358,9 @@
     <TextStringDefinition InstanceID="0xD469212B" TextString="Disable for Sex Autonomy" />
     <TextStringDefinition InstanceID="0x5A30BE2C" TextString="Enable Floor for Sex Autonomy" />
     <TextStringDefinition InstanceID="0x638073BD" TextString="Disable Floor for Sex Autonomy" />
+    <TextStringDefinition InstanceID="0x3858B3E2" TextString="Enable Undressing in Sex" />
+    <TextStringDefinition InstanceID="0x30E5FB01" TextString="Disable Undressing in Sex" />
+    <TextStringDefinition InstanceID="0x2B6D4ADE" TextString="Disable Currently Playing Animation" />
     <TextStringDefinition InstanceID="0x74C9DB2A" TextString="Gender Recognition" />
     <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
     <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
@@ -512,6 +517,33 @@
     <TextStringDefinition InstanceID="0xA2349658" TextString="If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning." />
     <TextStringDefinition InstanceID="0x984E04D7" TextString="Unexpected" />
     <TextStringDefinition InstanceID="0x523E17FD" TextString="{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!" />
+    <TextStringDefinition InstanceID="0x29B757D1" TextString="---------- STATISTICS ----------" />
+    <TextStringDefinition InstanceID="0x898FB649" TextString="Sex" />
+    <TextStringDefinition InstanceID="0xD37C6367" TextString="Got Accepted to Have Sex" />
+    <TextStringDefinition InstanceID="0x84C46FD0" TextString="Got Rejected to Have Sex" />
+    <TextStringDefinition InstanceID="0x1909E5BE" TextString="Times Had Sex" />
+    <TextStringDefinition InstanceID="0xD0AEC97A" TextString="Times Had Autonomy Sex" />
+    <TextStringDefinition InstanceID="0x17828F93" TextString="Times Masturbated" />
+    <TextStringDefinition InstanceID="0x89F09439" TextString="Times Autonomy Masturbated" />
+    <TextStringDefinition InstanceID="0x78F9861A" TextString="Times Joined Sex" />
+    <TextStringDefinition InstanceID="0x72E8E55F" TextString="Sex Animations Played" />
+    <TextStringDefinition InstanceID="0x4132D77A" TextString="Times Caught Having Sex" />
+    <TextStringDefinition InstanceID="0xA23AAB34" TextString="Reactions to Sex" />
+    <TextStringDefinition InstanceID="0x950C43D2" TextString="Times Got Cucked" />
+    <TextStringDefinition InstanceID="0x58E737BF" TextString="Times Received Cum" />
+    <TextStringDefinition InstanceID="0x1F642293" TextString="Times Had Satisfying Sex" />
+    <TextStringDefinition InstanceID="0xA6A5E468" TextString="Times Had Unsatisfying Sex" />
+    <TextStringDefinition InstanceID="0x314EBB87" TextString="Unique Sex Partners" />
+    <TextStringDefinition InstanceID="0x6BEAA2DA" TextString="Sex Pregnancy" />
+    <TextStringDefinition InstanceID="0x970DDF24" TextString="Times Used Condom" />
+    <TextStringDefinition InstanceID="0xA82C5EA5" TextString="Times Taken Birth Control Pill" />
+    <TextStringDefinition InstanceID="0x7E013F69" TextString="Times Impregnated" />
+    <TextStringDefinition InstanceID="0xFCE2D450" TextString="Times Got Pregnant" />
+    <TextStringDefinition InstanceID="0xA3C6D27D" TextString="Times Terminated Pregnancy" />
+    <TextStringDefinition InstanceID="0x09727660" TextString="Times Miscarried" />
+    <TextStringDefinition InstanceID="0x4EBA3DA5" TextString="Times Had Period" />
+    <TextStringDefinition InstanceID="0xD1BC4840" TextString="Times Used Menstrual Pad" />
+    <TextStringDefinition InstanceID="0x6B876072" TextString="Times Used Menstrual Tampon" />
     <TextStringDefinition InstanceID="0xBA28EA39" TextString="---------- CLUB RULES ----------" />
     <TextStringDefinition InstanceID="0x26AD768D" TextString="Have Sex" />
     <TextStringDefinition InstanceID="0x07F2F64A" TextString="Have Sex with {0.String}" />

@@ -16,6 +16,8 @@
     <TextStringDefinition InstanceID="0x6A756FA5" TextString="Select to use Sim native bathing outfit with auto fixing when undressing." />
     <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
     <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
+    <TextStringDefinition InstanceID="0x40A7B406" TextString="Auto Reset Bathing Outfits" />
+    <TextStringDefinition InstanceID="0x0841E095" TextString="Check for Sim bathing outfit to be automatically reset and fixed\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes." />
     <TextStringDefinition InstanceID="0xAA59D56F" TextString="Auto Undress Gloves with Top" />
     <TextStringDefinition InstanceID="0x9E3ACE3B" TextString="Check for gloves to be undressed with the top part of Sim outfit." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
@@ -112,12 +114,22 @@
     <TextStringDefinition InstanceID="0x5A86D77C" TextString="Male Body Feet" />
     <TextStringDefinition InstanceID="0x169A2707" TextString="Female Body Feet" />
     <TextStringDefinition InstanceID="0xF8C92227" TextString="Default" />
+    <TextStringDefinition InstanceID="0x7DD2AEE9" TextString="Native" />
     <TextStringDefinition InstanceID="0xBB04EB9B" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2E4B0A57" TextString="Author: {0.String}" />
     <TextStringDefinition InstanceID="0xF765D503" TextString="---------- General ----------" />
     <TextStringDefinition InstanceID="0xBB7FE824" TextString="Nudity" />
     <TextStringDefinition InstanceID="0xF50F61E9" TextString="Exhibitionism" />
     <TextStringDefinition InstanceID="0xCF3BC932" TextString="Naturism" />
+    <TextStringDefinition InstanceID="0xE2292A10" TextString="---------- Statistics ----------" />
+    <TextStringDefinition InstanceID="0x7AF9E84D" TextString="Nudity" />
+    <TextStringDefinition InstanceID="0x49A3EE0D" TextString="Times Undressed" />
+    <TextStringDefinition InstanceID="0x6D26F536" TextString="Times Caught Nude" />
+    <TextStringDefinition InstanceID="0x5C885F9C" TextString="Reactions to Nudity" />
+    <TextStringDefinition InstanceID="0x95613F21" TextString="Times Talked About Nudity" />
+    <TextStringDefinition InstanceID="0x69506C21" TextString="Times Flashed" />
+    <TextStringDefinition InstanceID="0xC2272A0F" TextString="Times Got Flashed" />
+    <TextStringDefinition InstanceID="0x8111E9FB" TextString="Swimsuit Accidents" />
     <TextStringDefinition InstanceID="0xFBC90FD6" TextString="---------- Clubs ----------" />
     <TextStringDefinition InstanceID="0x3365FD6C" TextString="Embrace Nudity" />
     <TextStringDefinition InstanceID="0x84F241B6" TextString="Don't Embrace Nudity" />
@@ -197,7 +209,7 @@
     <TextStringDefinition InstanceID="0x96DE8943" TextString="Enable Nudity Reactions" />
     <TextStringDefinition InstanceID="0x6FC8B340" TextString="Disable Nudity Reactions" />
     <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
-    <TextStringDefinition InstanceID="0x82EC97DF" TextString="Set mannequin top and bottom (only bottom for males) clothing to the underwear for the chosen outfit category to be used on that outfit.\n\nChanging underwear for sleepwear and swimwear outfit will have no effect.\n\nChanging underwear to the same parts as the outfit has will reset the underwear to default for that outfit." />
+    <TextStringDefinition InstanceID="0x103FEE4A" TextString="Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\n\nChanging underwear for sleepwear and swimwear outfit is not available." />
     <TextStringDefinition InstanceID="0x34365938" TextString="Flash Boobs" />
     <TextStringDefinition InstanceID="0xC071719D" TextString="Flash Pussy" />
     <TextStringDefinition InstanceID="0xED38B4F2" TextString="Flash Dick" />

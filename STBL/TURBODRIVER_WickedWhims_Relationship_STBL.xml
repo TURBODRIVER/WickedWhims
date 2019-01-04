@@ -5,6 +5,8 @@
     <TextStringDefinition InstanceID="0xC7260D0F" TextString="Relationship Settings" />
     <TextStringDefinition InstanceID="0x892E6F69" TextString="Change relationship settings.\n\nThese settings affect the base game mechanics like age restrictions, gender preferences, incest, polygamy, and jealousy)." />
     <TextStringDefinition InstanceID="0x373B0956" TextString="This option requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
+    <TextStringDefinition InstanceID="0x71EA565C" TextString="Desire Switch" />
+    <TextStringDefinition InstanceID="0x23B94F8F" TextString="Check to enable Sims gaining desire from romance interactions." />
     <TextStringDefinition InstanceID="0xD55C03E0" TextString="Romance Age Restrictions Settings" />
     <TextStringDefinition InstanceID="0x46D9B2AB" TextString="Unlock romance interactions between teens and adults." />
     <TextStringDefinition InstanceID="0x4653CA7A" TextString="Unlock All Ages Romance" />
@@ -31,6 +33,8 @@
     <TextStringDefinition InstanceID="0xA687768F" TextString="Select to enable incestuous relationships." />
     <TextStringDefinition InstanceID="0xB75C20CF" TextString="Disable Incest Relationships" />
     <TextStringDefinition InstanceID="0x8BBCAEFC" TextString="Select to disable incestuous relationships." />
+    <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Statistics ----------" />
+    <TextStringDefinition InstanceID="0x2046ED9E" TextString="Relationships" />
     <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
     <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
     <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
