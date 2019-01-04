@@ -29,7 +29,7 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH) -->
+          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE) -->
 
           <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL) -->
@@ -56,7 +56,7 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH) -->
+          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE) -->
 
           <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL) -->
