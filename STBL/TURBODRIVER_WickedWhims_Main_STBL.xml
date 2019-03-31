@@ -5,12 +5,18 @@
     <TextStringDefinition InstanceID="0xF7694739" TextString="Wicked" />
     <TextStringDefinition InstanceID="0xF0ABB689" TextString="Congratulations!\nWickedWhims {0.String} has been installed!\n\nIf this is not your first time, some data has been set to default. No worries, this is a standard procedure.\n\nEverything should be working without any problems." />
     <TextStringDefinition InstanceID="0x415976A5" TextString="--------------- Misc ---------------" />
+    <TextStringDefinition InstanceID="0xC9D148AF" TextString="{0.SimName}" />
     <TextStringDefinition InstanceID="0x2E5CCFAD" TextString="{0.ObjectName}" />
     <TextStringDefinition InstanceID="0x0C8916DC" TextString="{0.ObjectDescription}" />
+    <TextStringDefinition InstanceID="0x146EE69C" TextString="--------------- Statistics ---------------" />
+    <TextStringDefinition InstanceID="0x5511433E" TextString="{0.SimName} Statistics" />
+    <TextStringDefinition InstanceID="0x448E8719" TextString="Sim Statistics" />
+    <TextStringDefinition InstanceID="0x04645DFD" TextString="{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}{10.String}{11.String}{12.String}{13.String}{14.String}{15.String}{16.String}{17.String}{18.String}{19.String}{20.String}{21.String}{22.String}{23.String}{24.String}{25.String}{26.String}{27.String}{28.String}{29.String}{30.String}{31.String}{32.String}{33.String}{34.String}{35.String}{36.String}{37.String}{38.String}{39.String}{40.String}{41.String}{42.String}{43.String}{44.String}{45.String}{46.String}{47.String}{48.String}{49.String}{50.String}{51.String}{52.String}{53.String}{54.String}{55.String}{56.String}{57.String}{58.String}{59.String}{60.String}{61.String}{62.String}{63.String}{64.String}{65.String}{66.String}{67.String}{68.String}{69.String}{70.String}{71.String}{72.String}{73.String}{74.String}{75.String}{76.String}{77.String}{78.String}{79.String}{80.String}{81.String}{82.String}{83.String}{84.String}{85.String}{86.String}{87.String}{88.String}{89.String}{90.String}{91.String}{92.String}{93.String}{94.String}{95.String}{96.String}{97.String}{98.String}{99.String}{100.String}{101.String}{102.String}{103.String}{104.String}" />
     <TextStringDefinition InstanceID="0x14195596" TextString="--------------- Warnings ---------------" />
     <TextStringDefinition InstanceID="0x38DA74DA" TextString="Warning!" />
     <TextStringDefinition InstanceID="0xC8FC21DE" TextString="Failed to load parts of WickedWhims save data!\n\nDefault data was used instead.\n\nSaving the game should override incorrect data and fix the issue.\nRemoving 'WickedWhimsMod' folder from 'saves' folder can help too." />
     <TextStringDefinition InstanceID="0x449C1DFF" TextString="An error has occurred!\nAn exception file (lastException.txt) has been created!\n\nTake a deep breath, create a new save, and exit the game.\n\nThe most common reason for errors like these are outdated/broken mods.\nConsider reviewing your 'Mods' folder and updating/removing old mods.\nTHIS IS NOT CAUSED BY WICKEDWHIMS. WICKEDWHIMS IS THE MOD THAT INFORMS YOU ABOUT OTHER BROKEN MODS.\n\nException files location: {0.String}\n\nThis message is brought to you by TURBODRIVER.\nYou can find more information at:\nlastexception.com" />
+    <TextStringDefinition InstanceID="0x5CEA5366" TextString="Hey! Looks like some kind of error has occurred.\nIf it looks like it's related to WickedWhims, try using the command below.\n\n&lt;b&gt;ww.fix&lt;/b&gt;\n\nTo use a command, open the Command Console by pressing 'CTRL+SHIFT+C' on your keyboard.\nThen type in the command." />
     <TextStringDefinition InstanceID="0x9AF804FA" TextString="--------------- Settings ---------------" />
     <TextStringDefinition InstanceID="0xA917DC98" TextString="Settings" />
     <TextStringDefinition InstanceID="0x0838B2BF" TextString="WickedWhims Settings" />
@@ -23,6 +29,10 @@
     <TextStringDefinition InstanceID="0xE9C3D72A" TextString="More Information" />
     <TextStringDefinition InstanceID="0x56CDF362" TextString="Information about this modification." />
     <TextStringDefinition InstanceID="0xC7AB2E8F" TextString="Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\n\nThis will open your web browser!" />
+    <TextStringDefinition InstanceID="0x8FD8E13C" TextString="Experimental Mode" />
+    <TextStringDefinition InstanceID="0x391C7C11" TextString="Check to enable any new experimental features and implementations.\nUncheck to disable any new experimental features and implementations." />
+    <TextStringDefinition InstanceID="0x0A73EC2E" TextString="Changing the state of this setting requires restarting the game to take full effect!" />
+    <TextStringDefinition InstanceID="0xFCCDEB04" TextString="--------------- Version Control ---------------" />
     <TextStringDefinition InstanceID="0x3EFF34B6" TextString="Outdated WickedWhims" />
     <TextStringDefinition InstanceID="0x929C45D3" TextString="The current version of WickedWhims you are running is outdated and you should consider downloading an updated version.\n\nInstalled Version: {0.String}\nCurrent Version: {1.String}\n\nDo you want to do it now?" />
     <TextStringDefinition InstanceID="0xC7064464" TextString="Open your web browser to download WickedWhims" />
