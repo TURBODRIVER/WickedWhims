@@ -1,47 +1,133 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0x5C6D86BF" TextString="--------- Settings ---------" />
     <TextStringDefinition InstanceID="0xC7260D0F" TextString="Relationship Settings" />
     <TextStringDefinition InstanceID="0x892E6F69" TextString="Change relationship settings.\n\nThese settings affect the base game mechanics like age restrictions, gender preferences, incest, polygamy, and jealousy)." />
-    <TextStringDefinition InstanceID="0x373B0956" TextString="This option requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
+    <TextStringDefinition InstanceID="0xB2A5D15E" TextString="Changing this setting requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
+    <TextStringDefinition InstanceID="0x4826FE25" TextString="Personality Settings" />
+    <TextStringDefinition InstanceID="0xE7BD805C" TextString="Change Sims personality related settings." />
+    <TextStringDefinition InstanceID="0x073DD827" TextString="Relationships Impressions Switch" />
+    <TextStringDefinition InstanceID="0x3A96D8CD" TextString="Check to enable Sims personality archetypes impressions.\nUncheck to disable Sims personality archetype impressions." />
+    <TextStringDefinition InstanceID="0xF602BC35" TextString="Relationships Impressions Hints Switch" />
+    <TextStringDefinition InstanceID="0xD1E5625C" TextString="Check to allow Sims personality archetypes hint notifications to show up.\nUncheck to disallow Sims personality archetypes hint notifications from showing up." />
+    <TextStringDefinition InstanceID="0x80C270BF" TextString="Romance Age Restrictions Switch" />
+    <TextStringDefinition InstanceID="0xD1771538" TextString="Check to unlock romance interactions between teen-age and adult-age Sims.\nUncheck to keep romance interactions locked between teen-age and adult-age Sims." />
+    <TextStringDefinition InstanceID="0x342BA695" TextString="Open Relationships Switch" />
+    <TextStringDefinition InstanceID="0xE5E593A7" TextString="Check to unlock romance interactions for multiple partners and marriages.\nUncheck to keep romance interactions locked from multiple partners and marriages." />
+    <TextStringDefinition InstanceID="0x70A69160" TextString="Persistent Social Boredom Switch" />
+    <TextStringDefinition InstanceID="0xEE6E5033" TextString="Check to enable Sims remembering boring conversations for a few hours.\nUncheck to keep the base game behavior of boring conversations.\n\nRepeating social interactions leads to boredom, which in the base game is forgotten immediately after the conversation ends." />
+    <TextStringDefinition InstanceID="0x1CF2A53E" TextString="Cheats" />
+    <TextStringDefinition InstanceID="0xBABFC4D5" TextString="Change things that you find annoying." />
     <TextStringDefinition InstanceID="0x71EA565C" TextString="Desire Switch" />
-    <TextStringDefinition InstanceID="0x23B94F8F" TextString="Check to enable Sims gaining desire from romance interactions." />
-    <TextStringDefinition InstanceID="0xD55C03E0" TextString="Romance Age Restrictions Settings" />
-    <TextStringDefinition InstanceID="0x46D9B2AB" TextString="Unlock romance interactions between teens and adults." />
-    <TextStringDefinition InstanceID="0x4653CA7A" TextString="Unlock All Ages Romance" />
-    <TextStringDefinition InstanceID="0x228B9BEC" TextString="Select to unlock romance interactions between teens and adults." />
-    <TextStringDefinition InstanceID="0x7A542405" TextString="Lock All Ages Romance" />
-    <TextStringDefinition InstanceID="0xBE1B2EFB" TextString="Select to keep romance interactions locked between teens and adults." />
-    <TextStringDefinition InstanceID="0x7B0B0FAE" TextString="Polyamory Relationships Settings" />
-    <TextStringDefinition InstanceID="0x8A197350" TextString="Unlock polyamory and polygamy relationships." />
-    <TextStringDefinition InstanceID="0xC7F3767A" TextString="Unlock Polyamory and Polygamy Relationships" />
-    <TextStringDefinition InstanceID="0xDA564A93" TextString="Select to unlock romance interactions for multiple partners and marriages." />
-    <TextStringDefinition InstanceID="0xC18AEC19" TextString="Lock Polyamory and Polygamy Relationships" />
-    <TextStringDefinition InstanceID="0xAE617E8D" TextString="Select to keep romance interactions locked from multiple partners and marriages." />
-    <TextStringDefinition InstanceID="0xE5EB4A6C" TextString="Global Jealousy Cheat" />
-    <TextStringDefinition InstanceID="0x0D5FFE5C" TextString="Enable or Disable relationships jealousy for all Sims.\n\nUse the Polyamorous reward trait for individual Sims." />
-    <TextStringDefinition InstanceID="0x22DA6CDA" TextString="Use the Polyamorous reward trait for individual Sims.\n\nReward traits can be found in the Rewards Store for Sims." />
-    <TextStringDefinition InstanceID="0x97E6DF4E" TextString="Enable Relationships Jealousy" />
-    <TextStringDefinition InstanceID="0xF4153709" TextString="Select to enable jealousy from cheating." />
-    <TextStringDefinition InstanceID="0xA18FBE85" TextString="Disable Relationships Jealousy" />
-    <TextStringDefinition InstanceID="0xFE32A7EA" TextString="Select to disable jealousy from cheating." />
-    <TextStringDefinition InstanceID="0xE27C1210" TextString="Global Incest Cheat" />
-    <TextStringDefinition InstanceID="0x8E0E0C86" TextString="Enable or Disable incest relationships for all Sims.\n\nUse the Incest reward trait for individual Sims." />
-    <TextStringDefinition InstanceID="0x54774F84" TextString="Use the Incest reward trait for individual Sims.\n\nReward traits can be found in the Rewards Store for Sims." />
-    <TextStringDefinition InstanceID="0x6D7E512C" TextString="Enable Incest Relationships" />
-    <TextStringDefinition InstanceID="0xA687768F" TextString="Select to enable incestuous relationships." />
-    <TextStringDefinition InstanceID="0xB75C20CF" TextString="Disable Incest Relationships" />
-    <TextStringDefinition InstanceID="0x8BBCAEFC" TextString="Select to disable incestuous relationships." />
+    <TextStringDefinition InstanceID="0xC64816B8" TextString="Check to enable Sims gaining desire from romance interactions.\nUncheck to disable Sims gaining desire and desire moodlets." />
+    <TextStringDefinition InstanceID="0xB0B71347" TextString="Global Jealousy Switch" />
+    <TextStringDefinition InstanceID="0x20BE35FD" TextString="Check to keep the default jealousy from cheating behavior of Sims.\nUncheck to disable any jealousy from cheating behavior of Sims.\n\nUse the Polyamorous reward trait for individual Sims." />
+    <TextStringDefinition InstanceID="0xEFC850D3" TextString="Global Incest Switch" />
+    <TextStringDefinition InstanceID="0x5DAF1625" TextString="Check to enable incestuous relationships.\nUncheck to disable incestuous relationships.\n\nUse the Incest reward trait for individual Sims." />
     <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x2046ED9E" TextString="Relationships" />
-    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
-    <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
-    <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3EB2A05B" TextString="--------- Buff ---------" />
+    <TextStringDefinition InstanceID="0x86F35FD9" TextString="Poser" />
+    <TextStringDefinition InstanceID="0x17A09C4E" TextString="Bummer, looks like {0.SimFirstName} wasn't being honest and was found faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now." />
+    <TextStringDefinition InstanceID="0x34A780C4" TextString="Deceitful Sim" />
+    <TextStringDefinition InstanceID="0xEBD6F06C" TextString="{0.SimFirstName} has been deceived by a Sim pretending to be someone they're not! You can't trust them anymore, not when they are being dishonest." />
+    <TextStringDefinition InstanceID="0x60EF15F8" TextString="Good Impression" />
+    <TextStringDefinition InstanceID="0xAF7FAF74" TextString="{0.SimFirstName} formed a positive impression with another Sim. This should help to shape a good relationship and build more trust." />
+    <TextStringDefinition InstanceID="0xEA226BC2" TextString="--------- Skills ---------" />
+    <TextStringDefinition InstanceID="0x5450A823" TextString="Persuasion" />
+    <TextStringDefinition InstanceID="0x143ED128" TextString="Show your personality and make a good impression towards a Sim." />
+    <TextStringDefinition InstanceID="0x52A4FCB8" TextString="Persuasion helps immensely when trying to influence Sims beliefs and behavior against their mind.\n\nStart by trying to impress Sims with your real or fake personality." />
+    <TextStringDefinition InstanceID="0xD4B0554F" TextString="Acquired the Persuasion Skill" />
+    <TextStringDefinition InstanceID="0x5A278B5F" TextString="{0.SimFirstName}'s new Persuasion skill will help {M0.him}{F0.her} to influence other Sims beliefs and behavior against their mind." />
+    <TextStringDefinition InstanceID="0xB29CAE41" TextString="Reached Persuasion Level 2" />
+    <TextStringDefinition InstanceID="0xBF2B6429" TextString="{0.SimFirstName} is now somewhat better at persuading Sims!\n\n{M0.He}{F0.She} is starting to learn about the amazing opportunities that persuasion gives.\n\nFaking personalities should be easier as well!" />
+    <TextStringDefinition InstanceID="0xFFFF7830" TextString="Reached Persuasion Level 3" />
+    <TextStringDefinition InstanceID="0x423AB27A" TextString="{0.SimFirstName} is now  better at persuading Sims!\n\n{M0.He}{F0.She} understands that most conversations do not require trying to get someone to do or accept something. Aggressive pushers are a turn-off and will put most people on the defensive.\n\nFaking personalities should be easier as well!" />
+    <TextStringDefinition InstanceID="0xF305F053" TextString="Reached Persuasion Level 4" />
+    <TextStringDefinition InstanceID="0x117C6C4F" TextString="{0.SimFirstName} is now much better at persuading Sims!\n\nTruly persuasive Sims understand their power and use it sparingly and knowingly. They are actively listening when in persuasion mode, looking for common ground to help establish a meaningful relationship.\n\nFaking personalities should be easier as well!" />
+    <TextStringDefinition InstanceID="0x49541E62" TextString="Reached Persuasion Level 5" />
+    <TextStringDefinition InstanceID="0x45C85D20" TextString="{0.SimFirstName} is now very good at persuading Sims!\n\nInfluence is power, and {0.SimFirstName} is now the master of influence with {M0.his}{F0.her} persuasion skill.\n\nFaking personalities should be much easier as well!" />
     <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Traits ---------" />
     <TextStringDefinition InstanceID="0x4528A2FC" TextString="Polyamorous" />
     <TextStringDefinition InstanceID="0xD054832F" TextString="Polyamorous" />
     <TextStringDefinition InstanceID="0x02E00C87" TextString="These Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
+    <TextStringDefinition InstanceID="0x4B2E6B29" TextString="Everyman" />
+    <TextStringDefinition InstanceID="0x90DBE483" TextString="Everyman Sims just want to belong and feel like a part of something. They lack any distinctive identity and rarely stand out." />
+    <TextStringDefinition InstanceID="0x944CBA6D" TextString="Jester" />
+    <TextStringDefinition InstanceID="0x3799BDF5" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Jester&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA3B2B6CD" TextString="Jester Sims live for the moments of joy, humor, and silliness. Often, though, they are irresponsible, wasting time by playing around instead of focusing on their goals." />
+    <TextStringDefinition InstanceID="0xB71894EA" TextString="Sage" />
+    <TextStringDefinition InstanceID="0xF81F15C0" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Sage&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x77A68F9E" TextString="Sage Sims seek wisdom and focus on finding the truth in every situation. However, their knowledge-seeking nature might cause them to think too much and not act enough." />
+    <TextStringDefinition InstanceID="0xB5ABB1A3" TextString="Artist" />
+    <TextStringDefinition InstanceID="0x2B17F3CF" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Artist&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF664CD39" TextString="Artist Sims strive to create things of enduring value and achieve their vision. In many cases, however, the fear of not being exceptional prevents their growth." />
+    <TextStringDefinition InstanceID="0xDD948402" TextString="Hero" />
+    <TextStringDefinition InstanceID="0x570CD324" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Hero&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x208307AE" TextString="Hero Sims are eager to demonstrate the courage to prove their worth and confidence. Subsequently, they might end up appearing arrogant by looking for faults in others to feel good about themselves or pick fights." />
+    <TextStringDefinition InstanceID="0x40CF9294" TextString="Caregiver" />
+    <TextStringDefinition InstanceID="0xD4938900" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Caregiver&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7A8BEDC7" TextString="Caregiver Sims are driven by their empathy and compassion to protect and care. Unfortunately, others can exploit their good nature for their own ends." />
+    <TextStringDefinition InstanceID="0x72FA2578" TextString="Innocent" />
+    <TextStringDefinition InstanceID="0x50F61402" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Innocent&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDB63943C" TextString="Innocent Sims positivity and happiness has a great power to uplift others. But they can appear very childish and their optimistic perspective causes them to be too naive." />
+    <TextStringDefinition InstanceID="0xF071A684" TextString="Lover" />
+    <TextStringDefinition InstanceID="0x23E05264" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Lover&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0CB382DF" TextString="Lover Sims crave intimacy, live to experience pleasure, and are very passionate. Nonetheless, with their desire to evoke love in others, they risk losing their own identity and appear shallow." />
+    <TextStringDefinition InstanceID="0xDB979EDA" TextString="Greedy" />
+    <TextStringDefinition InstanceID="0x9985D764" TextString="&lt;font color='#199C2C'&gt;&lt;b&gt;Greedy&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0725F691" TextString="Greedy Sims focus on generating as much revenue as possible and saving as much capital as possible, no matter the consequences. But their stingy approach to reality makes them appear selfish, envious, and villainous." />
+    <TextStringDefinition InstanceID="0x4EB5CC7F" TextString="Personality Reader" />
+    <TextStringDefinition InstanceID="0x59E4F0E8" TextString="Personality Reader" />
+    <TextStringDefinition InstanceID="0x015C70CE" TextString="Personality Readers need just a few words to determine the personality of another Sim." />
+    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
+    <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
+    <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x231C3E23" TextString="Fake Personality Archetypes" />
+    <TextStringDefinition InstanceID="0x41435C2E" TextString="Personality" />
+    <TextStringDefinition InstanceID="0x72DE385E" TextString="Fake Major Personality" />
+    <TextStringDefinition InstanceID="0x44E45482" TextString="Fake Minor Personality" />
+    <TextStringDefinition InstanceID="0xDF10A1E3" TextString="Talk about Recent Studies" />
+    <TextStringDefinition InstanceID="0x6A8C71AD" TextString="Mention Knowledge Seeking Nature" />
+    <TextStringDefinition InstanceID="0xC0CDB2AF" TextString="Flaunt about Knowledge" />
+    <TextStringDefinition InstanceID="0xFBAF9AC1" TextString="Talk about Life Achievements" />
+    <TextStringDefinition InstanceID="0x446144EA" TextString="Mention Honorable Life Goals" />
+    <TextStringDefinition InstanceID="0x3F320A3A" TextString="Express Being Courageous" />
+    <TextStringDefinition InstanceID="0x69BD888C" TextString="Mention Selfless Generosity" />
+    <TextStringDefinition InstanceID="0x0309778A" TextString="Complain about Selfish Sims" />
+    <TextStringDefinition InstanceID="0x92F85975" TextString="Express Being Overly Considerate" />
+    <TextStringDefinition InstanceID="0x847F8F35" TextString="Express Happiness" />
+    <TextStringDefinition InstanceID="0x6591893B" TextString="Mention Being Too Trusting" />
+    <TextStringDefinition InstanceID="0xFA92F6A4" TextString="Talk about Open-Mindedness" />
+    <TextStringDefinition InstanceID="0x80BA3BE2" TextString="Mention Pleasure Seeking Nature" />
+    <TextStringDefinition InstanceID="0x2F15B617" TextString="Express Passion for Romance" />
+    <TextStringDefinition InstanceID="0xEA759E35" TextString="Be Flattering" />
+    <TextStringDefinition InstanceID="0x778BE3E7" TextString="Express Joy of Life" />
+    <TextStringDefinition InstanceID="0x12CA8843" TextString="Mention Fear of Boredom" />
+    <TextStringDefinition InstanceID="0x06B56D01" TextString="Cherish Living in the Moment" />
+    <TextStringDefinition InstanceID="0x63774A1D" TextString="Express Lack of Original Ideas" />
+    <TextStringDefinition InstanceID="0x13827DCC" TextString="Mention Creative Visions" />
+    <TextStringDefinition InstanceID="0x5FF61731" TextString="Talk about Latest Inventions" />
+    <TextStringDefinition InstanceID="0x7069DD5B" TextString="Talk about Money" />
+    <TextStringDefinition InstanceID="0x2088B443" TextString="Express Materialistic Thoughts" />
+    <TextStringDefinition InstanceID="0x9A3F56BE" TextString="Flaunt about Wealth" />
+    <TextStringDefinition InstanceID="0x3FAF7BB2" TextString="--------- Notifications ---------" />
+    <TextStringDefinition InstanceID="0x997DCCAE" TextString="Personality Archetype Hint" />
+    <TextStringDefinition InstanceID="0x87FA5B94" TextString="{0.SimName} shows signs of the &lt;b&gt;{1.String}&lt;/b&gt; personality archetype.\nTalk about topic related to the {1.String} personality to make a positive impression.\n\n{2.String}\n\n&lt;b&gt;Looks like this Sim has only one personality archetype.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x3C2B628F" TextString="{0.SimName} shows signs of the &lt;b&gt;{1.String}&lt;/b&gt; personality archetype.\nTalk about topic related to the {1.String} personality to make a positive impression.\n\n{2.String}\n\n&lt;b&gt;It seems like this Sim has one more personality archetype to discover.&lt;/b&gt;\n\nKnowing both Sim personality archetypes is the key to making a positive impression." />
+    <TextStringDefinition InstanceID="0x580BB0C6" TextString="{0.SimName} shows signs of the &lt;b&gt;{1.String}&lt;/b&gt; personality archetype.\nTalk about topic related to the {1.String} personality to make a positive impression.\n\n{2.String}\n\n&lt;b&gt;Looks like this Sim has only one personality archetype.&lt;/b&gt;\n\nSelect the {1.String} personality archetype in the Personality Pie Menu to fake it." />
+    <TextStringDefinition InstanceID="0x5EC45B9E" TextString="{0.SimName} shows signs of the {1.String} personality archetype.\nTalk about topic related to the {1.String} personality to make a positive impression.\n\n{2.String}\n\n&lt;b&gt;It seems like this Sim has one more personality archetype to discover.&lt;/b&gt;\n\nKnowing both Sim personality archetypes is the key to making a positive impression.\n\nSelect the {1.String} personality archetype in the Personality Pie Menu to fake it." />
+    <TextStringDefinition InstanceID="0x9CE8A373" TextString="Personality Archetype" />
+    <TextStringDefinition InstanceID="0x2BD6C4EF" TextString="{0.SimName} shows signs of the {1.String} and {2.String} personality archetypes.\n\n{3.String}\n\n{4.String}" />
+    <TextStringDefinition InstanceID="0x0CA6F7D0" TextString="Fake Personality Archetype" />
+    <TextStringDefinition InstanceID="0xCF781192" TextString="{0.SimName} is now faking the {2.String} personality archetype.\nSocial interactions specific to this personality are now available in the Friendly Pie Menu.\n\n{3.String}\n\nBe careful, faking a personality archetype that is not compatible with {1.SimName} risks appearing as a poser." />
+    <TextStringDefinition InstanceID="0x651D234E" TextString="{0.SimName} is now faking {M0.his}{F0.her} personality towards {1.SimName}.\n\nWhile talking with {1.SimName}, certain topics that are related to {M1.his}{F1.her} personality will show hints that help to determine it.\nMake sure to first learn {1.SimName} personality before trying to fake it.\n\nTo make a positive impression, a compatible personality has to be selected from the Personality Pie Menu." />
+    <TextStringDefinition InstanceID="0x73BA72CC" TextString="Poser" />
+    <TextStringDefinition InstanceID="0xB1435EBB" TextString="Bummer, looks like {0.SimFirstName} wasn't being honest and {1.SimFirstName} realized that {M0.he}{F0.she} faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now." />
+    <TextStringDefinition InstanceID="0x00ADE3F1" TextString="Personality Impression" />
+    <TextStringDefinition InstanceID="0x8C6A41A6" TextString="Looks like {0.SimName} formed a positive impression towards {1.SimName}. This should help to shape a good relationship and build more trust." />
+    <TextStringDefinition InstanceID="0xCA17AA57" TextString="Oof! {1.SimName} seems to be very unimpressed with {0.SimName} behavior and personality. This makes shaping their relationship harder and hinders the trust between them." />
     <TextStringDefinition InstanceID="0xADBD2BE5" TextString="--------- End ---------" />
   </TextStringDefinitions>
 </StblData>

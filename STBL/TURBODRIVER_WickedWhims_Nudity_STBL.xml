@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0x682DC8A6" TextString="---------- Settings ----------" />
@@ -66,6 +66,8 @@
     <TextStringDefinition InstanceID="0xA97BF9D4" TextString="Check for Sims to talk about nudity and undress when at a nudity club gathering." />
     <TextStringDefinition InstanceID="0x805BB68F" TextString="Flash Club Autonomy" />
     <TextStringDefinition InstanceID="0xEA59C767" TextString="Check for Sims to flash others when at a flashing club gathering." />
+    <TextStringDefinition InstanceID="0x4C60815F" TextString="Peeping No Context Autonomy" />
+    <TextStringDefinition InstanceID="0xC35B866A" TextString="Check for NPC Sims in the currently visiting household to randomly become undressed without any context when a player Sim is peeping through a window." />
     <TextStringDefinition InstanceID="0xA397E916" TextString="Respect Children's Eyes" />
     <TextStringDefinition InstanceID="0x1455BD73" TextString="Check for Sims to never undress around children." />
     <TextStringDefinition InstanceID="0xF652C582" TextString="Respect Underwear" />
@@ -76,6 +78,14 @@
     <TextStringDefinition InstanceID="0x64554414" TextString="Nudity story progression related settings." />
     <TextStringDefinition InstanceID="0xB21F2859" TextString="Story Progression Switch" />
     <TextStringDefinition InstanceID="0x68C71394" TextString="Check to enable nudity story progression.\n\n\nSims will learn the secrets of living without clothes on while they are not around." />
+    <TextStringDefinition InstanceID="0xFE7CA40B" TextString="Special Settings" />
+    <TextStringDefinition InstanceID="0x6CC2B36C" TextString="Special settings related to nudity." />
+    <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
+    <TextStringDefinition InstanceID="0xB2001619" TextString="Check to allow for peeping into windows." />
+    <TextStringDefinition InstanceID="0x1054E434" TextString="Window Peeping NPC Sims Switch" />
+    <TextStringDefinition InstanceID="0xD11658A8" TextString="Check to allow spawning of NPC Sims that peep into windows of the currently played house.\nUncheck to disallow spawning of NPC Sims peeping into windows." />
+    <TextStringDefinition InstanceID="0x9E16317A" TextString="Window Peeping NPC Sims Spawn Probability" />
+    <TextStringDefinition InstanceID="0xFD1531C5" TextString="Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\n(Default: 0.40, Minimum: 0.01)" />
     <TextStringDefinition InstanceID="0xC78AE2AA" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
     <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
@@ -249,28 +259,58 @@
     <TextStringDefinition InstanceID="0x7BF1E74D" TextString="**INVISIBLE** &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
     <TextStringDefinition InstanceID="0x549B77FC" TextString="The Invisible &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
     <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
-    <TextStringDefinition InstanceID="0xDF1D9EBF" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} top." />
-    <TextStringDefinition InstanceID="0xB6ED8F11" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} bottom." />
-    <TextStringDefinition InstanceID="0xFF39A518" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} shoes." />
-    <TextStringDefinition InstanceID="0x82A23031" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} outfit." />
-    <TextStringDefinition InstanceID="0xB2B78410" TextString="{0.SimFirstName} {0.SimLastName} put {M0.his}{F0.her} outfit back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0xC02E5D95" TextString="{0.SimFirstName} {0.SimLastName} doesn't feel like taking off clothes right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0xC9AB3921" TextString="{0.SimName} stripped from {M0.his}{F0.her} top." />
+    <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
+    <TextStringDefinition InstanceID="0x50F0734A" TextString="{0.SimName} stripped from {M0.his}{F0.her} shoes." />
+    <TextStringDefinition InstanceID="0x6132B9A3" TextString="{0.SimName} stripped from {M0.his}{F0.her} outfit." />
+    <TextStringDefinition InstanceID="0x170E692A" TextString="{0.SimName} put {M0.his}{F0.her} outfit back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x98D3F307" TextString="{0.SimName} doesn't feel like taking off clothes right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
     <TextStringDefinition InstanceID="0x9119AE4E" TextString="- The most comfortable place to undress will always be Sim home.\n\n" />
     <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
     <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
     <TextStringDefinition InstanceID="0xB8EFEB49" TextString="- No nudity permitted signs on the lot or in the room prevent undressing.\n\n" />
-    <TextStringDefinition InstanceID="0x50E27433" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} bra." />
-    <TextStringDefinition InstanceID="0xB8D0BF8C" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} panties." />
-    <TextStringDefinition InstanceID="0xB9613A75" TextString="{0.SimFirstName} {0.SimLastName} stripped from {M0.his}{F0.her} underwear." />
-    <TextStringDefinition InstanceID="0x74439794" TextString="{0.SimFirstName} {0.SimLastName} put {M0.his}{F0.her} underwear back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x91E6B122" TextString="{0.SimFirstName} {0.SimLastName} doesn't feel like taking off underwear right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0xD0914170" TextString="{0.SimFirstName} {0.SimLastName} flashed her pussy to {1.SimFirstName} {1.SimLastName}." />
-    <TextStringDefinition InstanceID="0x8ED83677" TextString="{0.SimFirstName} {0.SimLastName} flashed her boobs to {1.SimFirstName} {1.SimLastName}." />
-    <TextStringDefinition InstanceID="0x5369294C" TextString="{0.SimFirstName} {0.SimLastName} flashed his dick to {1.SimFirstName} {1.SimLastName}." />
-    <TextStringDefinition InstanceID="0xFCEE0F64" TextString="{0.SimFirstName} {0.SimLastName} flashed his butt to {1.SimFirstName} {1.SimLastName}." />
-    <TextStringDefinition InstanceID="0xED70BDD0" TextString="{0.SimFirstName} {0.SimLastName} flashed everything to {1.SimFirstName} {1.SimLastName}." />
-    <TextStringDefinition InstanceID="0x044D064E" TextString="{0.SimFirstName} {0.SimLastName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x0FF16CD2" TextString="{0.SimFirstName} {0.SimLastName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0x5241B4C1" TextString="{0.SimName} stripped from {M0.his}{F0.her} bra." />
+    <TextStringDefinition InstanceID="0x5D079432" TextString="{0.SimName} stripped from {M0.his}{F0.her} panties." />
+    <TextStringDefinition InstanceID="0x23EC7BC3" TextString="{0.SimName} stripped from {M0.his}{F0.her} underwear." />
+    <TextStringDefinition InstanceID="0xE8DE02CA" TextString="{0.SimName} put {M0.his}{F0.her} underwear back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x4D7A5BC8" TextString="{0.SimName} doesn't feel like taking off underwear right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0xC1BF0BD5" TextString="{0.SimName} flashed her pussy to {1.SimName}." />
+    <TextStringDefinition InstanceID="0x809E1B48" TextString="{0.SimName} flashed her boobs to {1.SimName}." />
+    <TextStringDefinition InstanceID="0xC124F925" TextString="{0.SimName} flashed his dick to {1.SimName}." />
+    <TextStringDefinition InstanceID="0xF24149F9" TextString="{0.SimName} flashed his butt to {1.SimName}." />
+    <TextStringDefinition InstanceID="0x005802F5" TextString="{0.SimName} flashed everything to {1.SimName}." />
+    <TextStringDefinition InstanceID="0x702399C0" TextString="{0.SimName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x672B7B80" TextString="{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0x1CB03F41" TextString="---------- Window Peeping ----------" />
+    <TextStringDefinition InstanceID="0x640EF940" TextString="Peeping Sim" />
+    <TextStringDefinition InstanceID="0x7A0BB786" TextString="Go to Peeping Window" />
+    <TextStringDefinition InstanceID="0x6055F754" TextString="Peep Through Window" />
+    <TextStringDefinition InstanceID="0xCAB5B52A" TextString="Peep Through Window (Take Picture)" />
+    <TextStringDefinition InstanceID="0xED059DE8" TextString="Reacting to Sim Window Peeping" />
+    <TextStringDefinition InstanceID="0x81C9C0B8" TextString="Run Away" />
+    <TextStringDefinition InstanceID="0xE659C948" TextString="Invite In to Have Sex" />
+    <TextStringDefinition InstanceID="0x16BDAE0C" TextString="Sell Peeping Pictures" />
+    <TextStringDefinition InstanceID="0x947CC5C2" TextString="Feeling Exposed" />
+    <TextStringDefinition InstanceID="0x0334A55A" TextString="Oh no! Some perverted Sim was peeping through the window and {0.SimFirstName} caught them taking a picture of {M0.his}{F0.her} naked body!" />
+    <TextStringDefinition InstanceID="0x1BF73111" TextString="Unexpected Exposure" />
+    <TextStringDefinition InstanceID="0x2283FB9E" TextString="{0.SimFirstName} felt an unexpected feeling of excitement after noticing a flash of someone taking a picture of {M0.his}{F0.her} naked body through the window!" />
+    <TextStringDefinition InstanceID="0x041998B9" TextString="Caught Peeping" />
+    <TextStringDefinition InstanceID="0xB2C5F845" TextString="{0.SimFirstName} was caught peeping through a window with {M0.his}{F0.her} pants down!" />
+    <TextStringDefinition InstanceID="0x55E6C5B3" TextString="No Show" />
+    <TextStringDefinition InstanceID="0x7E370B58" TextString="(From Uneventful Peeping)" />
+    <TextStringDefinition InstanceID="0x4B349FAC" TextString="Not much has happened for the past few hours of peeping. {0.SimFirstName} might have to try again tomorrow." />
+    <TextStringDefinition InstanceID="0x49E2BAF1" TextString="Exciting Showing" />
+    <TextStringDefinition InstanceID="0xB3FD5874" TextString="Whoa! {0.SimFirstName} got really excited from watching hot exposed bodies through the window. That was totally worth the risk of getting caught." />
+    <TextStringDefinition InstanceID="0x055CD0AC" TextString="Caught Peeping" />
+    <TextStringDefinition InstanceID="0x5AB07AF2" TextString="Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}!\n\nTime to escape! Running away might save {0.SimFirstName}'s butt from getting beat up, but {M0.his}{F0.her} reputation was severely affected with every member of {1.SimFirstName}'s household.\nBetter be careful next time... this could have ended a lot worse." />
+    <TextStringDefinition InstanceID="0xA66DAD16" TextString="Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}!\n\n{1.SimFirstName} is looking quite upset, and without any hesitation, {M1.he}{F1.she} begins approaching {0.SimFirstName} to beat {M1.him}{F1.her} up and show {M1.him}{F1.her} where {M1.his}{F1.her} place is.\nMaybe if {M1.his}{F1.her} Fitness skill were better, {0.SimFirstName} would be able to avoid getting beat up in the future." />
+    <TextStringDefinition InstanceID="0x3F91CDC5" TextString="Uh oh! {1.SimName} noticed {0.SimName} taking a picture through the window! Time to escape!\n\nRunning away might just save {0.SimFirstName} from being recognized, but {M0.he}{F0.she} can't be sure that {1.SimFirstName} doesn't know who was peeping on {M1.him}{F1.her}.\nBetter be careful next time... this could have ended a lot worse. At least {0.SimFirstName} got a picture as a souvenir." />
+    <TextStringDefinition InstanceID="0x8E72C87D" TextString="Naked Pictures" />
+    <TextStringDefinition InstanceID="0xA2CBDA30" TextString="{0.SimFirstName} just took a picture while peeping through the window.\nPictures of naked Sims or Sims having sex are worth a bit of money and can be sold on the internet.\n\nTo sell peeping pictures, click on the Computer and select Sell Peeping Pictures under the Wicked category." />
+    <TextStringDefinition InstanceID="0x3CA07FA1" TextString="Sold Pictures" />
+    <TextStringDefinition InstanceID="0x0C5B7E35" TextString="{0.SimFirstName} has sold the peeping pictures {M0.he}{F0.she} took for total of {1.Number} Simoleons.\n" />
+    <TextStringDefinition InstanceID="0xEC0ECF91" TextString="Naked {0.SimName}: {1.Money}" />
+    <TextStringDefinition InstanceID="0x1795CFD1" TextString="In Sex {0.SimName}: {1.Money}" />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
   </TextStringDefinitions>
 </StblData>

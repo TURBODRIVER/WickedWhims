@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <StblData>
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0xB6C2495F" TextString="---------- SETTINGS GENERAL ----------" />
@@ -42,6 +42,8 @@
     <TextStringDefinition InstanceID="0x785E2DB8" TextString="Check to allow Sims to perform masturbation interactions while watching sex.\n\n(requires Amra72 and ooOLaLa World animations)" />
     <TextStringDefinition InstanceID="0x1EFECEB8" TextString="Club Sex Switch" />
     <TextStringDefinition InstanceID="0x92A34392" TextString="Check to allow Sims to perform sex interactions when at a sex club gathering." />
+    <TextStringDefinition InstanceID="0x49572334" TextString="Invite Peeping Sim Switch" />
+    <TextStringDefinition InstanceID="0x2FC0A8AA" TextString="Check to allow Sims to invite in and perform sex interactions with peeping Sims." />
     <TextStringDefinition InstanceID="0x0D1F566B" TextString="Autonomy Awareness" />
     <TextStringDefinition InstanceID="0x86A8C987" TextString="Choose which elements are considered when triggering autonomy." />
     <TextStringDefinition InstanceID="0xBD3EC40F" TextString="Player Sims Autonomy" />
@@ -54,6 +56,8 @@
     <TextStringDefinition InstanceID="0xC53CE741" TextString="Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\n(only works with Menstrual Cycle Pregnancy Mode enabled)" />
     <TextStringDefinition InstanceID="0xC0D61043" TextString="Block Around Children Switch" />
     <TextStringDefinition InstanceID="0x0FE568C6" TextString="Check for Sims to avoid attempting sex when children are on the lot.\nUncheck for Sims to attempt sex when children are on the lot." />
+    <TextStringDefinition InstanceID="0xAB9438BE" TextString="Gender Specific Doors Switch" />
+    <TextStringDefinition InstanceID="0x137B88A6" TextString="Check for Sims to respect doors gender specific lock.\nUncheck for Sims to be able to walk through gender specific locked doors." />
     <TextStringDefinition InstanceID="0x030E869E" TextString="Risk Roll Switch" />
     <TextStringDefinition InstanceID="0x132BDB92" TextString="Check for Sims to assess risk of having sex by their age, number of Sims around, number of children around, and family relations." />
     <TextStringDefinition InstanceID="0x6D880C9F" TextString="Autonomy Specifics" />
@@ -63,7 +67,7 @@
     <TextStringDefinition InstanceID="0x22971499" TextString="Random Solo Sex Probability" />
     <TextStringDefinition InstanceID="0xB15A2196" TextString="Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\n(Default: 0.70, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x125F7F2B" TextString="Travel Sex Probability" />
-    <TextStringDefinition InstanceID="0x8473D0C9" TextString="Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\n(Default: 0.80, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x836ACD2A" TextString="Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\n(Default: 0.50, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x331EC4F5" TextString="Sex Joining Maximum Distance" />
     <TextStringDefinition InstanceID="0x07A6780C" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 16.0, Minimum: 1.0)" />
     <TextStringDefinition InstanceID="0x8F7D682E" TextString="Random Club Sex Probability" />
@@ -72,6 +76,8 @@
     <TextStringDefinition InstanceID="0x781607CD" TextString="Set a unit interval value for chance of random solo sex occurring from watching sex. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x60D9AD86" TextString="Romance Sex Probability" />
     <TextStringDefinition InstanceID="0xA58CEA38" TextString="Set a unit interval value for chance of random sex from romantic conversations occurring. Value 1.0 is 100% chance.\n(Default: 0.10, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x0D91EBFD" TextString="Peeping Sex Probability" />
+    <TextStringDefinition InstanceID="0x947280F8" TextString="Set a unit interval value for chance of random sex from positive reaction to a peeping Sim. Value 1.0 is 100% chance.\n(Default: 0.50, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x52EDB46D" TextString="Trigger Attempts Count" />
     <TextStringDefinition InstanceID="0x704D76EC" TextString="Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\n(Default: 5, Minimum: 1, Maximum: 120)" />
     <TextStringDefinition InstanceID="0xD3A5F7EE" TextString="Sims Sex Pairs Sample Size" />
@@ -124,6 +130,8 @@
     <TextStringDefinition InstanceID="0x8538DEF2" TextString="Change sex interaction related settings." />
     <TextStringDefinition InstanceID="0x863EB150" TextString="Sex Progression Settings" />
     <TextStringDefinition InstanceID="0x8D14E98C" TextString="Choose a type of how sex positions will progress." />
+    <TextStringDefinition InstanceID="0x432723BF" TextString="Controlled Sex Progression Switch" />
+    <TextStringDefinition InstanceID="0x3CE41B1B" TextString="Progression to the next sex category has to be allowed by the user." />
     <TextStringDefinition InstanceID="0xC92EBB73" TextString="Disable Sex Progression" />
     <TextStringDefinition InstanceID="0x74887A4C" TextString="Sex positions will not change on its own." />
     <TextStringDefinition InstanceID="0xFA1DD9E3" TextString="Stage Only Sex Progression" />
@@ -139,6 +147,8 @@
     <TextStringDefinition InstanceID="0x6C0E5818" TextString="Sex interaction duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0x05754127" TextString="Climax Finish" />
     <TextStringDefinition InstanceID="0x183E2920" TextString="Sex interaction ends only after a climax position." />
+    <TextStringDefinition InstanceID="0x46E3CBC2" TextString="Sex Progression Key Shortcut" />
+    <TextStringDefinition InstanceID="0xDB139EF2" TextString="Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\n(Default: Q)" />
     <TextStringDefinition InstanceID="0xCC1E3D4D" TextString="After Climax Sex Progression" />
     <TextStringDefinition InstanceID="0x3461728E" TextString="Enable/Disable sex position progression when climax animation is playing." />
     <TextStringDefinition InstanceID="0xFF489E48" TextString="Outfit Settings" />
@@ -285,6 +295,8 @@
     <TextStringDefinition InstanceID="0xA4396C11" TextString="Enable/Disable visibility of cum layers when using a condom." />
     <TextStringDefinition InstanceID="0x15BB7E21" TextString="Auto Silence Phone During Sex" />
     <TextStringDefinition InstanceID="0x6CEEFF5A" TextString="Enable/Disable auto silencing of Sim phone during sex." />
+    <TextStringDefinition InstanceID="0x9E42147A" TextString="Height Slider Mods Support" />
+    <TextStringDefinition InstanceID="0x77DF61C0" TextString="Check to detect Height Slider mods and adjust Sims height during sex.\nUncheck to ignore Height Slider mods." />
     <TextStringDefinition InstanceID="0xA033CE1D" TextString="Sex Location Reservation" />
     <TextStringDefinition InstanceID="0x4711602F" TextString="Check to reserve objects used for sex. Reservation prevents Sims from using the objects while they are being used for sex." />
     <TextStringDefinition InstanceID="0xD4E78AE0" TextString="Vanilla Interactions Switch" />
@@ -344,8 +356,14 @@
     <TextStringDefinition InstanceID="0xF30B5CB3" TextString="Join In" />
     <TextStringDefinition InstanceID="0x7913A7FD" TextString="Ask to Join In" />
     <TextStringDefinition InstanceID="0xA5EEE389" TextString="Next" />
+    <TextStringDefinition InstanceID="0xBF44E167" TextString="Next ({0.String})" />
+    <TextStringDefinition InstanceID="0x932E924D" TextString="Next (End)" />
     <TextStringDefinition InstanceID="0x08AC137E" TextString="Change Sex Location to Here" />
     <TextStringDefinition InstanceID="0xF7508C7E" TextString="Swap {1.SimFirstName}'s Spot" />
+    <TextStringDefinition InstanceID="0x5879AEF9" TextString="Progress to {0.String} Sex" />
+    <TextStringDefinition InstanceID="0x2907043C" TextString="{0.SimName} is attempting progressing to {1.String} sex. Do you allow it?\n\nAnimation: {2.String} by {3.String}" />
+    <TextStringDefinition InstanceID="0x6886F72E" TextString="Allow It" />
+    <TextStringDefinition InstanceID="0xABA0F852" TextString="Disallow It" />
     <TextStringDefinition InstanceID="0x48F53F24" TextString="Sim is not ready for climax yet." />
     <TextStringDefinition InstanceID="0x9285BB84" TextString="Stop That!" />
     <TextStringDefinition InstanceID="0xB8062F74" TextString="Go Away" />
@@ -405,9 +423,9 @@
     <TextStringDefinition InstanceID="0xC8860772" TextString="Decline" />
     <TextStringDefinition InstanceID="0xE2582FB4" TextString="---------- SEX NOTIFICATIONS ----------" />
     <TextStringDefinition InstanceID="0x81A6F8AD" TextString="Sex" />
-    <TextStringDefinition InstanceID="0x33AA51C5" TextString="{0.SimFirstName} {0.SimLastName} hates children! No Vaginal or Climax sex without protection!" />
+    <TextStringDefinition InstanceID="0x7CBD049F" TextString="{0.SimName} hates children! No Vaginal or Climax sex without protection!" />
     <TextStringDefinition InstanceID="0x90E9C6B7" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction...\n\n\nIf you want to force stop all sex interactions:\n1. Open commands console (CTRL+SHIFT+C).\n2. Type in 'ww.stop_sex' command." />
-    <TextStringDefinition InstanceID="0x0CDD910C" TextString="{0.SimFirstName} {0.SimLastName} refused {1.SimFirstName}'s proposition for sex." />
+    <TextStringDefinition InstanceID="0x6164495E" TextString="{0.SimName} refused {1.SimFirstName}'s proposition for sex." />
     <TextStringDefinition InstanceID="0xE2B227A5" TextString="{0.SimName} is having some fun!" />
     <TextStringDefinition InstanceID="0xEB4C497E" TextString="{0.SimName} and {1.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0x25201370" TextString="{0.SimName}, {1.SimName} and {2.SimName} are having sex!" />
@@ -595,7 +613,7 @@
     <TextStringDefinition InstanceID="0x1D528561" TextString="Cum Sluts love to receive hot loads of cum all over their body." />
     <TextStringDefinition InstanceID="0x84347ED1" TextString="---------- PREGNANCY GENERAL ----------" />
     <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
-    <TextStringDefinition InstanceID="0x13CBA023" TextString="{0.SimFirstName} {0.SimLastName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
+    <TextStringDefinition InstanceID="0x2B830EE5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
     <TextStringDefinition InstanceID="0x6DA00490" TextString="---------- PREGNANCY INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0x95DD6D27" TextString="---------- PREGNANCY BUFFS ----------" />
     <TextStringDefinition InstanceID="0x9924CF89" TextString="Discovered Teen Pregnancy" />
@@ -614,13 +632,13 @@
     <TextStringDefinition InstanceID="0xA9C2023F" TextString="Hasta La Vista, Baby" />
     <TextStringDefinition InstanceID="0x8278FDEA" TextString="When the stress is gone, the party can go on." />
     <TextStringDefinition InstanceID="0xCD272010" TextString="(From Pregnancy Termination)" />
-    <TextStringDefinition InstanceID="0xC7541BCD" TextString="{0.SimFirstName} {0.SimLastName} is not pregnant anymore.\nIt would be cheaper to think about protection before the next time." />
+    <TextStringDefinition InstanceID="0xE7CC1AF7" TextString="{0.SimName} is not pregnant anymore.\nIt would be cheaper to think about protection before the next time." />
     <TextStringDefinition InstanceID="0xEB0E1F5E" TextString="---------- PREGNANCY MISCARRIAGE ----------" />
     <TextStringDefinition InstanceID="0x59FABA91" TextString="Miscarriage" />
     <TextStringDefinition InstanceID="0x37B77221" TextString="Consequences of not taking care of yourself..." />
     <TextStringDefinition InstanceID="0xC179D0BC" TextString="(From Miscarriage)" />
     <TextStringDefinition InstanceID="0x39EDCAB4" TextString="Miscarriage" />
-    <TextStringDefinition InstanceID="0x4994A13F" TextString="{0.SimFirstName} {0.SimLastName} just lost a new life that never got a chance to become one." />
+    <TextStringDefinition InstanceID="0x0FC81BB5" TextString="{0.SimName} just lost a new life that never got a chance to become one." />
     <TextStringDefinition InstanceID="0xE6F6DD8B" TextString="---------- PREGNANCY FERTILITY ----------" />
     <TextStringDefinition InstanceID="0x1AFE12ED" TextString="Talk about Fertility" />
     <TextStringDefinition InstanceID="0x455EAAE0" TextString="Talk about Fertility with {1.SimFirstName}" />
@@ -632,7 +650,7 @@
     <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
     <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
     <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
-    <TextStringDefinition InstanceID="0x9618506C" TextString="{0.SimFirstName} {0.SimLastName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
+    <TextStringDefinition InstanceID="0x4AAC8862" TextString="{0.SimName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
     <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
     <TextStringDefinition InstanceID="0x50049C7D" TextString="---------- PREGNANCY BIRTH CONTROL ----------" />
     <TextStringDefinition InstanceID="0x6FA67438" TextString="Birth Control" />
@@ -649,11 +667,11 @@
     <TextStringDefinition InstanceID="0xFC15B814" TextString="Allow Condoms Auto Use" />
     <TextStringDefinition InstanceID="0x2F349510" TextString="Disallow Condoms Auto Use" />
     <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
-    <TextStringDefinition InstanceID="0x1F939A83" TextString="{0.SimFirstName} is already on birth control." />
+    <TextStringDefinition InstanceID="0x8FC7D951" TextString="{0.SimFirstName} already took a birth control pill." />
     <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
     <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0xF358AC37" TextString="Used a condom. (Owned by {0.SimFirstName} {0.SimLastName})" />
-    <TextStringDefinition InstanceID="0x90D64EA2" TextString="Used {0.String} condoms. (Owned by {1.SimFirstName} {1.SimLastName})" />
+    <TextStringDefinition InstanceID="0x0B637175" TextString="Used a condom. (Owned by {0.SimName})" />
+    <TextStringDefinition InstanceID="0x203B034B" TextString="Used {0.String} condoms. (Owned by {1.SimName})" />
     <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
     <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />
