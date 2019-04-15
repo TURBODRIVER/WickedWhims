@@ -78,7 +78,19 @@
         </T> <!-- [END OF ACTOR ENTRY] -->
       </T>
 
+      <T n="animation_props_list"> <!-- List of props in this animation -->
+
+        <T> <!-- [START OF PROP ENTRY] -->
+          <T n="prop_id">0</T>
+          <T n="prop_type">BASIC</T>
+          <T n="prop_guids">123456789, 987654321</T>
+          <T n="prop_animation_clip_name">PropAnimationClipName</T>
+        </T> <!-- [END OF PROP ENTRY] -->
+
+      </T>
+
       <T n="animation_events_list">
+
         <T> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">EFFECT</T>
           <T n="event_start_timecode">1.23456</T>
@@ -99,6 +111,7 @@
           <T n="event_target">a1</T>
           <T n="cum_layer_type">FACE</T>
         </T> <!-- [END OF EVENT ENTRY] -->
+
       </T>
     </T> <!-- [END OF ANIMATION ENTRY] -->
 

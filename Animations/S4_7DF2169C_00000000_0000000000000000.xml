@@ -32,7 +32,7 @@
           <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE) -->
 
-          <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL) -->
+          <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
           <T n="animation_allow_strapon">0</T> <!-- Flag to allow equipment of strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
@@ -59,7 +59,7 @@
           <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE) -->
 
-          <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL) -->
+          <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
           <T n="animation_allow_strapon">0</T> <!-- Flag to allow equipment of strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
@@ -79,6 +79,17 @@
 
       </T>
 
+      <T n="animation_props_list"> <!-- List of props in this animation -->
+
+        <T> <!-- [START OF PROP ENTRY] -->
+          <T n="prop_id">0</T> <!-- Numerical ID that represents this prop, should be 0 if this is the first prop -->
+          <T n="prop_type">BASIC</T> <!-- Prop Type of this prop (BASIC) -->
+          <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
+          <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
+        </T> <!-- [END OF PROP ENTRY] -->
+
+      </T>
+
       <T n="animation_events_list"> <!-- List of events in this animation (add more for more events, remove any that are not needed) -->
 
         <T> <!-- [START OF EVENT ENTRY] -->
@@ -86,7 +97,7 @@
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_end_timecode">9.87654</T> <!-- Decimal Number in animation duration of when this event stops (use high number, like 999, to avoid stopping the event) -->
 
-          <T n="event_target">a0</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex) -->
+          <T n="event_target">a0</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="effect_name">EffectName</T> <!-- Effect Name that will be displayed -->
           <T n="effect_joint_name">BoneJointName</T> <!-- Bone Joint Name from the Event Target used for the position of the effect -->
 
@@ -98,7 +109,7 @@
         <T> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
-          <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex) -->
+          <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="cum_layer_type">FACE</T> <!-- Cum Layer Type to apply on the Event Target (FACE, CHEST, BACK, VAGINA, BUTT, FEET) -->
         </T> <!-- [END OF EVENT ENTRY] -->
 
