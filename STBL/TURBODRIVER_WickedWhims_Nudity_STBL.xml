@@ -74,10 +74,6 @@
     <TextStringDefinition InstanceID="0x2ED6446C" TextString="Check for Sims to first undress to underwear before getting naked.\nUncheck for Sims to undress directly to nudity and skip showing underwear." />
     <TextStringDefinition InstanceID="0x4EF5DA31" TextString="Player Sims Occurrence Inclusion" />
     <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
-    <TextStringDefinition InstanceID="0x5E475386" TextString="Story Progression Settings" />
-    <TextStringDefinition InstanceID="0x64554414" TextString="Nudity story progression related settings." />
-    <TextStringDefinition InstanceID="0xB21F2859" TextString="Story Progression Switch" />
-    <TextStringDefinition InstanceID="0x68C71394" TextString="Check to enable nudity story progression.\n\n\nSims will learn the secrets of living without clothes on while they are not around." />
     <TextStringDefinition InstanceID="0xFE7CA40B" TextString="Special Settings" />
     <TextStringDefinition InstanceID="0x6CC2B36C" TextString="Special settings related to nudity." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
@@ -86,6 +82,8 @@
     <TextStringDefinition InstanceID="0xD11658A8" TextString="Check to allow spawning of NPC Sims that peep into windows of the currently played house.\nUncheck to disallow spawning of NPC Sims peeping into windows." />
     <TextStringDefinition InstanceID="0x9E16317A" TextString="Window Peeping NPC Sims Spawn Probability" />
     <TextStringDefinition InstanceID="0xFD1531C5" TextString="Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\n(Default: 0.40, Minimum: 0.01)" />
+    <TextStringDefinition InstanceID="0x8050A933" TextString="Sweating Overlay Switch" />
+    <TextStringDefinition InstanceID="0xEA89364E" TextString="Check to allow for Sims to get sweaty and display a sweat body overlay." />
     <TextStringDefinition InstanceID="0xC78AE2AA" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
     <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
@@ -281,6 +279,11 @@
     <TextStringDefinition InstanceID="0x005802F5" TextString="{0.SimName} flashed everything to {1.SimName}." />
     <TextStringDefinition InstanceID="0x702399C0" TextString="{0.SimName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
     <TextStringDefinition InstanceID="0x672B7B80" TextString="{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0x802E84DB" TextString="---------- Sweating ----------" />
+    <TextStringDefinition InstanceID="0x589D01B4" TextString="Sweating Profusely" />
+    <TextStringDefinition InstanceID="0x863AAD01" TextString="{0.SimFirstName}'s incredibly overheated body produced so much sweat that even {M0.he}{F0.she} feels disgusted. Time to take a shower and change clothes." />
+    <TextStringDefinition InstanceID="0xFD7837FA" TextString="No Sweat" />
+    <TextStringDefinition InstanceID="0x006D43E5" TextString="No more sweating ever again." />
     <TextStringDefinition InstanceID="0x1CB03F41" TextString="---------- Window Peeping ----------" />
     <TextStringDefinition InstanceID="0x640EF940" TextString="Peeping Sim" />
     <TextStringDefinition InstanceID="0x7A0BB786" TextString="Go to Peeping Window" />
@@ -312,5 +315,6 @@
     <TextStringDefinition InstanceID="0xEC0ECF91" TextString="Naked {0.SimName}: {1.Money}" />
     <TextStringDefinition InstanceID="0x1795CFD1" TextString="In Sex {0.SimName}: {1.Money}" />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
+    <TextStringDefinition InstanceID="0xA7EBED23" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING NUDITY TEXT\\\&lt;/font&gt;" />
   </TextStringDefinitions>
 </StblData>

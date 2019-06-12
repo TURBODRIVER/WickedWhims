@@ -54,6 +54,10 @@
     <TextStringDefinition InstanceID="0x3B09EBE1" TextString="Check for Sims to stay faithful to their partner and not have sex with others.\n\nThe 'Polyamorous' and 'Noncommittal' traits on Sims ignore this setting." />
     <TextStringDefinition InstanceID="0xF93747C7" TextString="NPC Pregnancy Awareness Switch" />
     <TextStringDefinition InstanceID="0xC53CE741" TextString="Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\n(only works with Menstrual Cycle Pregnancy Mode enabled)" />
+    <TextStringDefinition InstanceID="0xF06E0D9D" TextString="Sex Locations Memory Switch" />
+    <TextStringDefinition InstanceID="0xFCB7A291" TextString="Check to allow the game and individual Sims to remember locations used for sex by the player and preference them in the future.\nUncheck to disallow the game and individual Sims from remembering preferenced sex locations and pick them randomly." />
+    <TextStringDefinition InstanceID="0xE3EA5EBE" TextString="Sex Animations Memory Switch" />
+    <TextStringDefinition InstanceID="0x7381079C" TextString="Check to allow the game and individual Sims to remember sex animations used by the player and preference them in the future.\nUncheck to disallow the game and individual Sims from remembering preferenced sex animations and pick them randomly." />
     <TextStringDefinition InstanceID="0xC0D61043" TextString="Block Around Children Switch" />
     <TextStringDefinition InstanceID="0x0FE568C6" TextString="Check for Sims to avoid attempting sex when children are on the lot.\nUncheck for Sims to attempt sex when children are on the lot." />
     <TextStringDefinition InstanceID="0xAB9438BE" TextString="Gender Specific Doors Switch" />
@@ -63,13 +67,13 @@
     <TextStringDefinition InstanceID="0x6D880C9F" TextString="Autonomy Specifics" />
     <TextStringDefinition InstanceID="0xD40B3B2A" TextString="Edit specific parts of autonomy and mess up everything." />
     <TextStringDefinition InstanceID="0xC5C62052" TextString="Random Sex Frequency Modifier" />
-    <TextStringDefinition InstanceID="0xA1C17F32" TextString="Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\n(Default: 1.0, Minimum: 0.01)" />
+    <TextStringDefinition InstanceID="0xD2C9EEC8" TextString="Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\n(Default: 1.2, Minimum: 0.01)" />
     <TextStringDefinition InstanceID="0x22971499" TextString="Random Solo Sex Probability" />
-    <TextStringDefinition InstanceID="0xB15A2196" TextString="Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\n(Default: 0.70, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x6BB588AA" TextString="Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\n(Default: 0.45, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x125F7F2B" TextString="Travel Sex Probability" />
     <TextStringDefinition InstanceID="0x836ACD2A" TextString="Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\n(Default: 0.50, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x331EC4F5" TextString="Sex Joining Maximum Distance" />
-    <TextStringDefinition InstanceID="0x07A6780C" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 16.0, Minimum: 1.0)" />
+    <TextStringDefinition InstanceID="0x1030534E" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 18.0, Minimum: 1.0)" />
     <TextStringDefinition InstanceID="0x8F7D682E" TextString="Random Club Sex Probability" />
     <TextStringDefinition InstanceID="0x02A2915F" TextString="Set a unit interval value for chance of random club sex occurring. Value 1.0 is 100% chance.\n(Default: 1.0, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x52C9B0FC" TextString="Watching Sex Random Solo Probability" />
@@ -87,9 +91,9 @@
     <TextStringDefinition InstanceID="0x90B95FD1" TextString="Minimum Sex Actors Limit" />
     <TextStringDefinition InstanceID="0x7659E3DC" TextString="Set a minimum number of actors that every sex interaction can be made out of by autonomy joining.\n\n(Default: 3, Minimum: 2)" />
     <TextStringDefinition InstanceID="0x62803C2E" TextString="NPC Sims Relationship Modifier" />
-    <TextStringDefinition InstanceID="0xD15C8455" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 10)" />
+    <TextStringDefinition InstanceID="0x0D830867" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\n(Default: 1.0)" />
     <TextStringDefinition InstanceID="0xF48591CC" TextString="Player to NPC Sims Relationship Modifier" />
-    <TextStringDefinition InstanceID="0x724E46F6" TextString="Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need average of 15 points to create a Sex Pair.\n(Default: 0)" />
+    <TextStringDefinition InstanceID="0x7BC71984" TextString="Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\n(Default: 0.0)" />
     <TextStringDefinition InstanceID="0x5C733BDD" TextString="Autonomy Location Styles" />
     <TextStringDefinition InstanceID="0x3A583A16" TextString="Choose and Set allowed for autonomy location styles." />
     <TextStringDefinition InstanceID="0xFA48E2A4" TextString="Outside Lots Style Locations" />
@@ -334,7 +338,7 @@
     <TextStringDefinition InstanceID="0x5BA633AB" TextString="Enable/Disable all animations on this list." />
     <TextStringDefinition InstanceID="0x848A4827" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
-    <TextStringDefinition InstanceID="0x2A4072B5" TextString="Locations: {0.String}{1.String}" />
+    <TextStringDefinition InstanceID="0x7E52E192" TextString="Locations: {0.String}\nRoles: {1.String}" />
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
     <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
@@ -346,6 +350,7 @@
     <TextStringDefinition InstanceID="0xD3CD069A" TextString="Anal" />
     <TextStringDefinition InstanceID="0x5E1F3B80" TextString="Climax" />
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
+    <TextStringDefinition InstanceID="0x8BB9DD8F" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING SEX TEXT\\\&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0xE0C90006" TextString="Ask for Sex" />
     <TextStringDefinition InstanceID="0xBA4656AC" TextString="Ask for Sex (Random)" />
@@ -415,7 +420,7 @@
     <TextStringDefinition InstanceID="0xF183A57F" TextString="No compatible Sims to swap with were found in the sex interaction!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
-    <TextStringDefinition InstanceID="0x3488AD14" TextString="Author: {0.String}" />
+    <TextStringDefinition InstanceID="0xF9183EF3" TextString="Author: {0.String}\nRoles: {1.String}" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
     <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />
@@ -424,7 +429,9 @@
     <TextStringDefinition InstanceID="0xE2582FB4" TextString="---------- SEX NOTIFICATIONS ----------" />
     <TextStringDefinition InstanceID="0x81A6F8AD" TextString="Sex" />
     <TextStringDefinition InstanceID="0x7CBD049F" TextString="{0.SimName} hates children! No Vaginal or Climax sex without protection!" />
-    <TextStringDefinition InstanceID="0x90E9C6B7" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction...\n\n\nIf you want to force stop all sex interactions:\n1. Open commands console (CTRL+SHIFT+C).\n2. Type in 'ww.stop_sex' command." />
+    <TextStringDefinition InstanceID="0x773AC079" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction..." />
+    <TextStringDefinition InstanceID="0x2F37456C" TextString="Stop This Sex" />
+    <TextStringDefinition InstanceID="0x69475FAF" TextString="Stop All Sex" />
     <TextStringDefinition InstanceID="0x6164495E" TextString="{0.SimName} refused {1.SimFirstName}'s proposition for sex." />
     <TextStringDefinition InstanceID="0xE2B227A5" TextString="{0.SimName} is having some fun!" />
     <TextStringDefinition InstanceID="0xEB4C497E" TextString="{0.SimName} and {1.SimName} are having sex!" />
