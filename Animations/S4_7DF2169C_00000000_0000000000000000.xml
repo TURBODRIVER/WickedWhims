@@ -29,9 +29,10 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
-          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE) -->
+          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
+          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
 
+          <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
@@ -56,9 +57,10 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH) -->
-          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE) -->
+          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
+          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
 
+          <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
