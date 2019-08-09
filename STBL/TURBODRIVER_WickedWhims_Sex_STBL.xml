@@ -60,6 +60,8 @@
     <TextStringDefinition InstanceID="0x7381079C" TextString="Check to allow the game and individual Sims to remember sex animations used by the player and preference them in the future.\nUncheck to disallow the game and individual Sims from remembering preferenced sex animations and pick them randomly." />
     <TextStringDefinition InstanceID="0xC0D61043" TextString="Block Around Children Switch" />
     <TextStringDefinition InstanceID="0x0FE568C6" TextString="Check for Sims to avoid attempting sex when children are on the lot.\nUncheck for Sims to attempt sex when children are on the lot." />
+    <TextStringDefinition InstanceID="0xE0357740" TextString="Joining Sex Gender Compliance Switch" />
+    <TextStringDefinition InstanceID="0x3582858A" TextString="Check for Sims to respect their own and participants gender preference when asking to join sex. (Decreases Joining Autonomy)\nUncheck for Sims to only match gender preference with any single participant when asking to join sex. (Increases Joining Autonomy)" />
     <TextStringDefinition InstanceID="0xAB9438BE" TextString="Gender Specific Doors Switch" />
     <TextStringDefinition InstanceID="0x137B88A6" TextString="Check for Sims to respect doors gender specific lock.\nUncheck for Sims to be able to walk through gender specific locked doors." />
     <TextStringDefinition InstanceID="0x030E869E" TextString="Risk Roll Switch" />
@@ -338,7 +340,7 @@
     <TextStringDefinition InstanceID="0x5BA633AB" TextString="Enable/Disable all animations on this list." />
     <TextStringDefinition InstanceID="0x848A4827" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
-    <TextStringDefinition InstanceID="0x7E52E192" TextString="Locations: {0.String}\nRoles: {1.String}" />
+    <TextStringDefinition InstanceID="0x76580FE9" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
     <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
@@ -420,7 +422,7 @@
     <TextStringDefinition InstanceID="0xF183A57F" TextString="No compatible Sims to swap with were found in the sex interaction!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
-    <TextStringDefinition InstanceID="0xF9183EF3" TextString="Author: {0.String}\nRoles: {1.String}" />
+    <TextStringDefinition InstanceID="0x00F652EC" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
     <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />

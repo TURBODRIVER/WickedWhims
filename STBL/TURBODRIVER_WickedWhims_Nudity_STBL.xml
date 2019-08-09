@@ -111,6 +111,7 @@
     <TextStringDefinition InstanceID="0xE62AC460" TextString="{0.SimName} Body Selector" />
     <TextStringDefinition InstanceID="0x974053C7" TextString="All Sims Body Selector" />
     <TextStringDefinition InstanceID="0x7928B76B" TextString="Random Sims Body Selector" />
+    <TextStringDefinition InstanceID="0x4C0FF0E3" TextString="Tongue" />
     <TextStringDefinition InstanceID="0x84AC0683" TextString="Male Body Top" />
     <TextStringDefinition InstanceID="0xFD4ABCD6" TextString="Female Body Top" />
     <TextStringDefinition InstanceID="0x947D2471" TextString="Male Body Bottom" />
@@ -119,6 +120,8 @@
     <TextStringDefinition InstanceID="0xF4E4960E" TextString="Female Soft Penis" />
     <TextStringDefinition InstanceID="0x96ABA888" TextString="Male Hard Penis" />
     <TextStringDefinition InstanceID="0xBE402CE5" TextString="Female Hard Penis" />
+    <TextStringDefinition InstanceID="0xB387EBC1" TextString="Mermaid Male Hard Penis" />
+    <TextStringDefinition InstanceID="0x5D9A9508" TextString="Mermaid Female Hard Penis" />
     <TextStringDefinition InstanceID="0x5A86D77C" TextString="Male Body Feet" />
     <TextStringDefinition InstanceID="0x169A2707" TextString="Female Body Feet" />
     <TextStringDefinition InstanceID="0xF8C92227" TextString="Default" />
@@ -283,6 +286,7 @@
     <TextStringDefinition InstanceID="0x589D01B4" TextString="Sweating Profusely" />
     <TextStringDefinition InstanceID="0x863AAD01" TextString="{0.SimFirstName}'s incredibly overheated body produced so much sweat that even {M0.he}{F0.she} feels disgusted. Time to take a shower and change clothes." />
     <TextStringDefinition InstanceID="0xFD7837FA" TextString="No Sweat" />
+    <TextStringDefinition InstanceID="0x88ED09B0" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x006D43E5" TextString="No more sweating ever again." />
     <TextStringDefinition InstanceID="0x1CB03F41" TextString="---------- Window Peeping ----------" />
     <TextStringDefinition InstanceID="0x640EF940" TextString="Peeping Sim" />
