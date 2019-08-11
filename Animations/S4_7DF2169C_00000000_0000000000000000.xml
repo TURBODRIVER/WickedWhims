@@ -41,6 +41,8 @@
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in y axis -->
           <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor orientation in 360 degrees -->
 
+          <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
+
           <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
             <T>
               <T n="receiving_actor_id">1</T> <!-- Numerical ID of receiving actor this actor is interacting with -->
@@ -68,6 +70,8 @@
 
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in y axis -->
           <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor orientation in 360 degrees -->
+
+          <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
 
           <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
             <T>
