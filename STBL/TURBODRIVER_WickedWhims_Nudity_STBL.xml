@@ -4,6 +4,7 @@
     <TextStringDefinition InstanceID="0x682DC8A6" TextString="---------- Settings ----------" />
     <TextStringDefinition InstanceID="0xCF9480D9" TextString="Nudity Settings" />
     <TextStringDefinition InstanceID="0x73639F09" TextString="Change nudity settings.\n\nThese settings affect most of nudity/undressing functions." />
+    <TextStringDefinition InstanceID="0x49E0C5AB" TextString="Changing this setting requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
     <TextStringDefinition InstanceID="0x1B09D825" TextString="Naturism and Exhibitionism Switch" />
     <TextStringDefinition InstanceID="0x09B382A3" TextString="Check to enable nudity skills, nudity autonomy, and nudity story progression." />
     <TextStringDefinition InstanceID="0x5E13BB7A" TextString="Underwear Switch" />
@@ -17,7 +18,7 @@
     <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
     <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
     <TextStringDefinition InstanceID="0x40A7B406" TextString="Auto Reset Bathing Outfits" />
-    <TextStringDefinition InstanceID="0x0841E095" TextString="Check for Sim bathing outfit to be automatically reset and fixed\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes." />
+    <TextStringDefinition InstanceID="0x74001401" TextString="Check for Sim bathing outfit to be automatically reset and fixed.\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes." />
     <TextStringDefinition InstanceID="0xAA59D56F" TextString="Auto Undress Gloves with Top" />
     <TextStringDefinition InstanceID="0x9E3ACE3B" TextString="Check for gloves to be undressed with the top part of Sim outfit." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
@@ -74,6 +75,24 @@
     <TextStringDefinition InstanceID="0x2ED6446C" TextString="Check for Sims to first undress to underwear before getting naked.\nUncheck for Sims to undress directly to nudity and skip showing underwear." />
     <TextStringDefinition InstanceID="0x4EF5DA31" TextString="Player Sims Occurrence Inclusion" />
     <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
+    <TextStringDefinition InstanceID="0x8A5200CE" TextString="Strip Club Settings" />
+    <TextStringDefinition InstanceID="0x441FB7CB" TextString="Strip Club related settings." />
+    <TextStringDefinition InstanceID="0x1D108DF0" TextString="Native Undressing Behavior Switch" />
+    <TextStringDefinition InstanceID="0x79FC565D" TextString="Check to use personalized undressing rules set within the Outfit Settings for Dancers during dancing.\nUncheck to use specialized undressing rules for Dancers during dancing." />
+    <TextStringDefinition InstanceID="0x4269D77E" TextString="Dress Up After Dance Switch" />
+    <TextStringDefinition InstanceID="0x0FF5A29E" TextString="Check to make dancers dress up after every dance.\nUncheck to keep dancers undressed after a dance." />
+    <TextStringDefinition InstanceID="0xC03EDEB7" TextString="Dancer Profit Share Percentage" />
+    <TextStringDefinition InstanceID="0xE8F3458C" TextString="Set a number of profit share percentage for the club from the dancer earning.\n(Default: 20%)" />
+    <TextStringDefinition InstanceID="0x8EF60B90" TextString="Dancer Task Auto-Assignment Switch" />
+    <TextStringDefinition InstanceID="0x59FCF55A" TextString="Check to allow employee dancers to automatically change their work task depending on the situation in the club.\nUncheck to disallow employee dancers from changing their work task unless manually assigned." />
+    <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
+    <TextStringDefinition InstanceID="0xFB55B2B9" TextString="Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\n(Default: 0, Maximum: 30)" />
+    <TextStringDefinition InstanceID="0x0BAB28C4" TextString="Personal Lap Dance Cheat" />
+    <TextStringDefinition InstanceID="0xDC8525DE" TextString="Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club." />
+    <TextStringDefinition InstanceID="0xCDE08103" TextString="Force Routing Restrictions Switch" />
+    <TextStringDefinition InstanceID="0xFD31A3CB" TextString="Check to force Sims routing to avoid regions/rooms that contain dancing objects (dancing pole, dancing spot).\nUncheck to discourage Sims routing from going to regions/rooms that contain dancing objects." />
+    <TextStringDefinition InstanceID="0xF55E2701" TextString="Focused Dancing Objects Interactions Switch" />
+    <TextStringDefinition InstanceID="0x15A547DB" TextString="Check to remove irrelevant to dancing interactions from Dancing Poles, Spot Dancing Markers, and Lap Dancing Seats.\nUncheck to keep all game interactions on Dancing Poles, Spot Dancing Markers, and Lap Dancing Spots." />
     <TextStringDefinition InstanceID="0xFE7CA40B" TextString="Special Settings" />
     <TextStringDefinition InstanceID="0x6CC2B36C" TextString="Special settings related to nudity." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
@@ -88,6 +107,8 @@
     <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
     <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
     <TextStringDefinition InstanceID="0xC96D1EC8" TextString="Check for teens being able to participate in nudity interactions." />
+    <TextStringDefinition InstanceID="0x07CEF1D2" TextString="Dress Up In Advance Switch" />
+    <TextStringDefinition InstanceID="0x3A9456EE" TextString="Check to make naked Sims dress up before going to their destination if reaching it will require dressing up.\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances.\n(When Sim is about to enter a room with others in it, they will dress up beforehand instead of risking embarrassment)" />
     <TextStringDefinition InstanceID="0xD82578E3" TextString="Nudity Permitted Autonomy Signs Influence" />
     <TextStringDefinition InstanceID="0xCD7CA0D7" TextString="Check for Sims to allow undressing without limits when the 'Nudity Permitted In Room Sign' is in the room.\nUncheck for Sims to allow undressing when the 'Nudity Permitted In Room Sign' in the room, while the 'No Nudity Permitted On Lot Sign' is present on the lot." />
     <TextStringDefinition InstanceID="0x5AADB196" TextString="Toilet Undressing Switch" />
@@ -270,6 +291,7 @@
     <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
     <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
     <TextStringDefinition InstanceID="0xB8EFEB49" TextString="- No nudity permitted signs on the lot or in the room prevent undressing.\n\n" />
+    <TextStringDefinition InstanceID="0x340B6B30" TextString="- Underage Sims are present on the current lot and their eyes must be respected.\n\n" />
     <TextStringDefinition InstanceID="0x5241B4C1" TextString="{0.SimName} stripped from {M0.his}{F0.her} bra." />
     <TextStringDefinition InstanceID="0x5D079432" TextString="{0.SimName} stripped from {M0.his}{F0.her} panties." />
     <TextStringDefinition InstanceID="0x23EC7BC3" TextString="{0.SimName} stripped from {M0.his}{F0.her} underwear." />
@@ -288,6 +310,203 @@
     <TextStringDefinition InstanceID="0xFD7837FA" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x88ED09B0" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x006D43E5" TextString="No more sweating ever again." />
+    <TextStringDefinition InstanceID="0x2852ED15" TextString="---------- Strip Club ----------" />
+    <TextStringDefinition InstanceID="0xA8DEA305" TextString="Strip Club" />
+    <TextStringDefinition InstanceID="0xAD68026C" TextString="Current Strip Club" />
+    <TextStringDefinition InstanceID="0xAA558F85" TextString="View Finances Report" />
+    <TextStringDefinition InstanceID="0x3314F055" TextString="Revenue:" />
+    <TextStringDefinition InstanceID="0x9D1FE55B" TextString="Total Revenue:" />
+    <TextStringDefinition InstanceID="0x63314806" TextString="Bar Total Profit:" />
+    <TextStringDefinition InstanceID="0x35DEBED7" TextString="Dancers Tips Total Profit Cut:" />
+    <TextStringDefinition InstanceID="0x18EE866C" TextString="Cost:" />
+    <TextStringDefinition InstanceID="0x14B7414E" TextString="Total Cost:" />
+    <TextStringDefinition InstanceID="0x187F0B3E" TextString="Bar Supplies Total Cost:" />
+    <TextStringDefinition InstanceID="0x4B6A212E" TextString=" Hire Yourself as Dancer" />
+    <TextStringDefinition InstanceID="0x3747528F" TextString="You already have a career." />
+    <TextStringDefinition InstanceID="0xC392B1CB" TextString="There are no more available job positions in your club." />
+    <TextStringDefinition InstanceID="0x72FE3B04" TextString="{0.SimFirstName} has fired {1.SimFirstName}. {M1.He}{F1.She} will no longer show up for work." />
+    <TextStringDefinition InstanceID="0xFAB92E3E" TextString="Buy a Strip Club" />
+    <TextStringDefinition InstanceID="0x6809DF89" TextString="You cannot buy a Strip Club while on vacation." />
+    <TextStringDefinition InstanceID="0x5B032EA1" TextString="The Get to Work expansion pack is required to buy a Strip Club." />
+    <TextStringDefinition InstanceID="0x8ACE874E" TextString=" Sell This Strip Club" />
+    <TextStringDefinition InstanceID="0xEB4B53A3" TextString="Sell The Strip Club?" />
+    <TextStringDefinition InstanceID="0xD91237C0" TextString="Upon confirmation, your business funds and the lot value will be deposited into your household's funds. If your business funds are in the negative, money will be deducted from the value of the lot to clear your debts. The household will earn {0.Money} from this sale." />
+    <TextStringDefinition InstanceID="0x7295E2FC" TextString="Travel to Strip Club" />
+    <TextStringDefinition InstanceID="0x4A48A7CD" TextString="Travel to {0.String}" />
+    <TextStringDefinition InstanceID="0xBF2D53CE" TextString="Manage Outfits" />
+    <TextStringDefinition InstanceID="0x8651B2C1" TextString="Manage Open Hours" />
+    <TextStringDefinition InstanceID="0x9889A4F4" TextString="Strip Club Open Hours" />
+    <TextStringDefinition InstanceID="0x4C4185DF" TextString="Select the opening hour and the closing hour of your Strip Club." />
+    <TextStringDefinition InstanceID="0x8A96CCCD" TextString="Opening Hour" />
+    <TextStringDefinition InstanceID="0x434678AE" TextString="Closing Hour" />
+    <TextStringDefinition InstanceID="0x00DE3E46" TextString="1AM (01:00)" />
+    <TextStringDefinition InstanceID="0x89A2D5D6" TextString="2AM (02:00)" />
+    <TextStringDefinition InstanceID="0xCFE4D8E2" TextString="3AM (03:00)" />
+    <TextStringDefinition InstanceID="0xA01894DA" TextString="4AM (04:00)" />
+    <TextStringDefinition InstanceID="0x46C42FFE" TextString="5AM (05:00)" />
+    <TextStringDefinition InstanceID="0x5179DEEE" TextString="6AM (06:00)" />
+    <TextStringDefinition InstanceID="0xAA8CECE2" TextString="7AM (07:00)" />
+    <TextStringDefinition InstanceID="0x0E1F477A" TextString="8AM (08:00)" />
+    <TextStringDefinition InstanceID="0xD10744C6" TextString="9AM (09:00)" />
+    <TextStringDefinition InstanceID="0x3D59D08E" TextString="10AM (10:00)" />
+    <TextStringDefinition InstanceID="0x0683A616" TextString="11AM (11:00)" />
+    <TextStringDefinition InstanceID="0x31315941" TextString="12PM (12:00)" />
+    <TextStringDefinition InstanceID="0xFD137100" TextString="1PM (13:00)" />
+    <TextStringDefinition InstanceID="0x0BAEC744" TextString="2PM (14:00)" />
+    <TextStringDefinition InstanceID="0x6B003C68" TextString="3PM (15:00)" />
+    <TextStringDefinition InstanceID="0x50A57D5C" TextString="4PM (16:00)" />
+    <TextStringDefinition InstanceID="0x952718C0" TextString="5PM (17:00)" />
+    <TextStringDefinition InstanceID="0xD55CF56C" TextString="6PM (18:00)" />
+    <TextStringDefinition InstanceID="0xC1E15028" TextString="7PM (19:00)" />
+    <TextStringDefinition InstanceID="0x4750B873" TextString="8PM (20:00)" />
+    <TextStringDefinition InstanceID="0x2D4BEBC7" TextString="9PM (21:00)" />
+    <TextStringDefinition InstanceID="0x582EA15E" TextString="10PM (22:00)" />
+    <TextStringDefinition InstanceID="0x52D08132" TextString="11PM (23:00)" />
+    <TextStringDefinition InstanceID="0x5B1EF7BF" TextString="12AM (00:00)" />
+    <TextStringDefinition InstanceID="0xC454B505" TextString="&lt;font color='#0CAB19'&gt;Strip Club will open at {0.String}.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x21EDBFE6" TextString="&lt;font color='#AB0C10'&gt;Strip Club will close at {0.String}.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA156FFD1" TextString="Strip Club is Open" />
+    <TextStringDefinition InstanceID="0x407C0FA1" TextString="The Strip Club is now open!" />
+    <TextStringDefinition InstanceID="0x49CBC77B" TextString="The Strip Club is now open!\n\nAnd it will close at {0.String}." />
+    <TextStringDefinition InstanceID="0xD0ED654D" TextString="Strip Club is Closed" />
+    <TextStringDefinition InstanceID="0x54F1E44B" TextString="The Strip Club is now closed!\n\nClick on your phone to change the opening hours under the Strip Club category." />
+    <TextStringDefinition InstanceID="0xF913EEB3" TextString="The Strip Club is now closed!\nAnd it will open at {0.String}.\n\nClick on your phone to change the opening hours under the Strip Club category." />
+    <TextStringDefinition InstanceID="0x1C1A1265" TextString="Open for Business!" />
+    <TextStringDefinition InstanceID="0xD99DA0E9" TextString="The Strip Club is now open and clients will being showing up at night hours.\n\nAny hired dancer will be arriving momentarily; be sure to assign them a task to perform or let them decide what to do on their own.\n\nMake sure to place a Dancing Pole/Dancing Spot for Stage Dancing and Assign Lap Dancing Seats for Private Dances.\n\nRemember to manage the bar by adjusting the Price Markup for extra profit and Order Bar Supplies to not run out of stock." />
+    <TextStringDefinition InstanceID="0x7306C27C" TextString="Client - {0.String}" />
+    <TextStringDefinition InstanceID="0x1CF49816" TextString="Drinker" />
+    <TextStringDefinition InstanceID="0x8EFF121C" TextString="Socializer" />
+    <TextStringDefinition InstanceID="0xCD418755" TextString="Watcher" />
+    <TextStringDefinition InstanceID="0xE6F115BD" TextString="Loiterer" />
+    <TextStringDefinition InstanceID="0x2F6A95EC" TextString="Special" />
+    <TextStringDefinition InstanceID="0x2A9C31AE" TextString="Client" />
+    <TextStringDefinition InstanceID="0x814DDFD3" TextString="Greet Dancer" />
+    <TextStringDefinition InstanceID="0xBDB68055" TextString="Ask for Private Dance" />
+    <TextStringDefinition InstanceID="0xDDFB38C1" TextString="Be Asked for Private Dance" />
+    <TextStringDefinition InstanceID="0xF11C51C5" TextString="Wait Around" />
+    <TextStringDefinition InstanceID="0xD0CA3674" TextString="This is ridiculous! Where is the bartender? Looks like I have to find a different place to get a drink." />
+    <TextStringDefinition InstanceID="0x69BC7207" TextString="Your drinks are way too expensive for what you have available. I'm leaving to find a better place to get a drink." />
+    <TextStringDefinition InstanceID="0xD4354162" TextString="What is this club? Why is nobody dancing? What's the point of going here? I'm leaving." />
+    <TextStringDefinition InstanceID="0x9D7F6267" TextString="I want someone to talk to and get a private dance! Am I to believe that all of the dancers are busy right now? You need to manage this place better." />
+    <TextStringDefinition InstanceID="0xC5F7A6DF" TextString="Watch Dance" />
+    <TextStringDefinition InstanceID="0xD82A0BBF" TextString="Watch Dance: {0.String} ({1.String})" />
+    <TextStringDefinition InstanceID="0xCDB45CF7" TextString="Tip Dancer" />
+    <TextStringDefinition InstanceID="0xE92EE7F4" TextString="You can't do this as a Strip Club client." />
+    <TextStringDefinition InstanceID="0x4572A18C" TextString="Dancer - {0.String}" />
+    <TextStringDefinition InstanceID="0x5F23E6CE" TextString="Charming" />
+    <TextStringDefinition InstanceID="0x5FE18C25" TextString="Bartending" />
+    <TextStringDefinition InstanceID="0x9F13E273" TextString="Stage Dancing" />
+    <TextStringDefinition InstanceID="0x2DCBE637" TextString="Idle" />
+    <TextStringDefinition InstanceID="0x2D4D6A1E" TextString="Dancer" />
+    <TextStringDefinition InstanceID="0x6BC91717" TextString="Dancer" />
+    <TextStringDefinition InstanceID="0x79644FF5" TextString="{1.SimFirstName} is way too tired to dance on stage. Give {M1.him}{F1.her} a few minutes." />
+    <TextStringDefinition InstanceID="0x4DDF7FB3" TextString="Greet Client" />
+    <TextStringDefinition InstanceID="0xC0ADF236" TextString="Offer a Drink" />
+    <TextStringDefinition InstanceID="0xB150FCF5" TextString="Offer Private Dance" />
+    <TextStringDefinition InstanceID="0x1FBAD16C" TextString="Be Offered a Private Dance" />
+    <TextStringDefinition InstanceID="0xBB4EC035" TextString="There are no available lap dancing spots." />
+    <TextStringDefinition InstanceID="0x4463B52C" TextString="All lap dancing spots are currently in use." />
+    <TextStringDefinition InstanceID="0x7E14EB29" TextString="Ask Client To Leave" />
+    <TextStringDefinition InstanceID="0xB0CCB15D" TextString="Influences customer satisfaction from striptease dancing." />
+    <TextStringDefinition InstanceID="0x28D9472B" TextString="Influences customer satisfaction from charming interactions." />
+    <TextStringDefinition InstanceID="0xDE5F03E9" TextString="Influences customer satisfaction from prepared drinks." />
+    <TextStringDefinition InstanceID="0xF0E22E16" TextString="Strip Club Dancer" />
+    <TextStringDefinition InstanceID="0xB629A07E" TextString="{0.SimFirstName} has hired a new employee. {1.SimName} will arrive for {M1.his}{F1.her} first shift the next time the club is opened.&#xA;&#xA;Be sure to track {1.SimFirstName}'s skills in the Employee Management window and assign {M1.him}{F1.her} an appropriate work task when {M1.he}{F1.she} arrives." />
+    <TextStringDefinition InstanceID="0xD6A9A9F4" TextString="Charming" />
+    <TextStringDefinition InstanceID="0x8358F241" TextString="Assign Task" />
+    <TextStringDefinition InstanceID="0xCB564A3A" TextString="Charm Clients" />
+    <TextStringDefinition InstanceID="0xBA6B0DDB" TextString="Tend Bar" />
+    <TextStringDefinition InstanceID="0xA5F822AC" TextString="Stage Dance" />
+    <TextStringDefinition InstanceID="0x42B7569C" TextString="There are no dancing spots in this club." />
+    <TextStringDefinition InstanceID="0x4EA52DEE" TextString="Looks like there are no Dancing Poles or Dancing Spots in the club. Dancers are not able to perform for the clients.\n\nPlace a Dancing Pole or a Dancing Spot somewhere in the club to allow dancers to dance." />
+    <TextStringDefinition InstanceID="0x13C6DA89" TextString="Assign Female Outfit" />
+    <TextStringDefinition InstanceID="0xDCC02BEC" TextString="Assign Male Outfit" />
+    <TextStringDefinition InstanceID="0x2169DCC4" TextString="Design Female Outfit" />
+    <TextStringDefinition InstanceID="0xC7E1DC0D" TextString="Design Male Outfit" />
+    <TextStringDefinition InstanceID="0xB86A9540" TextString="You can't do this as a Strip Club dancer." />
+    <TextStringDefinition InstanceID="0x60276F0B" TextString="Striptease" />
+    <TextStringDefinition InstanceID="0xFF5090CF" TextString="Acquired the Striptease Skill" />
+    <TextStringDefinition InstanceID="0x775E3417" TextString="Sims with the Striptease skill perform the most sensual dancing moves you can imagine. They love to dance and impress the audience.\n\nDance on a Dancing Pole, a Dancing Spot, or perform a Lap Dance to increase this skill. Dancing to the Sim favorite music genre further strengthens the Striptease performance." />
+    <TextStringDefinition InstanceID="0x79E74A60" TextString="Dance" />
+    <TextStringDefinition InstanceID="0x3116CF03" TextString="Go to Dance" />
+    <TextStringDefinition InstanceID="0x5CAA75C4" TextString="Wait for Dance" />
+    <TextStringDefinition InstanceID="0xFAECEB00" TextString="Pole Dance" />
+    <TextStringDefinition InstanceID="0x82A4E86E" TextString="Spot Dance" />
+    <TextStringDefinition InstanceID="0xFA9562A1" TextString="Lap Dance" />
+    <TextStringDefinition InstanceID="0x0279A84C" TextString="Dance: {0.String} ({1.String})" />
+    <TextStringDefinition InstanceID="0x4DA7B05E" TextString="Change Dance" />
+    <TextStringDefinition InstanceID="0x4D1611BB" TextString="Stop Dancing" />
+    <TextStringDefinition InstanceID="0x9D438C13" TextString="Assign Dancer" />
+    <TextStringDefinition InstanceID="0x46D02688" TextString="{0.SimName} Pole Dance" />
+    <TextStringDefinition InstanceID="0xCBDFA906" TextString="{0.SimName} Spot Dance" />
+    <TextStringDefinition InstanceID="0xE3EC7D29" TextString="{0.SimName} Lap Dance" />
+    <TextStringDefinition InstanceID="0xEE84A133" TextString="Author: {0.String}" />
+    <TextStringDefinition InstanceID="0x70D34E8B" TextString="Assign Lap Dancing Spot" />
+    <TextStringDefinition InstanceID="0x00C5B4AC" TextString="Unassign Lap Dancing Spot" />
+    <TextStringDefinition InstanceID="0x8647B01A" TextString="Manage Dance Animations" />
+    <TextStringDefinition InstanceID="0x9ADA7EA4" TextString="Dance Animations Management" />
+    <TextStringDefinition InstanceID="0xB425A6FD" TextString="Dance Animations Management\n{0.String}" />
+    <TextStringDefinition InstanceID="0xAE7CA640" TextString="Select which dance type animations you want to disable." />
+    <TextStringDefinition InstanceID="0xDD902145" TextString="Select which creator animations you want to disable." />
+    <TextStringDefinition InstanceID="0xE3CBE411" TextString="Dancer Tip" />
+    <TextStringDefinition InstanceID="0x9CF0FC62" TextString="Buy Dancing Equipment!" />
+    <TextStringDefinition InstanceID="0x888D6066" TextString="Buying a Dancing Pole or a Dancing Spot Marker is required for dancers to Stage Dance and for clients to watch them.\n\nLook for a 'Dancing Pole' or a 'Dancing Spot' in Build Mode and place one in an open area or at a stage.\nClients will gather around and look for a comfortable seat to watch dancers. It's suggested to place seats around the Dancing Pole or Dancing Spot.\n\nClients who don't find a seat could potentially walk up the Dancing Pole/Dancing Spot. You can prevent this behavior by enabling the 'Force Routing Restrictions Switch' setting in Nudity Settings -&gt; Strip Club Settings." />
+    <TextStringDefinition InstanceID="0xBEB9B040" TextString="Assign Lap Dancing Seats!" />
+    <TextStringDefinition InstanceID="0x583EEC05" TextString="Assigning Lap Dancing Seats is required for clients to ask for a private dance.\nAny Loveseat, Sofa, Recliner, or Chair in the club can be assigned as a Lap Dancing Seat.\nBuild at least one private room, place a seat inside it, and click on it to 'Assign Lap Dancing Spot'. Any client asking for a dance will use the assigned seats to receive a lap dance.\n\nAll seats assigned as Lap Dancing Seats are exclusively used for lap dancing.\n\nClick on any Dancer and assign the 'Charming Clients' task to allow the dancer and the clients to initiate private dances." />
+    <TextStringDefinition InstanceID="0x30D52DBC" TextString="Wicked Strip Club Dancing Spot Marker" />
+    <TextStringDefinition InstanceID="0x09C5318A" TextString="Wicked Strip Club Dancing Spot Marker (Invisible)" />
+    <TextStringDefinition InstanceID="0x5D863984" TextString="Specialized floor marking spot that is used by dancers as the designated dancing position. Dancers on this spot will perform dances that do not involve a dancing pole.\n\nPut this object in places where dancers are meant to dance when assigned the dancing role. &lt;i&gt;Use the invisible variant to make the dancing spots not visible in Live Mode.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xF697EAF2" TextString="Wicked Strip Club Dancing Pole" />
+    <TextStringDefinition InstanceID="0x0CBAF2BA" TextString="Freestanding spin dancing poles are an easy and convenient choice for blooming Strip Club businesses. The shiny finish and rotating function enhance dancers performance with additional 'wow factor' that makes customers heads turn.\nProvided by the Noir and Dark Sims Inc." />
+    <TextStringDefinition InstanceID="0x8E4A5AA2" TextString="Supply Carrier" />
+    <TextStringDefinition InstanceID="0xB57D49E1" TextString="Your order for {0.Number} Bar Supplies has been placed and will arrive the next day at around noon." />
+    <TextStringDefinition InstanceID="0x6B9B1E99" TextString="Your order of Bar Supplies has been delivered to your Strip Club." />
+    <TextStringDefinition InstanceID="0xE089EB2C" TextString="Bar Supplies Status ({0.Number}/{1.Number})" />
+    <TextStringDefinition InstanceID="0x653BE29B" TextString="Available Supplies: {0.Number}\nSupplies Capacity: {1.Number}\nOrdered Supplies: {2.Number}\nPrice Markup: {3.Number}%\n\nPreparing drinks consumes Bar Supplies which are required to craft various drinks for clients. Order more supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu." />
+    <TextStringDefinition InstanceID="0xC5BB9DE2" TextString="Order Supplies" />
+    <TextStringDefinition InstanceID="0xB8423696" TextString="Order 5" />
+    <TextStringDefinition InstanceID="0x850BD5A8" TextString="Order 10" />
+    <TextStringDefinition InstanceID="0x51F2F649" TextString="Order 20" />
+    <TextStringDefinition InstanceID="0x60222DFA" TextString="Order 30" />
+    <TextStringDefinition InstanceID="0x50B1641B" TextString="Order 40" />
+    <TextStringDefinition InstanceID="0x86722924" TextString="Order 50" />
+    <TextStringDefinition InstanceID="0x93D14490" TextString="Currently you have {0.Number} out of {1.Number} supplies and ordered {2.Number} supplies.\n\nDo you want to order {3.Number} supplies for {4.Number} Simoleons?\n\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
+    <TextStringDefinition InstanceID="0xDA22C1B4" TextString="You already ordered {0.Number} out of {1.Number} supplies." />
+    <TextStringDefinition InstanceID="0x7ED712FE" TextString="Price Markup" />
+    <TextStringDefinition InstanceID="0xB67898BE" TextString="0%" />
+    <TextStringDefinition InstanceID="0x64BAAE63" TextString="25%" />
+    <TextStringDefinition InstanceID="0x1FA7D8AF" TextString="50%" />
+    <TextStringDefinition InstanceID="0xAF907CDE" TextString="75%" />
+    <TextStringDefinition InstanceID="0xCE143019" TextString="100%" />
+    <TextStringDefinition InstanceID="0x0092BBE0" TextString="This is the current price markup." />
+    <TextStringDefinition InstanceID="0xA4005EEE" TextString="Hey boss, we're running out of Bar Supplies. Clients are ordering drinks we can't prepare. Could you order more supplies?" />
+    <TextStringDefinition InstanceID="0xAB7E34BF" TextString="Hey boss, we are out of Bar Supplies. We can't sell any more drinks until you restock the bar. Could you order more supplies?" />
+    <TextStringDefinition InstanceID="0xFBFFDEA9" TextString="Bartender Tip" />
+    <TextStringDefinition InstanceID="0xFC8385B0" TextString="High Price Markup and Low Bar Supplies decrease the likeliness of clients purchasing drinks.\n\nShortage of supplies means fewer drinks to offer, and increased price makes them less appealing for purchase. When you can't sell the client's favorite drinks, lower the 'Price Markup' to make other drinks an attractive offer.\n\nClick on any Bar to access the Strip Club Price Markup menu." />
+    <TextStringDefinition InstanceID="0xCA0EEBD9" TextString="Bar Supplies are required to prepare drinks for clients. Each prepared drink consumes supplies, and when they run out, drinks cannot be prepared anymore.\n\nYou can order supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu.\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
+    <TextStringDefinition InstanceID="0x1B886719" TextString="Things here are great! You're a fantastic boss and I couldn't be happier with our customers." />
+    <TextStringDefinition InstanceID="0x67A22BF5" TextString="I get up each day, excited to bring joy to our customers." />
+    <TextStringDefinition InstanceID="0x2302D9DB" TextString="Everything about my work makes me happy! And that makes our customers happy!" />
+    <TextStringDefinition InstanceID="0x89934333" TextString="I wake up every day thinking about ways that I can continue to impress our customers. I love the challenge of working here!" />
+    <TextStringDefinition InstanceID="0x895DAC56" TextString="I tell all of my {M1.male}{F1.female} friends that they should try and get hired here. It's the best job I've ever had!" />
+    <TextStringDefinition InstanceID="0x489C9EAB" TextString="This place is pretty good. I have some ideas about how to make it better that I'd really like to share with you." />
+    <TextStringDefinition InstanceID="0xF13F7B87" TextString="This is a pretty nice place to work. It'd be better if things were a little less sticky sometimes..." />
+    <TextStringDefinition InstanceID="0x97DB5687" TextString="I'm fairly happy here... I enjoy interacting with the customers." />
+    <TextStringDefinition InstanceID="0x84F49D22" TextString="The work here is rewarding. We get along well, and I feel valued. I'm satisfied with that." />
+    <TextStringDefinition InstanceID="0x4CCCE573" TextString="How do I feel? Hmm... Well, work could be better I suppose. But on the other hand, work could definitely be worse... I guess I'm OK with things just the way they are." />
+    <TextStringDefinition InstanceID="0xC29A6D31" TextString="Work is what work is... It's just a means to an end for me." />
+    <TextStringDefinition InstanceID="0x34674300" TextString="Things are alright. Thanks for asking." />
+    <TextStringDefinition InstanceID="0xAF53E612" TextString="Just let me earn my paycheck and you won't hear any complaints out of me." />
+    <TextStringDefinition InstanceID="0x2B5E0C76" TextString="Things are OK. You could always pay me more money and see if I improve." />
+    <TextStringDefinition InstanceID="0xC8E18EAD" TextString="If hating this job could get me promoted, I'd be running this place!" />
+    <TextStringDefinition InstanceID="0xC3609C64" TextString="How am I feeling about my job? Meh!" />
+    <TextStringDefinition InstanceID="0x0419D4D7" TextString="I guess things are just fine. I come to work, get paid... Yup, that's a job alright." />
+    <TextStringDefinition InstanceID="0x1297CB75" TextString="I'm really just here to earn money. I put in the work, you pay me, and we'll get along just fine." />
+    <TextStringDefinition InstanceID="0x60963855" TextString="I wake up every day thinking about ways that I can continue to impress you. I wish I could get a promotion." />
+    <TextStringDefinition InstanceID="0xEEABB75E" TextString="You're a terrible boss. I wish that you weren't, but you are. Every day." />
+    <TextStringDefinition InstanceID="0xEFFFB104" TextString="Mumble mumble... start a fire... At least I'd get to go home for the day. Mumble..." />
+    <TextStringDefinition InstanceID="0x23687309" TextString="Can't you just leave me alone? I get enough socializing with the customers." />
+    <TextStringDefinition InstanceID="0x1092EF83" TextString="What do you want now? You're interrupting my personal thoughts! Stay out of my head and stop wasting my time!" />
     <TextStringDefinition InstanceID="0x1CB03F41" TextString="---------- Window Peeping ----------" />
     <TextStringDefinition InstanceID="0x640EF940" TextString="Peeping Sim" />
     <TextStringDefinition InstanceID="0x7A0BB786" TextString="Go to Peeping Window" />

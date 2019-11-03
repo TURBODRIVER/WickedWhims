@@ -179,7 +179,15 @@
     <TextStringDefinition InstanceID="0x719F72D1" TextString="Attractiveness Scoping" />
     <TextStringDefinition InstanceID="0xEAC713CA" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} noticed one that sparked {M0.his}{F0.her} interest.\n\nSpot pulsating hearts to recognize attraction." />
     <TextStringDefinition InstanceID="0x2080E0CD" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} noticed a few that sparked {M0.his}{F0.her} interest.\n\nSpot pulsating hearts to recognize attraction." />
-    <TextStringDefinition InstanceID="0x8781ADCE" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} haven't noticed anybody interesting." />
+    <TextStringDefinition InstanceID="0x51CFA2C2" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} hasn't noticed anybody interesting." />
+    <TextStringDefinition InstanceID="0xD47B3999" TextString="--------- Attractiveness Visuals ---------" />
+    <TextStringDefinition InstanceID="0x8131F000" TextString="Attractiveness" />
+    <TextStringDefinition InstanceID="0x667A5114" TextString="{0.SimName} thinks {1.SimName} is Extremely Attractive." />
+    <TextStringDefinition InstanceID="0x7B4153B9" TextString="{0.SimName} thinks {1.SimName} is Very Attractive." />
+    <TextStringDefinition InstanceID="0xE7D436C5" TextString="{0.SimName} thinks {1.SimName} is Attractive." />
+    <TextStringDefinition InstanceID="0x67FA8923" TextString="{0.SimName} thinks {1.SimName} is Basic Looking." />
+    <TextStringDefinition InstanceID="0xA4B9FD92" TextString="{0.SimName} thinks {1.SimName} is Unattractive." />
+    <TextStringDefinition InstanceID="0x32B65B06" TextString="{0.SimName} thinks {1.SimName} is Very Unattractive." />
     <TextStringDefinition InstanceID="0x75EFDD27" TextString="--------- Attractiveness Interactions ---------" />
     <TextStringDefinition InstanceID="0x25E6209B" TextString=" Ask about Attractiveness Likes" />
     <TextStringDefinition InstanceID="0x667DEAFD" TextString=" Ask about Attractiveness Dislikes" />
@@ -205,6 +213,8 @@
     <TextStringDefinition InstanceID="0xA62F9D11" TextString="Alien Occult" />
     <TextStringDefinition InstanceID="0x0ABF55F1" TextString="Ghost Occult" />
     <TextStringDefinition InstanceID="0x94D4A4DA" TextString="PlantSim Occult" />
+    <TextStringDefinition InstanceID="0xB3403A8D" TextString="Mermaid Occult" />
+    <TextStringDefinition InstanceID="0x6C83BFA4" TextString="Spellcaster Occult" />
     <TextStringDefinition InstanceID="0xBAD74812" TextString="Sweet Voice" />
     <TextStringDefinition InstanceID="0xCA123319" TextString="Melodic Voice" />
     <TextStringDefinition InstanceID="0x6846A7A4" TextString="Lilted Voice" />
@@ -317,6 +327,7 @@
     <TextStringDefinition InstanceID="0x0BC34739" TextString="Country Style" />
     <TextStringDefinition InstanceID="0x2282B394" TextString="Hipster Style" />
     <TextStringDefinition InstanceID="0xCF63FAA1" TextString="Boho Style" />
+    <TextStringDefinition InstanceID="0x7C10421D" TextString="Islander Style" />
     <TextStringDefinition InstanceID="0x0FAE97C8" TextString="Inexpensive Outfits" />
     <TextStringDefinition InstanceID="0x4E53C913" TextString="Expensive Outfits" />
     <TextStringDefinition InstanceID="0x9ABE3C7E" TextString="Hats" />
@@ -559,6 +570,10 @@
     <TextStringDefinition InstanceID="0xAC4C92EA" TextString="All of the attractiveness preferences are generated based on the Sim romantic partners attractive traits.\n\n(Requires existing romantic partners.)" />
     <TextStringDefinition InstanceID="0x839F8797" TextString="Based on Family Parents" />
     <TextStringDefinition InstanceID="0x0A642E80" TextString="All of the attractiveness preferences are generated based on the Sim parents attractive traits.\n\n(Requires existing family parents.)" />
+    <TextStringDefinition InstanceID="0xB6EE1C28" TextString="Based on Picked Sims" />
+    <TextStringDefinition InstanceID="0x3CE715D1" TextString="All of the attractiveness preferences are generated based on the picked Sims attractive traits." />
+    <TextStringDefinition InstanceID="0x912128BC" TextString="Attractiveness Sims Picker" />
+    <TextStringDefinition InstanceID="0x88BDA16D" TextString="Pick Sims that will be used as the base for attractiveness preferences." />
     <TextStringDefinition InstanceID="0x29841457" TextString="Based on Sim own Attractive Traits" />
     <TextStringDefinition InstanceID="0xA23ACED6" TextString="All of the attractiveness preferences are generated based on the Sim own attractive traits." />
     <TextStringDefinition InstanceID="0x5E10C5AE" TextString="Based on most common Attractive Traits" />
@@ -568,6 +583,7 @@
     <TextStringDefinition InstanceID="0x795102AF" TextString="Generate Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0x532FE634" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0x476673CC" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0xA2284DCF" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the picked Sims attractiveness traits.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0x421378D6" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0xB4A60733" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0xAAF73F7C" TextString="You're about to generate random Attractiveness Preferences for the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />

@@ -317,6 +317,8 @@
     <TextStringDefinition InstanceID="0x0A8A6BDB" TextString="Enable/Disable global instant undressing outside sex." />
     <TextStringDefinition InstanceID="0x8F90A88F" TextString="Manual NPC Sex Switch" />
     <TextStringDefinition InstanceID="0x8ADCD2A0" TextString="Enable/Disable control over NPC Sims sex." />
+    <TextStringDefinition InstanceID="0x3981FB4C" TextString="Talk After Sex Switch" />
+    <TextStringDefinition InstanceID="0x5D469CA8" TextString="Check to allow Sims to talk after finishing sex." />
     <TextStringDefinition InstanceID="0x9949E5FC" TextString="Change Sex Location Anywhere Switch" />
     <TextStringDefinition InstanceID="0x70245D58" TextString="Check to allow Sims to change sex location without limits." />
     <TextStringDefinition InstanceID="0xB63CC0CC" TextString="Sim Needs Decay Switch" />
@@ -354,6 +356,7 @@
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
     <TextStringDefinition InstanceID="0x8BB9DD8F" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING SEX TEXT\\\&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
+    <TextStringDefinition InstanceID="0x456C0ACB" TextString=" Have Sex" />
     <TextStringDefinition InstanceID="0xE0C90006" TextString="Ask for Sex" />
     <TextStringDefinition InstanceID="0xBA4656AC" TextString="Ask for Sex (Random)" />
     <TextStringDefinition InstanceID="0x4218F70A" TextString="Be Asked for Sex" />
