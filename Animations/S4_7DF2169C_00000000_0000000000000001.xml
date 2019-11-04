@@ -3,7 +3,7 @@
   <T n="wickedwhims_animations">1</T>
   <L n="animations_list">
 
-    <T> <!-- [START OF ANIMATION ENTRY] -->
+    <U> <!-- [START OF ANIMATION ENTRY] -->
       <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] -->
       <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF USING "animation_display_name" FIELD] -->
       <T n="animation_author">YourName</T>
@@ -15,15 +15,16 @@
       <T n="animation_category">VAGINAL</T>
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_loops">1</T>
+      <T n="animation_negative_duration_offset">0</T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_allowed_for_random">1</T>
 
-      <T n="animation_actors_list">
+      <L n="animation_actors_list">
 
-        <T> <!-- [START OF ACTOR ENTRY] -->
+        <U> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">0</T>
           <T n="animation_clip_name">AnimationClipName1x</T>
 
@@ -43,17 +44,17 @@
 
           <T n="animation_actor_tags"></T>
 
-          <T n="actor_interactions">
-            <T>
+          <L n="actor_interactions">
+            <U>
               <T n="receiving_actor_id">1</T>
               <T n="receiving_actor_category">VAGINAL</T>
               <T n="receiving_actor_cum_layers">VAGINA</T>
               <T n="receiving_actor_cum_inside">1</T>
-            </T>
-          </T>
-        </T> <!-- [END OF ACTOR ENTRY] -->
+            </U>
+          </L>
+        </U> <!-- [END OF ACTOR ENTRY] -->
 
-        <T> <!-- [START OF ACTOR ENTRY] -->
+        <U> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">1</T>
           <T n="animation_clip_name">AnimationClipName1y</T>
 
@@ -73,31 +74,31 @@
 
           <T n="animation_actor_tags"></T>
 
-          <T n="actor_interactions">
-            <T>
+          <L n="actor_interactions">
+            <U>
               <T n="receiving_actor_id">0</T>
               <T n="receiving_actor_category">VAGINAL</T>
               <T n="receiving_actor_cum_layers">DISABLED</T>
               <T n="receiving_actor_cum_inside">0</T>
-            </T>
-          </T>
-        </T> <!-- [END OF ACTOR ENTRY] -->
-      </T>
+            </U>
+          </L>
+        </U> <!-- [END OF ACTOR ENTRY] -->
+      </L>
 
-      <T n="animation_props_list"> <!-- List of props in this animation -->
+      <L n="animation_props_list"> <!-- List of props in this animation -->
 
-        <T> <!-- [START OF PROP ENTRY] -->
+        <U> <!-- [START OF PROP ENTRY] -->
           <T n="prop_id">0</T>
           <T n="prop_type">BASIC</T>
           <T n="prop_guids">123456789, 987654321</T>
           <T n="prop_animation_clip_name">PropAnimationClipName</T>
-        </T> <!-- [END OF PROP ENTRY] -->
+        </U> <!-- [END OF PROP ENTRY] -->
 
-      </T>
+      </L>
 
-      <T n="animation_events_list">
+      <L n="animation_events_list">
 
-        <T> <!-- [START OF EVENT ENTRY] -->
+        <U> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">EFFECT</T>
           <T n="event_start_timecode">1.23456</T>
           <T n="event_end_timecode">9.87654</T>
@@ -106,20 +107,21 @@
           <T n="effect_name">EffectName</T>
           <T n="effect_joint_name">BoneJointName</T>
 
-          <T n="dont_run_if">
+          <U n="dont_run_if">
             <T n="actor_has_condom">1</T>
-          </T>
-        </T> <!-- [END OF EVENT ENTRY] -->
+          </U>
+        </U> <!-- [END OF EVENT ENTRY] -->
 
-        <T> <!-- [START OF EVENT ENTRY] -->
+        <U> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">CUM</T>
           <T n="event_start_timecode">1.23456</T>
           <T n="event_target">a1</T>
           <T n="cum_layer_type">FACE</T>
-        </T> <!-- [END OF EVENT ENTRY] -->
+        </U> <!-- [END OF EVENT ENTRY] -->
 
-      </T>
-    </T> <!-- [END OF ANIMATION ENTRY] -->
+      </L>
+
+    </U> <!-- [END OF ANIMATION ENTRY] -->
 
     <!-- Next Animation Goes Here -->
   </L>

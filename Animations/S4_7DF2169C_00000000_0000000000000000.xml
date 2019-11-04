@@ -3,7 +3,7 @@
   <T n="wickedwhims_animations">1</T>
   <L n="animations_list">
 
-    <T> <!-- [START OF ANIMATION ENTRY] -->
+    <U> <!-- [START OF ANIMATION ENTRY] -->
       <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] STBL Hexadecimal ID for displayed animation name -->
       <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF USING "animation_display_name" FIELD] Raw Text for displayed animation name -->
       <T n="animation_author">YourName</T> <!-- Raw Text for displayed author name of this animation -->
@@ -15,15 +15,16 @@
       <T n="animation_category">VAGINAL</T> <!-- Sex Category of the animation (TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL, CLIMAX) -->
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] List of Sex Tags that give the animation context (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
       <T n="animation_loops">1</T> <!-- Number of times the animation will play in a row -->
+      <T n="animation_negative_duration_offset">0</T> <!-- [REMOVE IF UNUSED] Amount of time that is subtracted from the animation duration (ONLY USE WHEN animation_loops IS SET TO 1) -->
 
       <T n="animation_stage_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] Unique stage name of this animation that is used to trigger this animation as the next stage -->
       <T n="animation_next_stages">NameOfNextAnimationStage, OtherNameOfNextAnimationStage</T> <!-- [REMOVE IF UNUSED] List of stage names that are used as next animation after this one ends -->
 
       <T n="animation_allowed_for_random">1</T> <!-- Flag to disallow animation from being randomly picked in sex (0=Disallow, 1=Allow) -->
 
-      <T n="animation_actors_list"> <!-- List of actors in this animation (add more for more actors, remove any that are not needed) -->
+      <L n="animation_actors_list"> <!-- List of actors in this animation (add more for more actors, remove any that are not needed) -->
 
-        <T> <!-- [START OF ACTOR ENTRY] -->
+        <U> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">0</T> <!-- Numerical ID that represents this actor, should be 0 if this is the first actor -->
           <T n="animation_clip_name">AnimationClipName1x</T> <!-- Sim animation ClipName -->
 
@@ -43,17 +44,17 @@
 
           <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
 
-          <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
-            <T>
+          <L n="actor_interactions"> <!-- List of this actor interactions with other actors -->
+            <U>
               <T n="receiving_actor_id">1</T> <!-- Numerical ID of receiving actor this actor is interacting with -->
               <T n="receiving_actor_category">VAGINAL</T> <!-- Sex Category of interaction this actor is performing on the receiving actor -->
               <T n="receiving_actor_cum_layers">VAGINA</T> <!-- List of Cum Layer Types to apply on the receiving actor (DISABLED, FACE, CHEST, BACK, VAGINA, BUTT, FEET, NONE) -->
               <T n="receiving_actor_cum_inside">1</T> <!-- Flag to define if cum goes inside or outside the receiving actor (0=Outside, 1=Inside) -->
-            </T>
-          </T>
-        </T> <!-- [END OF ACTOR ENTRY] -->
+            </U>
+          </L>
+        </U> <!-- [END OF ACTOR ENTRY] -->
 
-        <T> <!-- [START OF ACTOR ENTRY] -->
+        <U> <!-- [START OF ACTOR ENTRY] -->
           <T n="actor_id">1</T> <!-- Numerical ID that represents this actor, should be 0 if this is the first actor -->
           <T n="animation_clip_name">AnimationClipName1y</T> <!-- Sim animation ClipName -->
 
@@ -73,32 +74,32 @@
 
           <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
 
-          <T n="actor_interactions"> <!-- List of this actor interactions with other actors -->
-            <T>
+          <L n="actor_interactions"> <!-- List of this actor interactions with other actors -->
+            <U>
               <T n="receiving_actor_id">0</T> <!-- Numerical ID of receiving actor this actor is interacting with -->
               <T n="receiving_actor_category">VAGINAL</T> <!-- Sex Category of interaction this actor is performing on the receiving actor -->
               <T n="receiving_actor_cum_layers">DISABLED</T> <!-- List of Cum Layer Types to apply on the receiving actor (DISABLED, FACE, CHEST, BACK, VAGINA, BUTT, FEET, NONE) -->
               <T n="receiving_actor_cum_inside">0</T> <!-- Flag to define if cum goes inside or outside the receiving actor (0=Outside, 1=Inside) -->
-            </T>
-          </T>
-        </T> <!-- [END OF ACTOR ENTRY] -->
+            </U>
+          </L>
+        </U> <!-- [END OF ACTOR ENTRY] -->
 
-      </T>
+      </L>
 
-      <T n="animation_props_list"> <!-- List of props in this animation -->
+      <L n="animation_props_list"> <!-- List of props in this animation -->
 
-        <T> <!-- [START OF PROP ENTRY] -->
+        <U> <!-- [START OF PROP ENTRY] -->
           <T n="prop_id">0</T> <!-- Numerical ID that represents this prop, should be 0 if this is the first prop -->
           <T n="prop_type">BASIC</T> <!-- Prop Type of this prop (BASIC) -->
           <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
           <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
-        </T> <!-- [END OF PROP ENTRY] -->
+        </U> <!-- [END OF PROP ENTRY] -->
 
-      </T>
+      </L>
 
-      <T n="animation_events_list"> <!-- List of events in this animation (add more for more events, remove any that are not needed) -->
+      <L n="animation_events_list"> <!-- List of events in this animation (add more for more events, remove any that are not needed) -->
 
-        <T> <!-- [START OF EVENT ENTRY] -->
+        <U> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">EFFECT</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_end_timecode">9.87654</T> <!-- Decimal Number in animation duration of when this event stops (use high number, like 999, to avoid stopping the event) -->
@@ -107,20 +108,21 @@
           <T n="effect_name">EffectName</T> <!-- Effect Name that will be displayed -->
           <T n="effect_joint_name">BoneJointName</T> <!-- Bone Joint Name from the Event Target used for the position of the effect -->
 
-          <T n="dont_run_if"> <!-- List of flags that prevent this event from triggering if true -->
+          <U n="dont_run_if"> <!-- List of flags that prevent this event from triggering if true -->
             <T n="actor_has_condom">1</T> <!-- Flag that checks if Event Target is wearing a condom (use to prevent cum effects when Sim is wearing a condom) -->
-          </T>
-        </T> <!-- [END OF EVENT ENTRY] -->
+          </U>
+        </U> <!-- [END OF EVENT ENTRY] -->
 
-        <T> <!-- [START OF EVENT ENTRY] -->
+        <U> <!-- [START OF EVENT ENTRY] -->
           <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="cum_layer_type">FACE</T> <!-- Cum Layer Type to apply on the Event Target (FACE, CHEST, BACK, VAGINA, BUTT, FEET) -->
-        </T> <!-- [END OF EVENT ENTRY] -->
+        </U> <!-- [END OF EVENT ENTRY] -->
 
-      </T>
-    </T> <!-- [END OF ANIMATION ENTRY] -->
+      </L>
+
+    </U> <!-- [END OF ANIMATION ENTRY] -->
 
     <!-- Next Animation Goes Here -->
   </L>
