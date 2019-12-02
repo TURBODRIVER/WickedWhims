@@ -7,18 +7,14 @@
     <TextStringDefinition InstanceID="0x49E0C5AB" TextString="Changing this setting requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
     <TextStringDefinition InstanceID="0x1B09D825" TextString="Naturism and Exhibitionism Switch" />
     <TextStringDefinition InstanceID="0x09B382A3" TextString="Check to enable nudity skills, nudity autonomy, and nudity story progression." />
+    <TextStringDefinition InstanceID="0x2BBCDED7" TextString="Outfit Undressing Settings" />
+    <TextStringDefinition InstanceID="0x34F35A9D" TextString="Outfit undressing behavior of Sims." />
     <TextStringDefinition InstanceID="0x5E13BB7A" TextString="Underwear Switch" />
     <TextStringDefinition InstanceID="0xE3B6C69B" TextString="Check to enable Sims using underwear and undressing to underwear." />
-    <TextStringDefinition InstanceID="0x72D7548B" TextString="Outfit Settings" />
-    <TextStringDefinition InstanceID="0x7CE18E5A" TextString="Outfit undressing behavior." />
-    <TextStringDefinition InstanceID="0x29499BF8" TextString="Complete Undressing Type" />
-    <TextStringDefinition InstanceID="0xCE63B8F1" TextString="Choose the type of how 'Undress Completely' interaction should undress Sims." />
-    <TextStringDefinition InstanceID="0x48CC49FC" TextString="Default" />
-    <TextStringDefinition InstanceID="0x6A756FA5" TextString="Select to use Sim native bathing outfit with auto fixing when undressing." />
-    <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
-    <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
-    <TextStringDefinition InstanceID="0x40A7B406" TextString="Auto Reset Bathing Outfits" />
-    <TextStringDefinition InstanceID="0x74001401" TextString="Check for Sim bathing outfit to be automatically reset and fixed.\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes." />
+    <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
+    <TextStringDefinition InstanceID="0xC96D1EC8" TextString="Check for teens being able to participate in nudity interactions." />
+    <TextStringDefinition InstanceID="0x1B39AAAC" TextString="Undressing Behavior Settings" />
+    <TextStringDefinition InstanceID="0x6236EFCD" TextString="Undressing behavior related settings." />
     <TextStringDefinition InstanceID="0xAA59D56F" TextString="Auto Undress Gloves with Top" />
     <TextStringDefinition InstanceID="0x9E3ACE3B" TextString="Check for gloves to be undressed with the top part of Sim outfit." />
     <TextStringDefinition InstanceID="0x38A25BA9" TextString="Auto Undress Shoes with Bottom" />
@@ -27,10 +23,26 @@
     <TextStringDefinition InstanceID="0x26470B08" TextString="Check for socks to be undressed with shoes." />
     <TextStringDefinition InstanceID="0xCF0B8F13" TextString="Auto Undress Leggings with Bottom" />
     <TextStringDefinition InstanceID="0xAAA8117F" TextString="Check for leggings to be undressed with the bottom part of Sim outfit." />
-    <TextStringDefinition InstanceID="0xD2BF5A39" TextString="Respect Native Interaction Undressing Rules" />
-    <TextStringDefinition InstanceID="0x329DC941" TextString="Check for Sims to dress up to correct outfit before performing activities that require outfit changing.\nUncheck for Sims to keep the partially undressed outfit when performing activities that require outfit changing." />
+    <TextStringDefinition InstanceID="0x92A8ED33" TextString="Peeing Undressing Switch" />
+    <TextStringDefinition InstanceID="0xE82171A6" TextString="Check for Sims to undress their pants when going to pee." />
+    <TextStringDefinition InstanceID="0xE6D0E27A" TextString="Breast Feeding Undressing Switch" />
+    <TextStringDefinition InstanceID="0xB9DB716B" TextString="Check for Sims to undress their top when breastfeeding." />
+    <TextStringDefinition InstanceID="0x132D1C6D" TextString="Advanced Outfit Settings" />
+    <TextStringDefinition InstanceID="0xFFF2E431" TextString="Advanced settings for outfit undressing behavior of Sims." />
+    <TextStringDefinition InstanceID="0x29499BF8" TextString="Complete Undressing Type" />
+    <TextStringDefinition InstanceID="0xCE63B8F1" TextString="Choose the type of how 'Undress Completely' interaction should undress Sims." />
+    <TextStringDefinition InstanceID="0x48CC49FC" TextString="Default" />
+    <TextStringDefinition InstanceID="0x6A756FA5" TextString="Select to use Sim native bathing outfit with auto fixing when undressing." />
+    <TextStringDefinition InstanceID="0xA39B7152" TextString="Special" />
+    <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
+    <TextStringDefinition InstanceID="0x07CEF1D2" TextString="Dress Up In Advance Switch" />
+    <TextStringDefinition InstanceID="0x3A9456EE" TextString="Check to make naked Sims dress up before going to their destination if reaching it will require dressing up.\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances.\n(When Sim is about to enter a room with others in it, they will dress up beforehand instead of risking embarrassment)" />
+    <TextStringDefinition InstanceID="0xD82578E3" TextString="Nudity Permitted Autonomy Signs Influence" />
+    <TextStringDefinition InstanceID="0xCD7CA0D7" TextString="Check for Sims to allow undressing without limits when the 'Nudity Permitted In Room Sign' is in the room.\nUncheck for Sims to allow undressing when the 'Nudity Permitted In Room Sign' in the room, while the 'No Nudity Permitted On Lot Sign' is present on the lot." />
+    <TextStringDefinition InstanceID="0x40A7B406" TextString="Auto Reset Bathing Outfits" />
+    <TextStringDefinition InstanceID="0x74001401" TextString="Check for Sim bathing outfit to be automatically reset and fixed.\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes." />
     <TextStringDefinition InstanceID="0xC37C66E8" TextString="Notifications Settings" />
-    <TextStringDefinition InstanceID="0x71A3B0F8" TextString="Control nudity related notifications." />
+    <TextStringDefinition InstanceID="0xD7CAA081" TextString="Nudity related notifications behavior." />
     <TextStringDefinition InstanceID="0x3E95A01F" TextString="Notifications Visibility Type" />
     <TextStringDefinition InstanceID="0x42709878" TextString="Choose the type of notifications visibility." />
     <TextStringDefinition InstanceID="0x2838C8AF" TextString="Disable Notifications" />
@@ -41,80 +53,76 @@
     <TextStringDefinition InstanceID="0xB7D95464" TextString="Select to display all notifications about nudity actions." />
     <TextStringDefinition InstanceID="0x8828ABA5" TextString="Notifications Household Limit Switch" />
     <TextStringDefinition InstanceID="0x030353A2" TextString="Check for nudity notifications to be displayed only about household Sims.\nUncheck for nudity notifications to be displayed about all Sims." />
-    <TextStringDefinition InstanceID="0x4AF92289" TextString="Occurrence Settings" />
+    <TextStringDefinition InstanceID="0x18054B4F" TextString="Occurrence &amp; Autonomy Settings" />
     <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
-    <TextStringDefinition InstanceID="0x1D50482F" TextString="Occurrence Level Settings" />
-    <TextStringDefinition InstanceID="0x1BA9F679" TextString="Choose the level of nudity occurrence and autonomy." />
-    <TextStringDefinition InstanceID="0x03D07A02" TextString="Disable Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0x9C30BE23" TextString="Select to disable random nudity occurrences as well as Sims nudity autonomy." />
-    <TextStringDefinition InstanceID="0x1F5A7A50" TextString="Low Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0xF8BE9A9C" TextString="Select to enable low base chance of random nudity occurrences as well as Sims nudity autonomy." />
-    <TextStringDefinition InstanceID="0x0F02F921" TextString="Normal Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0xA607CC5B" TextString="Select to enable normal base chance of Random nudity occurrences as well as Sims nudity autonomy." />
-    <TextStringDefinition InstanceID="0x3B442332" TextString="High Nudity Occurrences" />
-    <TextStringDefinition InstanceID="0x902F6A40" TextString="Select to enable nudity everywhere." />
+    <TextStringDefinition InstanceID="0x01C964F4" TextString="Player Occurrences Inclusion" />
+    <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
+    <TextStringDefinition InstanceID="0xA397E916" TextString="Respect Children's Eyes" />
+    <TextStringDefinition InstanceID="0x1455BD73" TextString="Check for Sims to never undress around children." />
+    <TextStringDefinition InstanceID="0x24E20EC3" TextString="Autonomy Respects Underwear" />
+    <TextStringDefinition InstanceID="0x7E210EB8" TextString="Check for Sims to first undress to underwear when performing an autonomous interaction before getting naked.\nUncheck for Sims to undress directly to nudity when performing an autonomous interaction and skip showing underwear." />
     <TextStringDefinition InstanceID="0x5918AF2F" TextString="Occurrence Specifics" />
-    <TextStringDefinition InstanceID="0x9B74B8B2" TextString="Change how nudity occurrences and autonomy work." />
+    <TextStringDefinition InstanceID="0x6A1C48F2" TextString="Change nudity occurrences behavior." />
     <TextStringDefinition InstanceID="0x20673DDB" TextString="Random Swimwear Accidents" />
-    <TextStringDefinition InstanceID="0x3B607380" TextString="Check for Sims to randomly having swimwear related accidents when jumping to water." />
+    <TextStringDefinition InstanceID="0x91CCC1E9" TextString="Random Sims swimwear related accidents.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to experience this commonly.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to experience this rarely.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to not experience this at all." />
     <TextStringDefinition InstanceID="0x490CA9AF" TextString="Random Missing Towel" />
-    <TextStringDefinition InstanceID="0x4BA2E9C4" TextString="Check for Sims to randomly not putting on their towel after a shower in public." />
+    <TextStringDefinition InstanceID="0x3811DE3C" TextString="Random Sims forget their towel after showering in public.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to forget their towel commonly.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to forget their towel rarely.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never forget their towel." />
+    <TextStringDefinition InstanceID="0x8C41BCA9" TextString="Interaction Outfit Changing" />
+    <TextStringDefinition InstanceID="0x0B94EAAA" TextString="Change interactions outfit changing behavior." />
+    <TextStringDefinition InstanceID="0xE36F7B5F" TextString="Naked Sleeping" />
+    <TextStringDefinition InstanceID="0x0DF5352F" TextString="Sims will get naked to sleep.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always get naked to sleep.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to sometimes get naked to sleep.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never get naked to sleep." />
+    <TextStringDefinition InstanceID="0xD5CA85BB" TextString="Naked Workout" />
+    <TextStringDefinition InstanceID="0x93DCE92F" TextString="Sims will get naked to workout at home.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always get naked to workout.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to sometimes get naked to workout.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never get naked to workout." />
+    <TextStringDefinition InstanceID="0x1A82788C" TextString="Naked in Water" />
+    <TextStringDefinition InstanceID="0x052B99BA" TextString="Sims will get naked when getting into water*.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always get naked in water.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to sometimes get naked in water.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never get naked in water.\n*(with the exception of gym, spa, and pool venues)" />
+    <TextStringDefinition InstanceID="0xE3916F48" TextString="Naked Yoga" />
+    <TextStringDefinition InstanceID="0x6577B591" TextString="Sims will get naked for yoga.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always get naked for yoga.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to sometimes get naked for yoga.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never get naked for yoga." />
+    <TextStringDefinition InstanceID="0x6A3AC44F" TextString="Naked Massage" />
+    <TextStringDefinition InstanceID="0x837C1FA1" TextString="Sims will get naked for massages.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always get naked for massages.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to sometimes get naked for massages.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never get naked for massages." />
+    <TextStringDefinition InstanceID="0x543EA76E" TextString="Dress Up for Interaction Outfits" />
+    <TextStringDefinition InstanceID="0xADA39054" TextString="Check for Sims to dress up to correct outfit before performing activities that require outfit changing.\nUncheck for Sims to keep their partially undressed outfit when performing activities that require outfit changing." />
+    <TextStringDefinition InstanceID="0xDB2FDAAA" TextString="Autonomy Specifics" />
+    <TextStringDefinition InstanceID="0x65A340A8" TextString="Change nudity autonomy behavior." />
     <TextStringDefinition InstanceID="0xA5E18202" TextString="Random Interaction Undressing Autonomy" />
     <TextStringDefinition InstanceID="0xA5A6D79D" TextString="Check for Sims to randomly (based on skill level) decide if they want to get naked for undressing interactions.\n\n\nSpecific undressing interactions (like changing to sleep or changing to workout) are affected by the possibility of undressing to nude." />
     <TextStringDefinition InstanceID="0xB739DF8C" TextString="Random No Context Undressing Autonomy" />
-    <TextStringDefinition InstanceID="0xD649E478" TextString="Check for Sims to randomly undress without any context." />
+    <TextStringDefinition InstanceID="0xF051E7CA" TextString="Random Sims undressing without any context.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to undress commonly without context.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to undress rarely without context.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never undress without context." />
     <TextStringDefinition InstanceID="0x388A0E0B" TextString="Embrace Nudity Club Autonomy" />
-    <TextStringDefinition InstanceID="0xA97BF9D4" TextString="Check for Sims to talk about nudity and undress when at a nudity club gathering." />
+    <TextStringDefinition InstanceID="0x7E8FBE25" TextString="Sims will undress at nudity club gatherings.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to undress commonly.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to undress rarely.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never undress." />
     <TextStringDefinition InstanceID="0x805BB68F" TextString="Flash Club Autonomy" />
     <TextStringDefinition InstanceID="0xEA59C767" TextString="Check for Sims to flash others when at a flashing club gathering." />
     <TextStringDefinition InstanceID="0x4C60815F" TextString="Peeping No Context Autonomy" />
     <TextStringDefinition InstanceID="0xC35B866A" TextString="Check for NPC Sims in the currently visiting household to randomly become undressed without any context when a player Sim is peeping through a window." />
-    <TextStringDefinition InstanceID="0xA397E916" TextString="Respect Children's Eyes" />
-    <TextStringDefinition InstanceID="0x1455BD73" TextString="Check for Sims to never undress around children." />
-    <TextStringDefinition InstanceID="0xF652C582" TextString="Respect Underwear" />
-    <TextStringDefinition InstanceID="0x2ED6446C" TextString="Check for Sims to first undress to underwear before getting naked.\nUncheck for Sims to undress directly to nudity and skip showing underwear." />
-    <TextStringDefinition InstanceID="0x4EF5DA31" TextString="Player Sims Occurrence Inclusion" />
-    <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
     <TextStringDefinition InstanceID="0x8A5200CE" TextString="Strip Club Settings" />
     <TextStringDefinition InstanceID="0x441FB7CB" TextString="Strip Club related settings." />
-    <TextStringDefinition InstanceID="0x1D108DF0" TextString="Native Undressing Behavior Switch" />
-    <TextStringDefinition InstanceID="0x79FC565D" TextString="Check to use personalized undressing rules set within the Outfit Settings for Dancers during dancing.\nUncheck to use specialized undressing rules for Dancers during dancing." />
     <TextStringDefinition InstanceID="0x4269D77E" TextString="Dress Up After Dance Switch" />
     <TextStringDefinition InstanceID="0x0FF5A29E" TextString="Check to make dancers dress up after every dance.\nUncheck to keep dancers undressed after a dance." />
     <TextStringDefinition InstanceID="0xC03EDEB7" TextString="Dancer Profit Share Percentage" />
     <TextStringDefinition InstanceID="0xE8F3458C" TextString="Set a number of profit share percentage for the club from the dancer earning.\n(Default: 20%)" />
-    <TextStringDefinition InstanceID="0x8EF60B90" TextString="Dancer Task Auto-Assignment Switch" />
-    <TextStringDefinition InstanceID="0x59FCF55A" TextString="Check to allow employee dancers to automatically change their work task depending on the situation in the club.\nUncheck to disallow employee dancers from changing their work task unless manually assigned." />
-    <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
-    <TextStringDefinition InstanceID="0xFB55B2B9" TextString="Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\n(Default: 0, Maximum: 30)" />
     <TextStringDefinition InstanceID="0x0BAB28C4" TextString="Personal Lap Dance Cheat" />
     <TextStringDefinition InstanceID="0xDC8525DE" TextString="Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club." />
-    <TextStringDefinition InstanceID="0xCDE08103" TextString="Force Routing Restrictions Switch" />
-    <TextStringDefinition InstanceID="0xFD31A3CB" TextString="Check to force Sims routing to avoid regions/rooms that contain dancing objects (dancing pole, dancing spot).\nUncheck to discourage Sims routing from going to regions/rooms that contain dancing objects." />
+    <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
+    <TextStringDefinition InstanceID="0xFB55B2B9" TextString="Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\n(Default: 0, Maximum: 30)" />
+    <TextStringDefinition InstanceID="0xDFC944D8" TextString="Advanced Strip Club Settings" />
+    <TextStringDefinition InstanceID="0xE3DEEC5E" TextString="Advanced settings for Strip Clubs." />
+    <TextStringDefinition InstanceID="0x1D108DF0" TextString="Native Undressing Behavior Switch" />
+    <TextStringDefinition InstanceID="0x79FC565D" TextString="Check to use personalized undressing rules set within the Outfit Settings for Dancers during dancing.\nUncheck to use specialized undressing rules for Dancers during dancing." />
+    <TextStringDefinition InstanceID="0x8EF60B90" TextString="Dancer Task Auto-Assignment Switch" />
+    <TextStringDefinition InstanceID="0x59FCF55A" TextString="Check to allow employee dancers to automatically change their work task depending on the situation in the club.\nUncheck to disallow employee dancers from changing their work task unless manually assigned." />
     <TextStringDefinition InstanceID="0xF55E2701" TextString="Focused Dancing Objects Interactions Switch" />
     <TextStringDefinition InstanceID="0x15A547DB" TextString="Check to remove irrelevant to dancing interactions from Dancing Poles, Spot Dancing Markers, and Lap Dancing Seats.\nUncheck to keep all game interactions on Dancing Poles, Spot Dancing Markers, and Lap Dancing Spots." />
-    <TextStringDefinition InstanceID="0xFE7CA40B" TextString="Special Settings" />
-    <TextStringDefinition InstanceID="0x6CC2B36C" TextString="Special settings related to nudity." />
+    <TextStringDefinition InstanceID="0x949DD67A" TextString="Window Peeping Settings" />
+    <TextStringDefinition InstanceID="0x016DBACF" TextString="Window Peeping related settings." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
     <TextStringDefinition InstanceID="0xB2001619" TextString="Check to allow for peeping into windows." />
     <TextStringDefinition InstanceID="0x1054E434" TextString="Window Peeping NPC Sims Switch" />
     <TextStringDefinition InstanceID="0xD11658A8" TextString="Check to allow spawning of NPC Sims that peep into windows of the currently played house.\nUncheck to disallow spawning of NPC Sims peeping into windows." />
     <TextStringDefinition InstanceID="0x9E16317A" TextString="Window Peeping NPC Sims Spawn Probability" />
     <TextStringDefinition InstanceID="0xFD1531C5" TextString="Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\n(Default: 0.40, Minimum: 0.01)" />
+    <TextStringDefinition InstanceID="0xE2D8D064" TextString="Sweating Settings" />
+    <TextStringDefinition InstanceID="0xAB9C2855" TextString="Sweating related settings." />
     <TextStringDefinition InstanceID="0x8050A933" TextString="Sweating Overlay Switch" />
     <TextStringDefinition InstanceID="0xEA89364E" TextString="Check to allow for Sims to get sweaty and display a sweat body overlay." />
-    <TextStringDefinition InstanceID="0xC78AE2AA" TextString="Other Settings" />
-    <TextStringDefinition InstanceID="0x99D500CB" TextString="All of the unrelated settings." />
-    <TextStringDefinition InstanceID="0xF09442DD" TextString="Teens Nudity Switch" />
-    <TextStringDefinition InstanceID="0xC96D1EC8" TextString="Check for teens being able to participate in nudity interactions." />
-    <TextStringDefinition InstanceID="0x07CEF1D2" TextString="Dress Up In Advance Switch" />
-    <TextStringDefinition InstanceID="0x3A9456EE" TextString="Check to make naked Sims dress up before going to their destination if reaching it will require dressing up.\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances.\n(When Sim is about to enter a room with others in it, they will dress up beforehand instead of risking embarrassment)" />
-    <TextStringDefinition InstanceID="0xD82578E3" TextString="Nudity Permitted Autonomy Signs Influence" />
-    <TextStringDefinition InstanceID="0xCD7CA0D7" TextString="Check for Sims to allow undressing without limits when the 'Nudity Permitted In Room Sign' is in the room.\nUncheck for Sims to allow undressing when the 'Nudity Permitted In Room Sign' in the room, while the 'No Nudity Permitted On Lot Sign' is present on the lot." />
-    <TextStringDefinition InstanceID="0x5AADB196" TextString="Toilet Undressing Switch" />
-    <TextStringDefinition InstanceID="0x3151AF2B" TextString="Check for Sims to undress their pants when using a toilet." />
-    <TextStringDefinition InstanceID="0xE6D0E27A" TextString="Breast Feeding Undressing Switch" />
-    <TextStringDefinition InstanceID="0xB9DB716B" TextString="Check for Sims to undress their top when breastfeeding." />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
     <TextStringDefinition InstanceID="0x1594FC47" TextString="Cheats to change things that you find annoying." />
     <TextStringDefinition InstanceID="0x949FD76A" TextString="Nudity Privacy Switch" />
@@ -450,7 +458,7 @@
     <TextStringDefinition InstanceID="0xDD902145" TextString="Select which creator animations you want to disable." />
     <TextStringDefinition InstanceID="0xE3CBE411" TextString="Dancer Tip" />
     <TextStringDefinition InstanceID="0x9CF0FC62" TextString="Buy Dancing Equipment!" />
-    <TextStringDefinition InstanceID="0x888D6066" TextString="Buying a Dancing Pole or a Dancing Spot Marker is required for dancers to Stage Dance and for clients to watch them.\n\nLook for a 'Dancing Pole' or a 'Dancing Spot' in Build Mode and place one in an open area or at a stage.\nClients will gather around and look for a comfortable seat to watch dancers. It's suggested to place seats around the Dancing Pole or Dancing Spot.\n\nClients who don't find a seat could potentially walk up the Dancing Pole/Dancing Spot. You can prevent this behavior by enabling the 'Force Routing Restrictions Switch' setting in Nudity Settings -&gt; Strip Club Settings." />
+    <TextStringDefinition InstanceID="0xCD2AC4EF" TextString="Buying a Dancing Pole or a Dancing Spot Marker is required for dancers to Stage Dance and for clients to watch them.\n\nLook for a 'Dancing Pole' or a 'Dancing Spot' in Build Mode and place one in an open area or at a stage.\nClients will gather around and look for a comfortable seat to watch dancers. It's suggested to place seats around the Dancing Pole or Dancing Spot." />
     <TextStringDefinition InstanceID="0xBEB9B040" TextString="Assign Lap Dancing Seats!" />
     <TextStringDefinition InstanceID="0x583EEC05" TextString="Assigning Lap Dancing Seats is required for clients to ask for a private dance.\nAny Loveseat, Sofa, Recliner, or Chair in the club can be assigned as a Lap Dancing Seat.\nBuild at least one private room, place a seat inside it, and click on it to 'Assign Lap Dancing Spot'. Any client asking for a dance will use the assigned seats to receive a lap dance.\n\nAll seats assigned as Lap Dancing Seats are exclusively used for lap dancing.\n\nClick on any Dancer and assign the 'Charming Clients' task to allow the dancer and the clients to initiate private dances." />
     <TextStringDefinition InstanceID="0x30D52DBC" TextString="Wicked Strip Club Dancing Spot Marker" />

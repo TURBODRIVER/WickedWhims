@@ -157,6 +157,8 @@
     <TextStringDefinition InstanceID="0xDB139EF2" TextString="Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\n(Default: Q)" />
     <TextStringDefinition InstanceID="0xCC1E3D4D" TextString="After Climax Sex Progression" />
     <TextStringDefinition InstanceID="0x3461728E" TextString="Enable/Disable sex position progression when climax animation is playing." />
+    <TextStringDefinition InstanceID="0x38E716A5" TextString="Adaptive Roles Reassignment" />
+    <TextStringDefinition InstanceID="0xD9523B18" TextString="Check to allow Sims in sex to adapt to the animation roles requirements and disable automatic reassignment when swapped to opposite roles." />
     <TextStringDefinition InstanceID="0xFF489E48" TextString="Outfit Settings" />
     <TextStringDefinition InstanceID="0x4E30BEC8" TextString="Change outfit behavior in sex." />
     <TextStringDefinition InstanceID="0x4775E0CA" TextString="Sex Undressing Type" />
@@ -331,9 +333,62 @@
     <TextStringDefinition InstanceID="0x5FD89027" TextString="Enable/Disable if Sims will react to cum on other Sims." />
     <TextStringDefinition InstanceID="0x9E6B9916" TextString="Teen Pregnancy Reaction Switch" />
     <TextStringDefinition InstanceID="0x43CBC3A2" TextString="Enable/Disable if parent Sims will react to teen Sims pregnancy." />
+    <TextStringDefinition InstanceID="0x27F7727D" TextString="Add Current Animation to Playlist" />
+    <TextStringDefinition InstanceID="0xBEB17C14" TextString="Add Current Animation to Favorites" />
+    <TextStringDefinition InstanceID="0x409A7214" TextString="Play Playlist" />
+    <TextStringDefinition InstanceID="0x74C77E7C" TextString="Animations Playlists" />
+    <TextStringDefinition InstanceID="0x1283C594" TextString="Create, Modify &amp; Delete animation playlists." />
+    <TextStringDefinition InstanceID="0x1BE53F40" TextString="Playlist Controls" />
+    <TextStringDefinition InstanceID="0x646587CB" TextString="Controls for the '{0.String}' playlist." />
+    <TextStringDefinition InstanceID="0x72456B22" TextString="Create Playlist" />
+    <TextStringDefinition InstanceID="0x043094EC" TextString="Create a new animations playlist." />
+    <TextStringDefinition InstanceID="0x4CA19C5C" TextString="Enter the name of your playlist." />
+    <TextStringDefinition InstanceID="0x6EC6D33E" TextString="You haven't created any playlists. Do you want to create a playlist now?" />
+    <TextStringDefinition InstanceID="0xE5903CE7" TextString="Add Animations to Playlist" />
+    <TextStringDefinition InstanceID="0xDDEA83D9" TextString="Add animations to this playlist." />
+    <TextStringDefinition InstanceID="0x119959E3" TextString="Select which creator animations you want to add." />
+    <TextStringDefinition InstanceID="0x6F37F395" TextString="Added Animations" />
+    <TextStringDefinition InstanceID="0x19A3FF2A" TextString="Not Added Animations" />
+    <TextStringDefinition InstanceID="0x4F645084" TextString="Add Animations to Playlist\n{0.String}" />
+    <TextStringDefinition InstanceID="0x1BFBAFA9" TextString="Animations Count: {0.String}" />
+    <TextStringDefinition InstanceID="0x215D193C" TextString="Animations Count: {0.String}/{1.String}" />
+    <TextStringDefinition InstanceID="0x052F2758" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
+    <TextStringDefinition InstanceID="0x8FA49BB9" TextString="Remove Animations from Playlist" />
+    <TextStringDefinition InstanceID="0xEA5E6073" TextString="Remove animations from this playlist." />
+    <TextStringDefinition InstanceID="0x3693AF63" TextString="Reorder Playlist" />
+    <TextStringDefinition InstanceID="0x1D7F2C39" TextString="Change order of animations in this playlist." />
+    <TextStringDefinition InstanceID="0x0D709EDB" TextString="Pick animation to reorder." />
+    <TextStringDefinition InstanceID="0xBABCCD1E" TextString="Pick an order slot to reorder the selected animation." />
+    <TextStringDefinition InstanceID="0xEBDB9D98" TextString="Playlist Behavior" />
+    <TextStringDefinition InstanceID="0xC25B21C9" TextString="Change behavior of this playlist." />
+    <TextStringDefinition InstanceID="0x30F1FC54" TextString="Looping Behavior" />
+    <TextStringDefinition InstanceID="0xF7CD63FE" TextString="Playlist will play indefinitely." />
+    <TextStringDefinition InstanceID="0x2CD0674D" TextString="Shuffle Behavior" />
+    <TextStringDefinition InstanceID="0x22B78B30" TextString="Order of animations is randomized on every use." />
+    <TextStringDefinition InstanceID="0x1E9A2E94" TextString="Ends Sex Behavior" />
+    <TextStringDefinition InstanceID="0x2D0CF48B" TextString="Sex interaction is stopped after the last animation on the playlist finishes playing." />
+    <TextStringDefinition InstanceID="0x6BB3880D" TextString="Autonomy Available Behavior" />
+    <TextStringDefinition InstanceID="0x76021A18" TextString="Playlist can be randomly used by autonomously started sex interactions." />
+    <TextStringDefinition InstanceID="0x1FA02F74" TextString="Rename Playlist" />
+    <TextStringDefinition InstanceID="0x83275439" TextString="Change the name of this playlist." />
+    <TextStringDefinition InstanceID="0x8E04E179" TextString="Copy Playlist" />
+    <TextStringDefinition InstanceID="0xEC4FC30D" TextString="Make a copy of this playlist." />
+    <TextStringDefinition InstanceID="0x5EF8A4D3" TextString="Delete Playlist" />
+    <TextStringDefinition InstanceID="0x65D150FC" TextString="Permanently delete this playlist." />
+    <TextStringDefinition InstanceID="0xB179D55B" TextString="Do you want to delete the '{0.String}' playlist?" />
+    <TextStringDefinition InstanceID="0x635AC630" TextString="Slot #{0.Number}" />
+    <TextStringDefinition InstanceID="0x38A3A319" TextString="EMPTY" />
+    <TextStringDefinition InstanceID="0x7BB092CA" TextString="At least 2 animations are required to do this action." />
+    <TextStringDefinition InstanceID="0xA2B03716" TextString="Sims Gender or Sex Location is not compatible." />
+    <TextStringDefinition InstanceID="0x2E00C5C1" TextString="Author: {0.String}\nCategory: {1.String}\nLocations: {2.String}" />
+    <TextStringDefinition InstanceID="0x49A48B7D" TextString="Name: {0.String}\nAuthor: {1.String}" />
+    <TextStringDefinition InstanceID="0x4D33B6BF" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
+    <TextStringDefinition InstanceID="0xFE78C7D6" TextString="Author: {0.String}\nLocations: {1.String}\nRoles: {2.String} | Orientation: {3.String}" />
     <TextStringDefinition InstanceID="0x6E80454F" TextString="Animations Disabler" />
     <TextStringDefinition InstanceID="0x8DE185BC" TextString="Animations Disabler\n{0.String}" />
     <TextStringDefinition InstanceID="0x06E5B203" TextString="Enable/Disable specific animations from being used." />
+    <TextStringDefinition InstanceID="0x9C6846DC" TextString="Enabled Animations" />
+    <TextStringDefinition InstanceID="0x4FFB02C3" TextString="Disabled Animations" />
     <TextStringDefinition InstanceID="0x882DCA05" TextString="Autonomy Animations Disabler" />
     <TextStringDefinition InstanceID="0xE0E8D2AE" TextString="Autonomy Animations Disabler\n{0.String}" />
     <TextStringDefinition InstanceID="0x91B964E6" TextString="Enable/Disable specific animations from being used in autonomy sex." />
@@ -354,6 +409,8 @@
     <TextStringDefinition InstanceID="0xD3CD069A" TextString="Anal" />
     <TextStringDefinition InstanceID="0x5E1F3B80" TextString="Climax" />
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
+    <TextStringDefinition InstanceID="0x2B6E2038" TextString="Playlist..." />
+    <TextStringDefinition InstanceID="0xCA6D3CD6" TextString="Playlist" />
     <TextStringDefinition InstanceID="0x8BB9DD8F" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING SEX TEXT\\\&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0x456C0ACB" TextString=" Have Sex" />
@@ -362,7 +419,8 @@
     <TextStringDefinition InstanceID="0x4218F70A" TextString="Be Asked for Sex" />
     <TextStringDefinition InstanceID="0x6D011246" TextString="Go to Sex Location" />
     <TextStringDefinition InstanceID="0x9BFED398" TextString="Wait for Partner" />
-    <TextStringDefinition InstanceID="0x9EF9D738" TextString="Sex: {0.String} ({1.String})" />
+    <TextStringDefinition InstanceID="0x16DEB92B" TextString="Sex: {0.String} [{1.String}]" />
+    <TextStringDefinition InstanceID="0xBB45C686" TextString="Sex: {0.String} [{1.String}] (&lt;i&gt;{2.String}&lt;/i&gt;)" />
     <TextStringDefinition InstanceID="0xF30B5CB3" TextString="Join In" />
     <TextStringDefinition InstanceID="0x7913A7FD" TextString="Ask to Join In" />
     <TextStringDefinition InstanceID="0xA5EEE389" TextString="Next" />
@@ -425,6 +483,7 @@
     <TextStringDefinition InstanceID="0xF183A57F" TextString="No compatible Sims to swap with were found in the sex interaction!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
+    <TextStringDefinition InstanceID="0x714D1958" TextString="[&lt;font color='#EC262E'&gt;♥&lt;/font&gt;] {0.String}" />
     <TextStringDefinition InstanceID="0x00F652EC" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
