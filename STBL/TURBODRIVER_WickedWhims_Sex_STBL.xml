@@ -350,6 +350,8 @@
     <TextStringDefinition InstanceID="0x6F37F395" TextString="Added Animations" />
     <TextStringDefinition InstanceID="0x19A3FF2A" TextString="Not Added Animations" />
     <TextStringDefinition InstanceID="0x4F645084" TextString="Add Animations to Playlist\n{0.String}" />
+    <TextStringDefinition InstanceID="0xD62EE1CC" TextString="Select All Animations" />
+    <TextStringDefinition InstanceID="0x15FFFD41" TextString="Select this option and confirm to reopen the list." />
     <TextStringDefinition InstanceID="0x1BFBAFA9" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x215D193C" TextString="Animations Count: {0.String}/{1.String}" />
     <TextStringDefinition InstanceID="0x052F2758" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
@@ -379,8 +381,9 @@
     <TextStringDefinition InstanceID="0x635AC630" TextString="Slot #{0.Number}" />
     <TextStringDefinition InstanceID="0x38A3A319" TextString="EMPTY" />
     <TextStringDefinition InstanceID="0x7BB092CA" TextString="At least 2 animations are required to do this action." />
-    <TextStringDefinition InstanceID="0xA2B03716" TextString="Sims Gender or Sex Location is not compatible." />
+    <TextStringDefinition InstanceID="0xC2E5BEDF" TextString="Sims Gender or Sex Location is not compatible.\n\n{0.String}" />
     <TextStringDefinition InstanceID="0x2E00C5C1" TextString="Author: {0.String}\nCategory: {1.String}\nLocations: {2.String}" />
+    <TextStringDefinition InstanceID="0x6574AE98" TextString="Author: {0.String}\nCategory: {1.String}\nRoles: {2.String} | Orientation: {3.String}" />
     <TextStringDefinition InstanceID="0x49A48B7D" TextString="Name: {0.String}\nAuthor: {1.String}" />
     <TextStringDefinition InstanceID="0x4D33B6BF" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
     <TextStringDefinition InstanceID="0xFE78C7D6" TextString="Author: {0.String}\nLocations: {1.String}\nRoles: {2.String} | Orientation: {3.String}" />
@@ -393,8 +396,8 @@
     <TextStringDefinition InstanceID="0xE0E8D2AE" TextString="Autonomy Animations Disabler\n{0.String}" />
     <TextStringDefinition InstanceID="0x91B964E6" TextString="Enable/Disable specific animations from being used in autonomy sex." />
     <TextStringDefinition InstanceID="0xFF6B61A6" TextString="Select which creator animations you want to disable." />
-    <TextStringDefinition InstanceID="0xFA6FEBD2" TextString="Toggle All Animations" />
-    <TextStringDefinition InstanceID="0x5BA633AB" TextString="Enable/Disable all animations on this list." />
+    <TextStringDefinition InstanceID="0x1C927766" TextString="Select All Animations" />
+    <TextStringDefinition InstanceID="0x57D3543F" TextString="Select this option and confirm to reopen the list." />
     <TextStringDefinition InstanceID="0x848A4827" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
     <TextStringDefinition InstanceID="0x76580FE9" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
