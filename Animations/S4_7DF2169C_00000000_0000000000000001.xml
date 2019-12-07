@@ -40,7 +40,7 @@
           <T n="animation_allow_strapon">0</T>
 
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
-          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_angle_offset">0</T> <!-- [REMOVE IF UNUSED] -->
 
           <T n="animation_actor_tags"></T>
 
@@ -70,7 +70,7 @@
           <T n="animation_allow_strapon">0</T>
 
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
-          <T n="animation_facing_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="animation_angle_offset">0</T> <!-- [REMOVE IF UNUSED] -->
 
           <T n="animation_actor_tags"></T>
 
