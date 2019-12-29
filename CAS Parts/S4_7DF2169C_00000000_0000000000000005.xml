@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:PubicHair_CAS_Parts" s="000000000000000005">
+  <T n="wickedwhims_cas_parts">1</T>
+  <L n="cas_parts_list">
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Pubic Hair Color And Style</T><!-- Raw Text for displayed CAS part name. Remove this field if using the "cas_part_display_name" field. -->
+      <T n="cas_part_author">YourName</T><!-- Raw Text for author name of this CAS part. -->
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T><!-- Resource Key for displayed CAS part icon. -->
+      <T n="cas_part_type">PUBIC_HAIR_MALE</T><!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, TONGUE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE, PUBIC_HAIR_MALE, PUBIC_HAIR_FEMALE) -->
+      <T n="cas_part_subtype">GRAY</T><!--Secondary Type of the CAS part. For pubic hair, natural hair color. (GRAY, BLACK, LIGHT_BROWN, BROWN, BLONDE, DIRTY_BLONDE, AUBURN, ORANGE, CUSTOM)-->
+      <T n="cas_part_group">Fancy Name Of The Pubic Hair Style Group</T><!--Group Name of a collection of CAS parts.-->
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T> <!-- Numerical IDs of the CAS parts. If more than one is provided, they come as hair growth stages respectively. -->
+      <T n="has_strict_visibility">False</T> <!-- Flags if part has a strict visibility rule. For pubic hair, set as 'True' when adding 3D pubic hair to prevent clipping. -->
+    </U>
+
+  </L>
+</I>
