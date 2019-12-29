@@ -110,6 +110,7 @@
 
           <U n="dont_run_if"> <!-- List of flags that prevent this event from triggering if true -->
             <T n="actor_has_condom">1</T> <!-- Flag that checks if Event Target is wearing a condom (use to prevent cum effects when Sim is wearing a condom) -->
+            <T n="actor_is_gender">MALE,FEMALE</T> <!-- Flag that checks if Event Target has a Gender Type from this list (NONE, MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE) -->
           </U>
         </U> <!-- [END OF EVENT ENTRY] -->
 

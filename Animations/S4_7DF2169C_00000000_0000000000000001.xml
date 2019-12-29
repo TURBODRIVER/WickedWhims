@@ -109,6 +109,7 @@
 
           <U n="dont_run_if">
             <T n="actor_has_condom">1</T>
+            <T n="actor_is_gender">MALE,FEMALE</T>
           </U>
         </U> <!-- [END OF EVENT ENTRY] -->
 
