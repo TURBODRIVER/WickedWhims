@@ -47,15 +47,15 @@
     <TextStringDefinition InstanceID="0xD66DB52F" TextString="Settings Control" />
     <TextStringDefinition InstanceID="0x156EB873" TextString="Control WickedWhims settings - Import, Export, Reset, Disable." />
     <TextStringDefinition InstanceID="0x07AE3B83" TextString="Export Current Settings" />
-    <TextStringDefinition InstanceID="0x168A22BC" TextString="Export current settings and disabled animations for use in different worlds." />
+    <TextStringDefinition InstanceID="0x2723C4FA" TextString="Export current settings for use in different worlds." />
     <TextStringDefinition InstanceID="0x82608601" TextString="Enter the name of this save:" />
     <TextStringDefinition InstanceID="0xDCE3F03B" TextString="Your settings have been saved under the name '{0.String}'.\n\nThey can be loaded using the 'Import Settings' menu." />
     <TextStringDefinition InstanceID="0xBA590B59" TextString="Import Settings" />
-    <TextStringDefinition InstanceID="0x38B69E98" TextString="Import saved settings and disabled animations." />
+    <TextStringDefinition InstanceID="0xA2293A3A" TextString="Import saved settings." />
     <TextStringDefinition InstanceID="0x828DBF6D" TextString="You need to export settings first to import them later!" />
     <TextStringDefinition InstanceID="0xBCAAC0D6" TextString="Settings under the name {0.String} have been loaded.\n\nMake sure to save and restart the game for the loaded settings to take full effect." />
     <TextStringDefinition InstanceID="0xFE65717B" TextString="Delete Settings" />
-    <TextStringDefinition InstanceID="0xC0DA11FC" TextString="Delete exported settings and disabled animations." />
+    <TextStringDefinition InstanceID="0x4B349AB6" TextString="Delete exported settings." />
     <TextStringDefinition InstanceID="0x1193FCF9" TextString="You need to export settings first to delete them!" />
     <TextStringDefinition InstanceID="0xCBEFC42C" TextString="Settings under the name {0.String} have been deleted." />
     <TextStringDefinition InstanceID="0x84D90447" TextString="Reset Settings" />

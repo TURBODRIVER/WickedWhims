@@ -37,6 +37,8 @@
     <TextStringDefinition InstanceID="0x7AF3EAFC" TextString="Select to use Sim current outfit as the base when undressing." />
     <TextStringDefinition InstanceID="0x07CEF1D2" TextString="Dress Up In Advance Switch" />
     <TextStringDefinition InstanceID="0x3A9456EE" TextString="Check to make naked Sims dress up before going to their destination if reaching it will require dressing up.\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances.\n(When Sim is about to enter a room with others in it, they will dress up beforehand instead of risking embarrassment)" />
+    <TextStringDefinition InstanceID="0x5E41AFE0" TextString="Dress Up When Going Off Home Lot" />
+    <TextStringDefinition InstanceID="0x4D542A5B" TextString="Check to make naked Sims dress up before leaving any residential lot." />
     <TextStringDefinition InstanceID="0xD82578E3" TextString="Nudity Permitted Autonomy Signs Influence" />
     <TextStringDefinition InstanceID="0xCD7CA0D7" TextString="Check for Sims to allow undressing without limits when the 'Nudity Permitted In Room Sign' is in the room.\nUncheck for Sims to allow undressing when the 'Nudity Permitted In Room Sign' in the room, while the 'No Nudity Permitted On Lot Sign' is present on the lot." />
     <TextStringDefinition InstanceID="0x40A7B406" TextString="Auto Reset Bathing Outfits" />
@@ -83,8 +85,6 @@
     <TextStringDefinition InstanceID="0xADA39054" TextString="Check for Sims to dress up to correct outfit before performing activities that require outfit changing.\nUncheck for Sims to keep their partially undressed outfit when performing activities that require outfit changing." />
     <TextStringDefinition InstanceID="0xDB2FDAAA" TextString="Autonomy Specifics" />
     <TextStringDefinition InstanceID="0x65A340A8" TextString="Change nudity autonomy behavior." />
-    <TextStringDefinition InstanceID="0xA5E18202" TextString="Random Interaction Undressing Autonomy" />
-    <TextStringDefinition InstanceID="0xA5A6D79D" TextString="Check for Sims to randomly (based on skill level) decide if they want to get naked for undressing interactions.\n\n\nSpecific undressing interactions (like changing to sleep or changing to workout) are affected by the possibility of undressing to nude." />
     <TextStringDefinition InstanceID="0xB739DF8C" TextString="Random No Context Undressing Autonomy" />
     <TextStringDefinition InstanceID="0xF051E7CA" TextString="Random Sims undressing without any context.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to undress commonly without context.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to undress rarely without context.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to never undress without context." />
     <TextStringDefinition InstanceID="0x388A0E0B" TextString="Embrace Nudity Club Autonomy" />
@@ -123,6 +123,18 @@
     <TextStringDefinition InstanceID="0xAB9C2855" TextString="Sweating related settings." />
     <TextStringDefinition InstanceID="0x8050A933" TextString="Sweating Overlay Switch" />
     <TextStringDefinition InstanceID="0xEA89364E" TextString="Check to allow for Sims to get sweaty and display a sweat body overlay." />
+    <TextStringDefinition InstanceID="0x8545A241" TextString="Pubic Hair Settings" />
+    <TextStringDefinition InstanceID="0x253D556E" TextString="Pubic Hair related settings." />
+    <TextStringDefinition InstanceID="0xD83E463E" TextString="Pubic Hair Switch" />
+    <TextStringDefinition InstanceID="0xAC56A981" TextString="Check to allow dynamic pubic hair to be applied on Sims bodies.\nUncheck to disallow disallow dynamic pubic hair. Useful when applying it manually in CAS." />
+    <TextStringDefinition InstanceID="0xC253C9B6" TextString="Pubic Hair Instant Interactions Switch" />
+    <TextStringDefinition InstanceID="0x7336A0CB" TextString="Check to make dyeing and stylizing interactions not require the use of mirrors.\nUncheck to make dyeing and stylizing interactions require the use of mirrors." />
+    <TextStringDefinition InstanceID="0xCD36E14B" TextString="Pubic Hair Growth Switch" />
+    <TextStringDefinition InstanceID="0x522DDC5C" TextString="Check to allow dynamic pubic hair growth.\nUncheck to disallow dynamic pubic hair from growing." />
+    <TextStringDefinition InstanceID="0xF646AB61" TextString="Pubic Hair Manual Growth Rate Switch" />
+    <TextStringDefinition InstanceID="0x7C080B7A" TextString="Check to allow configuring of pubic hair manual growth rate.\nUncheck to use Sims lifetime age span to determine pubic hair growth rate." />
+    <TextStringDefinition InstanceID="0xCFF5CCE1" TextString="Pubic Hair Growth Rate" />
+    <TextStringDefinition InstanceID="0xEABE409F" TextString="Set a number of days it takes to fully regrowth dynamic pubic hair." />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
     <TextStringDefinition InstanceID="0x1594FC47" TextString="Cheats to change things that you find annoying." />
     <TextStringDefinition InstanceID="0x949FD76A" TextString="Nudity Privacy Switch" />
@@ -161,6 +173,7 @@
     <TextStringDefinition InstanceID="0xBB7FE824" TextString="Nudity" />
     <TextStringDefinition InstanceID="0xF50F61E9" TextString="Exhibitionism" />
     <TextStringDefinition InstanceID="0xCF3BC932" TextString="Naturism" />
+    <TextStringDefinition InstanceID="0xFAD2B27D" TextString="Clothing" />
     <TextStringDefinition InstanceID="0xE2292A10" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x7AF9E84D" TextString="Nudity" />
     <TextStringDefinition InstanceID="0x49A3EE0D" TextString="Times Undressed" />
@@ -170,6 +183,74 @@
     <TextStringDefinition InstanceID="0x69506C21" TextString="Times Flashed" />
     <TextStringDefinition InstanceID="0xC2272A0F" TextString="Times Got Flashed" />
     <TextStringDefinition InstanceID="0x8111E9FB" TextString="Swimsuit Accidents" />
+    <TextStringDefinition InstanceID="0x65BCFEE6" TextString="---------- Traits ----------" />
+    <TextStringDefinition InstanceID="0xF7B00D90" TextString="No Underwear" />
+    <TextStringDefinition InstanceID="0x15550E5D" TextString="No Underwear" />
+    <TextStringDefinition InstanceID="0x7A72DB2E" TextString="Sims with no underwear will never be wearing underwear ever again." />
+    <TextStringDefinition InstanceID="0xBE8FCB9F" TextString="---------- Lot Traits ----------" />
+    <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
+    <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
+    <TextStringDefinition InstanceID="0x66AC60E9" TextString="---------- Buffs ----------" />
+    <TextStringDefinition InstanceID="0xA08E23AF" TextString="Being Naked" />
+    <TextStringDefinition InstanceID="0x32E7A30B" TextString="When you shed your clothes you also shed just a few of the burdens of everyday life." />
+    <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
+    <TextStringDefinition InstanceID="0x05301777" TextString="Admire Yourself Sexually" />
+    <TextStringDefinition InstanceID="0x85EE2242" TextString="Click on a mirror and select 'Admire Your Body'." />
+    <TextStringDefinition InstanceID="0xD814E42A" TextString="Get Naked" />
+    <TextStringDefinition InstanceID="0x7DF58EB2" TextString="Click on your Sim and select any outfit undressing option from Wicked Naturism/Exhibitionism category." />
+    <TextStringDefinition InstanceID="0x536FFA1C" TextString="Talk About Nudity" />
+    <TextStringDefinition InstanceID="0x1615EB9A" TextString="Click on a Sim and select any social naturism/exhibitionism option from Wicked Naturism/Exhibitionism category." />
+    <TextStringDefinition InstanceID="0x6DC533A2" TextString="---------- Interactions ----------" />
+    <TextStringDefinition InstanceID="0x9D68D735" TextString="Undress Outfit Top" />
+    <TextStringDefinition InstanceID="0x00953657" TextString="Undress Outfit Bottom" />
+    <TextStringDefinition InstanceID="0xE2F9DF4C" TextString="Undress Outfit Shoes" />
+    <TextStringDefinition InstanceID="0x2FEE9854" TextString="Undress Outfit" />
+    <TextStringDefinition InstanceID="0x38C3B32E" TextString="Completely Undress Yourself" />
+    <TextStringDefinition InstanceID="0x120B5E33" TextString="Dress Up" />
+    <TextStringDefinition InstanceID="0xBA897DCC" TextString="Undress Bra" />
+    <TextStringDefinition InstanceID="0xA0D7BEE9" TextString="Undress Panties" />
+    <TextStringDefinition InstanceID="0x65E85B4E" TextString="Undress Underwear" />
+    <TextStringDefinition InstanceID="0x16CF9F1E" TextString="Put On Underwear" />
+    <TextStringDefinition InstanceID="0x8B997542" TextString="Reacting to Nudity" />
+    <TextStringDefinition InstanceID="0x96DE8943" TextString="Enable Nudity Reactions" />
+    <TextStringDefinition InstanceID="0x6FC8B340" TextString="Disable Nudity Reactions" />
+    <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
+    <TextStringDefinition InstanceID="0x103FEE4A" TextString="Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\n\nChanging underwear for sleepwear and swimwear outfit is not available." />
+    <TextStringDefinition InstanceID="0x7C632FD2" TextString="Go Streaking!" />
+    <TextStringDefinition InstanceID="0x06789200" TextString="Compliment Sexy Body" />
+    <TextStringDefinition InstanceID="0x75AE1979" TextString="{1.SimFirstName} compliments my body" />
+    <TextStringDefinition InstanceID="0xB575760F" TextString="Talk About Nudity" />
+    <TextStringDefinition InstanceID="0x58D5FE17" TextString="{1.SimFirstName} talks about nudity" />
+    <TextStringDefinition InstanceID="0xF26267CA" TextString="Convince to Nudity" />
+    <TextStringDefinition InstanceID="0x9F7EF920" TextString="{1.SimFirstName} convinces me to nudity" />
+    <TextStringDefinition InstanceID="0xCE62863C" TextString="Ask to Get Naked" />
+    <TextStringDefinition InstanceID="0x6839AFEC" TextString="{1.SimFirstName} asks me to get naked" />
+    <TextStringDefinition InstanceID="0xB4F6170B" TextString="Ask to Undress Shoes" />
+    <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} asks me to undress shoes" />
+    <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
+    <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} asks me to dress up" />
+    <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
+    <TextStringDefinition InstanceID="0xC9AB3921" TextString="{0.SimName} stripped from {M0.his}{F0.her} top." />
+    <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
+    <TextStringDefinition InstanceID="0x50F0734A" TextString="{0.SimName} stripped from {M0.his}{F0.her} shoes." />
+    <TextStringDefinition InstanceID="0x6132B9A3" TextString="{0.SimName} stripped from {M0.his}{F0.her} outfit." />
+    <TextStringDefinition InstanceID="0x170E692A" TextString="{0.SimName} put {M0.his}{F0.her} outfit back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x98D3F307" TextString="{0.SimName} doesn't feel like taking off clothes right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x9119AE4E" TextString="- The most comfortable place to undress will always be Sim home.\n\n" />
+    <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
+    <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
+    <TextStringDefinition InstanceID="0xB8EFEB49" TextString="- No nudity permitted signs on the lot or in the room prevent undressing.\n\n" />
+    <TextStringDefinition InstanceID="0x340B6B30" TextString="- Underage Sims are present on the current lot and their eyes must be respected.\n\n" />
+    <TextStringDefinition InstanceID="0x5241B4C1" TextString="{0.SimName} stripped from {M0.his}{F0.her} bra." />
+    <TextStringDefinition InstanceID="0x5D079432" TextString="{0.SimName} stripped from {M0.his}{F0.her} panties." />
+    <TextStringDefinition InstanceID="0x23EC7BC3" TextString="{0.SimName} stripped from {M0.his}{F0.her} underwear." />
+    <TextStringDefinition InstanceID="0xE8DE02CA" TextString="{0.SimName} put {M0.his}{F0.her} underwear back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x4D7A5BC8" TextString="{0.SimName} doesn't feel like taking off underwear right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x672B7B80" TextString="{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0x76534C33" TextString="Command to Undress" />
+    <TextStringDefinition InstanceID="0x30E3D666" TextString="Irresistible Command to Undress" />
+    <TextStringDefinition InstanceID="0xD38AA793" TextString="Strangely...compelled...to...get...naked." />
+    <TextStringDefinition InstanceID="0x18356D38" TextString="{0.SimFirstName} is already naked." />
     <TextStringDefinition InstanceID="0xFBC90FD6" TextString="---------- Clubs ----------" />
     <TextStringDefinition InstanceID="0x3365FD6C" TextString="Embrace Nudity" />
     <TextStringDefinition InstanceID="0x84F241B6" TextString="Don't Embrace Nudity" />
@@ -178,6 +259,7 @@
     <TextStringDefinition InstanceID="0x6F481BF1" TextString="Flash {0.String}" />
     <TextStringDefinition InstanceID="0xB3B78873" TextString="Don't Flash {0.String}" />
     <TextStringDefinition InstanceID="0x4CD7E0BD" TextString="---------- Skills ----------" />
+    <TextStringDefinition InstanceID="0x41389A02" TextString="Admire Your Body" />
     <TextStringDefinition InstanceID="0x286F517D" TextString="Naturism" />
     <TextStringDefinition InstanceID="0x612420AC" TextString="Take off your clothes and discover the wonderful world of Naturism!" />
     <TextStringDefinition InstanceID="0x08FF1FBA" TextString="The thought of nudity is scarier than nudity itself.\n\nThe more you stay naked, the more confidence you gain.\nPerforming interactions naked lowers the amount of lost hygiene.\n\nStart by changing into more revealing outfits (sleepwear, swimwear or underwear) or admiring your body in mirrors." />
@@ -204,77 +286,10 @@
     <TextStringDefinition InstanceID="0x1AE19591" TextString="{0.SimFirstName} now has no problems with nudity around more Sims." />
     <TextStringDefinition InstanceID="0xCAAB8AAA" TextString="Reached Exhibitionism Level 5" />
     <TextStringDefinition InstanceID="0x9DF575C9" TextString="{0.SimFirstName} feels complete freedom to show your body off anywhere and anytime. There are no barriers for you anymore!" />
-    <TextStringDefinition InstanceID="0x65BCFEE6" TextString="---------- Traits ----------" />
     <TextStringDefinition InstanceID="0x85785D53" TextString="Exhibitionist" />
     <TextStringDefinition InstanceID="0x7A9B75B8" TextString="Exhibitionist" />
     <TextStringDefinition InstanceID="0xF05F3D5D" TextString="Turn your naturism into exhibitionism and unlock more nudity related interactions.\n\n(At least level 3 of Naturism Skill is required to purchase this trait)." />
     <TextStringDefinition InstanceID="0x9D419D97" TextString="Exhibitionists expose their bodies to gain sexual satisfaction from seeing shocked faces of others." />
-    <TextStringDefinition InstanceID="0xF7B00D90" TextString="No Underwear" />
-    <TextStringDefinition InstanceID="0x15550E5D" TextString="No Underwear" />
-    <TextStringDefinition InstanceID="0x7A72DB2E" TextString="Sims with no underwear will never be wearing underwear ever again." />
-    <TextStringDefinition InstanceID="0xBE8FCB9F" TextString="---------- Lot Traits ----------" />
-    <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
-    <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
-    <TextStringDefinition InstanceID="0x66AC60E9" TextString="---------- Buffs ----------" />
-    <TextStringDefinition InstanceID="0xB5789D86" TextString="Flashed a Sim" />
-    <TextStringDefinition InstanceID="0x1BD49A54" TextString="Sims that are experienced with Exhibitionism get a lot of joy from flashing others." />
-    <TextStringDefinition InstanceID="0xA08E23AF" TextString="Being Naked" />
-    <TextStringDefinition InstanceID="0x32E7A30B" TextString="When you shed your clothes you also shed just a few of the burdens of everyday life." />
-    <TextStringDefinition InstanceID="0x99DD14A8" TextString="Seen with Pants Down" />
-    <TextStringDefinition InstanceID="0x67B5C798" TextString="How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {M0.him}{F0.her} urinating. Whether urgent or not, this just wasn't worth it." />
-    <TextStringDefinition InstanceID="0x07E7652A" TextString="Disgusting Waterworks!" />
-    <TextStringDefinition InstanceID="0x9FB006FF" TextString="What did {0.SimFirstName} just see!? Did that Sim really just urinate right here and right now? The call of nature may be strong but what they just did is disgusting!" />
-    <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
-    <TextStringDefinition InstanceID="0x77A6756D" TextString="Flash a Sim" />
-    <TextStringDefinition InstanceID="0x0005DD74" TextString="Click on a Sim and select any flashing option from the Wicked Exhibitionism category." />
-    <TextStringDefinition InstanceID="0x05301777" TextString="Admire Yourself Sexually" />
-    <TextStringDefinition InstanceID="0x85EE2242" TextString="Click on a mirror and select 'Admire Your Body'." />
-    <TextStringDefinition InstanceID="0xD814E42A" TextString="Get Naked" />
-    <TextStringDefinition InstanceID="0x7DF58EB2" TextString="Click on your Sim and select any outfit undressing option from Wicked Naturism/Exhibitionism category." />
-    <TextStringDefinition InstanceID="0x536FFA1C" TextString="Talk About Nudity" />
-    <TextStringDefinition InstanceID="0x1615EB9A" TextString="Click on a Sim and select any social naturism/exhibitionism option from Wicked Naturism/Exhibitionism category." />
-    <TextStringDefinition InstanceID="0x6DC533A2" TextString="---------- Interactions ----------" />
-    <TextStringDefinition InstanceID="0x9D68D735" TextString="Undress Outfit Top" />
-    <TextStringDefinition InstanceID="0x00953657" TextString="Undress Outfit Bottom" />
-    <TextStringDefinition InstanceID="0xE2F9DF4C" TextString="Undress Outfit Shoes" />
-    <TextStringDefinition InstanceID="0x2FEE9854" TextString="Undress Outfit" />
-    <TextStringDefinition InstanceID="0x38C3B32E" TextString="Completely Undress Yourself" />
-    <TextStringDefinition InstanceID="0x120B5E33" TextString="Dress Up" />
-    <TextStringDefinition InstanceID="0xBA897DCC" TextString="Undress Bra" />
-    <TextStringDefinition InstanceID="0xA0D7BEE9" TextString="Undress Panties" />
-    <TextStringDefinition InstanceID="0x65E85B4E" TextString="Undress Underwear" />
-    <TextStringDefinition InstanceID="0x16CF9F1E" TextString="Put On Underwear" />
-    <TextStringDefinition InstanceID="0x8B997542" TextString="Reacting to Nudity" />
-    <TextStringDefinition InstanceID="0xE160474C" TextString="Reacting to Sim Peeing" />
-    <TextStringDefinition InstanceID="0x96DE8943" TextString="Enable Nudity Reactions" />
-    <TextStringDefinition InstanceID="0x6FC8B340" TextString="Disable Nudity Reactions" />
-    <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
-    <TextStringDefinition InstanceID="0x103FEE4A" TextString="Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\n\nChanging underwear for sleepwear and swimwear outfit is not available." />
-    <TextStringDefinition InstanceID="0x34365938" TextString="Flash Boobs" />
-    <TextStringDefinition InstanceID="0xC071719D" TextString="Flash Pussy" />
-    <TextStringDefinition InstanceID="0xED38B4F2" TextString="Flash Dick" />
-    <TextStringDefinition InstanceID="0x439B9F1A" TextString="Flash Butt" />
-    <TextStringDefinition InstanceID="0x576B25F6" TextString="Flash Everything" />
-    <TextStringDefinition InstanceID="0x0B6ED1FD" TextString="Flashing" />
-    <TextStringDefinition InstanceID="0x711A7823" TextString="Be Flashed by {1.SimFirstName}" />
-    <TextStringDefinition InstanceID="0xFC1E4165" TextString="Show Off Flashing" />
-    <TextStringDefinition InstanceID="0xB086D469" TextString="Compliment Flashing" />
-    <TextStringDefinition InstanceID="0x19DBBC62" TextString="Disregard Flashing" />
-    <TextStringDefinition InstanceID="0x7C632FD2" TextString="Go Streaking!" />
-    <TextStringDefinition InstanceID="0x26B96DFB" TextString="Pee Here" />
-    <TextStringDefinition InstanceID="0x41389A02" TextString="Admire Your Body" />
-    <TextStringDefinition InstanceID="0x06789200" TextString="Compliment Sexy Body" />
-    <TextStringDefinition InstanceID="0x75AE1979" TextString="{1.SimFirstName} compliments my body" />
-    <TextStringDefinition InstanceID="0xB575760F" TextString="Talk About Nudity" />
-    <TextStringDefinition InstanceID="0x58D5FE17" TextString="{1.SimFirstName} talks about nudity" />
-    <TextStringDefinition InstanceID="0xF26267CA" TextString="Convince to Nudity" />
-    <TextStringDefinition InstanceID="0x9F7EF920" TextString="{1.SimFirstName} convinces me to nudity" />
-    <TextStringDefinition InstanceID="0xCE62863C" TextString="Ask to Get Naked" />
-    <TextStringDefinition InstanceID="0x6839AFEC" TextString="{1.SimFirstName} asks me to get naked" />
-    <TextStringDefinition InstanceID="0xB4F6170B" TextString="Ask to Undress Shoes" />
-    <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} asks me to undress shoes" />
-    <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
-    <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} asks me to dress up" />
     <TextStringDefinition InstanceID="0x228AE967" TextString="---------- Objects ----------" />
     <TextStringDefinition InstanceID="0x050B260E" TextString="&lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; (Autonomy Sign)" />
     <TextStringDefinition InstanceID="0x937591B9" TextString="The &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign prevents all Sims on the lot from explicitly undressing. This sign can be placed anywhere on the lot to take effect.\n\nThe &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign overrides the effect of this sign for the room it is placed in. Making nudity allowed only in that room." />
@@ -288,36 +303,82 @@
     <TextStringDefinition InstanceID="0x6F258005" TextString="The &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
     <TextStringDefinition InstanceID="0x7BF1E74D" TextString="**INVISIBLE** &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
     <TextStringDefinition InstanceID="0x549B77FC" TextString="The Invisible &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
-    <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
-    <TextStringDefinition InstanceID="0xC9AB3921" TextString="{0.SimName} stripped from {M0.his}{F0.her} top." />
-    <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
-    <TextStringDefinition InstanceID="0x50F0734A" TextString="{0.SimName} stripped from {M0.his}{F0.her} shoes." />
-    <TextStringDefinition InstanceID="0x6132B9A3" TextString="{0.SimName} stripped from {M0.his}{F0.her} outfit." />
-    <TextStringDefinition InstanceID="0x170E692A" TextString="{0.SimName} put {M0.his}{F0.her} outfit back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x98D3F307" TextString="{0.SimName} doesn't feel like taking off clothes right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x9119AE4E" TextString="- The most comfortable place to undress will always be Sim home.\n\n" />
-    <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
-    <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
-    <TextStringDefinition InstanceID="0xB8EFEB49" TextString="- No nudity permitted signs on the lot or in the room prevent undressing.\n\n" />
-    <TextStringDefinition InstanceID="0x340B6B30" TextString="- Underage Sims are present on the current lot and their eyes must be respected.\n\n" />
-    <TextStringDefinition InstanceID="0x5241B4C1" TextString="{0.SimName} stripped from {M0.his}{F0.her} bra." />
-    <TextStringDefinition InstanceID="0x5D079432" TextString="{0.SimName} stripped from {M0.his}{F0.her} panties." />
-    <TextStringDefinition InstanceID="0x23EC7BC3" TextString="{0.SimName} stripped from {M0.his}{F0.her} underwear." />
-    <TextStringDefinition InstanceID="0xE8DE02CA" TextString="{0.SimName} put {M0.his}{F0.her} underwear back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x4D7A5BC8" TextString="{0.SimName} doesn't feel like taking off underwear right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x34365938" TextString="Flash Boobs" />
+    <TextStringDefinition InstanceID="0xC071719D" TextString="Flash Pussy" />
+    <TextStringDefinition InstanceID="0xED38B4F2" TextString="Flash Dick" />
+    <TextStringDefinition InstanceID="0x439B9F1A" TextString="Flash Butt" />
+    <TextStringDefinition InstanceID="0x576B25F6" TextString="Flash Everything" />
+    <TextStringDefinition InstanceID="0x0B6ED1FD" TextString="Flashing" />
+    <TextStringDefinition InstanceID="0x711A7823" TextString="Be Flashed by {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFC1E4165" TextString="Show Off Flashing" />
+    <TextStringDefinition InstanceID="0xB086D469" TextString="Compliment Flashing" />
+    <TextStringDefinition InstanceID="0x19DBBC62" TextString="Disregard Flashing" />
+    <TextStringDefinition InstanceID="0xB5789D86" TextString="Flashed a Sim" />
+    <TextStringDefinition InstanceID="0x1BD49A54" TextString="Sims that are experienced with Exhibitionism get a lot of joy from flashing others." />
+    <TextStringDefinition InstanceID="0x77A6756D" TextString="Flash a Sim" />
+    <TextStringDefinition InstanceID="0x0005DD74" TextString="Click on a Sim and select any flashing option from the Wicked Exhibitionism category." />
     <TextStringDefinition InstanceID="0xC1BF0BD5" TextString="{0.SimName} flashed her pussy to {1.SimName}." />
     <TextStringDefinition InstanceID="0x809E1B48" TextString="{0.SimName} flashed her boobs to {1.SimName}." />
     <TextStringDefinition InstanceID="0xC124F925" TextString="{0.SimName} flashed his dick to {1.SimName}." />
     <TextStringDefinition InstanceID="0xF24149F9" TextString="{0.SimName} flashed his butt to {1.SimName}." />
     <TextStringDefinition InstanceID="0x005802F5" TextString="{0.SimName} flashed everything to {1.SimName}." />
     <TextStringDefinition InstanceID="0x702399C0" TextString="{0.SimName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x672B7B80" TextString="{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0x26B96DFB" TextString="Pee Here" />
+    <TextStringDefinition InstanceID="0xE160474C" TextString="Reacting to Sim Peeing" />
+    <TextStringDefinition InstanceID="0x99DD14A8" TextString="Seen with Pants Down" />
+    <TextStringDefinition InstanceID="0x67B5C798" TextString="How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {M0.him}{F0.her} urinating. Whether urgent or not, this just wasn't worth it." />
+    <TextStringDefinition InstanceID="0x07E7652A" TextString="Disgusting Waterworks!" />
+    <TextStringDefinition InstanceID="0x9FB006FF" TextString="What did {0.SimFirstName} just see!? Did that Sim really just urinate right here and right now? The call of nature may be strong but what they just did is disgusting!" />
     <TextStringDefinition InstanceID="0x802E84DB" TextString="---------- Sweating ----------" />
     <TextStringDefinition InstanceID="0x589D01B4" TextString="Sweating Profusely" />
     <TextStringDefinition InstanceID="0x863AAD01" TextString="{0.SimFirstName}'s incredibly overheated body produced so much sweat that even {M0.he}{F0.she} feels disgusted. Time to take a shower and change clothes." />
     <TextStringDefinition InstanceID="0xFD7837FA" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x88ED09B0" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x006D43E5" TextString="No more sweating ever again." />
+    <TextStringDefinition InstanceID="0xC5B99603" TextString="---------- Body Hair ----------" />
+    <TextStringDefinition InstanceID="0xEEFDE6A0" TextString="Natural" />
+    <TextStringDefinition InstanceID="0x1ABE5A9E" TextString="Gray" />
+    <TextStringDefinition InstanceID="0x7134478A" TextString="Black" />
+    <TextStringDefinition InstanceID="0x4A8DBD5F" TextString="Light Brown" />
+    <TextStringDefinition InstanceID="0xEEBE4DCB" TextString="Brown" />
+    <TextStringDefinition InstanceID="0x21FC8193" TextString="Blonde" />
+    <TextStringDefinition InstanceID="0x703368B3" TextString="Dirty Blonde" />
+    <TextStringDefinition InstanceID="0x50F90A52" TextString="Auburn" />
+    <TextStringDefinition InstanceID="0x2765D869" TextString="Orange" />
+    <TextStringDefinition InstanceID="0xAB2B29C2" TextString="Custom" />
+    <TextStringDefinition InstanceID="0x39AD09C8" TextString="Gray Hair" />
+    <TextStringDefinition InstanceID="0xAC7E230C" TextString="Black Hair" />
+    <TextStringDefinition InstanceID="0x0E7AD083" TextString="Light Brown Hair" />
+    <TextStringDefinition InstanceID="0x9C194EC7" TextString="Brown Hair" />
+    <TextStringDefinition InstanceID="0x80641EBF" TextString="Blonde Hair" />
+    <TextStringDefinition InstanceID="0x6B07C5DF" TextString="Dirty Blonde Hair" />
+    <TextStringDefinition InstanceID="0xB39B99E4" TextString="Auburn Hair" />
+    <TextStringDefinition InstanceID="0x42553AAD" TextString="Orange Hair" />
+    <TextStringDefinition InstanceID="0xB9879CDF" TextString="Custom Color Hair" />
+    <TextStringDefinition InstanceID="0xF944AAEA" TextString="---------- Pubic Hair ----------" />
+    <TextStringDefinition InstanceID="0x698BF924" TextString="Pubic Hair" />
+    <TextStringDefinition InstanceID="0xAC0ED3F2" TextString="Enable Pubic Hair for {0.SimName}" />
+    <TextStringDefinition InstanceID="0x000374E5" TextString="Disable Pubic Hair for {0.SimName}" />
+    <TextStringDefinition InstanceID="0x70E4E83B" TextString="Sim {0.SimName} is using pubic hair applied via CAS. Remove that pubic hair to use dynamic pubic hair." />
+    <TextStringDefinition InstanceID="0x4605ED0D" TextString="Use any mirror to stylize {0.SimFirstName}'s pubic hair." />
+    <TextStringDefinition InstanceID="0x5D962F7F" TextString="Dye &amp; Stylize" />
+    <TextStringDefinition InstanceID="0xFDB8B581" TextString="Custom Dye &amp; Style" />
+    <TextStringDefinition InstanceID="0xFB014561" TextString="Custom Style" />
+    <TextStringDefinition InstanceID="0x40E12AB6" TextString="Select a style of pubic hair for {0.SimName}." />
+    <TextStringDefinition InstanceID="0x7FC608F6" TextString="Enable Growth of Pubic Hair for {0.SimName}" />
+    <TextStringDefinition InstanceID="0xFEEF6E15" TextString="Disable Growth of Pubic Hair for {0.SimName}" />
+    <TextStringDefinition InstanceID="0xBAC32260" TextString="Restylize to '{0.String}'" />
+    <TextStringDefinition InstanceID="0xF91FB3BB" TextString="Restylize Pubic Hair" />
+    <TextStringDefinition InstanceID="0x87411598" TextString="{0.SimFirstName}'s pubic hair is already fully stylized." />
+    <TextStringDefinition InstanceID="0x5ABA315D" TextString="Randomize Sims Pubic Hair" />
+    <TextStringDefinition InstanceID="0xF630A360" TextString="Select which pubic hair parts you want included in randomization." />
+    <TextStringDefinition InstanceID="0x38BBF34C" TextString="Select which Sims you want included in pubic hair parts randomization." />
+    <TextStringDefinition InstanceID="0xBC22976F" TextString="Randomize All Sims" />
+    <TextStringDefinition InstanceID="0xB686A47F" TextString="Randomize Selected Sims" />
+    <TextStringDefinition InstanceID="0x599FCECB" TextString="Gender: {0.String}\nAuthor: {1.String}\nSupported Hair Colors: {2.String}" />
+    <TextStringDefinition InstanceID="0x9700EE72" TextString="Gender: {0.String}\nAuthor: {1.String}\nHair Color: {2.String}" />
+    <TextStringDefinition InstanceID="0x8C896BAD" TextString="Male" />
+    <TextStringDefinition InstanceID="0xD669CA38" TextString="Female" />
     <TextStringDefinition InstanceID="0x2852ED15" TextString="---------- Strip Club ----------" />
     <TextStringDefinition InstanceID="0xA8DEA305" TextString="Strip Club" />
     <TextStringDefinition InstanceID="0xAD68026C" TextString="Current Strip Club" />
