@@ -668,7 +668,7 @@
     <TextStringDefinition InstanceID="0x05CA1B79" TextString="{0.SimFirstName} is experiencing an itching sensation around {M0.his}{F0.her} genitals. Could this be something serious?" />
     <TextStringDefinition InstanceID="0x92F33C0C" TextString="&lt;font color='#340658'&gt;Intense Itching&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xDDC1CE94" TextString="(From Crab Lice)" />
-    <TextStringDefinition InstanceID="0x9E8825AC" TextString="Oh no! {0.SimFirstName} contracted Crab Lice! The intense itching caused by the little bugs living around [his] genitalia is not going to clear out without proper treatment." />
+    <TextStringDefinition InstanceID="0x330AB990" TextString="Oh no! {0.SimFirstName} contracted Crab Lice! The intense itching caused by the little bugs living around {M0.his}{F0.her} genitalia is not going to clear out without proper treatment." />
     <TextStringDefinition InstanceID="0x51546A94" TextString="Acquired Crab Lice!" />
     <TextStringDefinition InstanceID="0xB12E89B9" TextString="{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\n\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\nLice Killer Shampoo can be ordered from a computer." />
     <TextStringDefinition InstanceID="0x1E297E6F" TextString=" Ask about Health" />
