@@ -4,8 +4,8 @@
   <L n="animations_list">
 
     <U> <!-- [START OF ANIMATION ENTRY] -->
-      <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] STBL Hexadecimal ID for displayed animation name -->
       <T n="animation_raw_display_name">SexPositionName</T> <!-- [REMOVE IF USING "animation_display_name" FIELD] Raw Text for displayed animation name -->
+      <T n="animation_display_name">0xBC2EA1B2</T> <!-- [REMOVE IF USING "animation_raw_display_name" FIELD] STBL Hexadecimal ID for displayed animation name -->
       <T n="animation_author">YourName</T> <!-- Raw Text for displayed author name of this animation -->
 
       <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T> <!-- List of Location Categories for where this animation can be used at -->
@@ -30,8 +30,8 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
-          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
+          <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH, WITCH_MALE, WITCH_FEMALE, WITCH_BOTH) -->
+          <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
@@ -60,8 +60,8 @@
 
           <T n="animation_type">VAGINAL</T> <!-- Sex Category of interaction this actor is performing (NONE, TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL) -->
 
-          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
-          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH) -->
+          <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH, WITCH_MALE, WITCH_FEMALE, WITCH_BOTH) -->
+          <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
@@ -110,7 +110,7 @@
 
           <U n="dont_run_if"> <!-- List of flags that prevent this event from triggering if true -->
             <T n="actor_has_condom">1</T> <!-- Flag that checks if Event Target is wearing a condom (use to prevent cum effects when Sim is wearing a condom) -->
-            <T n="actor_is_gender">MALE,FEMALE</T> <!-- Flag that checks if Event Target has a Gender Type from this list (NONE, MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE) -->
+            <T n="actor_is_gender">MALE,FEMALE</T> <!-- Flag that checks if Event Target has a Gender Type from this list (NONE, MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
           </U>
         </U> <!-- [END OF EVENT ENTRY] -->
 
