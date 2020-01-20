@@ -247,6 +247,7 @@
     <TextStringDefinition InstanceID="0xE8DE02CA" TextString="{0.SimName} put {M0.his}{F0.her} underwear back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
     <TextStringDefinition InstanceID="0x4D7A5BC8" TextString="{0.SimName} doesn't feel like taking off underwear right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
     <TextStringDefinition InstanceID="0x672B7B80" TextString="{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water." />
+    <TextStringDefinition InstanceID="0xAB741058" TextString="---------- Vampires ----------" />
     <TextStringDefinition InstanceID="0x76534C33" TextString="Command to Undress" />
     <TextStringDefinition InstanceID="0x30E3D666" TextString="Irresistible Command to Undress" />
     <TextStringDefinition InstanceID="0xD38AA793" TextString="Strangely...compelled...to...get...naked." />
@@ -303,6 +304,7 @@
     <TextStringDefinition InstanceID="0x6F258005" TextString="The &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
     <TextStringDefinition InstanceID="0x7BF1E74D" TextString="**INVISIBLE** &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; (Autonomy Sign)" />
     <TextStringDefinition InstanceID="0x549B77FC" TextString="The Invisible &lt;font color='#3AAF69'&gt;Nudity Permitted In Room&lt;/font&gt; sign allows all Sims in a room with this sign to explicitly undress. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode.\n\nWith the 'Nudity Permitted Autonomy Signs Influence' setting enabled, this sign allows Sims, within a room with this sign, to undress without limits.\nThe &lt;font color='#EC262E'&gt;No Nudity Permitted On Lot&lt;/font&gt; sign will be overridden by this sign for the room it is placed in. Making nudity allowed only in that room." />
+    <TextStringDefinition InstanceID="0xFAA316DD" TextString="---------- Flashing ----------" />
     <TextStringDefinition InstanceID="0x34365938" TextString="Flash Boobs" />
     <TextStringDefinition InstanceID="0xC071719D" TextString="Flash Pussy" />
     <TextStringDefinition InstanceID="0xED38B4F2" TextString="Flash Dick" />
@@ -323,6 +325,7 @@
     <TextStringDefinition InstanceID="0xF24149F9" TextString="{0.SimName} flashed his butt to {1.SimName}." />
     <TextStringDefinition InstanceID="0x005802F5" TextString="{0.SimName} flashed everything to {1.SimName}." />
     <TextStringDefinition InstanceID="0x702399C0" TextString="{0.SimName} doesn't feel like flashing Sims right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0x4A34F036" TextString="---------- Pee On Spot ----------" />
     <TextStringDefinition InstanceID="0x26B96DFB" TextString="Pee Here" />
     <TextStringDefinition InstanceID="0xE160474C" TextString="Reacting to Sim Peeing" />
     <TextStringDefinition InstanceID="0x99DD14A8" TextString="Seen with Pants Down" />
@@ -339,8 +342,8 @@
     <TextStringDefinition InstanceID="0xEEFDE6A0" TextString="Natural" />
     <TextStringDefinition InstanceID="0x1ABE5A9E" TextString="Gray" />
     <TextStringDefinition InstanceID="0x7134478A" TextString="Black" />
-    <TextStringDefinition InstanceID="0x4A8DBD5F" TextString="Light Brown" />
     <TextStringDefinition InstanceID="0xEEBE4DCB" TextString="Brown" />
+    <TextStringDefinition InstanceID="0x49B47DD7" TextString="Dark Brown" />
     <TextStringDefinition InstanceID="0x21FC8193" TextString="Blonde" />
     <TextStringDefinition InstanceID="0x703368B3" TextString="Dirty Blonde" />
     <TextStringDefinition InstanceID="0x50F90A52" TextString="Auburn" />
@@ -348,8 +351,8 @@
     <TextStringDefinition InstanceID="0xAB2B29C2" TextString="Custom" />
     <TextStringDefinition InstanceID="0x39AD09C8" TextString="Gray Hair" />
     <TextStringDefinition InstanceID="0xAC7E230C" TextString="Black Hair" />
-    <TextStringDefinition InstanceID="0x0E7AD083" TextString="Light Brown Hair" />
     <TextStringDefinition InstanceID="0x9C194EC7" TextString="Brown Hair" />
+    <TextStringDefinition InstanceID="0xF7BBC20B" TextString="Dark Brown Hair" />
     <TextStringDefinition InstanceID="0x80641EBF" TextString="Blonde Hair" />
     <TextStringDefinition InstanceID="0x6B07C5DF" TextString="Dirty Blonde Hair" />
     <TextStringDefinition InstanceID="0xB39B99E4" TextString="Auburn Hair" />
