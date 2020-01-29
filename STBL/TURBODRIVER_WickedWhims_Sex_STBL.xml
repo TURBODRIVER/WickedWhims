@@ -61,7 +61,7 @@
     <TextStringDefinition InstanceID="0x10557617" TextString="Choose the type of sex initiation." />
     <TextStringDefinition InstanceID="0x21C401F8" TextString="Talk and Walk" />
     <TextStringDefinition InstanceID="0xB5F6352E" TextString="Sex will start with Sims talking and then walking to the sex location." />
-    <TextStringDefinition InstanceID="0x96FCE3E6" TextString="Instant (only with Always Accept enabled)" />
+    <TextStringDefinition InstanceID="0x8EC0A334" TextString="Instant (requires Full Always Accept)" />
     <TextStringDefinition InstanceID="0xE5D7DF3A" TextString="Sex will start instantly, teleporting Sims to the sex location." />
     <TextStringDefinition InstanceID="0x9E42147A" TextString="Height Slider Mods Support" />
     <TextStringDefinition InstanceID="0x77DF61C0" TextString="Check to detect Height Slider mods and adjust Sims height during sex.\nUncheck to ignore Height Slider mods." />
@@ -328,7 +328,7 @@
     <TextStringDefinition InstanceID="0x9B4C5948" TextString="Cheats" />
     <TextStringDefinition InstanceID="0xEAF8C778" TextString="Get rid of the limitations." />
     <TextStringDefinition InstanceID="0xF8EC2C1F" TextString="Always Accept Sex" />
-    <TextStringDefinition InstanceID="0x6601F199" TextString="Check to make Sims always accept sex propositions." />
+    <TextStringDefinition InstanceID="0x980B6653" TextString="Sims will always accept sex propositions.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to always accept no matter the circumstances.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to always accept except for gender preference incompatibility, cheating, or fear of pregnancy.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to not always accept." />
     <TextStringDefinition InstanceID="0xCAED6DCB" TextString="Manual NPC Sims Sex" />
     <TextStringDefinition InstanceID="0x6492BCE6" TextString="Check to enable manual control over NPC Sims sex." />
     <TextStringDefinition InstanceID="0x65FC4A90" TextString="Change Sex Location Anywhere" />
