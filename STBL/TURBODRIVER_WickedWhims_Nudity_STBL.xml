@@ -111,6 +111,8 @@
     <TextStringDefinition InstanceID="0x59FCF55A" TextString="Check to allow employee dancers to automatically change their work task depending on the situation in the club.\nUncheck to disallow employee dancers from changing their work task unless manually assigned." />
     <TextStringDefinition InstanceID="0xF55E2701" TextString="Focused Dancing Objects Interactions Switch" />
     <TextStringDefinition InstanceID="0x15A547DB" TextString="Check to remove irrelevant to dancing interactions from Dancing Poles, Spot Dancing Markers, and Lap Dancing Seats.\nUncheck to keep all game interactions on Dancing Poles, Spot Dancing Markers, and Lap Dancing Spots." />
+    <TextStringDefinition InstanceID="0x754B3A3F" TextString="Clients Visitation Limits Switch" />
+    <TextStringDefinition InstanceID="0xED58A517" TextString="Check to limit visiting Sims by their gender preference and relationship status.\nUncheck to not limit visiting Sims in any way." />
     <TextStringDefinition InstanceID="0x949DD67A" TextString="Window Peeping Settings" />
     <TextStringDefinition InstanceID="0x016DBACF" TextString="Window Peeping related settings." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
@@ -384,7 +386,11 @@
     <TextStringDefinition InstanceID="0xD669CA38" TextString="Female" />
     <TextStringDefinition InstanceID="0x2852ED15" TextString="---------- Strip Club ----------" />
     <TextStringDefinition InstanceID="0xA8DEA305" TextString="Strip Club" />
+    <TextStringDefinition InstanceID="0x82A1E562" TextString="Strip Club - Incomplete" />
+    <TextStringDefinition InstanceID="0x80E03C56" TextString="Strip Clubs are an excellent place to watch naked dancers, receive a lap dance, and have a good drink." />
     <TextStringDefinition InstanceID="0xAD68026C" TextString="Current Strip Club" />
+    <TextStringDefinition InstanceID="0x393A13B8" TextString="Outdated Strip Club!" />
+    <TextStringDefinition InstanceID="0x4B1B2A02" TextString="Your Strip Club is using an &lt;b&gt;Outdated Venue Type&lt;/b&gt;!\n\nTo resolve this issue, sell this club by using the 'Sell This Strip Club' interaction on the owner's phone and buy the lot again afterward.\nRe-buying the lot will use the new Strip Club Venue Type and fix stability issues." />
     <TextStringDefinition InstanceID="0xAA558F85" TextString="View Finances Report" />
     <TextStringDefinition InstanceID="0x3314F055" TextString="Revenue:" />
     <TextStringDefinition InstanceID="0x9D1FE55B" TextString="Total Revenue:" />
@@ -521,6 +527,8 @@
     <TextStringDefinition InstanceID="0xAE7CA640" TextString="Select which dance type animations you want to disable." />
     <TextStringDefinition InstanceID="0xDD902145" TextString="Select which creator animations you want to disable." />
     <TextStringDefinition InstanceID="0xE3CBE411" TextString="Dancer Tip" />
+    <TextStringDefinition InstanceID="0x4B821084" TextString="Buy a Bar!" />
+    <TextStringDefinition InstanceID="0x328AC52F" TextString="Buying a Bar is required for the club to earn any real money. Selling drinks to clients is the main revenue source of a Strip Club.\n\nLook for a 'Bar' in Build Mode and place one somewhere in the club. A hired dancer will be assigned the 'Bartender' role and sell drinks to clients.\n\n" />
     <TextStringDefinition InstanceID="0x9CF0FC62" TextString="Buy Dancing Equipment!" />
     <TextStringDefinition InstanceID="0xCD2AC4EF" TextString="Buying a Dancing Pole or a Dancing Spot Marker is required for dancers to Stage Dance and for clients to watch them.\n\nLook for a 'Dancing Pole' or a 'Dancing Spot' in Build Mode and place one in an open area or at a stage.\nClients will gather around and look for a comfortable seat to watch dancers. It's suggested to place seats around the Dancing Pole or Dancing Spot." />
     <TextStringDefinition InstanceID="0xBEB9B040" TextString="Assign Lap Dancing Seats!" />
