@@ -10,6 +10,8 @@
     <TextStringDefinition InstanceID="0x8538DEF2" TextString="Change sex interaction related settings." />
     <TextStringDefinition InstanceID="0x124D4B77" TextString="Teens Sex Switch" />
     <TextStringDefinition InstanceID="0xF29A4A80" TextString="Check to allow teen age Sims to participate in sex interactions." />
+    <TextStringDefinition InstanceID="0x3FEC890C" TextString="Respect Gender Preference Switch" />
+    <TextStringDefinition InstanceID="0x5BAD60EB" TextString="Check to prevent Sims from accepting sex propositions from non-preferred genders.\nUncheck to allow Sims to accept sex propositions from any gender." />
     <TextStringDefinition InstanceID="0x3981FB4C" TextString="Talk After Sex Switch" />
     <TextStringDefinition InstanceID="0x5D469CA8" TextString="Check to allow Sims to talk after finishing sex." />
     <TextStringDefinition InstanceID="0x15BB7E21" TextString="Auto Silence Phone During Sex" />
@@ -516,7 +518,33 @@
     <TextStringDefinition InstanceID="0x773AC079" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction..." />
     <TextStringDefinition InstanceID="0x2F37456C" TextString="Stop This Sex" />
     <TextStringDefinition InstanceID="0x69475FAF" TextString="Stop All Sex" />
-    <TextStringDefinition InstanceID="0x6164495E" TextString="{0.SimName} refused {1.SimFirstName}'s proposition for sex." />
+    <TextStringDefinition InstanceID="0x8EEF0F7D" TextString="{1.SimName} refused {0.SimFirstName}'s proposition for sex.\n\n{2.String}" />
+    <TextStringDefinition InstanceID="0xD3242234" TextString="Age difference between {0.SimFirstName} and {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xB0AB3CD9" TextString="Family relations between {0.SimFirstName} and {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x7EAFF3DD" TextString="Sexual orientation incompatibility between {0.SimFirstName} and {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x5E466A04" TextString="{1.SimFirstName} is not going to cheat on their significant other." />
+    <TextStringDefinition InstanceID="0x8224DF8F" TextString="Negative friendship." />
+    <TextStringDefinition InstanceID="0x6D758D18" TextString="Negative romance." />
+    <TextStringDefinition InstanceID="0x6310F76F" TextString="{1.SimFirstName} has a negative impression of {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x2F9CFE81" TextString="{1.SimFirstName} thinks that {0.SimFirstName} is unattractive." />
+    <TextStringDefinition InstanceID="0x618E87BB" TextString="{1.SimFirstName} has a significant other." />
+    <TextStringDefinition InstanceID="0x8DAD68E3" TextString="{1.SimFirstName} is on a date with someone." />
+    <TextStringDefinition InstanceID="0xB0682BB6" TextString="{1.SimFirstName} is unflirty." />
+    <TextStringDefinition InstanceID="0x9B21FC9E" TextString="{1.SimFirstName} is sexually abstinent." />
+    <TextStringDefinition InstanceID="0xEA6DA426" TextString="Conversation feels distasteful." />
+    <TextStringDefinition InstanceID="0x401A8A7D" TextString="Conversation feels offensive." />
+    <TextStringDefinition InstanceID="0xBD5B184D" TextString="Conversation feels abhorrent." />
+    <TextStringDefinition InstanceID="0x2BE56438" TextString="{1.SimFirstName} and {0.SimFirstName} just broke up." />
+    <TextStringDefinition InstanceID="0xA6161687" TextString="Conversation feels boring." />
+    <TextStringDefinition InstanceID="0x435DCA8F" TextString="Conversation feels tedious." />
+    <TextStringDefinition InstanceID="0xD70A80E1" TextString="Conversation feels awkward." />
+    <TextStringDefinition InstanceID="0x6F991168" TextString="{1.SimFirstName} is feeling angry." />
+    <TextStringDefinition InstanceID="0x3BD10CAA" TextString="{1.SimFirstName} is feeling stressed." />
+    <TextStringDefinition InstanceID="0x646CF964" TextString="{1.SimFirstName} is feeling uncomfortable." />
+    <TextStringDefinition InstanceID="0xDB2FBC63" TextString="{1.SimFirstName} is feeling sad." />
+    <TextStringDefinition InstanceID="0xF433204C" TextString="{1.SimFirstName} is feeling embarrassed." />
+    <TextStringDefinition InstanceID="0xEDF66FE8" TextString="{0.SimFirstName} smells." />
+    <TextStringDefinition InstanceID="0xDA3271AA" TextString="Relationship between {0.SimFirstName} and {1.SimFirstName} is too weak." />
     <TextStringDefinition InstanceID="0xE2B227A5" TextString="{0.SimName} is having some fun!" />
     <TextStringDefinition InstanceID="0xEB4C497E" TextString="{0.SimName} and {1.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0x25201370" TextString="{0.SimName}, {1.SimName} and {2.SimName} are having sex!" />

@@ -112,7 +112,7 @@
     <TextStringDefinition InstanceID="0xF55E2701" TextString="Focused Dancing Objects Interactions Switch" />
     <TextStringDefinition InstanceID="0x15A547DB" TextString="Check to remove irrelevant to dancing interactions from Dancing Poles, Spot Dancing Markers, and Lap Dancing Seats.\nUncheck to keep all game interactions on Dancing Poles, Spot Dancing Markers, and Lap Dancing Spots." />
     <TextStringDefinition InstanceID="0x754B3A3F" TextString="Clients Visitation Limits Switch" />
-    <TextStringDefinition InstanceID="0xED58A517" TextString="Check to limit visiting Sims by their gender preference and relationship status.\nUncheck to not limit visiting Sims in any way." />
+    <TextStringDefinition InstanceID="0x2FB576F8" TextString="Check to limit visiting Sims by their relationship status.\nUncheck to not limit visiting Sims in any way." />
     <TextStringDefinition InstanceID="0x949DD67A" TextString="Window Peeping Settings" />
     <TextStringDefinition InstanceID="0x016DBACF" TextString="Window Peeping related settings." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
@@ -128,7 +128,7 @@
     <TextStringDefinition InstanceID="0x8545A241" TextString="Pubic Hair Settings" />
     <TextStringDefinition InstanceID="0x253D556E" TextString="Pubic Hair related settings." />
     <TextStringDefinition InstanceID="0xD83E463E" TextString="Pubic Hair Switch" />
-    <TextStringDefinition InstanceID="0xAC56A981" TextString="Check to allow dynamic pubic hair to be applied on Sims bodies.\nUncheck to disallow disallow dynamic pubic hair. Useful when applying it manually in CAS." />
+    <TextStringDefinition InstanceID="0x074111B2" TextString="Check to allow dynamic pubic hair to be applied on Sims bodies.\nUncheck to disallow dynamic pubic hair. Useful when applying it manually in CAS." />
     <TextStringDefinition InstanceID="0xC253C9B6" TextString="Pubic Hair Instant Interactions Switch" />
     <TextStringDefinition InstanceID="0x7336A0CB" TextString="Check to make dyeing and stylizing interactions not require the use of mirrors.\nUncheck to make dyeing and stylizing interactions require the use of mirrors." />
     <TextStringDefinition InstanceID="0xCD36E14B" TextString="Pubic Hair Growth Switch" />
@@ -137,6 +137,14 @@
     <TextStringDefinition InstanceID="0x7C080B7A" TextString="Check to allow configuring of pubic hair manual growth rate.\nUncheck to use Sims lifetime age span to determine pubic hair growth rate." />
     <TextStringDefinition InstanceID="0xCFF5CCE1" TextString="Pubic Hair Growth Rate" />
     <TextStringDefinition InstanceID="0xEABE409F" TextString="Set a number of days it takes to fully regrowth dynamic pubic hair." />
+    <TextStringDefinition InstanceID="0xB55FC84E" TextString="SimHub Settings" />
+    <TextStringDefinition InstanceID="0x13D4164B" TextString="SimHub related settings." />
+    <TextStringDefinition InstanceID="0xD2875721" TextString="SimHub Switch" />
+    <TextStringDefinition InstanceID="0xCC85DFDB" TextString="Check to enable the SimHub feature.\nUncheck to disable the SimHub feature." />
+    <TextStringDefinition InstanceID="0x49073557" TextString="Non-Naked Pictures Switch" />
+    <TextStringDefinition InstanceID="0xC945F8F2" TextString="Check to allow taking Private Pictures of Sims that are not naked.\nUncheck to only allow taking Private Pictures of naked Sims or Sims in sex." />
+    <TextStringDefinition InstanceID="0xB067824A" TextString="SimHub Earning Multiplier" />
+    <TextStringDefinition InstanceID="0xDA3FAEB0" TextString="Set a number of earnings multiplier, as percentage, for the SimHub daily earnings.\n(Default: 100%)" />
     <TextStringDefinition InstanceID="0xC5B01D8B" TextString="Cheats" />
     <TextStringDefinition InstanceID="0x1594FC47" TextString="Cheats to change things that you find annoying." />
     <TextStringDefinition InstanceID="0x949FD76A" TextString="Nudity Privacy Switch" />
@@ -617,7 +625,907 @@
     <TextStringDefinition InstanceID="0x0C5B7E35" TextString="{0.SimFirstName} has sold the peeping pictures {M0.he}{F0.she} took for total of {1.Number} Simoleons.\n" />
     <TextStringDefinition InstanceID="0xEC0ECF91" TextString="Naked {0.SimName}: {1.Money}" />
     <TextStringDefinition InstanceID="0x1795CFD1" TextString="In Sex {0.SimName}: {1.Money}" />
+    <TextStringDefinition InstanceID="0x287A8DC5" TextString="---------- Private Pictures ----------" />
+    <TextStringDefinition InstanceID="0xE1696F96" TextString="Take Photo" />
+    <TextStringDefinition InstanceID="0xCAA7CB7F" TextString="Take Naked Photo" />
+    <TextStringDefinition InstanceID="0x53EE941D" TextString="Take Naked Photo of {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7501B84D" TextString="Take Naked Photo (Posed)" />
+    <TextStringDefinition InstanceID="0x750E7513" TextString="Take Naked Photo of {1.SimFirstName} (Posed)" />
+    <TextStringDefinition InstanceID="0xBC74BE4E" TextString="Take Sex Photo" />
+    <TextStringDefinition InstanceID="0xB5913578" TextString="Take Sex Photo of {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE6E7674C" TextString="Display Reference Data" />
+    <TextStringDefinition InstanceID="0xD59F9D85" TextString="SimHub" />
+    <TextStringDefinition InstanceID="0x68686315" TextString="Create a SimHub Account..." />
+    <TextStringDefinition InstanceID="0x639F3D3D" TextString="Register SimHub Account" />
+    <TextStringDefinition InstanceID="0xB66FF9F3" TextString="Enter your SimHub account username." />
+    <TextStringDefinition InstanceID="0x4C4FBBE4" TextString="Created SimHub Account" />
+    <TextStringDefinition InstanceID="0x0FA875AC" TextString="Welcome to SimHub @{1.String}, the world's leading porn site.\n\nWe're glad to have you on board and want to share with you some tips on how to being.\n\nAs a new member, you will have to gain popularity by sharing spicy pictures of yourself to the public.\nGenerating interest with public pictures attracts users who are willing to pay for more.\nSharing private pictures keeps your paying members engaged and makes your profile worth supporting.\nThe bigger you grow, the more money you earn. Jump out of your clothes and start sending us your pictures.\n\nWe will be sending you more tips on what is currently hot with our community to help you boost your popularity!" />
+    <TextStringDefinition InstanceID="0xD24B01B4" TextString="Shut Down Account" />
+    <TextStringDefinition InstanceID="0xF1739848" TextString="Account @{1.String} has been shut down and all content associated with it has been deleted as well.\nAlthough some of {0.SimFirstName}'s pictures are still lingering in the depths of the internet, {M0.he}{F0.she} can create a new SimHub account and start fresh." />
+    <TextStringDefinition InstanceID="0x4E35D7D3" TextString="Flash for the Camera!" />
+    <TextStringDefinition InstanceID="0xA0D12D13" TextString="People are loving the new photo sent by {0.SimFirstName}. More Sims are now interested in {M0.his}{F0.her} profile." />
+    <TextStringDefinition InstanceID="0x6AF1BCDB" TextString="Shameful Upload" />
+    <TextStringDefinition InstanceID="0xB8B470E2" TextString="SimHub's userbase is a cruel bunch, and they didn't appreciate {0.SimFirstName}'s newest upload all that much, leaving no constructive comments and barely even visiting {M0.his}{F0.her} profile." />
+    <TextStringDefinition InstanceID="0xEADE80D1" TextString="Great Upload" />
+    <TextStringDefinition InstanceID="0xBEF04354" TextString="{0.SimFirstName} took on the challenge of making {M0.his}{F0.her} loyal fans satisfied, and provided them with an exceptional photo upload." />
+    <TextStringDefinition InstanceID="0x0CE9FFA0" TextString="Angered the Fanbase" />
+    <TextStringDefinition InstanceID="0xF98B54D8" TextString="Oops! Looks like the new photo upload by {0.SimFirstName} was a disaster, and made both {M0.him}{F0.her} and some of {M0.his}{F0.her} fans pretty upset." />
+    <TextStringDefinition InstanceID="0x51786134" TextString="Bare Genius" />
+    <TextStringDefinition InstanceID="0x675BBD34" TextString="{0.SimFirstName}'s newly taken photo looks really good, and {M0.he}{F0.she} just KNOWS it will take off on SimHub." />
+    <TextStringDefinition InstanceID="0xF2105411" TextString="Upload Public Photo" />
+    <TextStringDefinition InstanceID="0xBA706081" TextString="Uploads this photo to your SimHub profile available for everybody to see." />
+    <TextStringDefinition InstanceID="0x9F7273D1" TextString="Upload Private Photo" />
+    <TextStringDefinition InstanceID="0x73FF875A" TextString="Uploads this photo to your SimHub profile available only for your supporters." />
+    <TextStringDefinition InstanceID="0x870B3B1A" TextString="A SimHub account is required to upload this photo. Use a Computer to create a SimHub account." />
+    <TextStringDefinition InstanceID="0x9E864A7B" TextString="This photo has already been uploaded." />
+    <TextStringDefinition InstanceID="0x785399DB" TextString="Your public picture has been successfully uploaded to SimHub. Give it a few hours for users to notice it.\n\n&lt;i&gt;Sending pictures with trending topics to public increases your profile popularity which helps you gain supporters.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xDDD6BA51" TextString="Your public picture has been successfully uploaded to SimHub.\n\n&lt;i&gt;Note that sharing very similar pictures in a short period of time will slow down your growth.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xCE5EB314" TextString="Your private picture has been successfully uploaded to SimHub. That should keep your supporters satisfied.\n\n&lt;i&gt;Sending pictures with trending topics to private helps retain your supporters.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x898199CD" TextString="Your private picture has been successfully uploaded to SimHub.\n\n&lt;i&gt;Note that sharing very similar pictures in a short period of time will slow down your growth.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x2E106BDD" TextString="Uh oh, looks like the uploaded photo was automatically removed by SimHub.\nIt's hard to tell why, the Terms and Conditions of SimHub are as long as the 'Fifty Shades of CAS' catalog, so there is no way {0.SimFirstName} will ever know." />
+    <TextStringDefinition InstanceID="0x6F32E854" TextString="Read &amp; Like Comments" />
+    <TextStringDefinition InstanceID="0x0054F782" TextString="{0.SimFirstName} just read the comments." />
+    <TextStringDefinition InstanceID="0x76D0DD5B" TextString="SimHub Comments" />
+    <TextStringDefinition InstanceID="0xA06817FB" TextString="{0.SimFirstName} didn't even share any pictures on SimHub. What kind of comments are there to read?" />
+    <TextStringDefinition InstanceID="0x23445E18" TextString="Looks like there are no comments to read on {0.SimFirstName}'s profile. That's odd." />
+    <TextStringDefinition InstanceID="0x934EBEC6" TextString="SimHub Comment" />
+    <TextStringDefinition InstanceID="0x1A0FA4CD" TextString="# NON_NAKED" />
+    <TextStringDefinition InstanceID="0x179833A4" TextString="Hey, how did this one get through the mods, you're fully clothed!" />
+    <TextStringDefinition InstanceID="0x89F34715" TextString="&lt;b&gt;@admin&lt;/b&gt;, how is {M0.he}{F0.she} fully clothed in this pic?!" />
+    <TextStringDefinition InstanceID="0xDCA10F1A" TextString="# NAKED_FEMALE_TOP" />
+    <TextStringDefinition InstanceID="0x5CC0918A" TextString="I like to think you casually walk around with your boobs out LOL." />
+    <TextStringDefinition InstanceID="0xC8941819" TextString="I love your stomach :O." />
+    <TextStringDefinition InstanceID="0xC7E792A7" TextString="You have the best body on all of SimHub!" />
+    <TextStringDefinition InstanceID="0x61BB1C22" TextString="# NAKED_FEMALE_BOTTOM" />
+    <TextStringDefinition InstanceID="0x199542AA" TextString="Sexy legs, babe!" />
+    <TextStringDefinition InstanceID="0x4297E3C5" TextString="That pussy looks delicious." />
+    <TextStringDefinition InstanceID="0x2D72CD16" TextString="That's an awesome angle of that bottom." />
+    <TextStringDefinition InstanceID="0xEDF1BDF1" TextString="Oh my gosh, look at her butt..." />
+    <TextStringDefinition InstanceID="0x105D14A9" TextString="Oh yeah! Pants down baby!" />
+    <TextStringDefinition InstanceID="0x34BF37FB" TextString="I love these legs, girl!" />
+    <TextStringDefinition InstanceID="0x42F1873D" TextString="# NAKED_MALE_TOP" />
+    <TextStringDefinition InstanceID="0x20DE39AC" TextString="Come by my neighborhood topless one day ;)" />
+    <TextStringDefinition InstanceID="0x2B3B76EC" TextString="You - shirtless = my mental image of a sexy fireman." />
+    <TextStringDefinition InstanceID="0x45E24E04" TextString="You have the best body on all of SimHub!" />
+    <TextStringDefinition InstanceID="0x3A3D906F" TextString="# NAKED_MALE_BOTTOM" />
+    <TextStringDefinition InstanceID="0x4C6046DB" TextString="That's a nice dick." />
+    <TextStringDefinition InstanceID="0x8FA8B27F" TextString="That cock looks tasty. :P" />
+    <TextStringDefinition InstanceID="0x4D53D06F" TextString="I like what I see down there. ;)" />
+    <TextStringDefinition InstanceID="0x3638C02F" TextString="Well, well, well... if it ain't my favorite cock on the site :P." />
+    <TextStringDefinition InstanceID="0x1EC8A4BE" TextString="I'll have... one pic with your dick!" />
+    <TextStringDefinition InstanceID="0xE36ED389" TextString="# BODY_TANNED" />
+    <TextStringDefinition InstanceID="0xCF1897DF" TextString="I like your tan." />
+    <TextStringDefinition InstanceID="0x3851EACE" TextString="That tan is so sexy..." />
+    <TextStringDefinition InstanceID="0xA71A5E9C" TextString="Where can I see you tanning naked? Please don't say tanning booth..." />
+    <TextStringDefinition InstanceID="0x18D8553D" TextString="# BODY_TANNED_BURNT" />
+    <TextStringDefinition InstanceID="0xF3D1968E" TextString="Someone's been in the sun for too long. You gotta watch out for your perfect skin @{1.String}!" />
+    <TextStringDefinition InstanceID="0x7F18FBC6" TextString="Take it easy with the tanning, it can be dangerous!" />
+    <TextStringDefinition InstanceID="0x9E86E43A" TextString="# BODY_TAN_LINES" />
+    <TextStringDefinition InstanceID="0x8CF33B4D" TextString="I find tan lines so sexy, any more pics? ^^" />
+    <TextStringDefinition InstanceID="0x62E8283A" TextString="That tan against these sexy pale lines, makes my mouth water..." />
+    <TextStringDefinition InstanceID="0x32EB2E3E" TextString="# BODY_TAN_LINES_BURNT" />
+    <TextStringDefinition InstanceID="0x8DBAA9D7" TextString="That's hot. Literally. cause you look a little burnt lol" />
+    <TextStringDefinition InstanceID="0x804CA409" TextString="# OUTFIT_UNDERWEAR" />
+    <TextStringDefinition InstanceID="0xE9FAFC86" TextString="Any chance to buy your used underwear?" />
+    <TextStringDefinition InstanceID="0xBF7F6124" TextString="OwO, wats dat... *blushes*???!! *w* Can you show mowe???? ^^" />
+    <TextStringDefinition InstanceID="0x55157C77" TextString="If I saw you in that underwear I'd cum instantly." />
+    <TextStringDefinition InstanceID="0xE9F738F4" TextString="Beautiful underwear, {M0.sir}{F0.madam}." />
+    <TextStringDefinition InstanceID="0xF6921741" TextString="# OUTFIT_SWIMWEAR" />
+    <TextStringDefinition InstanceID="0x13DB5625" TextString="Where are {M0.guys}{F0.girls} like you when I go swimming :/." />
+    <TextStringDefinition InstanceID="0xF10B00C9" TextString="Let's go swimming together. Swimwear optional though ;)." />
+    <TextStringDefinition InstanceID="0xD281BA83" TextString="I wish I looked half as good as you in my swimsuit..." />
+    <TextStringDefinition InstanceID="0x1593AA20" TextString="# OUTFIT_TATTOOS" />
+    <TextStringDefinition InstanceID="0x68D01179" TextString="I like your tattoos, baby! Very cool!" />
+    <TextStringDefinition InstanceID="0xA1A576F1" TextString="I love tattooed {M0.guys}{F0.girls}!" />
+    <TextStringDefinition InstanceID="0x8294FFD7" TextString="What tattoo artist did you go to?" />
+    <TextStringDefinition InstanceID="0x93325C1E" TextString="{M0.His}{F0.Her} tattoos make me wanna get one myself." />
+    <TextStringDefinition InstanceID="0xB3FAE19D" TextString="# OUTFIT_FRECKLES" />
+    <TextStringDefinition InstanceID="0xD8C2F4B5" TextString="Can't get enough of {M0.guys}{F0.girls} with freckles!" />
+    <TextStringDefinition InstanceID="0x7BA2708C" TextString="I honestly think I like freckles just because of {M0.guys}{F0.girls} like you :D." />
+    <TextStringDefinition InstanceID="0x1254870B" TextString="# VISIBLE_MUSCLES" />
+    <TextStringDefinition InstanceID="0x8F2A973E" TextString="So ripped .:o" />
+    <TextStringDefinition InstanceID="0xA02883D8" TextString="How do you get a body like that?!" />
+    <TextStringDefinition InstanceID="0x90C7DFC3" TextString="What's your diet, that body looks amazing!" />
+    <TextStringDefinition InstanceID="0xFD8112BE" TextString="Love your buff body, you look perfect." />
+    <TextStringDefinition InstanceID="0x79F31490" TextString="# VISIBLE_BUTT" />
+    <TextStringDefinition InstanceID="0x39A19AA7" TextString="What a perfect ass!" />
+    <TextStringDefinition InstanceID="0x1B0EBDE7" TextString="That butt is smooth like a baby's bottom... wait that came out wrong." />
+    <TextStringDefinition InstanceID="0x37989224" TextString="I like big butts and I cannot lie..." />
+    <TextStringDefinition InstanceID="0x885D7FF2" TextString="That butt you got makes me so horny!" />
+    <TextStringDefinition InstanceID="0xC9C7B052" TextString="# VISIBLE_BOOBS" />
+    <TextStringDefinition InstanceID="0x204507F4" TextString="Look at these jugs, damn!" />
+    <TextStringDefinition InstanceID="0xB4F3889E" TextString="What an amazing pair of tits." />
+    <TextStringDefinition InstanceID="0x401315EA" TextString="I love {M0.his}{F0.her} boobs!" />
+    <TextStringDefinition InstanceID="0xECFD31A6" TextString="# VISIBLE_OBESITY" />
+    <TextStringDefinition InstanceID="0xF85AD4E9" TextString="I like me some bigger Sims. ;)" />
+    <TextStringDefinition InstanceID="0x42CB8FE2" TextString="Damn @{1.String} you THICC!" />
+    <TextStringDefinition InstanceID="0x77A4009A" TextString="More body to love!" />
+    <TextStringDefinition InstanceID="0x6844361A" TextString="# VISIBLE_PREGNANCY" />
+    <TextStringDefinition InstanceID="0x8496AED0" TextString="I love pregnant Sims!" />
+    <TextStringDefinition InstanceID="0xB4EB0BEF" TextString="Pregnancy suits you babe. :*" />
+    <TextStringDefinition InstanceID="0x6029546B" TextString="Congratulations for the baby!" />
+    <TextStringDefinition InstanceID="0x845116B6" TextString="# FLAG_CELEBRITY" />
+    <TextStringDefinition InstanceID="0x8958A2B6" TextString="Wait, is @{1.String} THE {0.SimFirstName}?" />
+    <TextStringDefinition InstanceID="0xBF8EC0DF" TextString="Is this really {0.SimName} or just a good fake?" />
+    <TextStringDefinition InstanceID="0xE8C330DB" TextString="I cannot believe {0.SimName} released something like that to the public." />
+    <TextStringDefinition InstanceID="0x3306DB53" TextString="I didn't realize {0.SimName} was so sexy!" />
+    <TextStringDefinition InstanceID="0xA21EB508" TextString="Seeing a celebrity naked is... something different. ;)" />
+    <TextStringDefinition InstanceID="0xC1B1C824" TextString="Hey, {0.SimName}, got any more pics?" />
+    <TextStringDefinition InstanceID="0x934D5C8A" TextString="Didn't know {0.SimName} took pics like that... not that I'm complaining." />
+    <TextStringDefinition InstanceID="0x935D70EC" TextString="# FLAG_SKELETON" />
+    <TextStringDefinition InstanceID="0x9F3540FD" TextString="A skeleton? Is this some kind of joke?" />
+    <TextStringDefinition InstanceID="0x711FBCEC" TextString="Errr.... didn't even know skeleton pics were allowed." />
+    <TextStringDefinition InstanceID="0xBAE435E1" TextString="That is one sexy set of bones." />
+    <TextStringDefinition InstanceID="0xA13EFA84" TextString="I feel like my dog would like that pile of bones more than I do." />
+    <TextStringDefinition InstanceID="0xB086F9AA" TextString="# FLAG_SERVO" />
+    <TextStringDefinition InstanceID="0xC7356916" TextString="So since you can upload Robots now, does that mean I can upload my coffee maker too?" />
+    <TextStringDefinition InstanceID="0xA2BBA57A" TextString="What's sexy about a Servo...?" />
+    <TextStringDefinition InstanceID="0xC53A98D7" TextString="I feel like this site is going in the wrong direction if they allow photos of machines to be uploaded on here" />
+    <TextStringDefinition InstanceID="0xF95CB04F" TextString="I mean... that Servo kinda sexy though... :O" />
+    <TextStringDefinition InstanceID="0x9BCFF8C9" TextString="Robots?! &lt;b&gt;REALLY?&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xBF1CC812" TextString="# FLAG_SICKNESS" />
+    <TextStringDefinition InstanceID="0x2E4524AB" TextString="You should visit a doctor {M0.brother}{F0.sister}." />
+    <TextStringDefinition InstanceID="0xC61D624C" TextString="You look sick, are you alright?" />
+    <TextStringDefinition InstanceID="0xD590697B" TextString="Take it easy @{1.String}, you should probably rest and try to get well." />
+    <TextStringDefinition InstanceID="0x4F653A0F" TextString="You still look sexy, even though you look like you're sick. :*" />
+    <TextStringDefinition InstanceID="0x4A7F9EA5" TextString="# FLAG_OUTDOOR" />
+    <TextStringDefinition InstanceID="0xEB7AFDE2" TextString="Wait, isn't that in my neighborhood? I gotta start going outside more if these are the kinds of views you can expect nowadays!" />
+    <TextStringDefinition InstanceID="0xBF75F3AF" TextString="Aren't you afraid you're gonna get caught?" />
+    <TextStringDefinition InstanceID="0xAE71547C" TextString="Wow, so people are going around naked outside now? Where can I sign in?" />
+    <TextStringDefinition InstanceID="0x9711C49C" TextString="# FLAG_VENUE_BEACH" />
+    <TextStringDefinition InstanceID="0xF17FA00D" TextString="I gotta go to that beach! When's your next photoshoot?" />
+    <TextStringDefinition InstanceID="0x1D7ED3EC" TextString="PLEASE, let us know next time you're at that beach!" />
+    <TextStringDefinition InstanceID="0x77D2C1E5" TextString="Does anyone know where that beach is?" />
+    <TextStringDefinition InstanceID="0xE2A3E020" TextString="# FLAG_VENUE_GYM" />
+    <TextStringDefinition InstanceID="0x0778C2EF" TextString="I have a membership in that gym. If I knew stuff like that happens there, maybe I'd actually go once in a while." />
+    <TextStringDefinition InstanceID="0x4351E199" TextString="I could give you a better workout than any of the machines at that gym. ;)" />
+    <TextStringDefinition InstanceID="0xC82B1424" TextString="We should workout together, but I'd prefer my bedroom..." />
+    <TextStringDefinition InstanceID="0xA16C7713" TextString="# FLAG_VENUE_SPA" />
+    <TextStringDefinition InstanceID="0x5ECACED0" TextString="That looks like a relaxing day at the SPA ;)" />
+    <TextStringDefinition InstanceID="0xFEF11E35" TextString="Wanna go to the nude sauna together one day? :P" />
+    <TextStringDefinition InstanceID="0xF6FD12AA" TextString="Now that looks like a good relaxation center!" />
+    <TextStringDefinition InstanceID="0x94A46283" TextString="# FLAG_VENUE_STRIPCLUB" />
+    <TextStringDefinition InstanceID="0x0C2F3E5A" TextString="Where were you when I went to that club a few weeks ago? :c" />
+    <TextStringDefinition InstanceID="0xDD5B00CA" TextString="Didn't think I could like that strip club any more, but here we go!" />
+    <TextStringDefinition InstanceID="0x74BA747E" TextString="# SEX_TEASING" />
+    <TextStringDefinition InstanceID="0xD5F24FB2" TextString="When can we expect part 2? :P" />
+    <TextStringDefinition InstanceID="0xF673B56D" TextString="What a tease... literally!" />
+    <TextStringDefinition InstanceID="0x8E5A80D7" TextString="I hope these photos led to something more and that you took pictures of that too!" />
+    <TextStringDefinition InstanceID="0x19D5F643" TextString="Wish you could tease me like that. :)" />
+    <TextStringDefinition InstanceID="0xCB78ECA1" TextString="# SEX_HANDJOB" />
+    <TextStringDefinition InstanceID="0xEA0BF643" TextString="Looks like {M0.he}{F0.she}'s pretty handy with these hands." />
+    <TextStringDefinition InstanceID="0x00E846DA" TextString="What else do these hands do, baby?" />
+    <TextStringDefinition InstanceID="0x8333DA00" TextString="These hands seem pretty talented, LOL." />
+    <TextStringDefinition InstanceID="0x55CFA0D0" TextString="# SEX_FOOTJOB" />
+    <TextStringDefinition InstanceID="0xD05CA5F0" TextString="Didn't even know I liked feet until now" />
+    <TextStringDefinition InstanceID="0xB14B36EE" TextString="How do I convince my partner to try doing something with feet?" />
+    <TextStringDefinition InstanceID="0xA8437416" TextString="Is it hard to do these kinds of things with just your feet? Asking for a friend." />
+    <TextStringDefinition InstanceID="0x1FE3D590" TextString="# SEX_ORALJOB" />
+    <TextStringDefinition InstanceID="0x05FEC22A" TextString="I wish I could do things like that with my mouth..." />
+    <TextStringDefinition InstanceID="0x8FF0B1AA" TextString="How did it taste? I bet it was amazing." />
+    <TextStringDefinition InstanceID="0x4EFF20A0" TextString="My mouth could use some action like that." />
+    <TextStringDefinition InstanceID="0x66A04E59" TextString="I need that tongue. :P" />
+    <TextStringDefinition InstanceID="0x648C1F05" TextString="# SEX_VAGINAL" />
+    <TextStringDefinition InstanceID="0x4D1861A8" TextString="That pussy was made for this!" />
+    <TextStringDefinition InstanceID="0xCF5CCA38" TextString="Awesome fuck!" />
+    <TextStringDefinition InstanceID="0xB1DF3754" TextString="Ow, yeah, pound it baby!" />
+    <TextStringDefinition InstanceID="0x50E5D4E8" TextString="So great. I think I speak for everyone when I say we need more of that pussy action!" />
+    <TextStringDefinition InstanceID="0x9DC7BA83" TextString="# SEX_ANAL" />
+    <TextStringDefinition InstanceID="0x02EC2CD3" TextString="That ass was made for anal!" />
+    <TextStringDefinition InstanceID="0xD46DB3C7" TextString="More anal please!" />
+    <TextStringDefinition InstanceID="0xF510B421" TextString="Makes me wanna try butt stuff." />
+    <TextStringDefinition InstanceID="0x2FCB6C3B" TextString="Content like this makes me appreciate anal more and more." />
+    <TextStringDefinition InstanceID="0x87113A16" TextString="Wooow!!! Absolutely beautiful and delicious. Love to see this ass being pounded like that. GREAT picture." />
+    <TextStringDefinition InstanceID="0x11690F35" TextString="# SEX_CLIMAX" />
+    <TextStringDefinition InstanceID="0xFDBB640C" TextString="Yummy cummy oWo" />
+    <TextStringDefinition InstanceID="0x098C3901" TextString="I came so hard too, babe :*" />
+    <TextStringDefinition InstanceID="0x4E8B23F6" TextString="I love to see you cumming!" />
+    <TextStringDefinition InstanceID="0xDA8D73D0" TextString="Wait... you don't cry after cumming?" />
+    <TextStringDefinition InstanceID="0xDA39440A" TextString="Hate to see ya go, but I love to watch you cum!" />
+    <TextStringDefinition InstanceID="0xFC12A598" TextString="# SEX_SOLO" />
+    <TextStringDefinition InstanceID="0xE38B20A3" TextString="If you ever feel doing it by yourself isn't enough, hmu!" />
+    <TextStringDefinition InstanceID="0x6E72A678" TextString="So that's what the naughty {M0.boys}{F0.girls} do when no one is watching? ;)" />
+    <TextStringDefinition InstanceID="0x28429D05" TextString="Wish I was there to help you out ;)." />
+    <TextStringDefinition InstanceID="0xC92D8556" TextString="Good {M0.boy}{F0.girl}!" />
+    <TextStringDefinition InstanceID="0xB78BF693" TextString="# SEX_TWOSOME" />
+    <TextStringDefinition InstanceID="0xCB80A01B" TextString="You look so good together!" />
+    <TextStringDefinition InstanceID="0xBD7C6CA7" TextString="Another hot session!" />
+    <TextStringDefinition InstanceID="0x392FD2FB" TextString="Wish I could join in." />
+    <TextStringDefinition InstanceID="0xE08212D8" TextString="Great sex, BTW what size are you @{1.String}?" />
+    <TextStringDefinition InstanceID="0xDB573B04" TextString="That was great, both of you are!" />
+    <TextStringDefinition InstanceID="0x67C4572D" TextString="It feels like you guys have a deeper connection here." />
+    <TextStringDefinition InstanceID="0x4C14C286" TextString="This is the kind of pics I took with my partner when we started dating." />
+    <TextStringDefinition InstanceID="0xD2477874" TextString="You two got any more where that came from?" />
+    <TextStringDefinition InstanceID="0xC937A705" TextString="Best couple pic on this site, hands down .;)." />
+    <TextStringDefinition InstanceID="0x0B748D9F" TextString="I adore you two!" />
+    <TextStringDefinition InstanceID="0x8F084BBE" TextString="I'd like to squeeze right between you two, haha" />
+    <TextStringDefinition InstanceID="0x4830A47D" TextString="# SEX_THREESOME" />
+    <TextStringDefinition InstanceID="0x02079CC0" TextString="I have trouble getting one person to have sex with me, let alone two!" />
+    <TextStringDefinition InstanceID="0xA1E40384" TextString="I love threesomes!" />
+    <TextStringDefinition InstanceID="0xBE9B8486" TextString="Goes to show, the first person who said 'Three's a company' was a moron!" />
+    <TextStringDefinition InstanceID="0x934BF1C5" TextString="# SEX_FOURSOME" />
+    <TextStringDefinition InstanceID="0x2109D9A9" TextString="I can't tell who was the best part of that foursome" />
+    <TextStringDefinition InstanceID="0x3085EE2C" TextString="Any chance I can get invited next time, @{1.String}?" />
+    <TextStringDefinition InstanceID="0x135DF216" TextString="# SEX_ORGY" />
+    <TextStringDefinition InstanceID="0x7FE6A7E5" TextString="Why don't I ever get invited to events like this... ;_;" />
+    <TextStringDefinition InstanceID="0x0BB0AEAD" TextString="So many naked people, where do I even look?" />
+    <TextStringDefinition InstanceID="0x0CAC0B88" TextString="# SEX_HOMO_MALE" />
+    <TextStringDefinition InstanceID="0x94D1FB96" TextString="You guys need a cameraman? :)" />
+    <TextStringDefinition InstanceID="0x7206173E" TextString="They're so beautiful together." />
+    <TextStringDefinition InstanceID="0x4CC31F3E" TextString="You guys are so hot!" />
+    <TextStringDefinition InstanceID="0x9991D09A" TextString="@{1.String} is honestly so sexy here..." />
+    <TextStringDefinition InstanceID="0x2DC48699" TextString="I need a man like one of you :O." />
+    <TextStringDefinition InstanceID="0x56D1E013" TextString="# SEX_HOMO_FEMALE" />
+    <TextStringDefinition InstanceID="0xBAB073BE" TextString="This is my new favorite lesbian combo!" />
+    <TextStringDefinition InstanceID="0x8AC57F9D" TextString="Multiple pairs of boobies is better than just one pair. You can't change my mind." />
+    <TextStringDefinition InstanceID="0xD483E914" TextString="I feel like you could drown in all that pussy." />
+    <TextStringDefinition InstanceID="0xBDFDE646" TextString="I love lesbian pics!" />
+    <TextStringDefinition InstanceID="0xBBB35787" TextString="I love these girls!" />
+    <TextStringDefinition InstanceID="0x807B3C54" TextString="# SEX_HETERO" />
+    <TextStringDefinition InstanceID="0xE6C7E299" TextString="That dick was made for that pussy." />
+    <TextStringDefinition InstanceID="0x8A9227E7" TextString="Wish my partner did me like that." />
+    <TextStringDefinition InstanceID="0x05E1FABD" TextString="Wow, the way she takes that cock..." />
+    <TextStringDefinition InstanceID="0x9BA03B94" TextString="I used to upload pics like that with my girlfriend before she cheated on me." />
+    <TextStringDefinition InstanceID="0x21C7B083" TextString="I love that position!" />
+    <TextStringDefinition InstanceID="0x5887D478" TextString="Best kind of sex. Homemade. :D" />
+    <TextStringDefinition InstanceID="0xAA6336FB" TextString="Another hot session!" />
+    <TextStringDefinition InstanceID="0xEA4C387C" TextString="# SPECIAL_ON_DRUGS_COKE" />
+    <TextStringDefinition InstanceID="0xC039E5F6" TextString="Someone was sniffing donuts, lolol!" />
+    <TextStringDefinition InstanceID="0x2158B51F" TextString="Is that too make-up on {M0.his}{F0.her} nose?" />
+    <TextStringDefinition InstanceID="0x24505FDA" TextString="Anyone know {M0.his}{F0.her} dealer?" />
+    <TextStringDefinition InstanceID="0x000C1ED1" TextString="# SPECIAL_ON_DRUGS_WEED" />
+    <TextStringDefinition InstanceID="0x2EDB09D6" TextString="Hahah, {M0.he}{F0.she}'s so fucking baked!" />
+    <TextStringDefinition InstanceID="0xB4450DA7" TextString="Anyone know {M0.his}{F0.her} dealer?" />
+    <TextStringDefinition InstanceID="0x9332D2F7" TextString="@{1.String} looks as high as a kite here." />
+    <TextStringDefinition InstanceID="0xC3811E43" TextString="# GENERIC" />
+    <TextStringDefinition InstanceID="0x4F1EC5CB" TextString="This is so hot!" />
+    <TextStringDefinition InstanceID="0x12D90476" TextString="Made me horny, saved!" />
+    <TextStringDefinition InstanceID="0x27D9DCC2" TextString="Why can't I find a {M0.guy}{F0.girl} like you??? D:" />
+    <TextStringDefinition InstanceID="0x3A4089A3" TextString="My son forgot to turn off the computer, but I ain't even mad, this is gold!" />
+    <TextStringDefinition InstanceID="0xC93D5C27" TextString="Made my day sexier!" />
+    <TextStringDefinition InstanceID="0xC578AE84" TextString="Visit my channel for Blikblock tips!" />
+    <TextStringDefinition InstanceID="0x2F09C350" TextString="Is it wrong I only opened this link cause you kinda look like my cousin?" />
+    <TextStringDefinition InstanceID="0x3D1DA3F2" TextString="1 like = 1 day of not jerking off." />
+    <TextStringDefinition InstanceID="0x5C375B2D" TextString="This is hot, so remember to stay hydrated!" />
+    <TextStringDefinition InstanceID="0xEC23B871" TextString="@{1.String} is legit my favorite account on here!" />
+    <TextStringDefinition InstanceID="0x119C5D27" TextString="Hey, this is awesome, but you know what would be more awesome? If you joined my R.E.F.U.G.E. clan - The R.E.F.Maniacs!" />
+    <TextStringDefinition InstanceID="0x0F20AC03" TextString="This one is going straight to my fap folder." />
+    <TextStringDefinition InstanceID="0xB1A75A8A" TextString="I don't understand how {M0.he}{F0.she} hasn't set the earth's atmosphere on fire with how hot {M0.he}{F0.she} is." />
+    <TextStringDefinition InstanceID="0x368CC1EA" TextString="I like... legit want like... more of you! &lt;3" />
+    <TextStringDefinition InstanceID="0x40F33622" TextString="This one is too good." />
+    <TextStringDefinition InstanceID="0x65E8E8E0" TextString="Do you do meetups?" />
+    <TextStringDefinition InstanceID="0xD98CDA68" TextString="I think I'm in love." />
+    <TextStringDefinition InstanceID="0xCA4A3B91" TextString="Didn't we go to high school together?!?!?" />
+    <TextStringDefinition InstanceID="0x53B13AA7" TextString="Wait, this isn't Sim.tv!" />
+    <TextStringDefinition InstanceID="0xFAF2A36C" TextString="I love this, but I love my mom more." />
+    <TextStringDefinition InstanceID="0x08891D5A" TextString="I died but when the Grim Reaper came and saw this on my phone, he let me live!" />
+    <TextStringDefinition InstanceID="0x3ADE41C7" TextString="Check Analytics" />
+    <TextStringDefinition InstanceID="0x6654BF41" TextString="SimHub Analytics" />
+    <TextStringDefinition InstanceID="0xB7296851" TextString="{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.String} new supporters and lost {3.String} supporters in the last 24 hours.\n\nThe @{1.String} account currently has {4.String} supporters and is earning {5.String} Simoleons in a day.\n\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile." />
+    <TextStringDefinition InstanceID="0x57E7D323" TextString="SimHub Adviser" />
+    <TextStringDefinition InstanceID="0x42522371" TextString="# NAKED_FEMALE_TOP" />
+    <TextStringDefinition InstanceID="0x6058F318" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests topless photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x5543C3A2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos with your chest out are trending!'" />
+    <TextStringDefinition InstanceID="0x41EB65C6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics with bare chests are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x5D3A2EEE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics with your boobs out are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x33ECE511" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos without tops are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x5A1CA3A6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos with your titties out, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xF40E99EA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos without any top portion of clothing being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xE54F6666" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures with a bare chest are hot right now!'" />
+    <TextStringDefinition InstanceID="0x8692B351" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos with nipples becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x2FA89DD5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics where your topside is naked are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xA121B56A" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that topless photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xAA52B53D" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between uploads of bare-breasted photos and follower gain." />
+    <TextStringDefinition InstanceID="0x5818A57C" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures hanging out without your shirt and bra, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x7E3835B3" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that topless photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x68AC48DB" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures with your boobs out are rising in popularity." />
+    <TextStringDefinition InstanceID="0xC4E82201" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some pictures with a bare top, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xF75C1CB8" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures with your tits out. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x59FA130C" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that topless pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x5C575DEC" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures while not wearing a bra are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x9F1C5B49" TextString="# NAKED_FEMALE_BOTTOM" />
+    <TextStringDefinition InstanceID="0x541BA4AE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests bottomless photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x37F0F4F6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos with an ass out are trending!'" />
+    <TextStringDefinition InstanceID="0x6654F687" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics with pussy-out are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x2D2D18BE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that bottomless pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xE26BB6E1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos with a bare ass are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xE6A935B7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos showing your pussy, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xFAF42BD3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos without panties being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xAFDB0C74" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures with your private parts are hot right now!'" />
+    <TextStringDefinition InstanceID="0xFF5E8811" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed penis photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xF6754F8D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics with dick out are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x52A9AA12" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that bottomless photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xAAE0AB8A" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between bottomless photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x4E9C44A3" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with a bare ass, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x9F5BAA0E" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos with a visible vagina are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x757CC253" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that butt naked pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0x6C612D9F" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some bottomless pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x8F8C7711" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures without panties... and underwear of course. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xB53A242A" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures where Sims are not wearing pants or underpants are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x0BC41B49" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures of private parts are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x412EDDAC" TextString="# NAKED_MALE_TOP" />
+    <TextStringDefinition InstanceID="0x387D34A7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests topless photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0xEE59A1F5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos with your chest out are trending!'" />
+    <TextStringDefinition InstanceID="0x782F6299" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics with bare chests are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xF9F7CB07" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics with your stomach out are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x4C86C82A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos without tops are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xF120BC38" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos with your chest out, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x8165FA7D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos without any top portion of clothing being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x40E66D39" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures with a bare chest are hot right now!'" />
+    <TextStringDefinition InstanceID="0x44F5C001" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed topless photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xC2E43B7E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics where your topside is naked are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x2C09C9FD" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that topless photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x838A7061" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between uploads of topless photos and follower gain." />
+    <TextStringDefinition InstanceID="0xEE53C001" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures hanging out without your shirt, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xCD9B27C0" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that topless photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x111635E6" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures with your chest out are rising in popularity." />
+    <TextStringDefinition InstanceID="0xC803E25A" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some pictures with a bare top, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x467A78C2" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures with bare torsos. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x438173CB" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that topless pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x0DBC4C54" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures while not wearing anything on your torso are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x3D091226" TextString="# NAKED_MALE_BOTTOM" />
+    <TextStringDefinition InstanceID="0x6E94FE61" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests bottomless photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x9844B4DF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos with your dick out are trending!'" />
+    <TextStringDefinition InstanceID="0x2C2C6C2C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics showing your penis are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x3732B08F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken while not wearing any pants are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xACAC19EB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos without pants (and underwear) are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x19726B13" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos of your penis, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x75697E84" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards bottomless photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xC728CF8C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures showing your private parts are hot right now!'" />
+    <TextStringDefinition InstanceID="0x75A662D5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed bottomless photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x1F368D6A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that phallus pics are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x5C6215E5" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that bottomless photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x36ADBA1C" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of Sims butt naked and follower gain." />
+    <TextStringDefinition InstanceID="0x68B1E2AB" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some penis pictures, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x643875ED" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos without covering your bottom are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xFD125B68" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures with naked buttocks are rising in popularity." />
+    <TextStringDefinition InstanceID="0x7F798B1C" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some bottomless pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x4794C7AE" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - butt naked pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x5B0A5FC7" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that bottomless pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x8AD6EED3" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures of your private parts are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x7DE700A0" TextString="# BODY_TANNED" />
+    <TextStringDefinition InstanceID="0x13152DA1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of tanned Sims are trending right now!'" />
+    <TextStringDefinition InstanceID="0x567E7502" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos with tanned Sims are trending!'" />
+    <TextStringDefinition InstanceID="0xD685DB70" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that tanned Sims pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xFC99328C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics of Sims kissed by the sun are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x48343524" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of sunbathed Sims are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xCEDD2BD8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos after tanning, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x142D563F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards tanned photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x9846CE1B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures featuring tanned Sims are hot right now!'" />
+    <TextStringDefinition InstanceID="0x26F6B724" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed that tanned Sims are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xA055D14E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics with tanned Sims are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x46EF5A02" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos with sunbathed Sims are taking off right now!" />
+    <TextStringDefinition InstanceID="0x3ECE2DCB" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of tanned Sims and follower gain." />
+    <TextStringDefinition InstanceID="0x69AF8CAE" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with tan, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x35F4DF1B" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos with tanned Sims are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x09CC5E09" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of tan are rising in popularity." />
+    <TextStringDefinition InstanceID="0xAB4B77D0" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some tanning, because these type of pictures seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xB3473A2F" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures with tanned Sims. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x3CDFE369" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures with Sims kissed by the sun are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x49494D9F" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that tanned Sims pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xC00BF211" TextString="# BODY_TAN_LINES" />
+    <TextStringDefinition InstanceID="0xFEB6D57B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of tan lines are trending right now!'" />
+    <TextStringDefinition InstanceID="0xC558D659" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of Sims with tan lines are trending!'" />
+    <TextStringDefinition InstanceID="0xF6D3EE9A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that tan lines pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x8F493667" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics of Sims with tan lines are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x2049CB44" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of tan lines are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xEA6C6F79" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos with tan lines, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xEA74EE7B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos with tan lines being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xE3F38011" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures featuring Sims and their sexy tan lines are hot right now!'" />
+    <TextStringDefinition InstanceID="0xA7153722" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed that tan lines are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x296170E3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics with Sims' tan lines are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x0A261836" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos with tan lines are taking off right now!" />
+    <TextStringDefinition InstanceID="0x18F11599" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of Sims and follower gain." />
+    <TextStringDefinition InstanceID="0x952C4B83" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with tan lines, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x22D72708" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos of Sims with tan lines are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x9CC66844" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of tan lines are rising in popularity." />
+    <TextStringDefinition InstanceID="0xC857CDAA" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some tanning, because tan lines pictures seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x9FC2D781" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures with Sims and their sexy tan lines. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xE4F83100" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures with tan lines are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x589C2C08" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures of Sims with tan lines are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xDEAC9620" TextString="# OUTFIT_UNDERWEAR" />
+    <TextStringDefinition InstanceID="0x9B70A8CC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos in underwear are trending right now!'" />
+    <TextStringDefinition InstanceID="0x6510BDBA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos in underwear are trending!'" />
+    <TextStringDefinition InstanceID="0x187F4CC0" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that sensual underwear pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x83D0D7E2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that sexy underwear pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xED7F023D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos featuring Sims in sexy underwear are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x1265E69A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some sensual photos in underwear, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x9CE2BD48" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards underwear photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x00B3D2EE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that sexy underwear pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x27F5A24B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of sexy Sims in sensual underwear are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x37D033EF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics of Sims wearing underwear are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x52BEFFB1" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos with Sims wearing sexy underwear are taking off right now!" />
+    <TextStringDefinition InstanceID="0x238717EB" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between underwear photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x61FAA014" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures in sensual underwear, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x7FF02538" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos in hot underwear are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x757CA7F5" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures taken while wearing underwear are rising in popularity." />
+    <TextStringDefinition InstanceID="0x66E4300B" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some sexy lingerie pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xD8213A77" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures in underwear. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xECF34D43" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures in some revealing underwear are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xFFFF0089" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures with Sims wearing underwear are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x27F66A68" TextString="# OUTFIT_SWIMWEAR" />
+    <TextStringDefinition InstanceID="0xD35C5738" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos in swimwear are trending right now!'" />
+    <TextStringDefinition InstanceID="0x1C99F677" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos in some sexy swimwear are trending!'" />
+    <TextStringDefinition InstanceID="0xE4C9542C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that sensual swimwear pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xC9CBDE38" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that sexy swimwear pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x546193B1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos featuring Sims in sexy swimwear are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x7CB193D4" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some sensual photos in swimwear, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xA4494754" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards swimwear photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x8E04667C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that sexy swimwear pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x6DBAFE2B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of sexy Sims in sensual swimwear are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x9E49ED33" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics of Sims wearing swimwear are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xABF08C8D" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos with Sims wearing skimpy swimwear are taking off right now!" />
+    <TextStringDefinition InstanceID="0x80AF6D8F" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between swimwear photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xB6634D26" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures in sensual swimwear, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x49F62C4E" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos in hot swimwear are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x859FA0AA" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures taken while wearing revealing swimwear are rising in popularity." />
+    <TextStringDefinition InstanceID="0x7C1B7598" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some sexy bathing suit pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x9968C278" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures in beachwear. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xCBF2E5F7" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures in some revealing {M0.swimming trunks}{F0.bikini} are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x40F1B917" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures with Sims wearing {M0.trunks}{F0.bikinis} are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xE99E73EE" TextString="# VISIBLE_MUSCLES" />
+    <TextStringDefinition InstanceID="0xE9B8EAC3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests muscular Sims are trending right now!'" />
+    <TextStringDefinition InstanceID="0xB0661D35" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of ripped Sims are trending!'" />
+    <TextStringDefinition InstanceID="0x0D54349C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pic with well-built Sims are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x9841874C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that photos of sexy muscular Sims are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x1DCF79B8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos featuring athletic Sims are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x08462750" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos of muscular Sims, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xCA41AD17" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos with muscles being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x7FE41EA5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that muscular Sim pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xE8134EA2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims with well-built bodies are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x6D16C921" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics of Sims with visible muscles are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x48B66634" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos of well-built Sims are taking off right now!" />
+    <TextStringDefinition InstanceID="0x5C856ADF" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of muscular Sims and follower gain." />
+    <TextStringDefinition InstanceID="0x1A426C59" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with visible muscles, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xEB8E1B60" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos featuring athletic Sims are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x957A8779" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of buff Sims are rising in popularity." />
+    <TextStringDefinition InstanceID="0xA3865776" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for muscle-revealing photos, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x6625658A" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - ripped Sims. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xD2740B13" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures with muscly Sims are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x40E5564D" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures with athletic Sims are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x938E8395" TextString="# VISIBLE_OBESITY" />
+    <TextStringDefinition InstanceID="0x7C5CFFB9" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests bigger Sims are trending right now!'" />
+    <TextStringDefinition InstanceID="0xA7FC238A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of bulky Sims are trending!'" />
+    <TextStringDefinition InstanceID="0x161767C8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pic with chubby Sims are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xECF765FB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that photos of sexy larger Sims are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xACDB12CA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos featuring heavier Sims are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x8360E049" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos of larger Sims, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x1714FE83" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos with bigger Sims being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x375A325D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that heavier Sim pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xA60B9054" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims with more plump bodies are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x9C46F257" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics of Sims with bulkier bodies are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x860AE9F6" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos of larger Sims are taking off right now!" />
+    <TextStringDefinition InstanceID="0x6577AEC1" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of bigger Sims and follower gain." />
+    <TextStringDefinition InstanceID="0xECA45CE9" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with overweight Sims, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x170ECAAA" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos featuring heavier Sims are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xB867C9D4" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of plump Sims are rising in popularity." />
+    <TextStringDefinition InstanceID="0xC1B92E9C" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - heavier Sims. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x1A234EC9" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures with Sims on the 'bigger side' are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x2D7001C5" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures with bigger Sims are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x49639071" TextString="# VISIBLE_PREGNANCY" />
+    <TextStringDefinition InstanceID="0x0B3E82EA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests pregnant Sims are trending right now!'" />
+    <TextStringDefinition InstanceID="0x70F68926" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of expecting Sims are trending!'" />
+    <TextStringDefinition InstanceID="0x67550E99" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pic with Sims expecting a baby are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x7D0F1F30" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that photos of sexy Sims with a baby on the way are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x3374F6B5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos featuring Sims bearing a child are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xD8B05EC3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos of pregnant Sims, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xAA07A9ED" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos with preggy Sims being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x017895F2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pregnant Sim pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x49BC16F0" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of expecting Sims are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x90209B62" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics of pregnant Sims are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x23935482" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos of expecting Sims are taking off right now!" />
+    <TextStringDefinition InstanceID="0x126B833A" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of pregnant Sims and follower gain." />
+    <TextStringDefinition InstanceID="0xEAB59F6A" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures with pregnant Sims, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xA43AE8EA" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos featuring preggy Sims are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x290DB579" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of pregnant Sims are rising in popularity." />
+    <TextStringDefinition InstanceID="0x38D64F4A" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for pregnancy photos, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x3C0685A5" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - photos featuring pregnant Sims. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xE2F7249F" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures with Sims with baby on the way are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xE2C03338" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures with expecting Sims are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xA8AF57E4" TextString="# FLAG_OUTDOOR" />
+    <TextStringDefinition InstanceID="0xF574DEAE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests outdoor photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x0BE3C680" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting outdoor photos are trending!'" />
+    <TextStringDefinition InstanceID="0x02DFED6A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that outdoor pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x63808356" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that outdoor pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x6DD47709" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos taken outdoors are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x903CB95E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos outdoors, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xD98DF0AF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards outdoor photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xFC33C542" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that outdoor pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x6F12251C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed outdoor photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x9B5025AE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that outdoor pics are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x4B77341C" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that outdoor photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x1F562CE2" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between outdoor photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xFA4F235B" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some outdoor pictures, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x55749F09" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that outdoor photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x62F75807" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that outdoor pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0xB39AEC9F" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some outdoor pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xD4C44B21" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures taken outdoors. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x895E1F26" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that outdoor pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x60649111" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that outdoor pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x98A3A117" TextString="# FLAG_VENUE_BEACH" />
+    <TextStringDefinition InstanceID="0xFEF56446" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos taken at a beach are trending right now!'" />
+    <TextStringDefinition InstanceID="0x3D7A6C5C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos from a beach are trending!'" />
+    <TextStringDefinition InstanceID="0xC943B9A2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics taken by the shore are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xCF505FD6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that waterside pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x322DE545" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos taken by the water are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xD2A44766" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos at a beach, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xF660556B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos from a beach being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x462EF14E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures from a beach are hot right now!'" />
+    <TextStringDefinition InstanceID="0xFD592C65" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed beach photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x91788729" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics from beaches are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xD4BACEBE" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos from a beach are taking off right now!" />
+    <TextStringDefinition InstanceID="0x758B2A22" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between waterside photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xFE75B2ED" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures from the shore, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x777712A1" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos taken at a beach are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x9CF7C161" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures from sessions at a beach are rising in popularity." />
+    <TextStringDefinition InstanceID="0x2B06851E" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some beach pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x52D5C557" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures taken at the shore. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x9509FC72" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that waterside pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x99398C55" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures from a beach are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x5CB9BEF3" TextString="# FLAG_VENUE_GYM" />
+    <TextStringDefinition InstanceID="0x128FFB52" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos taken at a gym are trending right now!'" />
+    <TextStringDefinition InstanceID="0xBBB3B0E0" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos from a gym are trending!'" />
+    <TextStringDefinition InstanceID="0xA3CB5A6E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics taken in a gym are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x6EAD0776" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics from a gym are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xE6032ED7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos taken in a gym are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x1B9D76AA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos at a gym, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xDF9967CB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards gymnasium photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xAE81D4A6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures from a gym are hot right now!'" />
+    <TextStringDefinition InstanceID="0x46732C75" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos in a gym becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x3F24BEC6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics from gyms are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x289B9C8F" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that sexy photos from a gym are taking off right now!" />
+    <TextStringDefinition InstanceID="0xAABD085F" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures from the gym, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x6915447D" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos taken at a gym are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x78E9D145" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures from sessions at a gym are rising in popularity." />
+    <TextStringDefinition InstanceID="0x738C35E1" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures taken at the gym. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xA145399C" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures taken at a gym are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x8B20353C" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that uploads from a gym are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xA956E2E6" TextString="# FLAG_VENUE_SPA" />
+    <TextStringDefinition InstanceID="0xA050A4A9" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos taken at a relaxation center are trending right now!'" />
+    <TextStringDefinition InstanceID="0x921878DF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos from a relaxation center are trending!'" />
+    <TextStringDefinition InstanceID="0x4247AF61" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics taken at a relaxation center are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xFF38F66D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics from a relaxation center are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x0E6E424A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos taken at a relaxation center are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x08F148B3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos at a relaxation center, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x222B19CF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos taken at a center of relaxation being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xD1295A13" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures from a relaxation center are hot right now!'" />
+    <TextStringDefinition InstanceID="0x8144015B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos from a relaxation center are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x4F4F2F65" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics from relaxation centers are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x65E3B2A7" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos from a relaxation center are taking off right now!" />
+    <TextStringDefinition InstanceID="0x89530798" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photos taken at a relaxation center and follower gain." />
+    <TextStringDefinition InstanceID="0x3D9C7685" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures at a relaxation center, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x2628017A" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos taken at a relaxation center are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xCA83D8E8" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures from sessions at a relaxation center are rising in popularity." />
+    <TextStringDefinition InstanceID="0x4690239F" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some relaxation center pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x51B44084" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures taken at the relaxation center. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xE913CCA2" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures at a relaxation center are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xF03D3532" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures from a relaxation center are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xCBE5E136" TextString="# FLAG_VENUE_STRIPCLUB" />
+    <TextStringDefinition InstanceID="0x920861D3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos taken at a stripclub are trending right now!'" />
+    <TextStringDefinition InstanceID="0xA386763D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos from a stripclub are trending!'" />
+    <TextStringDefinition InstanceID="0x53FF14FF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics taken at a stripclub are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x7D237573" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics from a stripclub are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x02176008" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos taken at a stripclub are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xAD00A58D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos at a stripclub, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xB6B9F1CA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos from a stripclub being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x13619105" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures from a stripclub are hot right now!'" />
+    <TextStringDefinition InstanceID="0x79F58545" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos from a stripclub are becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x5E69AA5B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics from stripclubs are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x2795D465" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos from a stripclub are taking off right now!" />
+    <TextStringDefinition InstanceID="0xF5D50E3A" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photos taken at a stripclub and follower gain." />
+    <TextStringDefinition InstanceID="0x167836FC" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures from the stripclub, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x0FAA72E0" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos taken at a stripclub are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x2B98A24E" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures from sessions at a stripclub are rising in popularity." />
+    <TextStringDefinition InstanceID="0x478174B9" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some stripclub pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x74AA0172" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures taken at the stripclub. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x814092F4" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures at a stripclub are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xBED0AB58" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures from a stripclub are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xEBCF81BD" TextString="# SEX_TEASING" />
+    <TextStringDefinition InstanceID="0x070F91D5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests teasing photos [sexual] are trending right now!'" />
+    <TextStringDefinition InstanceID="0x5968C191" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos where an object is teasing another object sexually are trending!'" />
+    <TextStringDefinition InstanceID="0x14ACD67C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question pics with sexual teasing are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x8AF34B2C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics including sexual teasing are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xD48B637C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims teasing other Sims sexually are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x9D25B208" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you tease other Sims in a 'sexual' way, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xF52D8BA0" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of sexual tease being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x1C185551" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures where Sim is sensually teasing another Sim are hot right now!'" />
+    <TextStringDefinition InstanceID="0xD6CCA731" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed 'SEXUAL TEASING' photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xC3A7B42F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics including Sims being a sexual tease are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x2E83E410" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos taken while teasing other Sims sexually are taking off right now!" />
+    <TextStringDefinition InstanceID="0xF3D54A3C" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads of Sims getting sexually teased and follower gain." />
+    <TextStringDefinition InstanceID="0x0E7E93E8" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures where you tease other Sims sexually, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x05E64977" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos of erotic teasing are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x6B060978" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures including sensual teasing are rising in popularity." />
+    <TextStringDefinition InstanceID="0x2DCBB938" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some sex teasing pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xC9B29579" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures of sexual teasing. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x41956541" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that teasing pictures (sexually of course) are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xE1008FF0" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures of Sims being a sexual tease are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x226BA148" TextString="# SEX_HANDJOB" />
+    <TextStringDefinition InstanceID="0xC4E75ECA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests handjob photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x37BE9ADC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting handjob photos are trending!'" />
+    <TextStringDefinition InstanceID="0xD10F632E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that handjob pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xC815DEF2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that handjob pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xAE911A0D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims giving a handjob are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xBCAE60E1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you give Sims a handjob, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x9E7A45DB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards handjob photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xC1A382DE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that handjob pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x30ECEF58" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed handjob photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x83CE4F02" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that handjob pics are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xEBDE9FA8" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that handjob photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x1E7B3EA6" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between handjob photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x74548CCF" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some handjob pictures, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x2F422875" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that handjob photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xEA04D8A3" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that handjob pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0x76C879D3" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some handjob pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x155DE229" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - handjob pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xB5C0E01A" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that handjob pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x86C94025" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that handjob pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x10178C43" TextString="# SEX_FOOTJOB" />
+    <TextStringDefinition InstanceID="0x3137AB8F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests footjob photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x16B38394" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting feetplay photos are trending!'" />
+    <TextStringDefinition InstanceID="0x14CE3ECF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of feet being used to satisfy another Sim are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xEB6719DB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics of using feet to make a Sim cum are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x457C8CAE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims giving a footjob are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x728A61FC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you give Sims a footjob, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x44067822" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards footjob photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x3C9673EC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that feet play pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x56676481" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed footjob photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x231FB121" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that footjob pics are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x511B7743" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that footjob photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x69107006" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between photo uploads including Sims getting their partner off with just their feet and follower gain." />
+    <TextStringDefinition InstanceID="0xDF272A3A" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures where you use your feet to satisfy a partner, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x85359B4C" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that footjob photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xDB2B6D78" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that footjob pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0xC2645F76" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some pictures from a feet play session, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xC1ED960E" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - footjob pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xF203A405" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that footjob pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x5FDC4A70" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that footjob pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xCAA1AB03" TextString="# SEX_ORALJOB" />
+    <TextStringDefinition InstanceID="0xE85F13AB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests oraljob photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x30413B1B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of Sims performing a fellatio are trending!'" />
+    <TextStringDefinition InstanceID="0x992A43BF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of Sims giving head are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xB3DED863" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that oraljob pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x1B7E8CEE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims giving a blowjob are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xC2CED21B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you give Sims pleasure with your mouth, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x8A258C7E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards oraljob photos being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xC494BEA8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures of Sims performing oral sex are hot right now!'" />
+    <TextStringDefinition InstanceID="0x0AFEA563" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of oral sex becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x62EF375C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics where Sims are sucking dick are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x10BC418C" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that oral sex photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x02B403B9" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between oraljob photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xDD5045E5" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading some pictures where you're blowing other Sims, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xE75DD0D2" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos where Sims are pleasuring others with their mouth are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x21B10719" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that oral sex pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0xDFBC3809" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some fellatio pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xFDA4FC34" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - cunningullus pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x929EC8FE" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that oral sex pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x676899C5" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures of Sims doing oral sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xDDBD14C4" TextString="# SEX_VAGINAL" />
+    <TextStringDefinition InstanceID="0x5BC7033B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of vaginal sex are trending right now!'" />
+    <TextStringDefinition InstanceID="0xE8E9878F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of Sims having sex involving vaginal penetration are trending!'" />
+    <TextStringDefinition InstanceID="0x3F31C8DE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of penis in the vagina are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xB9E28D2B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that sex pics with vagina penetration are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x2ADB8677" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos where one Sim humps another's vagina are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xDC2D508C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you give have vaginal sex with another Sim, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x2030E822" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of sex in the vagina being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xA0371835" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures with vaginas being stabbed with dicks are hot right now!'" />
+    <TextStringDefinition InstanceID="0x27D9709C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed pussy sex photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x534007C6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics involving sex in the vaginal opening are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x15F3D224" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that sexual intercourse photos involving vaginal penetration are taking off right now!" />
+    <TextStringDefinition InstanceID="0x869F4A9E" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between vaginal sex photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xDF94886A" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex by inserting things into a vagina, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x83CE7712" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that sex photos with visible vaginal penetration are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x9D999A70" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of vaginal sex are rising in popularity." />
+    <TextStringDefinition InstanceID="0x382AF004" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some pussy penetration pictures taken during an intercourse, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xC3042403" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - pictures where one's vagina is used. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xAE0ABC13" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures of vaginal sex are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x056B04ED" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that vaginal sex pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x3FC8A936" TextString="# SEX_ANAL" />
+    <TextStringDefinition InstanceID="0x58E7D7FB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of anal sex are trending right now!'" />
+    <TextStringDefinition InstanceID="0x8B5D68D8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting anal sex photos are trending!'" />
+    <TextStringDefinition InstanceID="0x67AF589C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that anal pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x52A0BB1E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that anal sex pics are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x0E6531EB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims having anal sex are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xA9572E88" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you give have anal sex with another Sim, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xB3A91AAE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of anal sex being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x73B09906" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that anal pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xB14C68AB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed butt sex photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x881575A7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that sex in the butt pics are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x3324C745" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that anal intercourse photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xFA15D3EE" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between anal photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x6BDFC9C7" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex anally, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xF4AD49BD" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that anal photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xB2EC2C2F" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that anal sex pictures are rising in popularity." />
+    <TextStringDefinition InstanceID="0x82F37BDE" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some butt sex pictures, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x7FD165F8" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - anal penetration pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x4F5A97E7" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that butt sex pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x7ACA4FCD" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that anal pictures are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x093A4CD4" TextString="# SEX_CLIMAX" />
+    <TextStringDefinition InstanceID="0x6903B753" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims cumming are trending right now!'" />
+    <TextStringDefinition InstanceID="0xD786CAB2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting climax photos are trending!'" />
+    <TextStringDefinition InstanceID="0x0F318914" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that cumming pics are favorable right now!'" />
+    <TextStringDefinition InstanceID="0xDD26DC0F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken during orgasm are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x78F68C1D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of Sims orgasming are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x23EF40A1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you come, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xBE18E816" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of peaking sexually being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x900A4480" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that climax pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x524F7B83" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed orgasm photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xAEE33E6D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that orgasm pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x73DCFC1C" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that climax photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x69EB0BC8" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between climax photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x2B979E6B" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're cumming, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x5F19A66C" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that orgasm photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x6322E47F" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sims during climax are rising in popularity." />
+    <TextStringDefinition InstanceID="0xF2766094" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some pictures of sexual climax, because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x76C687DA" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - orgasm pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xF56F06CE" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that climax pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x514FBDEB" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are coming are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x3EAF1A9B" TextString="# SEX_SOLO" />
+    <TextStringDefinition InstanceID="0x1583A5CC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims masturbating are trending right now!'" />
+    <TextStringDefinition InstanceID="0xD7C5E285" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting masturbation photos are trending!'" />
+    <TextStringDefinition InstanceID="0xCA00E033" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics giving pleasure to yourself are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x59B944F3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken while jerking off are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x75779007" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of auto-eroticism are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x51BCADF1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're self-stimulating, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x829D383E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of solo masturbation being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xDCFA4DFD" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that masturbation pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x2FAE3729" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims doing it with just themselves becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x7B7C02FD" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that masturbation pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x13FA1340" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that solo masturbation photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x87A9FA41" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between auto-eroticism photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xC983246B" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're touching yourself, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xAF39F16C" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that masturbation photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x639BAC4B" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sims jerking off are rising in popularity." />
+    <TextStringDefinition InstanceID="0xCF88257C" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some masturbation pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xB69C4EB6" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - masturbation pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xBC0CE5B9" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that solo sex pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x0AC05734" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims perform auto-eroticism are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xB7B7BD66" TextString="# SEX_TWOSOME" />
+    <TextStringDefinition InstanceID="0xB8ACEB76" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims having couple sex are trending right now!'" />
+    <TextStringDefinition InstanceID="0x0D8AF47D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of pairs having sex are trending!'" />
+    <TextStringDefinition InstanceID="0x0BC0E42A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of two Sims having sex are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x00052573" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken while having sex with another Sim are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x0F40849A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of couple sex are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x0D530713" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having sex with one other Sim, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x6B986B7D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of duos going at it being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x5AFB4F70" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that twosome pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xECFE0391" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims doing it with just their sexual partner becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x775CC27C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that couple sex pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xDDB9C81F" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos of duos having sex are taking off right now!" />
+    <TextStringDefinition InstanceID="0x7326FFB4" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between pair sex photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x26DEAD3C" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're just with your partner, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xC906D58F" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos of duos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0xC2ADCDAA" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sims having sex with their partner off are rising in popularity." />
+    <TextStringDefinition InstanceID="0xE90F2379" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some couple sex pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xF833E12F" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - twosome pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xDDE2CF1A" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that duo sex pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x889B80C8" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims have sex with their partner are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x326231EC" TextString="# SEX_THREESOME" />
+    <TextStringDefinition InstanceID="0x4292E9DF" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims in a threesome are trending right now!'" />
+    <TextStringDefinition InstanceID="0xB934338C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting threesome photos are trending!'" />
+    <TextStringDefinition InstanceID="0x3E35A631" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics from a threesome are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x0F0B5FAA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken during sex with two other Sims are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x8DC206C3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of threesomes are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x622EB49F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having a threesome, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0xABABA8D1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of threesomes being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x78A040DE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that threesome pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x0A7FE78B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims doing it with TWO other Sims becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x00E0D190" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that threesome pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x41792128" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that threesome photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x262FC646" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between threesome photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xB2C8AF9E" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex with two other Sims, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x7B931CCD" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that threesome photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x4E2A9B41" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sim trios having sex are rising in popularity." />
+    <TextStringDefinition InstanceID="0x896DE877" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some threesome pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xC7BAD67D" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - threesome pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xE665823D" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures taken during threesomes are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0xF5BD6092" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having a threesome are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x0A0A1084" TextString="# SEX_FOURSOME" />
+    <TextStringDefinition InstanceID="0xD65FA0D1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims in a foursome are trending right now!'" />
+    <TextStringDefinition InstanceID="0x6B95838E" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting foursome photos are trending!'" />
+    <TextStringDefinition InstanceID="0x4D171541" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics from a foursome are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x8EEB7FF4" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken during sex with three other Sims are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xC598FAE5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of foursomes are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x8009FF1F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having a foursome, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x96E8DA23" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of foursomes being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x3D00EE2C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that foursome pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xBBB31F55" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims doing it with THREE other Sims becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x4CA35EE8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that foursome pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xC5269EA4" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that foursome photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xA0B29B3C" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between foursome photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x67957AB4" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex with three other Sims, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xAD55015F" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that foursome photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x26EECA95" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sim quartets having sex are rising in popularity." />
+    <TextStringDefinition InstanceID="0x78430281" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some foursome pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x058D3E1B" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - foursome pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xE5DE674F" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures taken during foursomes are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x3E48C978" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having a foursome are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x9E047CA5" TextString="# SEX_ORGY" />
+    <TextStringDefinition InstanceID="0xAF0EE4E6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of Sims having an orgy are trending right now!'" />
+    <TextStringDefinition InstanceID="0xEFD23405" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting orgy photos are trending!'" />
+    <TextStringDefinition InstanceID="0x42C87EA8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics from an orgy are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x69AC17C2" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pics taken during sex with many other Sims during an orgy are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x47CA736B" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of orgies are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x1793BEBE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having an orgy, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x72B15A21" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of orgies being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0xCA1F481D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that orgy pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xA1D46D9C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims doing it with MANY other Sims becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x40493829" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that orgy pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x13D250F1" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that orgy photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xCDCBD1DD" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between orgy photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x8BAEED98" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex with a lot of other Sims, during an orgy, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x2B4B7D6C" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that orgy photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x1FE03C16" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sims having sex in an orgy are rising in popularity." />
+    <TextStringDefinition InstanceID="0xAC7F5D7C" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some orgy pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x2F6F92AE" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - orgy pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x7CE67674" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures taken during an orgy are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x20B747D1" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having an orgy are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x34747D2B" TextString="# SEX_HOMO_MALE" />
+    <TextStringDefinition InstanceID="0x3D22A5CC" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests photos of gay sex are trending right now!'" />
+    <TextStringDefinition InstanceID="0x9B7A1405" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting gay sex photos are trending!'" />
+    <TextStringDefinition InstanceID="0xEF06D7DE" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of gay sex are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x07251426" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that pic of gay intercourse are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x211A2806" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of gay lovemaking are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xB0042AAA" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having gay sex with another male Sim, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x7038B59C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of gay lovemaking being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x90D6877F" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that guy on guy pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0xC9BA4E57" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of Sims having gay sexual intercourses becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0xD2F8ADCB" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pictures of gay guys making love are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0x03EAB173" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that gay sex photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0xB9D62AED" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between gay sex photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0x7945F230" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures of two male Sims making love, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x7C23A12F" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos of gay Sims 'doing the business' are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x21D25F26" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of male Sims having sex are rising in popularity." />
+    <TextStringDefinition InstanceID="0x260D0B6C" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some gay session pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x5CC3F913" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - gay sex. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0xEAD199C4" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures of guys having sex are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x7B920B36" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having gay sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x0C77A5E6" TextString="# SEX_HOMO_FEMALE" />
+    <TextStringDefinition InstanceID="0x04B6E734" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests lesbian photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0x109CA24C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting photos of lesbian lovemaking are trending!'" />
+    <TextStringDefinition InstanceID="0xEA98008A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of girl on girl action are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x4272D150" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that lesbian intercourse pic are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0x29D43D36" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of lesbian sex are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0x4341BD9C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where two females are having sex, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x33456222" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of lesbian copulation being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x4CBC50B8" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures of girls 'doing the business' are hot right now!'" />
+    <TextStringDefinition InstanceID="0xD34FA0C5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of female Sims 'doing it' becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x22E87477" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pictures of lesbian sex are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xC34A34DB" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that photos of lesbian sex are taking off right now!" />
+    <TextStringDefinition InstanceID="0xC651BCA8" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between lesbian sex photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xF7869321" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures of lesbian intercourse, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0xF67EC3CB" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that photos of girls doing it are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x7E156165" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of female Sims having an intercourse are rising in popularity." />
+    <TextStringDefinition InstanceID="0xBD5ADBED" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some lesbian session pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0xA455472C" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - lesbian sex. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x6E503533" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that pictures of girls having sex are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x79186A23" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having lesbian sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0xF7F02A9F" TextString="# SEX_HETERO" />
+    <TextStringDefinition InstanceID="0x59DB10A6" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests straight photos are trending right now!'" />
+    <TextStringDefinition InstanceID="0xBDD37A49" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our points of data make a beautiful line suggesting heterosexual photos are trending!'" />
+    <TextStringDefinition InstanceID="0x1A5884F7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; ':wink: :wink: It's not out of the question that pics of sex are favorable right now!'" />
+    <TextStringDefinition InstanceID="0x39CE6B1D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, human! Our algorithm detected that straight pic are gonna give you the most recognition right now! See you later human.'" />
+    <TextStringDefinition InstanceID="0xC3722B38" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Current circumstances seem to suggest photos of sex are quite in demand. :smiley:'" />
+    <TextStringDefinition InstanceID="0xEE791646" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos where you're having sex, that's what people are counting on!'" />
+    <TextStringDefinition InstanceID="0x8474783A" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos of straight sex being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
+    <TextStringDefinition InstanceID="0x0463F2C1" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that heterosexual pictures are hot right now!'" />
+    <TextStringDefinition InstanceID="0x26C098F5" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed photos of straight Sims becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
+    <TextStringDefinition InstanceID="0x2A11503C" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that sex pictures are trending, and you should think about uploading some!'" />
+    <TextStringDefinition InstanceID="0xAC9B59BC" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that sex photos are taking off right now!" />
+    <TextStringDefinition InstanceID="0x7DA53A4E" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between sex photo uploads and follower gain." />
+    <TextStringDefinition InstanceID="0xB63B67DA" TextString="Hey, SimHub Media Guru here. We suggest you should try uploading pictures where you're having sex, as they seem to get off right now." />
+    <TextStringDefinition InstanceID="0x8E42D740" TextString="Hey, SimHub Community Outreach Center here - our recent data suggests that heterosexual photos are going to be rising in popularity, so try to jump on it! :)" />
+    <TextStringDefinition InstanceID="0x9E42F03B" TextString="Hi @{1.String}, SimHub Community Manager here - a recent SimHub user survey has shown that pictures of Sims having sex are rising in popularity." />
+    <TextStringDefinition InstanceID="0x31283726" TextString="SimHub representative here, how are you @{1.String}? Hopefully in a mood for some hetero sex session pictures because they seem to be very popular right now!" />
+    <TextStringDefinition InstanceID="0x32265D85" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - sex pictures. Hope you find that information useful!" />
+    <TextStringDefinition InstanceID="0x950A8FBA" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that sex pictures are going to become popular soon! Plan accordingly!" />
+    <TextStringDefinition InstanceID="0x202CCB35" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x0CBCB52C" TextString="Payout ({0.Money})" />
+    <TextStringDefinition InstanceID="0x6913E5A1" TextString="There's nothing to pay out." />
+    <TextStringDefinition InstanceID="0x3385E767" TextString="SimHub Payout" />
+    <TextStringDefinition InstanceID="0x95E0794F" TextString="{0.SimFirstName} has earned §{2.String} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings." />
+    <TextStringDefinition InstanceID="0x84B55314" TextString="Woohoo - you just got paid!\n\n{1.String} Simoleons was just sent out to you from SimHub.\n\nCongrats again and thank you from all of us at SimHub.\nPlease contact us at noreply@simhub.cc if you are having any issues." />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
-    <TextStringDefinition InstanceID="0xA7EBED23" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING NUDITY TEXT\\\&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x86E8A167" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING NUDITY TEXT \\\&lt;/font&gt;" />
   </TextStringDefinitions>
 </StblData>
