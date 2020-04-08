@@ -98,7 +98,11 @@
     <TextStringDefinition InstanceID="0x4269D77E" TextString="Dress Up After Dance Switch" />
     <TextStringDefinition InstanceID="0x0FF5A29E" TextString="Check to make dancers dress up after every dance.\nUncheck to keep dancers undressed after a dance." />
     <TextStringDefinition InstanceID="0xC03EDEB7" TextString="Dancer Profit Share Percentage" />
-    <TextStringDefinition InstanceID="0xE8F3458C" TextString="Set a number of profit share percentage for the club from the dancer earning.\n(Default: 20%)" />
+    <TextStringDefinition InstanceID="0xEB38AB44" TextString="Set a number of profit share, as percentage, for the club from the dancer earning.\n(Default: 20%)" />
+    <TextStringDefinition InstanceID="0x8154B767" TextString="Dancer Earning Multiplier" />
+    <TextStringDefinition InstanceID="0x502712FF" TextString="Set a number of earnings multiplier, as percentage, for the dancer tips.\n(Default: 100%)" />
+    <TextStringDefinition InstanceID="0x161BD9BD" TextString="Bar Earning Multiplier" />
+    <TextStringDefinition InstanceID="0x72A4E11D" TextString="Set a number of earnings multiplier, as percentage, for the bar sales.\n(Default: 100%)" />
     <TextStringDefinition InstanceID="0x0BAB28C4" TextString="Personal Lap Dance Cheat" />
     <TextStringDefinition InstanceID="0xDC8525DE" TextString="Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club." />
     <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
@@ -201,7 +205,7 @@
     <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
     <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
     <TextStringDefinition InstanceID="0x66AC60E9" TextString="---------- Buffs ----------" />
-    <TextStringDefinition InstanceID="0xA08E23AF" TextString="Being Naked" />
+    <TextStringDefinition InstanceID="0xF48B094F" TextString="&lt;font color='#340658'&gt;Being Naked&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x32E7A30B" TextString="When you shed your clothes you also shed just a few of the burdens of everyday life." />
     <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
     <TextStringDefinition InstanceID="0x05301777" TextString="Admire Yourself Sexually" />
@@ -325,7 +329,7 @@
     <TextStringDefinition InstanceID="0xFC1E4165" TextString="Show Off Flashing" />
     <TextStringDefinition InstanceID="0xB086D469" TextString="Compliment Flashing" />
     <TextStringDefinition InstanceID="0x19DBBC62" TextString="Disregard Flashing" />
-    <TextStringDefinition InstanceID="0xB5789D86" TextString="Flashed a Sim" />
+    <TextStringDefinition InstanceID="0xF5FDC808" TextString="&lt;font color='#340658'&gt;Flashed a Sim&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x1BD49A54" TextString="Sims that are experienced with Exhibitionism get a lot of joy from flashing others." />
     <TextStringDefinition InstanceID="0x77A6756D" TextString="Flash a Sim" />
     <TextStringDefinition InstanceID="0x0005DD74" TextString="Click on a Sim and select any flashing option from the Wicked Exhibitionism category." />
@@ -338,12 +342,12 @@
     <TextStringDefinition InstanceID="0x4A34F036" TextString="---------- Pee On Spot ----------" />
     <TextStringDefinition InstanceID="0x26B96DFB" TextString="Pee Here" />
     <TextStringDefinition InstanceID="0xE160474C" TextString="Reacting to Sim Peeing" />
-    <TextStringDefinition InstanceID="0x99DD14A8" TextString="Seen with Pants Down" />
+    <TextStringDefinition InstanceID="0xF39FFD4A" TextString="&lt;font color='#340658'&gt;Seen with Pants Down&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x67B5C798" TextString="How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {M0.him}{F0.her} urinating. Whether urgent or not, this just wasn't worth it." />
-    <TextStringDefinition InstanceID="0x07E7652A" TextString="Disgusting Waterworks!" />
+    <TextStringDefinition InstanceID="0xC772384C" TextString="&lt;font color='#340658'&gt;Disgusting Waterworks!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x9FB006FF" TextString="What did {0.SimFirstName} just see!? Did that Sim really just urinate right here and right now? The call of nature may be strong but what they just did is disgusting!" />
     <TextStringDefinition InstanceID="0x802E84DB" TextString="---------- Sweating ----------" />
-    <TextStringDefinition InstanceID="0x589D01B4" TextString="Sweating Profusely" />
+    <TextStringDefinition InstanceID="0xE870F5A6" TextString="&lt;font color='#340658'&gt;Sweating Profusely&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x863AAD01" TextString="{0.SimFirstName}'s incredibly overheated body produced so much sweat that even {M0.he}{F0.she} feels disgusted. Time to take a shower and change clothes." />
     <TextStringDefinition InstanceID="0xFD7837FA" TextString="No Sweat" />
     <TextStringDefinition InstanceID="0x88ED09B0" TextString="No Sweat" />
@@ -397,8 +401,8 @@
     <TextStringDefinition InstanceID="0x82A1E562" TextString="Strip Club - Incomplete" />
     <TextStringDefinition InstanceID="0x80E03C56" TextString="Strip Clubs are an excellent place to watch naked dancers, receive a lap dance, and have a good drink." />
     <TextStringDefinition InstanceID="0xAD68026C" TextString="Current Strip Club" />
-    <TextStringDefinition InstanceID="0x393A13B8" TextString="Outdated Strip Club!" />
-    <TextStringDefinition InstanceID="0x4B1B2A02" TextString="Your Strip Club is using an &lt;b&gt;Outdated Venue Type&lt;/b&gt;!\n\nTo resolve this issue, sell this club by using the 'Sell This Strip Club' interaction on the owner's phone and buy the lot again afterward.\nRe-buying the lot will use the new Strip Club Venue Type and fix stability issues." />
+    <TextStringDefinition InstanceID="0x276B1D86" TextString="New Strip Club Warning!" />
+    <TextStringDefinition InstanceID="0xCBE478CA" TextString="Before you proceed, you should be aware of the limitations imposed by the game.\n\n1. The lot type is set to '&lt;b&gt;Generic&lt;/b&gt;', that's intentional and should not be changed.\n2. The &lt;b&gt;Business Management&lt;/b&gt; Tab in the corner is not functional. Use your Sim phone to operate the Strip Club.\n\nHave fun!" />
     <TextStringDefinition InstanceID="0xAA558F85" TextString="View Finances Report" />
     <TextStringDefinition InstanceID="0x3314F055" TextString="Revenue:" />
     <TextStringDefinition InstanceID="0x9D1FE55B" TextString="Total Revenue:" />
@@ -510,6 +514,13 @@
     <TextStringDefinition InstanceID="0x2169DCC4" TextString="Design Female Outfit" />
     <TextStringDefinition InstanceID="0xC7E1DC0D" TextString="Design Male Outfit" />
     <TextStringDefinition InstanceID="0xB86A9540" TextString="You can't do this as a Strip Club dancer." />
+    <TextStringDefinition InstanceID="0x2BAF7088" TextString="Janitor" />
+    <TextStringDefinition InstanceID="0x2BF8140D" TextString="Janitor" />
+    <TextStringDefinition InstanceID="0xFB3E23C4" TextString="Strip Club Janitor" />
+    <TextStringDefinition InstanceID="0x2469E267" TextString="Influences efficiency of employee's cleaning and repairing broken objects." />
+    <TextStringDefinition InstanceID="0x5A9848A0" TextString="Instruct Janitor to Repair" />
+    <TextStringDefinition InstanceID="0xCB0040B4" TextString="Instruct Janitor to Clean" />
+    <TextStringDefinition InstanceID="0x8E746939" TextString="There is no Janitor present on the lot." />
     <TextStringDefinition InstanceID="0x60276F0B" TextString="Striptease" />
     <TextStringDefinition InstanceID="0xFF5090CF" TextString="Acquired the Striptease Skill" />
     <TextStringDefinition InstanceID="0x775E3417" TextString="Sims with the Striptease skill perform the most sensual dancing moves you can imagine. They love to dance and impress the audience.\n\nDance on a Dancing Pole, a Dancing Spot, or perform a Lap Dance to increase this skill. Dancing to the Sim favorite music genre further strengthens the Striptease performance." />
@@ -527,6 +538,7 @@
     <TextStringDefinition InstanceID="0xCBDFA906" TextString="{0.SimName} Spot Dance" />
     <TextStringDefinition InstanceID="0xE3EC7D29" TextString="{0.SimName} Lap Dance" />
     <TextStringDefinition InstanceID="0xEE84A133" TextString="Author: {0.String}" />
+    <TextStringDefinition InstanceID="0x578CFAB5" TextString="Gender: {0.String}" />
     <TextStringDefinition InstanceID="0x70D34E8B" TextString="Assign Lap Dancing Spot" />
     <TextStringDefinition InstanceID="0x00C5B4AC" TextString="Unassign Lap Dancing Spot" />
     <TextStringDefinition InstanceID="0x8647B01A" TextString="Manage Dance Animations" />
@@ -604,16 +616,16 @@
     <TextStringDefinition InstanceID="0x81C9C0B8" TextString="Run Away" />
     <TextStringDefinition InstanceID="0xE659C948" TextString="Invite In to Have Sex" />
     <TextStringDefinition InstanceID="0x16BDAE0C" TextString="Sell Peeping Pictures" />
-    <TextStringDefinition InstanceID="0x947CC5C2" TextString="Feeling Exposed" />
+    <TextStringDefinition InstanceID="0x3EEA6E32" TextString="&lt;font color='#340658'&gt;Feeling Exposed&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0334A55A" TextString="Oh no! Some perverted Sim was peeping through the window and {0.SimFirstName} caught them taking a picture of {M0.his}{F0.her} naked body!" />
-    <TextStringDefinition InstanceID="0x1BF73111" TextString="Unexpected Exposure" />
+    <TextStringDefinition InstanceID="0x8A1B13A1" TextString="&lt;font color='#340658'&gt;Unexpected Exposure&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2283FB9E" TextString="{0.SimFirstName} felt an unexpected feeling of excitement after noticing a flash of someone taking a picture of {M0.his}{F0.her} naked body through the window!" />
-    <TextStringDefinition InstanceID="0x041998B9" TextString="Caught Peeping" />
+    <TextStringDefinition InstanceID="0xD6952CD1" TextString="&lt;font color='#340658'&gt;Caught Peeping&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xB2C5F845" TextString="{0.SimFirstName} was caught peeping through a window with {M0.his}{F0.her} pants down!" />
-    <TextStringDefinition InstanceID="0x55E6C5B3" TextString="No Show" />
+    <TextStringDefinition InstanceID="0x159F30DB" TextString="&lt;font color='#340658'&gt;No Show&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x7E370B58" TextString="(From Uneventful Peeping)" />
     <TextStringDefinition InstanceID="0x4B349FAC" TextString="Not much has happened for the past few hours of peeping. {0.SimFirstName} might have to try again tomorrow." />
-    <TextStringDefinition InstanceID="0x49E2BAF1" TextString="Exciting Showing" />
+    <TextStringDefinition InstanceID="0xBE1750B9" TextString="&lt;font color='#340658'&gt;Exciting Showing&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xB3FD5874" TextString="Whoa! {0.SimFirstName} got really excited from watching hot exposed bodies through the window. That was totally worth the risk of getting caught." />
     <TextStringDefinition InstanceID="0x055CD0AC" TextString="Caught Peeping" />
     <TextStringDefinition InstanceID="0x14F1623A" TextString="Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}! Time to escape!\n\nRunning away might save {0.SimFirstName}'s butt from getting beat up, but {M0.his}{F0.her} reputation was severely affected with every member of {1.SimFirstName}'s household.\nBetter be careful next time... this could have ended a lot worse." />
@@ -634,6 +646,7 @@
     <TextStringDefinition InstanceID="0xBC74BE4E" TextString="Take Sex Photo" />
     <TextStringDefinition InstanceID="0xB5913578" TextString="Take Sex Photo of {1.SimFirstName}" />
     <TextStringDefinition InstanceID="0xE6E7674C" TextString="Display Reference Data" />
+    <TextStringDefinition InstanceID="0x8D8A7C6E" TextString="SimHub Rating: {0.Number}%" />
     <TextStringDefinition InstanceID="0xD59F9D85" TextString="SimHub" />
     <TextStringDefinition InstanceID="0x68686315" TextString="Create a SimHub Account..." />
     <TextStringDefinition InstanceID="0x639F3D3D" TextString="Register SimHub Account" />
@@ -642,15 +655,15 @@
     <TextStringDefinition InstanceID="0x0FA875AC" TextString="Welcome to SimHub @{1.String}, the world's leading porn site.\n\nWe're glad to have you on board and want to share with you some tips on how to being.\n\nAs a new member, you will have to gain popularity by sharing spicy pictures of yourself to the public.\nGenerating interest with public pictures attracts users who are willing to pay for more.\nSharing private pictures keeps your paying members engaged and makes your profile worth supporting.\nThe bigger you grow, the more money you earn. Jump out of your clothes and start sending us your pictures.\n\nWe will be sending you more tips on what is currently hot with our community to help you boost your popularity!" />
     <TextStringDefinition InstanceID="0xD24B01B4" TextString="Shut Down Account" />
     <TextStringDefinition InstanceID="0xF1739848" TextString="Account @{1.String} has been shut down and all content associated with it has been deleted as well.\nAlthough some of {0.SimFirstName}'s pictures are still lingering in the depths of the internet, {M0.he}{F0.she} can create a new SimHub account and start fresh." />
-    <TextStringDefinition InstanceID="0x4E35D7D3" TextString="Flash for the Camera!" />
+    <TextStringDefinition InstanceID="0xF8A8561B" TextString="&lt;font color='#340658'&gt;Flash for the Camera!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA0D12D13" TextString="People are loving the new photo sent by {0.SimFirstName}. More Sims are now interested in {M0.his}{F0.her} profile." />
-    <TextStringDefinition InstanceID="0x6AF1BCDB" TextString="Shameful Upload" />
+    <TextStringDefinition InstanceID="0x2E1EFD23" TextString="&lt;font color='#340658'&gt;Shameful Upload&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xB8B470E2" TextString="SimHub's userbase is a cruel bunch, and they didn't appreciate {0.SimFirstName}'s newest upload all that much, leaving no constructive comments and barely even visiting {M0.his}{F0.her} profile." />
-    <TextStringDefinition InstanceID="0xEADE80D1" TextString="Great Upload" />
+    <TextStringDefinition InstanceID="0x52EBC4AD" TextString="&lt;font color='#340658'&gt;Great Upload&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xBEF04354" TextString="{0.SimFirstName} took on the challenge of making {M0.his}{F0.her} loyal fans satisfied, and provided them with an exceptional photo upload." />
-    <TextStringDefinition InstanceID="0x0CE9FFA0" TextString="Angered the Fanbase" />
+    <TextStringDefinition InstanceID="0x006ED2D2" TextString="&lt;font color='#340658'&gt;Angered the Fanbase&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xF98B54D8" TextString="Oops! Looks like the new photo upload by {0.SimFirstName} was a disaster, and made both {M0.him}{F0.her} and some of {M0.his}{F0.her} fans pretty upset." />
-    <TextStringDefinition InstanceID="0x51786134" TextString="Bare Genius" />
+    <TextStringDefinition InstanceID="0x1F348116" TextString="&lt;font color='#340658'&gt;Bare Genius&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x675BBD34" TextString="{0.SimFirstName}'s newly taken photo looks really good, and {M0.he}{F0.she} just KNOWS it will take off on SimHub." />
     <TextStringDefinition InstanceID="0xF2105411" TextString="Upload Public Photo" />
     <TextStringDefinition InstanceID="0xBA706081" TextString="Uploads this photo to your SimHub profile available for everybody to see." />
@@ -663,6 +676,14 @@
     <TextStringDefinition InstanceID="0xCE5EB314" TextString="Your private picture has been successfully uploaded to SimHub. That should keep your supporters satisfied.\n\n&lt;i&gt;Sending pictures with trending topics to private helps retain your supporters.&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x898199CD" TextString="Your private picture has been successfully uploaded to SimHub.\n\n&lt;i&gt;Note that sharing very similar pictures in a short period of time will slow down your growth.&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x2E106BDD" TextString="Uh oh, looks like the uploaded photo was automatically removed by SimHub.\nIt's hard to tell why, the Terms and Conditions of SimHub are as long as the 'Fifty Shades of CAS' catalog, so there is no way {0.SimFirstName} will ever know." />
+    <TextStringDefinition InstanceID="0x3ADE41C7" TextString="Check Analytics" />
+    <TextStringDefinition InstanceID="0x6654BF41" TextString="SimHub Analytics" />
+    <TextStringDefinition InstanceID="0xB7296851" TextString="{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.String} new supporters and lost {3.String} supporters in the last 24 hours.\n\nThe @{1.String} account currently has {4.String} supporters and is earning {5.String} Simoleons in a day.\n\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile." />
+    <TextStringDefinition InstanceID="0x0CBCB52C" TextString="Payout ({0.Money})" />
+    <TextStringDefinition InstanceID="0x6913E5A1" TextString="There's nothing to pay out." />
+    <TextStringDefinition InstanceID="0x3385E767" TextString="SimHub Payout" />
+    <TextStringDefinition InstanceID="0x51D3827D" TextString="{0.SimFirstName} has earned §{2.String} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings.\n\n&lt;i&gt;Note that trending topics have changed and Checking Analytics is advised.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x84B55314" TextString="Woohoo - you just got paid!\n\n{1.String} Simoleons was just sent out to you from SimHub.\n\nCongrats again and thank you from all of us at SimHub.\nPlease contact us at noreply@simhub.cc if you are having any issues." />
     <TextStringDefinition InstanceID="0x6F32E854" TextString="Read &amp; Like Comments" />
     <TextStringDefinition InstanceID="0x0054F782" TextString="{0.SimFirstName} just read the comments." />
     <TextStringDefinition InstanceID="0x76D0DD5B" TextString="SimHub Comments" />
@@ -899,9 +920,6 @@
     <TextStringDefinition InstanceID="0x53B13AA7" TextString="Wait, this isn't Sim.tv!" />
     <TextStringDefinition InstanceID="0xFAF2A36C" TextString="I love this, but I love my mom more." />
     <TextStringDefinition InstanceID="0x08891D5A" TextString="I died but when the Grim Reaper came and saw this on my phone, he let me live!" />
-    <TextStringDefinition InstanceID="0x3ADE41C7" TextString="Check Analytics" />
-    <TextStringDefinition InstanceID="0x6654BF41" TextString="SimHub Analytics" />
-    <TextStringDefinition InstanceID="0xB7296851" TextString="{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.String} new supporters and lost {3.String} supporters in the last 24 hours.\n\nThe @{1.String} account currently has {4.String} supporters and is earning {5.String} Simoleons in a day.\n\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile." />
     <TextStringDefinition InstanceID="0x57E7D323" TextString="SimHub Adviser" />
     <TextStringDefinition InstanceID="0x42522371" TextString="# NAKED_FEMALE_TOP" />
     <TextStringDefinition InstanceID="0x6058F318" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our latest data suggests topless photos are trending right now!'" />
@@ -932,7 +950,6 @@
     <TextStringDefinition InstanceID="0xE6A935B7" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Go make some photos showing your pussy, that's what people are counting on!'" />
     <TextStringDefinition InstanceID="0xFAF42BD3" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Our analytics seem to be pointing towards photos without panties being HIP. This is an automated message, please do not reply, or the bot might become sentient.'" />
     <TextStringDefinition InstanceID="0xAFDB0C74" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello @{1.String}, &lt;b&gt;@AdviserBot&lt;/b&gt; here: I've detected that pictures with your private parts are hot right now!'" />
-    <TextStringDefinition InstanceID="0xFF5E8811" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Welcome, @{1.String}@{1.String}@{1.String} I'm just texting to say I noticed penis photos becoming popular! This is &lt;b&gt;@AdviserBot&lt;/b&gt;! From SimHub! :wave:'" />
     <TextStringDefinition InstanceID="0xF6754F8D" TextString="&lt;b&gt;@AdviserBot:&lt;/b&gt; 'Hello, Sim! I am here to inform you that pics with dick out are trending, and you should think about uploading some!'" />
     <TextStringDefinition InstanceID="0x52A9AA12" TextString="Hey there @{1.String}, a SimHub representative here. Our latest data analytics suggest that bottomless photos are taking off right now!" />
     <TextStringDefinition InstanceID="0xAAE0AB8A" TextString="Hello @{1.String}, we here at SimHub gathered some analytics data and detected a correlation between bottomless photo uploads and follower gain." />
@@ -1520,11 +1537,6 @@
     <TextStringDefinition InstanceID="0x32265D85" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - sex pictures. Hope you find that information useful!" />
     <TextStringDefinition InstanceID="0x950A8FBA" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that sex pictures are going to become popular soon! Plan accordingly!" />
     <TextStringDefinition InstanceID="0x202CCB35" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having sex are in demand right now. Try to take that opportunity!" />
-    <TextStringDefinition InstanceID="0x0CBCB52C" TextString="Payout ({0.Money})" />
-    <TextStringDefinition InstanceID="0x6913E5A1" TextString="There's nothing to pay out." />
-    <TextStringDefinition InstanceID="0x3385E767" TextString="SimHub Payout" />
-    <TextStringDefinition InstanceID="0x95E0794F" TextString="{0.SimFirstName} has earned §{2.String} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings." />
-    <TextStringDefinition InstanceID="0x84B55314" TextString="Woohoo - you just got paid!\n\n{1.String} Simoleons was just sent out to you from SimHub.\n\nCongrats again and thank you from all of us at SimHub.\nPlease contact us at noreply@simhub.cc if you are having any issues." />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
     <TextStringDefinition InstanceID="0x86E8A167" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING NUDITY TEXT \\\&lt;/font&gt;" />
   </TextStringDefinitions>

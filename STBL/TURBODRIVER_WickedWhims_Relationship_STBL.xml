@@ -36,11 +36,11 @@
     <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x2046ED9E" TextString="Relationships" />
     <TextStringDefinition InstanceID="0x7E53B6FC" TextString="--------- Buffs ---------" />
-    <TextStringDefinition InstanceID="0x86F35FD9" TextString="Poser" />
+    <TextStringDefinition InstanceID="0x6E867FB7" TextString="&lt;font color='#340658'&gt;Poser&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x17A09C4E" TextString="Bummer, looks like {0.SimFirstName} wasn't being honest and was found faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now." />
-    <TextStringDefinition InstanceID="0x34A780C4" TextString="Deceitful Sim" />
+    <TextStringDefinition InstanceID="0x214E9974" TextString="&lt;font color='#340658'&gt;Deceitful Sim&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xEBD6F06C" TextString="{0.SimFirstName} has been deceived by a Sim pretending to be someone they're not! You can't trust them anymore, not when they are being dishonest." />
-    <TextStringDefinition InstanceID="0x60EF15F8" TextString="Good Impression" />
+    <TextStringDefinition InstanceID="0xCDE5E44C" TextString="&lt;font color='#340658'&gt;Good Impression&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xAF7FAF74" TextString="{0.SimFirstName} formed a positive impression with another Sim. This should help to shape a good relationship and build more trust." />
     <TextStringDefinition InstanceID="0xEA226BC2" TextString="--------- Skills ---------" />
     <TextStringDefinition InstanceID="0x5450A823" TextString="Persuasion" />
@@ -140,17 +140,17 @@
     <TextStringDefinition InstanceID="0x8C6A41A6" TextString="Looks like {0.SimName} formed a positive impression towards {1.SimName}. This should help to shape a good relationship and build more trust." />
     <TextStringDefinition InstanceID="0xCA17AA57" TextString="Oof! {1.SimName} seems to be very unimpressed with {0.SimName} behavior and personality. This makes shaping their relationship harder and hinders the trust between them." />
     <TextStringDefinition InstanceID="0xD6030C95" TextString="--------- Attractiveness Story ---------" />
-    <TextStringDefinition InstanceID="0x284C15DA" TextString="Gaaah! My Eyes!" />
+    <TextStringDefinition InstanceID="0x68703CC6" TextString="&lt;font color='#340658'&gt;Gaaah! My Eyes!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA1C6810E" TextString="(From Seeing An Unattractive Sim)" />
     <TextStringDefinition InstanceID="0x57D58B6E" TextString="There are ugly Sims and then there are utterly repulsive Sims. Unfortunately, {0.SimFirstName}'s eyes were bombarded by the sight of a Sim that they find particularly abhorrent. It would be best to look away, otherwise {0.SimFirstName} might end up feeling truly ill." />
-    <TextStringDefinition InstanceID="0x845DC3DC" TextString="A Breathtaking Encounter" />
+    <TextStringDefinition InstanceID="0xDB17854C" TextString="&lt;font color='#340658'&gt;A Breathtaking Encounter&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x4E927D4D" TextString="(From Seeing An Attractive Sim)" />
     <TextStringDefinition InstanceID="0x5EC6E1D3" TextString="{0.SimFirstName}'s eyes were caressed by a truly magnificent sight as a particularly appealing Sim just entered {M0.his}{F0.her} view. This fine specimen of a Sim now has {0.SimFirstName}'s undivided attention as they try to pick their jaw up from the floor. There are heartpounding moments but this one here is HEARTSTOPPING!" />
-    <TextStringDefinition InstanceID="0x96544526" TextString="Attractive Memories" />
+    <TextStringDefinition InstanceID="0xBD865E7A" TextString="&lt;font color='#340658'&gt;Attractive Memories&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x5B01FF54" TextString="(From Dreaming About Attractive Sims)" />
     <TextStringDefinition InstanceID="0xD8A675FD" TextString="(From Thinking About Attractive Sims)" />
     <TextStringDefinition InstanceID="0xF3DB1675" TextString="{0.SimFirstName}'s mind is rushed with memories of a certain Sim in particular. All the qualities that brought joy to {M0.his}{F0.her} eyes have made it a hard task to think about anything else." />
-    <TextStringDefinition InstanceID="0x4ECA6719" TextString="Honka Honka Burning Love" />
+    <TextStringDefinition InstanceID="0xF5F98B2B" TextString="&lt;font color='#340658'&gt;Honka Honka Burning Love&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x9FA3DE3C" TextString="(From Dreaming About Spouse)" />
     <TextStringDefinition InstanceID="0x28395403" TextString="(From Thinking About Spouse)" />
     <TextStringDefinition InstanceID="0x26EAF0FE" TextString="{0.SimFirstName} suddenly finds {M0.himself}{F0.herself} craving a certain someone, their beloved Spouse. {M0.He}{F0.She} hit the jackpot in the field of love, there isn't anyone who suits {M0.his}{F0.her} desires more than their loving partner in life. Just thinking of them has {0.SimFirstName} yearning for their presence. A burning desire to hold and to love this Sim that has captured {M0.his}{F0.her} heart." />

@@ -475,9 +475,9 @@
     <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
     <TextStringDefinition InstanceID="0xD8967BA2" TextString="---------- SEX BUFFS ----------" />
     <TextStringDefinition InstanceID="0x8F4BF39D" TextString="(From High Desire)" />
-    <TextStringDefinition InstanceID="0x64BC6ED8" TextString="Sexual Desire" />
+    <TextStringDefinition InstanceID="0x1F556228" TextString="&lt;font color='#340658'&gt;Sexual Desire&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x78164747" TextString="Such a lust for love... Who? Who do you desire?" />
-    <TextStringDefinition InstanceID="0xBC73A7F2" TextString="Intense Lust" />
+    <TextStringDefinition InstanceID="0x314D01EA" TextString="&lt;font color='#340658'&gt;Intense Lust&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x3495394A" TextString="So much lust makes you uncomfortable! It would be wise to find a way to release this tension." />
     <TextStringDefinition InstanceID="0x6500B60D" TextString="---------- SEX INTERFACE ----------" />
     <TextStringDefinition InstanceID="0x049DEAEC" TextString="Teasing Animations" />
@@ -582,34 +582,34 @@
     <TextStringDefinition InstanceID="0x82C7B5B0" TextString="Watch Porn" />
     <TextStringDefinition InstanceID="0x991CA9C8" TextString="Sim just watched porn." />
     <TextStringDefinition InstanceID="0x1591A89F" TextString="(From Being Caught Masturbating)" />
-    <TextStringDefinition InstanceID="0xCFC6B4F5" TextString="Some Privacy Please!" />
+    <TextStringDefinition InstanceID="0xC96F8EDB" TextString="&lt;font color='#340658'&gt;Some Privacy Please!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0C0FC695" TextString="{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!" />
     <TextStringDefinition InstanceID="0x921CF15F" TextString="Caught Masturbating" />
     <TextStringDefinition InstanceID="0x29E9BF97" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {0.SimFirstName}, {1.SimFirstName} could not keep control and the dam had to blow letting loose a deluge of satisfaction for {M0.his}{F0.her} eyes to see!" />
     <TextStringDefinition InstanceID="0x103C7921" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {1.SimFirstName}, the sudden appearance of another Sim meant that {M1.he}{F1.she} needed to keep it in {M1.his}{F1.her} pants. {0.SimFirstName} saw something they really didn't need or want to see and {1.SimFirstName} has been left embarrassed and unsatisfied." />
     <TextStringDefinition InstanceID="0x69AF1DC2" TextString="---------- SEX SATISFACTION BUFFS ----------" />
     <TextStringDefinition InstanceID="0xF184CFE7" TextString="(From Sex Satisfaction)" />
-    <TextStringDefinition InstanceID="0xAD5BCCDA" TextString="Stranger" />
+    <TextStringDefinition InstanceID="0x963177EE" TextString="&lt;font color='#340658'&gt;Stranger&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x8FB869C2" TextString="Strangers always provide a wildcard to sex, but the touch of Sims unknown has left {0.SimFirstName} satisfied from {M0.his}{F0.her} moment of passion." />
-    <TextStringDefinition InstanceID="0xD92C2892" TextString="Young Partner" />
+    <TextStringDefinition InstanceID="0xFBE57516" TextString="&lt;font color='#340658'&gt;Young Partner&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x1B56AC12" TextString="Wow, that was really something. Youth these days sure have a lot of energy and {0.SimFirstName} just loved watching that hot body move." />
-    <TextStringDefinition InstanceID="0xFE068910" TextString="Sex in Public" />
+    <TextStringDefinition InstanceID="0xDDD51CA4" TextString="&lt;font color='#340658'&gt;Sex in Public&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC0A580A9" TextString="{0.SimFirstName}'s mind is running at superspeed with the idea that they could have been caught whilst in the middle of their dirty deed." />
-    <TextStringDefinition InstanceID="0xD51AF160" TextString="Caught in the Act" />
+    <TextStringDefinition InstanceID="0xD8003C3C" TextString="&lt;font color='#340658'&gt;Caught in the Act&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xE9205365" TextString="How Exciting! With all eyes on {0.SimFirstName} while they were having sex, {M0.he}{F0.she} couldn't help but feel even more aroused knowing that others were enjoying their show." />
-    <TextStringDefinition InstanceID="0x143751E7" TextString="Marital Bliss" />
+    <TextStringDefinition InstanceID="0x0C268999" TextString="&lt;font color='#340658'&gt;Marital Bliss&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC82435DB" TextString="That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} spouse." />
-    <TextStringDefinition InstanceID="0x00AF7D62" TextString="Paranormal Intercourse" />
+    <TextStringDefinition InstanceID="0x78F05982" TextString="&lt;font color='#340658'&gt;Paranormal Intercourse&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA5703E09" TextString="After what can be described as a strange otherworldly encounter, {0.SimFirstName} can't help but feel full of life whilst being so close to death." />
-    <TextStringDefinition InstanceID="0x4257B9B7" TextString="Group Sex" />
+    <TextStringDefinition InstanceID="0xCE3E13D9" TextString="&lt;font color='#340658'&gt;Group Sex&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x5D919556" TextString="Amazing! Sex with several partners was just the sort of fun activity that {0.SimFirstName} needed." />
-    <TextStringDefinition InstanceID="0x58BE37E8" TextString="Satisfied" />
+    <TextStringDefinition InstanceID="0x48E2F4E8" TextString="&lt;font color='#340658'&gt;Satisfied&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x3B42528C" TextString="That was pretty good. {0.SimFirstName} enjoyed their sexual encounter and was able to finish it off satisfied." />
-    <TextStringDefinition InstanceID="0x33DD3E26" TextString="Bad Romance" />
+    <TextStringDefinition InstanceID="0x01707906" TextString="&lt;font color='#340658'&gt;Bad Romance&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xDEE2D837" TextString="Seriously? {0.SimFirstName} thought that the sex would be magical but they were left unsatisfied. Did {M0.he}{F0.she} expect too much?" />
-    <TextStringDefinition InstanceID="0x141B9881" TextString="Disqualified!" />
+    <TextStringDefinition InstanceID="0x875116E3" TextString="&lt;font color='#340658'&gt;Disqualified!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x71CC5DBB" TextString="What even was that!? {0.SimFirstName} wants other Sims to really moan during sex but that was just anticlimactic... Was it because they weren't good enough?" />
-    <TextStringDefinition InstanceID="0x12C5D9D9" TextString="Unsatisfied" />
+    <TextStringDefinition InstanceID="0x0B2BCD1B" TextString="&lt;font color='#340658'&gt;Unsatisfied&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xFFBDBF11" TextString="Well that was... something. {0.SimFirstName} was left unsatisfied and uncomfortable from the sex they just had." />
     <TextStringDefinition InstanceID="0xA94BFAE8" TextString="New Sex Partner" />
     <TextStringDefinition InstanceID="0x5E97BCEA" TextString="First time sex with a new Sim is always a memorable experience!" />
@@ -620,39 +620,39 @@
     <TextStringDefinition InstanceID="0x160AE154" TextString="Disable Sex Reactions" />
     <TextStringDefinition InstanceID="0xD0B19A16" TextString="Reacting to Sex" />
     <TextStringDefinition InstanceID="0xF6BE775D" TextString="(From Reacting To Sex)" />
-    <TextStringDefinition InstanceID="0x46BE1EF8" TextString="{M0.Cuckold}{F0.Cuckquean}" />
+    <TextStringDefinition InstanceID="0xCF5669AC" TextString="&lt;font color='#340658'&gt;{M0.Cuckold}{F0.Cuckquean}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xE8412F45" TextString="{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else." />
-    <TextStringDefinition InstanceID="0x173999EE" TextString="Scandal In The Family" />
+    <TextStringDefinition InstanceID="0x01B9823E" TextString="&lt;font color='#340658'&gt;Scandal In The Family&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x8E644298" TextString="They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!" />
-    <TextStringDefinition InstanceID="0x087DD326" TextString="Scandalous Scenery" />
+    <TextStringDefinition InstanceID="0xCF524DF2" TextString="&lt;font color='#340658'&gt;Scandalous Scenery&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x339FBD6D" TextString="How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have." />
-    <TextStringDefinition InstanceID="0xD44724B9" TextString="Adult Activities" />
+    <TextStringDefinition InstanceID="0x73BB4D3B" TextString="&lt;font color='#340658'&gt;Adult Activities&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x5776F6AE" TextString="{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good." />
-    <TextStringDefinition InstanceID="0xE3B6C851" TextString="Growing up too fast!" />
+    <TextStringDefinition InstanceID="0x71ED770F" TextString="&lt;font color='#340658'&gt;Growing up too fast!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x5D5044B2" TextString="What do these kids think they're doing? {0.SimFirstName} just saw {M0.his}{F0.her} child in the middle of a dirty deed with another Sim! If they aren't using protection there'll be hell to pay!" />
-    <TextStringDefinition InstanceID="0x25299AA4" TextString="Parental Nightmare" />
+    <TextStringDefinition InstanceID="0x61BBB038" TextString="&lt;font color='#340658'&gt;Parental Nightmare&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x085F3BED" TextString="Any Parent would be outraged to see their child going at it with a Sim who is much older than they are. This is disgusting, that Sim is too old and {0.SimFirstName}'s child is too young!" />
-    <TextStringDefinition InstanceID="0x5FE62A25" TextString="Knock Next Time!" />
+    <TextStringDefinition InstanceID="0x9002C203" TextString="&lt;font color='#340658'&gt;Knock Next Time!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x4B4231CE" TextString="That was awkward! No parent expects to walk into a room and see their child masturbating. {0.SimFirstName} better make sure to knock next time before they enter the room!" />
-    <TextStringDefinition InstanceID="0x4DA0C007" TextString="Learning to Knock" />
+    <TextStringDefinition InstanceID="0x8623A371" TextString="&lt;font color='#340658'&gt;Learning to Knock&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x8C875109" TextString="That'll teach {0.SimFirstName} the importance of knocking! Their child isn't a little kid anymore, perhaps they do need their privacy." />
-    <TextStringDefinition InstanceID="0x00A684DA" TextString="Conception Interception" />
+    <TextStringDefinition InstanceID="0x4019B302" TextString="&lt;font color='#340658'&gt;Conception Interception&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x57808F3A" TextString="Gross! No {M0.son}{F0.daughter} wants to see their parents getting it on. {0.SimFirstName} is going to be mentally scarred from this experience. {M0.He}{F0.She} did not enjoy this unpleasant lesson on their conception." />
-    <TextStringDefinition InstanceID="0x8DF44A51" TextString="Way Too Welcome" />
+    <TextStringDefinition InstanceID="0x5A34EA33" TextString="&lt;font color='#340658'&gt;Way Too Welcome&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x724FB433" TextString="Wait... This is {0.SimFirstName}'s house. This isn't their house! {0.SimFirstName} is sure everyone's well aware of the phrase 'My Home Is Your Home', but this is going WAY TOO FAR!" />
-    <TextStringDefinition InstanceID="0x81030A08" TextString="Fanning the Flames" />
+    <TextStringDefinition InstanceID="0x82C57DEC" TextString="&lt;font color='#340658'&gt;Fanning the Flames&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x6C20A0C6" TextString="{0.SimFirstName} is neck deep in stress right now and the last thing they want is to see other Sims enjoying themselves. That's unfair! {M0.He}{F0.She} wishes {M0.he}{F0.she} could be as carefree as those Sims right now!" />
-    <TextStringDefinition InstanceID="0x9C597433" TextString="Just Walk Away" />
+    <TextStringDefinition InstanceID="0xF56BAD75" TextString="&lt;font color='#340658'&gt;Just Walk Away&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x3B6C4EB7" TextString="{0.SimFirstName} utterly hates that Sim. The sight of them getting off has left a bad taste in {M0.his}{F0.her} mouth. Better move along before {M0.he}{F0.she} decides to do something stupid." />
-    <TextStringDefinition InstanceID="0x77BFA100" TextString="Shattered Heart" />
+    <TextStringDefinition InstanceID="0x9FDF23D0" TextString="&lt;font color='#340658'&gt;Shattered Heart&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA9D7A68C" TextString="What is this feeling? {0.SimFirstName} cannot comprehend this deep sense of longing and melancholy after watching love that once was but can never be again. So this is what it's like to have a heart shatter." />
-    <TextStringDefinition InstanceID="0x7B82149D" TextString="A Relieving Sight" />
+    <TextStringDefinition InstanceID="0xA25F3507" TextString="&lt;font color='#340658'&gt;A Relieving Sight&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC27AD56F" TextString="That was just what {0.SimFirstName} needed. A rather exciting scene to relieve the stress {M0.he's}{F0.she's} been feeling. Perhaps now {M0.he}{F0.she} wont be so on edge." />
-    <TextStringDefinition InstanceID="0x55C59C0A" TextString="Right On!" />
+    <TextStringDefinition InstanceID="0x0DC14EE6" TextString="&lt;font color='#340658'&gt;Right On!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xFB79F7FB" TextString="Good for them! {0.SimFirstName} fondly remembers a pleasant encounter with that Sim and now seeing them enjoy themselves so vigorously makes {M0.him}{F0.her} just want to cheer them on." />
-    <TextStringDefinition InstanceID="0x2D5821E5" TextString="Lover's Delight" />
+    <TextStringDefinition InstanceID="0xF521C79F" TextString="&lt;font color='#340658'&gt;Lover's Delight&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA2349658" TextString="If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning." />
-    <TextStringDefinition InstanceID="0x984E04D7" TextString="Unexpected" />
+    <TextStringDefinition InstanceID="0xAF554E2D" TextString="&lt;font color='#340658'&gt;Unexpected&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x523E17FD" TextString="{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!" />
     <TextStringDefinition InstanceID="0x29B757D1" TextString="---------- STATISTICS ----------" />
     <TextStringDefinition InstanceID="0x898FB649" TextString="Sex" />
@@ -754,11 +754,11 @@
     <TextStringDefinition InstanceID="0x536140D1" TextString="Butt" />
     <TextStringDefinition InstanceID="0xF3D28EC8" TextString="Feet" />
     <TextStringDefinition InstanceID="0xE968969F" TextString="---------- CUM BUFFS ----------" />
-    <TextStringDefinition InstanceID="0xB52D3F6D" TextString="Cum Lover" />
+    <TextStringDefinition InstanceID="0xFD679737" TextString="&lt;font color='#340658'&gt;Cum Lover&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x61E8935B" TextString="The feel of cum on {0.SimFirstName}'s skin makes {M0.him}{F0.her} so much more aroused." />
-    <TextStringDefinition InstanceID="0x1C248797" TextString="Cum Dump" />
+    <TextStringDefinition InstanceID="0x63AC9959" TextString="&lt;font color='#340658'&gt;Cum Dump&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2A1BFE88" TextString="Having sticky thick fluid on your body can get pretty uncomfortable." />
-    <TextStringDefinition InstanceID="0x11D25ECE" TextString="Dry Crust" />
+    <TextStringDefinition InstanceID="0xB43273EA" TextString="&lt;font color='#340658'&gt;Dry Crust&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xBE47A85F" TextString="Layer of dry and smelly cum is stuck on {0.SimFirstName}'s body. It's time to take a shower." />
     <TextStringDefinition InstanceID="0x90246500" TextString="---------- CUM TRAITS ----------" />
     <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
@@ -769,7 +769,7 @@
     <TextStringDefinition InstanceID="0x2B830EE5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
     <TextStringDefinition InstanceID="0x6DA00490" TextString="---------- PREGNANCY INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0x95DD6D27" TextString="---------- PREGNANCY BUFFS ----------" />
-    <TextStringDefinition InstanceID="0x9924CF89" TextString="Discovered Teen Pregnancy" />
+    <TextStringDefinition InstanceID="0xCE47E2B7" TextString="&lt;font color='#340658'&gt;Discovered Teen Pregnancy&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x25324005" TextString="Amidst all the doubtfulness, sadness and confusion, there is anger. Can {0.SimFirstName} cope with having {M0.his}{F0.her} teen child pregnant?" />
     <TextStringDefinition InstanceID="0xAE29F968" TextString="---------- PREGNANCY TRAITS ----------" />
     <TextStringDefinition InstanceID="0x78E25EF0" TextString="Infertile" />
@@ -780,14 +780,14 @@
     <TextStringDefinition InstanceID="0x16C92A58" TextString="Terminate Pregnancy" />
     <TextStringDefinition InstanceID="0x61612C84" TextString="{0.SimFirstName} is not able to do this while not pregnant." />
     <TextStringDefinition InstanceID="0x9FAD3609" TextString="{0.SimFirstName} is not able to do this so late in pregnancy." />
-    <TextStringDefinition InstanceID="0x40A1B3AD" TextString="Pregnancy Termination" />
+    <TextStringDefinition InstanceID="0xF4ACC50B" TextString="&lt;font color='#340658'&gt;Pregnancy Termination&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xEE68D90B" TextString="When certain choices leave you with the burden of guilt..." />
-    <TextStringDefinition InstanceID="0xA9C2023F" TextString="Hasta La Vista, Baby" />
+    <TextStringDefinition InstanceID="0xBBBEF0D9" TextString="&lt;font color='#340658'&gt;Hasta La Vista, Baby&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x8278FDEA" TextString="When the stress is gone, the party can go on." />
     <TextStringDefinition InstanceID="0xCD272010" TextString="(From Pregnancy Termination)" />
     <TextStringDefinition InstanceID="0xE7CC1AF7" TextString="{0.SimName} is not pregnant anymore.\nIt would be cheaper to think about protection before the next time." />
     <TextStringDefinition InstanceID="0xEB0E1F5E" TextString="---------- PREGNANCY MISCARRIAGE ----------" />
-    <TextStringDefinition InstanceID="0x59FABA91" TextString="Miscarriage" />
+    <TextStringDefinition InstanceID="0x60CAE1B7" TextString="&lt;font color='#340658'&gt;Miscarriage&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x37B77221" TextString="Consequences of not taking care of yourself..." />
     <TextStringDefinition InstanceID="0xC179D0BC" TextString="(From Miscarriage)" />
     <TextStringDefinition InstanceID="0x39EDCAB4" TextString="Miscarriage" />
@@ -807,11 +807,11 @@
     <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
     <TextStringDefinition InstanceID="0x50049C7D" TextString="---------- PREGNANCY BIRTH CONTROL ----------" />
     <TextStringDefinition InstanceID="0x6FA67438" TextString="Birth Control" />
-    <TextStringDefinition InstanceID="0x2BC8C356" TextString="Wearing a Condom" />
+    <TextStringDefinition InstanceID="0x8AE6A796" TextString="&lt;font color='#340658'&gt;Wearing a Condom&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x9785A9F2" TextString="{0.SimFirstName} is wearing a condom." />
-    <TextStringDefinition InstanceID="0x87A62788" TextString="Early On Birth Control Pills" />
+    <TextStringDefinition InstanceID="0xAF66C05C" TextString="&lt;font color='#340658'&gt;Early On Birth Control Pills&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC70B7967" TextString="{0.SimFirstName} is early on {M0.his}{F0.her} birth control. It takes 3 days before birth control pills take full effect." />
-    <TextStringDefinition InstanceID="0x67BBE6C5" TextString="On Birth Control Pills" />
+    <TextStringDefinition InstanceID="0xCC2D817B" TextString="&lt;font color='#340658'&gt;On Birth Control Pills&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x519E5BF5" TextString="{0.SimFirstName} is on {M0.his}{F0.her} birth control." />
     <TextStringDefinition InstanceID="0x7E84555B" TextString="Unpack Box" />
     <TextStringDefinition InstanceID="0xC0D84ED7" TextString="Use This Condom" />
@@ -843,51 +843,51 @@
     <TextStringDefinition InstanceID="0x6C5CA582" TextString="Helps with periods and unwanted pregnancy. Remember to take one once a day!\n\nUse it once a day by clicking on it in Sim inventory. With each missed day, you risk becoming pregnant." />
     <TextStringDefinition InstanceID="0xF02EF784" TextString="---------- PREGNANCY PERIOD ----------" />
     <TextStringDefinition InstanceID="0x7218CAB9" TextString="Period" />
-    <TextStringDefinition InstanceID="0xD1B564EA" TextString="Using a Pad" />
+    <TextStringDefinition InstanceID="0xCFFE42FA" TextString="&lt;font color='#340658'&gt;Using a Pad&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x7EEF6B76" TextString="{0.SimFirstName} is using a pad." />
-    <TextStringDefinition InstanceID="0xAEB329E6" TextString="Using a Tampon" />
+    <TextStringDefinition InstanceID="0x7259ABDA" TextString="&lt;font color='#340658'&gt;Using a Tampon&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC645DE56" TextString="{0.SimFirstName} is using a tampon." />
     <TextStringDefinition InstanceID="0xDC99F762" TextString="(From Used Menstrual Pad)" />
     <TextStringDefinition InstanceID="0x9239FF2F" TextString="(From Smelling Used Menstrual Pad)" />
-    <TextStringDefinition InstanceID="0x44184670" TextString="Periodic Stench" />
+    <TextStringDefinition InstanceID="0x271B2F24" TextString="&lt;font color='#340658'&gt;Periodic Stench&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x351EB357" TextString="Oh no! Does that Sim have an itchy nose or can they smell {0.SimFirstName}’s pad? The currently drenched in blood pad is causing a nervous feeling in {M0.him}{F0.her} gut." />
-    <TextStringDefinition InstanceID="0x1680BA98" TextString="Fishy Stench" />
+    <TextStringDefinition InstanceID="0x14B9E074" TextString="&lt;font color='#340658'&gt;Fishy Stench&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x76CB66E2" TextString="Oof! What could possibly be that putrid smell? {0.SimFirstName} can’t escape that fishy smell in the air. Could it possibly be coming from that Sim?" />
-    <TextStringDefinition InstanceID="0x9EB23BF3" TextString="Dripping Blood" />
+    <TextStringDefinition InstanceID="0x61045649" TextString="&lt;font color='#340658'&gt;Dripping Blood&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x46BA1646" TextString="Oh Dear, blood seems to really be accumulating down in {0.SimFirstName}’s loins, staining {M0.his}{F0.her} clothes. {M0.He}{F0.She} should quickly apply either a tampon or pad. If {0.SimFirstName} doesn’t already have one present perhaps they could ask for help." />
-    <TextStringDefinition InstanceID="0xCBF48E22" TextString="Soaked in Blood" />
+    <TextStringDefinition InstanceID="0xE2711462" TextString="&lt;font color='#340658'&gt;Soaked in Blood&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x622D0162" TextString="Oh no, what a mess! {0.SimFirstName} didn’t use a pad or tampon when {M0.he}{F0.she} needed to and now the blood has stained {M0.his}{F0.her} clothes. This is a dreadful predicament, hopefully someone nearby can help if {0.SimFirstName} doesn’t already have something on hand." />
-    <TextStringDefinition InstanceID="0xF9013EB6" TextString="Drenched in Blood" />
+    <TextStringDefinition InstanceID="0x3F49C256" TextString="&lt;font color='#340658'&gt;Drenched in Blood&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x4215F985" TextString="THE BLOOD! IT’S EVERYWHERE! {0.SimFirstName}’s clothes look like those of a victim in a horror movie and {M0.he}{F0.she} desperately needs either a pad or tampon ASAP before the situation gets any worse. Quickly! If there isn’t any protection on hand maybe another Sim can help." />
-    <TextStringDefinition InstanceID="0xF8626190" TextString="Leaking Pad" />
+    <TextStringDefinition InstanceID="0xED1D3890" TextString="&lt;font color='#340658'&gt;Leaking Pad&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xD4A4582C" TextString="There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} pad has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state." />
-    <TextStringDefinition InstanceID="0xFB0F12BF" TextString="Burst Pad" />
+    <TextStringDefinition InstanceID="0x125F14DD" TextString="&lt;font color='#340658'&gt;Burst Pad&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xF7747F84" TextString="The pad did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
-    <TextStringDefinition InstanceID="0x01A60591" TextString="Flooding Pad" />
+    <TextStringDefinition InstanceID="0x64BAA19B" TextString="&lt;font color='#340658'&gt;Flooding Pad&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x8600AC28" TextString="The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
-    <TextStringDefinition InstanceID="0x814ECB70" TextString="Leaking Tampon" />
+    <TextStringDefinition InstanceID="0x9CBE332C" TextString="&lt;font color='#340658'&gt;Leaking Tampon&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xDE5A1F3C" TextString="There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} tampon has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state." />
-    <TextStringDefinition InstanceID="0x5055933D" TextString="Burst Tampon" />
+    <TextStringDefinition InstanceID="0xC5511B6F" TextString="&lt;font color='#340658'&gt;Burst Tampon&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x45B7C948" TextString="The tampon did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement." />
-    <TextStringDefinition InstanceID="0x0DCB1D5B" TextString="Flooding Tampon" />
+    <TextStringDefinition InstanceID="0xB80F2EF1" TextString="&lt;font color='#340658'&gt;Flooding Tampon&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xB289992C" TextString="The tampon tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
     <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
     <TextStringDefinition InstanceID="0x89B249B4" TextString="(From Being on Period)" />
-    <TextStringDefinition InstanceID="0x405FBD3C" TextString="No More Bleeding" />
+    <TextStringDefinition InstanceID="0xE42E19C0" TextString="&lt;font color='#340658'&gt;No More Bleeding&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC73C92AB" TextString="The period has been blocked. Through {M0.his}{F0.her} recent actions, {0.SimFirstName} has missed this part of {M0.his}{F0.her} menstrual cycle. For now, {0.SimFirstName} won't need to worry about pads or tampons." />
-    <TextStringDefinition InstanceID="0x2ABF2DD1" TextString="Nauseous" />
+    <TextStringDefinition InstanceID="0x3E4F78BF" TextString="&lt;font color='#340658'&gt;Nauseous&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x00BFB768" TextString="{0.SimFirstName} can’t shake the queasy feeling going through {M0.his}{F0.her} mind and through {M0.his}{F0.her} gut. It’s like being on a small boat in the midst of rocky waters. {0.SimFirstName} doesn’t have the energy to do anything and no appetite at all." />
-    <TextStringDefinition InstanceID="0x8B4B1FD2" TextString="Irritated" />
+    <TextStringDefinition InstanceID="0xE7491E06" TextString="&lt;font color='#340658'&gt;Irritated&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x20F4AC51" TextString="Right now is not a good time for any Sim to be messing with {0.SimFirstName}. The stress that {M0.his}{F0.her} menstrual cycle can cause just makes the world itself so much more annoying. Any meddling Sim better watch out because {M0.he’s}{F0.she’s} seeing red!" />
-    <TextStringDefinition InstanceID="0x15027A91" TextString="Dizziness" />
+    <TextStringDefinition InstanceID="0xCBF31437" TextString="&lt;font color='#340658'&gt;Dizziness&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x82213E88" TextString="Something doesn’t feel quite right. It may be a side effect from {M0.his}{F0.her} monthly cycle but {0.SimFirstName} can’t shake this dizzying feeling that the world around {M0.him}{F0.her} is spinning uncontrollably." />
-    <TextStringDefinition InstanceID="0xE26CC366" TextString="Oversensitive" />
+    <TextStringDefinition InstanceID="0x6E5DEF06" TextString="&lt;font color='#340658'&gt;Oversensitive&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x00F3F984" TextString="No one seems to understand or care about what {0.SimFirstName} is going through right now. At the moment, {M0.he}{F0.she} can’t seem to keep {M0.his}{F0.her} emotions in check. The effects of having a monthly cycle has left {M0.him}{F0.her} in a complete wreck." />
-    <TextStringDefinition InstanceID="0x26191C07" TextString="Cramping" />
+    <TextStringDefinition InstanceID="0xD61738A5" TextString="&lt;font color='#340658'&gt;Cramping&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xF3413535" TextString="{0.SimFirstName} is getting a painful sensation emanating from {M0.his}{F0.her} body that {M0.he}{F0.she} just can't ignore. This aching feeling that comes during one's cycle is never an enjoyable experience but this time it’s especially difficult. Hopefully this distress will subside." />
-    <TextStringDefinition InstanceID="0x895ED825" TextString="Anxious" />
+    <TextStringDefinition InstanceID="0x12883293" TextString="&lt;font color='#340658'&gt;Anxious&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xEB56CB5E" TextString="{0.SimFirstName} is all nerves right now and can’t seem to focus. {M0.He’s}{F0.She’s} having difficulty keeping still and is stressing {M0.himself}{F0.herself} over minor things. Having a uterus is no fun when you have to go through this." />
-    <TextStringDefinition InstanceID="0xA70CDAB9" TextString="Aroused" />
+    <TextStringDefinition InstanceID="0xF0146EFF" TextString="&lt;font color='#340658'&gt;Aroused&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xDAB73BA8" TextString="{0.SimFirstName}’s really in the mood for some action. {M0.He}{F0.She} seems to have a sudden urge to get down and dirty. Maybe it’s the blood pumping but {M0.he’s}{F0.she’s} feeling especially titillated right now." />
     <TextStringDefinition InstanceID="0xBC451E50" TextString="Extra Absorbency" />
     <TextStringDefinition InstanceID="0xC7F4881D" TextString="Extra Absorbency" />
