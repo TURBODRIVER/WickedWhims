@@ -16,6 +16,8 @@
     <TextStringDefinition InstanceID="0x5D469CA8" TextString="Check to allow Sims to talk after finishing sex." />
     <TextStringDefinition InstanceID="0x15BB7E21" TextString="Auto Silence Phone During Sex" />
     <TextStringDefinition InstanceID="0x0289438D" TextString="Check to automatically silence Sim phone during sex." />
+    <TextStringDefinition InstanceID="0x7E68095C" TextString="Animations Sorting Button Position" />
+    <TextStringDefinition InstanceID="0xB06AA36B" TextString="Check to display the Animations Sorting Button on the top of the animations list.\nUncheck to display the Animations Sorting Button on the bottom of the animations list." />
     <TextStringDefinition InstanceID="0x863EB150" TextString="Sex Progression Settings" />
     <TextStringDefinition InstanceID="0xC5E8C4CD" TextString="Change behavior of sex animations progression." />
     <TextStringDefinition InstanceID="0x896139BB" TextString="Player Sex Duration" />
@@ -293,6 +295,16 @@
     <TextStringDefinition InstanceID="0xEE24B68B" TextString="Select for Sims to use and change pads right before it becomes overused (every 16 hours)." />
     <TextStringDefinition InstanceID="0x5B484FDE" TextString="Cautious" />
     <TextStringDefinition InstanceID="0x33B3FAA4" TextString="Select for Sims to use and change pads right when there is any risk of them leaking (every 6 hours)." />
+    <TextStringDefinition InstanceID="0xEC8D2600" TextString="Advanced Menstrual Cycle Settings" />
+    <TextStringDefinition InstanceID="0x6739DB34" TextString="Advanced settings for the menstrual cycle." />
+    <TextStringDefinition InstanceID="0xB69E7E54" TextString="Use Toilet to Change Pad/Tampon Switch" />
+    <TextStringDefinition InstanceID="0x48972586" TextString="Check to make Sims use a nearby toilet when changing their pad/tampon.\nUncheck to make changing pads/tampons immediate." />
+    <TextStringDefinition InstanceID="0xD280A515" TextString="Period Effect Moodlets Switch" />
+    <TextStringDefinition InstanceID="0x24822982" TextString="Check to allow PMS/Period effect moodlets to show up on Sims.\n(Effect Moodlets like mood swings, cramps, etc.)" />
+    <TextStringDefinition InstanceID="0x0C905129" TextString="Period Bleeding Switch" />
+    <TextStringDefinition InstanceID="0x85A714BE" TextString="Check to allow Sims to menstrual bleed during their period." />
+    <TextStringDefinition InstanceID="0x024EFE50" TextString="Remove Pad on Undressing Switch" />
+    <TextStringDefinition InstanceID="0xB0DB5006" TextString="Check to make Sims auto remove their pad when undressing outfit bottom.\nUncheck to make Sims keep their pad with undressed outfit bottom." />
     <TextStringDefinition InstanceID="0x24E7813C" TextString="NPC Pregnancy Switch" />
     <TextStringDefinition InstanceID="0xF36CF065" TextString="Check to allow NPC Sims get pregnant on their own from sex." />
     <TextStringDefinition InstanceID="0x6BACA871" TextString="Birth Control Settings" />
@@ -313,12 +325,18 @@
     <TextStringDefinition InstanceID="0x72200DDF" TextString="Select to make NPC Sims rarely own and use birth control." />
     <TextStringDefinition InstanceID="0xBFF340F9" TextString="Unsafe Mode" />
     <TextStringDefinition InstanceID="0xDB5C6F59" TextString="Select to make NPC Sims not own birth control unless given by the player." />
-    <TextStringDefinition InstanceID="0x4CCF0404" TextString="Birth Control Automatic Use" />
-    <TextStringDefinition InstanceID="0xD1DC7E41" TextString="Makes Sims use birth control automatically when needed.\n\nCondoms are used during any sex that can cause pregnancy.\nBirth Control Pills is used once a day." />
+    <TextStringDefinition InstanceID="0x566ABE78" TextString="Condom Automatic Use" />
+    <TextStringDefinition InstanceID="0xD2490390" TextString="Check to make Sims use condoms automatically during pregnancy sex." />
+    <TextStringDefinition InstanceID="0xFEBD90E0" TextString="Pills Automatic Use" />
+    <TextStringDefinition InstanceID="0x377DD1EB" TextString="Check to make Sims use birth control pills automatically once a day." />
+    <TextStringDefinition InstanceID="0x4C781793" TextString="Condom Auto Remove for Non-Pregnancy Sex" />
+    <TextStringDefinition InstanceID="0xB1DED9B4" TextString="Check to automatically remove condoms from Sims during sex that cannot cause pregnancy.\nUncheck to keep Sims condoms on during any sex." />
     <TextStringDefinition InstanceID="0x212943B1" TextString="Pregnancy Duration" />
     <TextStringDefinition InstanceID="0xDAE773C9" TextString="Native pregnancy duration in Sim days.\n(Default: 3, Minimum: 1)" />
     <TextStringDefinition InstanceID="0x853ED1F7" TextString="Miscarriage Switch" />
     <TextStringDefinition InstanceID="0xFFC63218" TextString="Check to allow Sims to experience miscarriage." />
+    <TextStringDefinition InstanceID="0xA3BD2102" TextString="Miscarriage Add Offspring Switch" />
+    <TextStringDefinition InstanceID="0x872C46F4" TextString="Check to allow unborn offspring to be added to the family tree." />
     <TextStringDefinition InstanceID="0xA9E7B26F" TextString="Pregnancy Notifications" />
     <TextStringDefinition InstanceID="0xD4553434" TextString="Check to display extra pregnancy notifications." />
     <TextStringDefinition InstanceID="0x8CAC249F" TextString="Other Settings" />
@@ -403,7 +421,7 @@
     <TextStringDefinition InstanceID="0x2E00C5C1" TextString="Author: {0.String}\nCategory: {1.String}\nLocations: {2.String}" />
     <TextStringDefinition InstanceID="0x6574AE98" TextString="Author: {0.String}\nCategory: {1.String}\nRoles: {2.String} | Orientation: {3.String}" />
     <TextStringDefinition InstanceID="0x49A48B7D" TextString="Name: {0.String}\nAuthor: {1.String}" />
-    <TextStringDefinition InstanceID="0x4D33B6BF" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
+    <TextStringDefinition InstanceID="0x248224D8" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0xFE78C7D6" TextString="Author: {0.String}\nLocations: {1.String}\nRoles: {2.String} | Orientation: {3.String}" />
     <TextStringDefinition InstanceID="0x6E80454F" TextString="Animations Disabler" />
     <TextStringDefinition InstanceID="0x8DE185BC" TextString="Animations Disabler\n{0.String}" />
@@ -418,7 +436,7 @@
     <TextStringDefinition InstanceID="0x57D3543F" TextString="Select this option and confirm to reopen the list." />
     <TextStringDefinition InstanceID="0x848A4827" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
-    <TextStringDefinition InstanceID="0x76580FE9" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
+    <TextStringDefinition InstanceID="0x7781241A" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
     <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
@@ -505,8 +523,29 @@
     <TextStringDefinition InstanceID="0xF183A57F" TextString="No compatible Sims to swap with were found in the sex interaction!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
+    <TextStringDefinition InstanceID="0xB404E49E" TextString="Sex Animations Sorting Types" />
+    <TextStringDefinition InstanceID="0xC3E0E8E5" TextString="Animations Sorting Type" />
+    <TextStringDefinition InstanceID="0x83A1ABC2" TextString="Choose the type of sorting sex animations.\nCurrent Sorting Type: {0.String}" />
+    <TextStringDefinition InstanceID="0x169AB3CE" TextString="Default" />
+    <TextStringDefinition InstanceID="0x5B631FA4" TextString="Sort animations with original ordering of the authors." />
+    <TextStringDefinition InstanceID="0x0E9C99AA" TextString="Location" />
+    <TextStringDefinition InstanceID="0x242321EF" TextString="Sort animations by location." />
+    <TextStringDefinition InstanceID="0x6FC205AF" TextString="Participants Count" />
+    <TextStringDefinition InstanceID="0x0A146C86" TextString="Sort animations by number of participants." />
+    <TextStringDefinition InstanceID="0x58329FF1" TextString="Favorite" />
+    <TextStringDefinition InstanceID="0x79A636D9" TextString="Sort animations by favorites." />
+    <TextStringDefinition InstanceID="0xCE6F37C1" TextString="Most Used" />
+    <TextStringDefinition InstanceID="0x20C1C1DA" TextString="Sort animations by most used." />
+    <TextStringDefinition InstanceID="0xBEE3E2F9" TextString="Least Used" />
+    <TextStringDefinition InstanceID="0x6F32B6C8" TextString="Sort animations by least used." />
+    <TextStringDefinition InstanceID="0x56E2B7B6" TextString="Orientation" />
+    <TextStringDefinition InstanceID="0x42FDBC29" TextString="Sort animations by intended actors orientation." />
+    <TextStringDefinition InstanceID="0xBFE3E644" TextString="Roles" />
+    <TextStringDefinition InstanceID="0xA1FC2F50" TextString="Sort animations by intended actors roles." />
+    <TextStringDefinition InstanceID="0x5071CFE1" TextString="Duration" />
+    <TextStringDefinition InstanceID="0x1D7AA8E9" TextString="Sort animations by duration, from shortest to longest." />
     <TextStringDefinition InstanceID="0x714D1958" TextString="[&lt;font color='#EC262E'&gt;♥&lt;/font&gt;] {0.String}" />
-    <TextStringDefinition InstanceID="0x00F652EC" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}" />
+    <TextStringDefinition InstanceID="0x16F32D85" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
     <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />
@@ -518,7 +557,7 @@
     <TextStringDefinition InstanceID="0x773AC079" TextString="An issue with a running sex interaction was detected!\nAttempting a reset of the active sex interaction..." />
     <TextStringDefinition InstanceID="0x2F37456C" TextString="Stop This Sex" />
     <TextStringDefinition InstanceID="0x69475FAF" TextString="Stop All Sex" />
-    <TextStringDefinition InstanceID="0x8EEF0F7D" TextString="{1.SimName} refused {0.SimFirstName}'s proposition for sex.\n\n{2.String}" />
+    <TextStringDefinition InstanceID="0x81CB01DC" TextString="{1.SimName} refuses to have sex with {0.SimFirstName}.\n\n{2.String}" />
     <TextStringDefinition InstanceID="0xD3242234" TextString="Age difference between {0.SimFirstName} and {1.SimFirstName}." />
     <TextStringDefinition InstanceID="0xB0AB3CD9" TextString="Family relations between {0.SimFirstName} and {1.SimFirstName}." />
     <TextStringDefinition InstanceID="0x7EAFF3DD" TextString="Sexual orientation incompatibility between {0.SimFirstName} and {1.SimFirstName}." />
@@ -570,8 +609,8 @@
     <TextStringDefinition InstanceID="0x30E54B00" TextString="Hypersexual" />
     <TextStringDefinition InstanceID="0x4945BA26" TextString="The extreme vibe of sexual desire makes this an especially great place to have sex." />
     <TextStringDefinition InstanceID="0xA8A4207C" TextString="---------- SEX SHOP ----------" />
-    <TextStringDefinition InstanceID="0xA167046F" TextString="Purchase Sex Items" />
-    <TextStringDefinition InstanceID="0xA38EBAEB" TextString="Thanks for ordering! The sex items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
+    <TextStringDefinition InstanceID="0x99735826" TextString="Purchase Wicked Items" />
+    <TextStringDefinition InstanceID="0xEA05E1F4" TextString="Thanks for ordering! The Wicked items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
     <TextStringDefinition InstanceID="0x5CE2AE4B" TextString="---------- WATCHING SEX ----------" />
     <TextStringDefinition InstanceID="0x9AF9827F" TextString="Watch Sex" />
     <TextStringDefinition InstanceID="0x66CA9C71" TextString="Watching Sex" />
@@ -771,10 +810,6 @@
     <TextStringDefinition InstanceID="0x95DD6D27" TextString="---------- PREGNANCY BUFFS ----------" />
     <TextStringDefinition InstanceID="0xCE47E2B7" TextString="&lt;font color='#340658'&gt;Discovered Teen Pregnancy&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x25324005" TextString="Amidst all the doubtfulness, sadness and confusion, there is anger. Can {0.SimFirstName} cope with having {M0.his}{F0.her} teen child pregnant?" />
-    <TextStringDefinition InstanceID="0xAE29F968" TextString="---------- PREGNANCY TRAITS ----------" />
-    <TextStringDefinition InstanceID="0x78E25EF0" TextString="Infertile" />
-    <TextStringDefinition InstanceID="0x466D093D" TextString="Infertile" />
-    <TextStringDefinition InstanceID="0x84DEF596" TextString="Infertile Sims have no chances of having a biological child." />
     <TextStringDefinition InstanceID="0x05CC9195" TextString="---------- PREGNANCY NOTIFICATIONS ----------" />
     <TextStringDefinition InstanceID="0x31687893" TextString="---------- PREGNANCY TERMINATION ----------" />
     <TextStringDefinition InstanceID="0x16C92A58" TextString="Terminate Pregnancy" />
@@ -800,7 +835,7 @@
     <TextStringDefinition InstanceID="0x35E1CC94" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just passed {M1.his}{F1.her} ovulation day. That means {M1.he}{F1.she} won't be able to get pregnant anytime soon." />
     <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
-    <TextStringDefinition InstanceID="0x9392FF54" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\nDays left till ovulation: {2.String}" />
+    <TextStringDefinition InstanceID="0x94B4AA01" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\n\nCheck {0.SimFirstName}'s fertility information via phone by using the Period Tracker app." />
     <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
     <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
     <TextStringDefinition InstanceID="0x4AAC8862" TextString="{0.SimName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
@@ -809,9 +844,9 @@
     <TextStringDefinition InstanceID="0x6FA67438" TextString="Birth Control" />
     <TextStringDefinition InstanceID="0x8AE6A796" TextString="&lt;font color='#340658'&gt;Wearing a Condom&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x9785A9F2" TextString="{0.SimFirstName} is wearing a condom." />
-    <TextStringDefinition InstanceID="0xAF66C05C" TextString="&lt;font color='#340658'&gt;Early On Birth Control Pills&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE55F0775" TextString="&lt;font color='#340658'&gt;Early On Birth Control Pill&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC70B7967" TextString="{0.SimFirstName} is early on {M0.his}{F0.her} birth control. It takes 3 days before birth control pills take full effect." />
-    <TextStringDefinition InstanceID="0xCC2D817B" TextString="&lt;font color='#340658'&gt;On Birth Control Pills&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x075930E8" TextString="&lt;font color='#340658'&gt;On Birth Control Pill&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x519E5BF5" TextString="{0.SimFirstName} is on {M0.his}{F0.her} birth control." />
     <TextStringDefinition InstanceID="0x7E84555B" TextString="Unpack Box" />
     <TextStringDefinition InstanceID="0xC0D84ED7" TextString="Use This Condom" />
@@ -823,8 +858,16 @@
     <TextStringDefinition InstanceID="0x8FC7D951" TextString="{0.SimFirstName} already took a birth control pill." />
     <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
     <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
-    <TextStringDefinition InstanceID="0x0B637175" TextString="Used a condom. (Owned by {0.SimName})" />
-    <TextStringDefinition InstanceID="0x203B034B" TextString="Used {0.String} condoms. (Owned by {1.SimName})" />
+    <TextStringDefinition InstanceID="0xB0586B51" TextString="Used a condom owned by {1.SimName}." />
+    <TextStringDefinition InstanceID="0xA843178D" TextString="Used {0.String} condoms owned by {1.SimName} and {2.SimName}." />
+    <TextStringDefinition InstanceID="0xEA1A8CFC" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName} and {3.SimName}." />
+    <TextStringDefinition InstanceID="0xA9965330" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName} and {4.SimName}." />
+    <TextStringDefinition InstanceID="0x72D05B59" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName} and {5.SimName}." />
+    <TextStringDefinition InstanceID="0xED901BE5" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName} and {6.SimName}." />
+    <TextStringDefinition InstanceID="0x86BD3278" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName} and {7.SimName}." />
+    <TextStringDefinition InstanceID="0x784040C0" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName}." />
+    <TextStringDefinition InstanceID="0xEBDC9D7D" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName}." />
+    <TextStringDefinition InstanceID="0xDA3CB31E" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName}, {9.SimName} and {10.SimName}." />
     <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
     <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />
@@ -845,10 +888,15 @@
     <TextStringDefinition InstanceID="0x7218CAB9" TextString="Period" />
     <TextStringDefinition InstanceID="0xCFFE42FA" TextString="&lt;font color='#340658'&gt;Using a Pad&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x7EEF6B76" TextString="{0.SimFirstName} is using a pad." />
+    <TextStringDefinition InstanceID="0x5DCAF938" TextString="Replaces Pad in: {0.Timespan}" />
     <TextStringDefinition InstanceID="0x7259ABDA" TextString="&lt;font color='#340658'&gt;Using a Tampon&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xC645DE56" TextString="{0.SimFirstName} is using a tampon." />
+    <TextStringDefinition InstanceID="0x6EAACC98" TextString="Replaces Tampon in: {0.Timespan}" />
     <TextStringDefinition InstanceID="0xDC99F762" TextString="(From Used Menstrual Pad)" />
     <TextStringDefinition InstanceID="0x9239FF2F" TextString="(From Smelling Used Menstrual Pad)" />
+    <TextStringDefinition InstanceID="0xBACFFBD3" TextString="(From Light Blood Flow)" />
+    <TextStringDefinition InstanceID="0x6C72515B" TextString="(From Regular Blood Flow)" />
+    <TextStringDefinition InstanceID="0x5A8F2D90" TextString="(From Heavy Blood Flow)" />
     <TextStringDefinition InstanceID="0x271B2F24" TextString="&lt;font color='#340658'&gt;Periodic Stench&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x351EB357" TextString="Oh no! Does that Sim have an itchy nose or can they smell {0.SimFirstName}’s pad? The currently drenched in blood pad is causing a nervous feeling in {M0.him}{F0.her} gut." />
     <TextStringDefinition InstanceID="0x14B9E074" TextString="&lt;font color='#340658'&gt;Fishy Stench&lt;/font&gt;" />
@@ -873,8 +921,8 @@
     <TextStringDefinition InstanceID="0xB289992C" TextString="The tampon tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!" />
     <TextStringDefinition InstanceID="0x7ADBF8FE" TextString="(From Premenstrual Syndrome)" />
     <TextStringDefinition InstanceID="0x89B249B4" TextString="(From Being on Period)" />
-    <TextStringDefinition InstanceID="0xE42E19C0" TextString="&lt;font color='#340658'&gt;No More Bleeding&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xC73C92AB" TextString="The period has been blocked. Through {M0.his}{F0.her} recent actions, {0.SimFirstName} has missed this part of {M0.his}{F0.her} menstrual cycle. For now, {0.SimFirstName} won't need to worry about pads or tampons." />
+    <TextStringDefinition InstanceID="0xECDF94FA" TextString="&lt;font color='#340658'&gt;No More Mood Swings&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x692AC5B7" TextString="{0.SimFirstName}'s menstrual mood swings have been magically suppressed thanks to the substances {M0.he}{F0.she} took." />
     <TextStringDefinition InstanceID="0x3E4F78BF" TextString="&lt;font color='#340658'&gt;Nauseous&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x00BFB768" TextString="{0.SimFirstName} can’t shake the queasy feeling going through {M0.his}{F0.her} mind and through {M0.his}{F0.her} gut. It’s like being on a small boat in the midst of rocky waters. {0.SimFirstName} doesn’t have the energy to do anything and no appetite at all." />
     <TextStringDefinition InstanceID="0xE7491E06" TextString="&lt;font color='#340658'&gt;Irritated&lt;/font&gt;" />
@@ -901,22 +949,37 @@
     <TextStringDefinition InstanceID="0xBBFD1296" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
     <TextStringDefinition InstanceID="0xAC5B7CB4" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} first period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
     <TextStringDefinition InstanceID="0xC5856650" TextString="Sure, here you go." />
+    <TextStringDefinition InstanceID="0x341154FB" TextString="{0.SimFirstName} took a Chill Pill." />
+    <TextStringDefinition InstanceID="0x4EB90CA3" TextString="Kaya Period Tracker" />
+    <TextStringDefinition InstanceID="0x3FF32DB7" TextString="Hello {0.SimFirstName}!\nThis is your &lt;b&gt;Kaya Period Tracker&lt;/b&gt; Report.\n\n&lt;b&gt;Menstrual Cycle&lt;/b&gt;\n • Currently you're at day {1.Number} of your cycle, out of {2.Number} days.\n&lt;b&gt;PMS&lt;/b&gt;\n • Next PMS is coming up in {3.Number} day{P3.s}.\n&lt;b&gt;Period&lt;/b&gt;\n • Next Period starts in {4.Number} day{P4.s}.\n\n&lt;b&gt;Fertility&lt;/b&gt;\n • The Next Most Fertile Day is coming up in {5.Number} day{P5.s}.\n • The Next Ovulation Day is coming up in {6.Number} day{P6.s}.\n\nThank you for using the &lt;b&gt;Kaya Period Tracker&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x447151B2" TextString="Check Period Tracker" />
     <TextStringDefinition InstanceID="0x86AA8716" TextString="Open Box" />
     <TextStringDefinition InstanceID="0x93465008" TextString="Unpack Box" />
+    <TextStringDefinition InstanceID="0xD421B4A3" TextString="Tampons &amp; Pads" />
     <TextStringDefinition InstanceID="0xB413BD71" TextString="Unwrap Pad" />
     <TextStringDefinition InstanceID="0x4E1308F1" TextString="Use Pad" />
     <TextStringDefinition InstanceID="0x151F1202" TextString="Replace Pad" />
     <TextStringDefinition InstanceID="0x8C7FF997" TextString="{0.SimFirstName} just used a pad." />
-    <TextStringDefinition InstanceID="0xEDDF8504" TextString="Allow Pad Auto Use" />
-    <TextStringDefinition InstanceID="0x0D6EEA50" TextString="Disallow Pad Auto Use" />
+    <TextStringDefinition InstanceID="0x6773DB4F" TextString="There is no toilet on this lot to use the pad." />
+    <TextStringDefinition InstanceID="0xFAB17C27" TextString="A Menstrual Pad is needed to perform this action." />
     <TextStringDefinition InstanceID="0xE1E61495" TextString="Unwrap Tampon" />
     <TextStringDefinition InstanceID="0x567BB315" TextString="Use Tampon" />
     <TextStringDefinition InstanceID="0x9E609ACC" TextString="Replace Tampon" />
     <TextStringDefinition InstanceID="0x48E413FD" TextString="{0.SimFirstName} just used a tampon." />
-    <TextStringDefinition InstanceID="0x36066004" TextString="Allow Tampon Auto Use" />
-    <TextStringDefinition InstanceID="0xB720CE60" TextString="Disallow Tampon Auto Use" />
+    <TextStringDefinition InstanceID="0x254F4A03" TextString="There is no toilet on this lot to use the tampon." />
+    <TextStringDefinition InstanceID="0x61AFC600" TextString="A Tampon is needed to perform this action." />
+    <TextStringDefinition InstanceID="0x05F50650" TextString="Auto Use" />
+    <TextStringDefinition InstanceID="0xA330D15D" TextString="No Auto Use" />
+    <TextStringDefinition InstanceID="0xB0B91AE8" TextString="Realistic Auto Use" />
+    <TextStringDefinition InstanceID="0xDCA61250" TextString="{0.SimFirstName} will change {M0.his}{F0.her} tampon or pad before it becomes completely overused." />
+    <TextStringDefinition InstanceID="0x6EA88E47" TextString="Cautious Auto Use" />
+    <TextStringDefinition InstanceID="0xFEAA4FC3" TextString="{0.SimFirstName} will change {M0.his}{F0.her} tampon or pad before it is at risk of leaking." />
+    <TextStringDefinition InstanceID="0xEAD5F974" TextString="This is the current Auto Use type." />
+    <TextStringDefinition InstanceID="0xE59C5819" TextString="Take Pill" />
     <TextStringDefinition InstanceID="0xF7694D28" TextString="Ask for a Tampon or Pad" />
     <TextStringDefinition InstanceID="0x4C52FCC5" TextString="You've already asked this Sim for a Tampon or Pad." />
+    <TextStringDefinition InstanceID="0x2EDB38D1" TextString="Wicked Chill Pills" />
+    <TextStringDefinition InstanceID="0x88D3C9CF" TextString="Designed by the Scientific Pioneers in the Pharmaceutical Industry and produced at the Next Generation Manufacturing Centers, the Wicked Chill Pill is the definitive answer to the unwanted mood swings and pains caused by the Premenstrual Syndrome." />
     <TextStringDefinition InstanceID="0x322439DF" TextString="Kaya Tampons &amp; Pads Box" />
     <TextStringDefinition InstanceID="0x08DB8D18" TextString="Box of 7 tampons and 7 pads. A mix of both will guarantee the best protection from heavy menstrual bleeding.\n\nUnpack the box and get 7 wrapped tampons and 7 wrapped pads." />
     <TextStringDefinition InstanceID="0xDB423F59" TextString="Kaya Pads Box" />
