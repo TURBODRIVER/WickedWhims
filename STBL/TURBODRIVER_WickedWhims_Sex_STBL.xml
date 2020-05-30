@@ -65,7 +65,7 @@
     <TextStringDefinition InstanceID="0x10557617" TextString="Choose the type of sex initiation." />
     <TextStringDefinition InstanceID="0x21C401F8" TextString="Talk and Walk" />
     <TextStringDefinition InstanceID="0xB5F6352E" TextString="Sex will start with Sims talking and then walking to the sex location." />
-    <TextStringDefinition InstanceID="0x8EC0A334" TextString="Instant (requires Full Always Accept)" />
+    <TextStringDefinition InstanceID="0x22802A73" TextString="Instant (requires enabling Always Accept)" />
     <TextStringDefinition InstanceID="0xE5D7DF3A" TextString="Sex will start instantly, teleporting Sims to the sex location." />
     <TextStringDefinition InstanceID="0x9E42147A" TextString="Height Slider Mods Support" />
     <TextStringDefinition InstanceID="0x77DF61C0" TextString="Check to detect Height Slider mods and adjust Sims height during sex.\nUncheck to ignore Height Slider mods." />
@@ -871,7 +871,7 @@
     <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
     <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />
-    <TextStringDefinition InstanceID="0x184BB312" TextString="Box of 24 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\n\nUnpack the box and get 24 usable condoms." />
+    <TextStringDefinition InstanceID="0xB9C9FFA6" TextString="Box of 21 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\n\nUnpack the box and get 21 usable condoms." />
     <TextStringDefinition InstanceID="0xC05146E2" TextString="Wicked Condom (Purple)" />
     <TextStringDefinition InstanceID="0x2E2B7F71" TextString="Wicked Condom (Cyan)" />
     <TextStringDefinition InstanceID="0x8DDCBE38" TextString="Wicked Condom (Blue)" />

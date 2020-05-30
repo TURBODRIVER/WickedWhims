@@ -1538,6 +1538,8 @@
     <TextStringDefinition InstanceID="0x32265D85" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - sex pictures. Hope you find that information useful!" />
     <TextStringDefinition InstanceID="0x950A8FBA" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that sex pictures are going to become popular soon! Plan accordingly!" />
     <TextStringDefinition InstanceID="0x202CCB35" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x0B991DCB" TextString="----------Misc----------" />
+    <TextStringDefinition InstanceID="0xECF6EC79" TextString="Remove Clothing Changing Block" />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />
     <TextStringDefinition InstanceID="0x86E8A167" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING NUDITY TEXT \\\&lt;/font&gt;" />
   </TextStringDefinitions>
