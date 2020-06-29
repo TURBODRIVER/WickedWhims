@@ -59,7 +59,10 @@
     <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Traits ---------" />
     <TextStringDefinition InstanceID="0x4528A2FC" TextString="Polyamorous" />
     <TextStringDefinition InstanceID="0xD054832F" TextString="Polyamorous" />
-    <TextStringDefinition InstanceID="0x02E00C87" TextString="These Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
+    <TextStringDefinition InstanceID="0x433E58F6" TextString="Polyamorous Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
+    <TextStringDefinition InstanceID="0x28D0FB8E" TextString="Adulterer" />
+    <TextStringDefinition InstanceID="0x49F26021" TextString="Adulterer" />
+    <TextStringDefinition InstanceID="0xB8695A99" TextString="Adulterer Sims are open to having sex with others when in an established relationship." />
     <TextStringDefinition InstanceID="0x4B2E6B29" TextString="Everyman" />
     <TextStringDefinition InstanceID="0x90DBE483" TextString="Everyman Sims just want to belong and feel like a part of something. They lack any distinctive identity and rarely stand out." />
     <TextStringDefinition InstanceID="0x944CBA6D" TextString="Jester" />

@@ -201,7 +201,7 @@
     <TextStringDefinition InstanceID="0x65BCFEE6" TextString="---------- Traits ----------" />
     <TextStringDefinition InstanceID="0xF7B00D90" TextString="No Underwear" />
     <TextStringDefinition InstanceID="0x15550E5D" TextString="No Underwear" />
-    <TextStringDefinition InstanceID="0x7A72DB2E" TextString="Sims with no underwear will never be wearing underwear ever again." />
+    <TextStringDefinition InstanceID="0x7A72DB2E" TextString="Sims with No Underwear will never be wearing underwear ever again." />
     <TextStringDefinition InstanceID="0xBE8FCB9F" TextString="---------- Lot Traits ----------" />
     <TextStringDefinition InstanceID="0x5B2AF2C9" TextString="Nudist" />
     <TextStringDefinition InstanceID="0x87146729" TextString="The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate." />
@@ -1538,6 +1538,39 @@
     <TextStringDefinition InstanceID="0x32265D85" TextString="We appreciate you here at SimHub @{1.String}, so we wanted to give you a heads up about the next big thing - sex pictures. Hope you find that information useful!" />
     <TextStringDefinition InstanceID="0x950A8FBA" TextString="Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that sex pictures are going to become popular soon! Plan accordingly!" />
     <TextStringDefinition InstanceID="0x202CCB35" TextString="Hey @{1.String}, SimHub Community Manager here - quick data analysis tells us that pictures where Sims are having sex are in demand right now. Try to take that opportunity!" />
+    <TextStringDefinition InstanceID="0x4BEC12B4" TextString="----------Doll----------" />
+    <TextStringDefinition InstanceID="0x320359DD" TextString="Gzhel" />
+    <TextStringDefinition InstanceID="0xE6767E70" TextString="Porcelain Doll Summon" />
+    <TextStringDefinition InstanceID="0x52A59EC1" TextString="Porcelain Doll" />
+    <TextStringDefinition InstanceID="0x89AA2CAF" TextString="Admire Porcelain Vase" />
+    <TextStringDefinition InstanceID="0x5D77BE59" TextString="Ask To Be Turned Into a Porcelain Doll" />
+    <TextStringDefinition InstanceID="0x7CBC51E0" TextString="Be Turned Into Porcelain Doll" />
+    <TextStringDefinition InstanceID="0x82B25A13" TextString="Transform into Porcelain Doll" />
+    <TextStringDefinition InstanceID="0xD9B2E46F" TextString="Return To Human Form" />
+    <TextStringDefinition InstanceID="0xFD5DC87A" TextString="Beg for Attention" />
+    <TextStringDefinition InstanceID="0xA24B1E57" TextString="Be Begged for Attention" />
+    <TextStringDefinition InstanceID="0x5546A7D7" TextString="Beg for Ownership" />
+    <TextStringDefinition InstanceID="0x985AE826" TextString="Be Begged for Ownership" />
+    <TextStringDefinition InstanceID="0xB409E80C" TextString="Claim Doll" />
+    <TextStringDefinition InstanceID="0xA7891931" TextString="Unclaim Doll" />
+    <TextStringDefinition InstanceID="0x44A3C6F7" TextString="{0.SimName} is now the owner of {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x9BB31ED7" TextString="{0.SimName} is no longer the owner of {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x4CD912EC" TextString="Turned Into Porcelain" />
+    <TextStringDefinition InstanceID="0x91C3ACD0" TextString="Through her breathtakingly spellbinding kiss, the summoned doll Gzhel captured {0.SimFirstName}'s humanity into the form of a Porcelain Doll.\nAlthough {0.SimFirstName} is now a Doll made out of Porcelain on the outside, on the inside {M0.he}{F0.she} is still a living person, bound by the constraints of being a toy for humans, seeking attention and pleasures from others to avoid feeling neglected and useless.\n\nHave fun and socialize with others, keep away the filth, and enjoy existence without the need to eat or drink.\nFind an owner to be claimed by and take pleasure in playing together. As a doll, {0.SimFirstName}'s purpose is to be used and make others happy which makes {M0.him}{F0.her} happy as well." />
+    <TextStringDefinition InstanceID="0xA1086E79" TextString="&lt;font color='#340658'&gt;Porcelain Doll&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF300CBD1" TextString="{0.SimFirstName} has become a Porcelain Doll! Make sure to take care of {M0.his}{F0.her} fragile body." />
+    <TextStringDefinition InstanceID="0x30851C5D" TextString="&lt;font color='#340658'&gt;Feeling Useless&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x22D54F5F" TextString="Desperately in need of pleasure from other Sims!" />
+    <TextStringDefinition InstanceID="0x89F64D0B" TextString="&lt;font color='#340658'&gt;No Owner&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD1B7E956" TextString="{0.SimFirstName} needs an owner to play with!" />
+    <TextStringDefinition InstanceID="0xF0C89BD8" TextString="Moving so much when made out of porcelain can get very exhausting. Becoming an immovable figurine is the natural way of being." />
+    <TextStringDefinition InstanceID="0x570E663A" TextString="Pleasure" />
+    <TextStringDefinition InstanceID="0xFAA2481A" TextString="Porcelain Dolls need attention and pleasures to avoid feeling neglected and useless. Try talking to Sims, learning about Sims, or being used by Sims." />
+    <TextStringDefinition InstanceID="0xE290F4EA" TextString="Filth" />
+    <TextStringDefinition InstanceID="0x8FBB3C96" TextString="Even Porcelain Dolls need to freshen up from time to time. A quick shower or bath will keep the dust away." />
+    <TextStringDefinition InstanceID="0x5E448DFC" TextString="{0.SimFirstName} is feeling sad from lack of attention and pleasures. Play with {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x447D1D68" TextString="&lt;font color='#340658'&gt;Wicked Porcelain Vase&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x178B2DBA" TextString="This oddly huge porcelain vase has some particularly interesting patterns that seem to move when you stare at them for long enough." />
     <TextStringDefinition InstanceID="0x0B991DCB" TextString="----------Misc----------" />
     <TextStringDefinition InstanceID="0xECF6EC79" TextString="Remove Clothing Changing Block" />
     <TextStringDefinition InstanceID="0x62F967BC" TextString="----------End----------" />

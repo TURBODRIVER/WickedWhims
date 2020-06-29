@@ -73,6 +73,8 @@
     <TextStringDefinition InstanceID="0xD9523B18" TextString="Check to allow Sims in sex to adapt to the animation roles requirements and disable automatic reassignment when swapped to opposite roles." />
     <TextStringDefinition InstanceID="0xA033CE1D" TextString="Sex Location Reservation" />
     <TextStringDefinition InstanceID="0x4711602F" TextString="Check to reserve objects used for sex. Reservation prevents Sims from using the objects while they are being used for sex." />
+    <TextStringDefinition InstanceID="0xD7F4F85B" TextString="Climax Sex Animations" />
+    <TextStringDefinition InstanceID="0x80E55031" TextString="Check to have a separate Climax sex category for Climax sex animations.\nUncheck to automatically bundle Climax sex animations into other sex categories." />
     <TextStringDefinition InstanceID="0xFFA256D8" TextString="Sex Animations Duration Override Settings" />
     <TextStringDefinition InstanceID="0x014E7511" TextString="Override of sex animations duration in realtime seconds." />
     <TextStringDefinition InstanceID="0xB641582F" TextString="Default Duration" />
@@ -121,7 +123,7 @@
     <TextStringDefinition InstanceID="0xE71734FF" TextString="Player Sims Joining Sex Autonomy" />
     <TextStringDefinition InstanceID="0x9A945F9B" TextString="Check to allow Player Sims to join to existing sex interactions." />
     <TextStringDefinition InstanceID="0x74BB4DB9" TextString="Relationship Awareness Switch" />
-    <TextStringDefinition InstanceID="0x3B09EBE1" TextString="Check for Sims to stay faithful to their partner and not have sex with others.\n\nThe 'Polyamorous' and 'Noncommittal' traits on Sims ignore this setting." />
+    <TextStringDefinition InstanceID="0x1A04B56C" TextString="Check for Sims to stay faithful to their partner and not have sex with others.\n\nThe 'Adulterer', 'Noncommittal' and 'Player' traits on Sims ignore this setting." />
     <TextStringDefinition InstanceID="0xF93747C7" TextString="NPC Pregnancy Awareness Switch" />
     <TextStringDefinition InstanceID="0xC53CE741" TextString="Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\n(only works with Menstrual Cycle Pregnancy Mode enabled)" />
     <TextStringDefinition InstanceID="0xF06E0D9D" TextString="Sex Locations Memory Switch" />
@@ -132,6 +134,8 @@
     <TextStringDefinition InstanceID="0x0FE568C6" TextString="Check for Sims to avoid attempting sex when children are on the lot.\nUncheck for Sims to attempt sex when children are on the lot." />
     <TextStringDefinition InstanceID="0xE0357740" TextString="Joining Sex Gender Compliance Switch" />
     <TextStringDefinition InstanceID="0x3582858A" TextString="Check for Sims to respect their own and participants gender preference when asking to join sex. (Decreases Joining Autonomy)\nUncheck for Sims to only match gender preference with any single participant when asking to join sex. (Increases Joining Autonomy)" />
+    <TextStringDefinition InstanceID="0xF519F23F" TextString="Joining Sex Relationship Compliance Switch" />
+    <TextStringDefinition InstanceID="0xB5FD395C" TextString="Check for joining Sim to account for their romantic relationship with all participants when asking to join sex or when invited to join sex. (Decreases Joining Autonomy)\nUncheck for joining Sim to only account for their romantic relationship with any single participant when asking to join sex. (Increases Joining Autonomy)" />
     <TextStringDefinition InstanceID="0xAB9438BE" TextString="Gender Specific Doors Switch" />
     <TextStringDefinition InstanceID="0x137B88A6" TextString="Check for Sims to respect doors gender specific lock.\nUncheck for Sims to be able to walk through gender specific locked doors." />
     <TextStringDefinition InstanceID="0x030E869E" TextString="Risk Roll Switch" />
@@ -220,6 +224,8 @@
     <TextStringDefinition InstanceID="0x46C03AEB" TextString="Check to enable 'Gender Recognition' interactions that allow to decide about individual Sims gender role." />
     <TextStringDefinition InstanceID="0x16F11D0D" TextString="Ignore Occult Genders Restrictions" />
     <TextStringDefinition InstanceID="0x05E05E62" TextString="Check to disable restrictions for animations that require specific occult to be available.\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)" />
+    <TextStringDefinition InstanceID="0xF4EED10D" TextString="Strict Dominant Sexual Orientation" />
+    <TextStringDefinition InstanceID="0xAD5A7579" TextString="Check to only display and use sex animations that strictly fit Sims dominant sexual orientation.\nUncheck to display and use all sex animations regardless of their dominant sexual orientation." />
     <TextStringDefinition InstanceID="0xB88A7BEE" TextString="STD Settings" />
     <TextStringDefinition InstanceID="0x1603CACF" TextString="Change STD related settings." />
     <TextStringDefinition InstanceID="0x3FC7DC0F" TextString="Crab Lice Switch" />
@@ -313,6 +319,8 @@
     <TextStringDefinition InstanceID="0x5D5C5DD5" TextString="Change birth control accuracy." />
     <TextStringDefinition InstanceID="0xD817F24C" TextString="Perfect Mode" />
     <TextStringDefinition InstanceID="0x7B9383F7" TextString="Select to make every birth control method prevent pregnancy with 100% success rate." />
+    <TextStringDefinition InstanceID="0x8B82E550" TextString="Unreliable Mode" />
+    <TextStringDefinition InstanceID="0x6AD4B017" TextString="Select to make every birth control method be unreliable at preventing pregnancy." />
     <TextStringDefinition InstanceID="0xAF0221B7" TextString="Realistic Mode" />
     <TextStringDefinition InstanceID="0x36A363E3" TextString="Select to make every birth control method have a realistic chance of failing to prevent pregnancy." />
     <TextStringDefinition InstanceID="0xADE28984" TextString="NPC Sims Birth Control Use Behavior" />
@@ -450,6 +458,26 @@
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
     <TextStringDefinition InstanceID="0x2B6E2038" TextString="Playlist..." />
     <TextStringDefinition InstanceID="0xCA6D3CD6" TextString="Playlist" />
+    <TextStringDefinition InstanceID="0xB3EAB2BF" TextString="---------- SEX SKILL ----------" />
+    <TextStringDefinition InstanceID="0x9E76EEDC" TextString="Sexpertise" />
+    <TextStringDefinition InstanceID="0x1E2935FB" TextString="As one begins their journey through the fields of Sim sexuality, they begin to see the subtle connections between each aspect of intimacy. The more time spent developing this skill, the more one is able to understand and adapt to their partner's sexual desires as well as furthering their proficiency at reading their signs.\n\nSexpertise skill is improved by analyzing the intricacies of Sim sexology via books, or more personal 'research'." />
+    <TextStringDefinition InstanceID="0xD4078523" TextString="Sexpertise Skill Acquired" />
+    <TextStringDefinition InstanceID="0xFD760D5E" TextString="{0.SimFirstName} has just begun {M0.his}{F0.her} passage into the world of carnal knowledge. As {M0.he}{F0.she} delves deeper inside the rabbit hole, {M0.he}{F0.she} will discover more intimate secrets along the way." />
+    <TextStringDefinition InstanceID="0x0ADF2232" TextString="Reached Sexpertise Level 2" />
+    <TextStringDefinition InstanceID="0x5908B171" TextString="{0.SimFirstName}'s knowledge in lovemaking grows rapidly, making satisfying other Sims' desires a piece of cake..." />
+    <TextStringDefinition InstanceID="0x99F584D5" TextString="Reached Sexpertise Level 3" />
+    <TextStringDefinition InstanceID="0xFFB06B7A" TextString="After hours spent gaining sexual experience {0.SimFirstName} is becoming more and more knowledgeable in the ability to please others sexually, making {M0.him}{F0.her} a better lover." />
+    <TextStringDefinition InstanceID="0x6BABF474" TextString="Reached Sexpertise Level 4" />
+    <TextStringDefinition InstanceID="0x4B078CED" TextString="Almost there! {0.SimFirstName}'s sexual horizons have expanded, making {M0.him}{F0.her} even more adept at all things intimate. Other Sims won't easily forget any sexual adventures they embark on together with {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x08347E9F" TextString="Reached Sexpertise Level 5" />
+    <TextStringDefinition InstanceID="0x37EEC75B" TextString="{0.SimFirstName} has reached sex mastery. {M0.He}{F0.She} is now able to notice and decipher the most elusive signs of the body language of {M0.his}{F0.her} partner and act accordingly, making each sexual encounter with {0.SimFirstName} almost a guaranteed good time." />
+    <TextStringDefinition InstanceID="0xA88518B3" TextString="Sexpertise Vol 1: The Love Makers Guide to the Intercourse" />
+    <TextStringDefinition InstanceID="0xC5B5633A" TextString="By: Bryan Creamer\n\nJoin the famous sex star Bryan Creamer as he cautiously and respectfully welcomes you to the adult world of lust, and very inappropriate desires in this acclaimed over 300-page bestseller, which has been used by Sims worldwide as both entertainment and basic 'A to Z' in sex for years." />
+    <TextStringDefinition InstanceID="0x84348580" TextString="Sexpertise Vol 2: Choose your own Sex Venture" />
+    <TextStringDefinition InstanceID="0x66A1E00D" TextString="By: Sex Gurus\n\nThis nifty book has everything a contemporary, sexually active Sim might need in their intimate life. We've asked sex gurus to share their life experiences and help the reader find a suitable sexual partner, as well as point out most of the red flags you should avoid while looking for a potential mate. All that and more to make sure everyone walks out of every intimate encounter satisfied and without regrets." />
+    <TextStringDefinition InstanceID="0x539973FD" TextString="Sexpertise Vol 3: Game of Moans" />
+    <TextStringDefinition InstanceID="0xD9730EB1" TextString="By: Sonny Jeans\n\nTraining gloves come off in this professional lovemaking guide. This book is directed at Sims who know what they're doing, what they're looking for, and are comfortable with themselves physically, mentally and - of course - sexually. Everything you need to know about giving and receiving sexual pleasure is contained within these over 400 pages of pure unadulterated knowledge." />
+    <TextStringDefinition InstanceID="0x55E11FF9" TextString="{0.SimFirstName}'s Sexpertise skill is not on an appropriate level to read this book." />
     <TextStringDefinition InstanceID="0x8BB9DD8F" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING SEX TEXT\\\&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0x456C0ACB" TextString=" Have Sex" />
@@ -512,15 +540,14 @@
     <TextStringDefinition InstanceID="0x360C3F6A" TextString="Pick a partner for sex or yourself for a solo interaction." />
     <TextStringDefinition InstanceID="0x2C915A14" TextString="Pick partners to invite for group sex." />
     <TextStringDefinition InstanceID="0x17393B7A" TextString="Pick Sims for sex." />
-    <TextStringDefinition InstanceID="0x68C45DE7" TextString="No Sims viable to perform {0.String} Sex at the picked sex location were found around {1.SimFirstName}." />
-    <TextStringDefinition InstanceID="0xC3FF35D7" TextString="No Sims viable to perform {0.String} Sex at the picked sex location were found around it." />
-    <TextStringDefinition InstanceID="0x9950FD1B" TextString="No Sims viable to join and perform {0.String} Sex at the current sex location were found around {1.SimFirstName}." />
-    <TextStringDefinition InstanceID="0x9295E113" TextString="No animations were found for the picked sex location!" />
-    <TextStringDefinition InstanceID="0x532E5844" TextString="No animations were found for the current sex location!" />
-    <TextStringDefinition InstanceID="0xA084FAC9" TextString="No animations were found for the selected Sims at the current sex location!" />
-    <TextStringDefinition InstanceID="0x1A6CB171" TextString="No {0.String} were found for more than the current number of Sims in the sex interaction!" />
-    <TextStringDefinition InstanceID="0xBA0AEF9F" TextString="No animations were found for more than the current number of Sims in the sex interaction!" />
-    <TextStringDefinition InstanceID="0xF183A57F" TextString="No compatible Sims to swap with were found in the sex interaction!" />
+    <TextStringDefinition InstanceID="0xA56CCFC8" TextString="Code #1\n\nCouldn't find appropriate Sims to perform {0.String} Sex at the picked sex location.\nPossible reasons:\n - No fitting Sims nearby.\n - Stuck Sims, try using the 'ww.fix' command." />
+    <TextStringDefinition InstanceID="0x32C1EF1C" TextString="Code #2\n\nCouldn't find appropriate NPC Sims to perform {0.String} Sex at the picked sex location.\nPossible reasons:\n - No fitting Sims nearby.\n - Stuck Sims, try using the 'ww.fix' command." />
+    <TextStringDefinition InstanceID="0xAE62DAF1" TextString="Code #3\n\nCouldn't find appropriate Sims to join {0.String} Sex at the current sex location.\nPossible reasons:\n - No fitting Sims nearby." />
+    <TextStringDefinition InstanceID="0xA41E479C" TextString="Code #8\n\nNo compatible Sims to swap with were found in the current sex interaction!" />
+    <TextStringDefinition InstanceID="0x67F8D61C" TextString="Code #4\n\nNo animations were found for the picked sex category and location!" />
+    <TextStringDefinition InstanceID="0x0396E3D3" TextString="Code #5\n\nNo animations were found for the picked sex category, location, and Sims!" />
+    <TextStringDefinition InstanceID="0x7F392A31" TextString="Code #6\n\nNo animations were found for the current location and Sims!" />
+    <TextStringDefinition InstanceID="0xEC895E18" TextString="Code #7\n\nNo animations were found for the selected Sims!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
     <TextStringDefinition InstanceID="0xB404E49E" TextString="Sex Animations Sorting Types" />
@@ -616,7 +643,7 @@
     <TextStringDefinition InstanceID="0x66CA9C71" TextString="Watching Sex" />
     <TextStringDefinition InstanceID="0xEDB578F0" TextString="{M0.Cuckold}{F0.Cuckquean}" />
     <TextStringDefinition InstanceID="0x48A55A2C" TextString="Cuckold" />
-    <TextStringDefinition InstanceID="0x61F9EF38" TextString="These Sims desire to see their partner have sex with someone else and don't consider it cheating." />
+    <TextStringDefinition InstanceID="0xE584164F" TextString="{M0.Cuckold}{F0.Cuckquean} Sims desire to see their partner have sex with someone else and don't consider it cheating." />
     <TextStringDefinition InstanceID="0x617321B6" TextString="---------- WATCHING PORN ----------" />
     <TextStringDefinition InstanceID="0x82C7B5B0" TextString="Watch Porn" />
     <TextStringDefinition InstanceID="0x991CA9C8" TextString="Sim just watched porn." />
@@ -626,34 +653,91 @@
     <TextStringDefinition InstanceID="0x921CF15F" TextString="Caught Masturbating" />
     <TextStringDefinition InstanceID="0x29E9BF97" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {0.SimFirstName}, {1.SimFirstName} could not keep control and the dam had to blow letting loose a deluge of satisfaction for {M0.his}{F0.her} eyes to see!" />
     <TextStringDefinition InstanceID="0x103C7921" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {1.SimFirstName}, the sudden appearance of another Sim meant that {M1.he}{F1.she} needed to keep it in {M1.his}{F1.her} pants. {0.SimFirstName} saw something they really didn't need or want to see and {1.SimFirstName} has been left embarrassed and unsatisfied." />
-    <TextStringDefinition InstanceID="0x69AF1DC2" TextString="---------- SEX SATISFACTION BUFFS ----------" />
-    <TextStringDefinition InstanceID="0xF184CFE7" TextString="(From Sex Satisfaction)" />
-    <TextStringDefinition InstanceID="0x963177EE" TextString="&lt;font color='#340658'&gt;Stranger&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x8FB869C2" TextString="Strangers always provide a wildcard to sex, but the touch of Sims unknown has left {0.SimFirstName} satisfied from {M0.his}{F0.her} moment of passion." />
-    <TextStringDefinition InstanceID="0xFBE57516" TextString="&lt;font color='#340658'&gt;Young Partner&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x1B56AC12" TextString="Wow, that was really something. Youth these days sure have a lot of energy and {0.SimFirstName} just loved watching that hot body move." />
-    <TextStringDefinition InstanceID="0xDDD51CA4" TextString="&lt;font color='#340658'&gt;Sex in Public&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xC0A580A9" TextString="{0.SimFirstName}'s mind is running at superspeed with the idea that they could have been caught whilst in the middle of their dirty deed." />
-    <TextStringDefinition InstanceID="0xD8003C3C" TextString="&lt;font color='#340658'&gt;Caught in the Act&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xE9205365" TextString="How Exciting! With all eyes on {0.SimFirstName} while they were having sex, {M0.he}{F0.she} couldn't help but feel even more aroused knowing that others were enjoying their show." />
-    <TextStringDefinition InstanceID="0x0C268999" TextString="&lt;font color='#340658'&gt;Marital Bliss&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xC82435DB" TextString="That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} spouse." />
-    <TextStringDefinition InstanceID="0x78F05982" TextString="&lt;font color='#340658'&gt;Paranormal Intercourse&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xA5703E09" TextString="After what can be described as a strange otherworldly encounter, {0.SimFirstName} can't help but feel full of life whilst being so close to death." />
-    <TextStringDefinition InstanceID="0xCE3E13D9" TextString="&lt;font color='#340658'&gt;Group Sex&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x5D919556" TextString="Amazing! Sex with several partners was just the sort of fun activity that {0.SimFirstName} needed." />
-    <TextStringDefinition InstanceID="0x48E2F4E8" TextString="&lt;font color='#340658'&gt;Satisfied&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x3B42528C" TextString="That was pretty good. {0.SimFirstName} enjoyed their sexual encounter and was able to finish it off satisfied." />
-    <TextStringDefinition InstanceID="0x01707906" TextString="&lt;font color='#340658'&gt;Bad Romance&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xDEE2D837" TextString="Seriously? {0.SimFirstName} thought that the sex would be magical but they were left unsatisfied. Did {M0.he}{F0.she} expect too much?" />
-    <TextStringDefinition InstanceID="0x875116E3" TextString="&lt;font color='#340658'&gt;Disqualified!&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x71CC5DBB" TextString="What even was that!? {0.SimFirstName} wants other Sims to really moan during sex but that was just anticlimactic... Was it because they weren't good enough?" />
-    <TextStringDefinition InstanceID="0x0B2BCD1B" TextString="&lt;font color='#340658'&gt;Unsatisfied&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xFFBDBF11" TextString="Well that was... something. {0.SimFirstName} was left unsatisfied and uncomfortable from the sex they just had." />
-    <TextStringDefinition InstanceID="0xA94BFAE8" TextString="New Sex Partner" />
-    <TextStringDefinition InstanceID="0x5E97BCEA" TextString="First time sex with a new Sim is always a memorable experience!" />
-    <TextStringDefinition InstanceID="0x697655C1" TextString="Sex Outdoors" />
-    <TextStringDefinition InstanceID="0xEDA29AC0" TextString="There's nothing like the thrill of sex outside. That was fun!" />
+    <TextStringDefinition InstanceID="0x52EE8454" TextString="---------- SEX SATISFACTION ----------" />
+    <TextStringDefinition InstanceID="0x3D4FEBAE" TextString="(From Satisfying Sex)" />
+    <TextStringDefinition InstanceID="0xFA6AF4FB" TextString="(From Unsatisfying Sex)" />
+    <TextStringDefinition InstanceID="0x7B5AC343" TextString="(From Satisfying Masturbation)" />
+    <TextStringDefinition InstanceID="0xB611D474" TextString="(From Unsatisfying Masturbation)" />
+    <TextStringDefinition InstanceID="0x1F8D20BD" TextString="&lt;font color='#340658'&gt;Oldie, but a Goldie&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB1DD492F" TextString="{0.SimFirstName} just had sex with an older Sim, and {M0.he}{F0.she} has to admit to {M0.him}{F0.her}self that despite their partner's age they seem to have a lot of experience in lovemaking." />
+    <TextStringDefinition InstanceID="0x9C95EFF2" TextString="&lt;font color='#340658'&gt;The Elder Fiasco&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x27CB2BFC" TextString="Such a huge age difference between {0.SimFirstName} and {M0.his}{F0.her} latest partner might've been exciting at first, but turned out to be a huge letdown." />
+    <TextStringDefinition InstanceID="0xA7B5CCB5" TextString="&lt;font color='#340658'&gt;Juvenile Passion&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC80D0A77" TextString="{0.SimFirstName}'s latest adventure with a much younger partner reminded {M0.him}{F0.her} of the times when {M0.he}{F0.she} was as full of energy as {M0.his}{F0.her} partner." />
+    <TextStringDefinition InstanceID="0xB8ED24FA" TextString="&lt;font color='#340658'&gt;Junior Discontent&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE219C4FF" TextString="Maybe {0.SimFirstName} should have suspected it, but {M0.his}{F0.her} recent sexual encounter with a younger Sim leaves {M0.him}{F0.her} unsatisfied, as their partner's lack of sexual experience became apparent." />
+    <TextStringDefinition InstanceID="0x1DD469FF" TextString="&lt;font color='#340658'&gt;Passionate Fling&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE844E1E1" TextString="What a rush! {0.SimFirstName} just had sex with a stranger, and they loved every second of it!" />
+    <TextStringDefinition InstanceID="0x7400BE17" TextString="&lt;font color='#340658'&gt;Stranger Danger&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7845121D" TextString="What a shameful letdown... {0.SimFirstName} just got down and dirty with a stranger, only to be left unsatisfied." />
+    <TextStringDefinition InstanceID="0x1BB76014" TextString="&lt;font color='#340658'&gt;Shooting for the Stars&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x70383B6A" TextString="OMG! As unbelievable as it is, and as hard it still is for {0.SimFirstName} to believe it, {M0.he}{F0.she} really just made sweet sweet love with an actual celebrity!" />
+    <TextStringDefinition InstanceID="0x022E159D" TextString="&lt;font color='#340658'&gt;Star-shook&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x14E3DE2A" TextString="Really? Were {0.SimFirstName}'s expectations simply too high, or was that encounter with a famous star really THAT bad?" />
+    <TextStringDefinition InstanceID="0x3BD0D5D0" TextString="&lt;font color='#340658'&gt;Multifunctional&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x911A76ED" TextString="Some Sims might not even think about having sex with a Servo. These Sims would be missing out though and {0.SimFirstName} is glad {M0.he}{F0.she}'s not as close-minded as some other individuals. The future is now!" />
+    <TextStringDefinition InstanceID="0x4BC49DCD" TextString="&lt;font color='#340658'&gt;Malfunctional&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x42DDE31B" TextString="That Servo definitely wasn't set to 'Max Satisfaction' setting, as it left {0.SimFirstName} sexually unfulfilled and with second thoughts about {M0.his}{F0.her} decision to think about using Servo for that purpose in the first place." />
+    <TextStringDefinition InstanceID="0x4AF87E60" TextString="&lt;font color='#340658'&gt;Ghost Buster&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCE666F5C" TextString="Getting freaky with a ghost would scare off some Sims, but {0.SimFirstName} took the opportunity and came... victorious." />
+    <TextStringDefinition InstanceID="0x9750F47A" TextString="&lt;font color='#340658'&gt;Ghastly Unsatisfying&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x984DDF2B" TextString="{0.SimFirstName} not only didn't find sex with a ghost satisfying, but {M0.he}{F0.she} also ended up feeling weird after that encounter." />
+    <TextStringDefinition InstanceID="0x5A19B890" TextString="&lt;font color='#340658'&gt;Group Activity&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x535EC225" TextString="What a thrill... {0.SimFirstName}'s latest sexual experience seems to prove that more Sims does indeed equal more fun." />
+    <TextStringDefinition InstanceID="0xEF3962CA" TextString="&lt;font color='#340658'&gt;Fifth Wheel&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x24A761D2" TextString="Having group sex seemed exciting, but in retrospect, {0.SimFirstName} should have thought of a possibility that the more Sims the harder it is to leave everyone pleased." />
+    <TextStringDefinition InstanceID="0x4652AE0E" TextString="&lt;font color='#340658'&gt;{F0.Belle of the Ball}{M0.Creme de la Creme}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x13FE3776" TextString="It certainly boosts one's self-esteem when {0.SimFirstName} feels like the center of attention, even when surrounded by other naked Sims." />
+    <TextStringDefinition InstanceID="0xB4AEA470" TextString="&lt;font color='#340658'&gt;Crowd Fun&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x2FAAB06A" TextString="Surrounding yourself with naked Sims whose sole purpose is to give pleasure to one another is a great way to boost one's mood." />
+    <TextStringDefinition InstanceID="0xC5E56385" TextString="&lt;font color='#340658'&gt;Quickie with a Hottie&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x02B0FC76" TextString="Whoa! Not only is {0.SimFirstName}'s latest partner a breathtakingly beautiful Sim, but they also appear to be a sex aficionado, leaving {0.SimFirstName} aching for more, while satisfying all of {M0.his}{F0.her} sexual desires completely." />
+    <TextStringDefinition InstanceID="0x45E3439D" TextString="&lt;font color='#340658'&gt;Deceptive Appearance&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7559FCF0" TextString="'Looks aren't everything' is the unfortunate lesson {0.SimFirstName} has learned after {M0.his}{F0.her} latest partner left {M0.him}{F0.her} unsatisfied, despite being as pretty as a picture." />
+    <TextStringDefinition InstanceID="0xFE34936D" TextString="&lt;font color='#340658'&gt;Unfounded Prejudice&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC50BD205" TextString="{0.SimFirstName} is left in awe after {M0.his}{F0.her} latest sexual partner gave {M0.him}{F0.her} so much pleasure despite not quite being {M0.his}{F0.her} type." />
+    <TextStringDefinition InstanceID="0xDA3346B8" TextString="&lt;font color='#340658'&gt;Against Better Judgement&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x6928D25E" TextString="{0.SimFirstName}'s latest partner not only wasn't exactly {M0.his}{F0.her} type, but they also turned out to be pretty awful at sex, leaving {0.SimFirstName} disappointed and unsatisfied." />
+    <TextStringDefinition InstanceID="0x74EC4894" TextString="&lt;font color='#340658'&gt;Arousing Stares&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x466203F4" TextString="Someone walked in on {0.SimFirstName} doing it with another Sim, which would be a buzzkill if {M0.he}{F0.she} was not comfortable with showing off {M0.his}{F0.her} body. In turn, it just made the whole thing much more exciting!" />
+    <TextStringDefinition InstanceID="0xF18DA0C3" TextString="&lt;font color='#340658'&gt;Piercing Stares&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x734357C8" TextString="Oh no... Someone walked in on {0.SimFirstName} having sex and totally killed the mood." />
+    <TextStringDefinition InstanceID="0x0D9FBF2B" TextString="&lt;font color='#340658'&gt;Do It Yourself Expert&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x68375022" TextString="Sometimes, taking matters into your own hands might be just what you need at that moment." />
+    <TextStringDefinition InstanceID="0x28F9FACD" TextString="&lt;font color='#340658'&gt;Spotless Mind&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEA1B0C92" TextString="{0.SimFirstName} worries not about the physical cravings of a polluted mind. {M0.His}{F0.Her} vision is clear, as {M0.he}{F0.she} rises above such primitive desires." />
+    <TextStringDefinition InstanceID="0x89B675C0" TextString="&lt;font color='#340658'&gt;DI-Why&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x01433DC3" TextString="Self-care should be relaxing, but maybe {0.SimFirstName} should try doing something else, and keep {M0.his}{F0.her} hands NOT to {M0.him}{F0.her}self." />
+    <TextStringDefinition InstanceID="0xB4EA0202" TextString="&lt;font color='#340658'&gt;Coordinated Handler&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x816CE8C4" TextString="With sexual tension out of {M0.his}{F0.her} system, no desires dirtying {M0.his}{F0.her} mind, {0.SimFirstName} is feeling like {M0.he}{F0.she} can move mountains." />
+    <TextStringDefinition InstanceID="0xB842179C" TextString="&lt;font color='#340658'&gt;Bloodlust&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA45F9121" TextString="The scent and look of blood really made {0.SimFirstName}'s latest sexual adventure worthwhile." />
+    <TextStringDefinition InstanceID="0xD91918F4" TextString="&lt;font color='#340658'&gt;Sexual Hive Mind&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x5410BA9C" TextString="When you surround yourself with like-minded Sims, there's a high chance you'll walk out of every 'encounter' very satisfied." />
+    <TextStringDefinition InstanceID="0x62E310EE" TextString="&lt;font color='#340658'&gt;Public Service&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x67ECBAD5" TextString="Possibility of anyone being able to walk in on {0.SimFirstName} and {M0.his}{F0.her} partner made that intimate encounter in a public place much more exciting." />
+    <TextStringDefinition InstanceID="0xDD0F4CCB" TextString="&lt;font color='#340658'&gt;Too Close for Comfort&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x56344812" TextString="{0.SimFirstName} risked a lot by 'doing it' in a public space, but was left unfulfilled and thinking it was definitely &lt;b&gt;not&lt;/b&gt; worth it..." />
+    <TextStringDefinition InstanceID="0x5EF2FC64" TextString="&lt;font color='#340658'&gt;Carnal Fun&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x407D863C" TextString="A little bit of naughty fun with a loved one, who knows and understands {0.SimFirstName}, is sure to lead to great experiences, and even better memories." />
+    <TextStringDefinition InstanceID="0xD4049428" TextString="&lt;font color='#340658'&gt;Tender Love and Care&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB4ADDFDA" TextString="For some Sims, sex is a purely selfish, physical act. Not for {0.SimFirstName} and {M0.his}{F0.her} partner, who form a deeper emotional connection every time they get intimate with each other, making one appreciate the other even more, as they satiate their desires together." />
+    <TextStringDefinition InstanceID="0x10872760" TextString="&lt;font color='#340658'&gt;More Than Sex&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEC104749" TextString="When you and your partner know each other bodies so well, you can be sure to walk out of each intimate adventure with a great mood and a pep in your step." />
+    <TextStringDefinition InstanceID="0x89E06726" TextString="&lt;font color='#340658'&gt;Sexual Equilibrium&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8FC76F2B" TextString="As bodies of {0.SimFirstName} and {M0.his}{F0.her} partner intertwined in a beautiful dance of love, they ceased to be individuals and became as one." />
+    <TextStringDefinition InstanceID="0xCCA00F81" TextString="&lt;font color='#340658'&gt;Two Hearts, One Body&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x4F4B593E" TextString="Some memories are worth cherishing, like the one {0.SimFirstName} just made with their loved one after their intense session of steamy lovemaking full of unbridled lust." />
+    <TextStringDefinition InstanceID="0x54792F4B" TextString="&lt;font color='#340658'&gt;Unsynchronized&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9F7ED22A" TextString="Even the best duos fall out of sync every now and again. Maybe it's an opportunity to talk about it, and make sure next time is going to be better?" />
+    <TextStringDefinition InstanceID="0x1AB6F826" TextString="&lt;font color='#340658'&gt;Satisfying Encounter&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x2FBC09FC" TextString="{0.SimFirstName}'s latest sexual encounter left {M0.him}{F0.her} feeling quite good." />
+    <TextStringDefinition InstanceID="0xA3B0F2FC" TextString="&lt;font color='#340658'&gt;Enjoyable Time&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDAE33238" TextString="{0.SimFirstName} made love with another Sim and enjoyed it thoroughly." />
+    <TextStringDefinition InstanceID="0x8EA950E6" TextString="&lt;font color='#340658'&gt;Instant Regret&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDAF014DD" TextString="That sexual encounter was both regrettable and forgettable." />
+    <TextStringDefinition InstanceID="0x9FFE1BBF" TextString="&lt;font color='#340658'&gt;A Bad Time&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x890CB1E8" TextString="That sex left {0.SimFirstName} simply disappointed." />
     <TextStringDefinition InstanceID="0xB78A0F30" TextString="---------- SEX REACTIONS ----------" />
     <TextStringDefinition InstanceID="0xC27C730F" TextString="Enable Sex Reactions" />
     <TextStringDefinition InstanceID="0x160AE154" TextString="Disable Sex Reactions" />
@@ -802,7 +886,7 @@
     <TextStringDefinition InstanceID="0x90246500" TextString="---------- CUM TRAITS ----------" />
     <TextStringDefinition InstanceID="0xD189794F" TextString="Cum Slut" />
     <TextStringDefinition InstanceID="0xBDEC4A74" TextString="Cum Slut" />
-    <TextStringDefinition InstanceID="0x1D528561" TextString="Cum Sluts love to receive hot loads of cum all over their body." />
+    <TextStringDefinition InstanceID="0xA9EA21AC" TextString="Cum Slut Sims love to receive hot loads of cum all over their body." />
     <TextStringDefinition InstanceID="0x84347ED1" TextString="---------- PREGNANCY GENERAL ----------" />
     <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
     <TextStringDefinition InstanceID="0x2B830EE5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
@@ -828,6 +912,9 @@
     <TextStringDefinition InstanceID="0x39EDCAB4" TextString="Miscarriage" />
     <TextStringDefinition InstanceID="0x0FC81BB5" TextString="{0.SimName} just lost a new life that never got a chance to become one." />
     <TextStringDefinition InstanceID="0xE6F6DD8B" TextString="---------- PREGNANCY FERTILITY ----------" />
+    <TextStringDefinition InstanceID="0x453FF523" TextString="Hypofertile" />
+    <TextStringDefinition InstanceID="0x7C86E484" TextString="Hypofertile" />
+    <TextStringDefinition InstanceID="0x1EA7F9D2" TextString="Sims with Hypofertility have significant difficulties conceiving a child.{M0.\n\nThis is known in the medical community as FBS (Feeble Balls Syndrome).}" />
     <TextStringDefinition InstanceID="0x1AFE12ED" TextString="Talk about Fertility" />
     <TextStringDefinition InstanceID="0x455EAAE0" TextString="Talk about Fertility with {1.SimFirstName}" />
     <TextStringDefinition InstanceID="0x8DF8A32A" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} is on {M1.his}{F1.her} period right now." />
@@ -854,6 +941,8 @@
     <TextStringDefinition InstanceID="0x2B6249AC" TextString="Condoms can only be used during sex." />
     <TextStringDefinition InstanceID="0xFC15B814" TextString="Allow Condoms Auto Use" />
     <TextStringDefinition InstanceID="0x2F349510" TextString="Disallow Condoms Auto Use" />
+    <TextStringDefinition InstanceID="0x18E60972" TextString="Take Off Condom" />
+    <TextStringDefinition InstanceID="0x444A4766" TextString="{0.SimFirstName} took {M0.his}{F0.her} condom off." />
     <TextStringDefinition InstanceID="0x90ADDE7E" TextString="Take Pill" />
     <TextStringDefinition InstanceID="0x8FC7D951" TextString="{0.SimFirstName} already took a birth control pill." />
     <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
