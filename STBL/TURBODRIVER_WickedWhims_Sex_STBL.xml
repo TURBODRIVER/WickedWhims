@@ -224,8 +224,8 @@
     <TextStringDefinition InstanceID="0x46C03AEB" TextString="Check to enable 'Gender Recognition' interactions that allow to decide about individual Sims gender role." />
     <TextStringDefinition InstanceID="0x16F11D0D" TextString="Ignore Occult Genders Restrictions" />
     <TextStringDefinition InstanceID="0x05E05E62" TextString="Check to disable restrictions for animations that require specific occult to be available.\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)" />
-    <TextStringDefinition InstanceID="0xF4EED10D" TextString="Strict Dominant Sexual Orientation" />
-    <TextStringDefinition InstanceID="0xAD5A7579" TextString="Check to only display and use sex animations that strictly fit Sims dominant sexual orientation.\nUncheck to display and use all sex animations regardless of their dominant sexual orientation." />
+    <TextStringDefinition InstanceID="0x43B34AD1" TextString="Fit Sex Animations To Sexual Orientation" />
+    <TextStringDefinition InstanceID="0x45A01B15" TextString="Check to display and use sex animations that fit sexual orientation of Sims in sex.\nUncheck to display and use all sex animations regardless of sexual orientation of Sims in sex." />
     <TextStringDefinition InstanceID="0xB88A7BEE" TextString="STD Settings" />
     <TextStringDefinition InstanceID="0x1603CACF" TextString="Change STD related settings." />
     <TextStringDefinition InstanceID="0x3FC7DC0F" TextString="Crab Lice Switch" />
@@ -347,6 +347,8 @@
     <TextStringDefinition InstanceID="0x872C46F4" TextString="Check to allow unborn offspring to be added to the family tree." />
     <TextStringDefinition InstanceID="0xA9E7B26F" TextString="Pregnancy Notifications" />
     <TextStringDefinition InstanceID="0xD4553434" TextString="Check to display extra pregnancy notifications." />
+    <TextStringDefinition InstanceID="0x7386B8EC" TextString="Native Pregnancy Override" />
+    <TextStringDefinition InstanceID="0x480521E6" TextString="Check to allow WickedWhims pregnancy functionality override WooHoo and Try For Baby interactions behavior.\nUncheck to keep WooHoo and Try For Baby interactions behavior unaltered by WickedWhims." />
     <TextStringDefinition InstanceID="0x8CAC249F" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0xB6B16360" TextString="Change all of the unrelated settings." />
     <TextStringDefinition InstanceID="0xD4E78AE0" TextString="Vanilla Interactions Switch" />
@@ -728,6 +730,8 @@
     <TextStringDefinition InstanceID="0x8FC76F2B" TextString="As bodies of {0.SimFirstName} and {M0.his}{F0.her} partner intertwined in a beautiful dance of love, they ceased to be individuals and became as one." />
     <TextStringDefinition InstanceID="0xCCA00F81" TextString="&lt;font color='#340658'&gt;Two Hearts, One Body&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x4F4B593E" TextString="Some memories are worth cherishing, like the one {0.SimFirstName} just made with their loved one after their intense session of steamy lovemaking full of unbridled lust." />
+    <TextStringDefinition InstanceID="0xAB313671" TextString="&lt;font color='#340658'&gt;Lover's Bliss&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0B17D4A4" TextString="That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} partner." />
     <TextStringDefinition InstanceID="0x54792F4B" TextString="&lt;font color='#340658'&gt;Unsynchronized&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x9F7ED22A" TextString="Even the best duos fall out of sync every now and again. Maybe it's an opportunity to talk about it, and make sure next time is going to be better?" />
     <TextStringDefinition InstanceID="0x1AB6F826" TextString="&lt;font color='#340658'&gt;Satisfying Encounter&lt;/font&gt;" />
