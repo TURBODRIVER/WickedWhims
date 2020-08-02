@@ -95,6 +95,12 @@
     <TextStringDefinition InstanceID="0xE9DE03BF" TextString="Unique Appearance" />
     <TextStringDefinition InstanceID="0x9DA91528" TextString="Unique Appearance" />
     <TextStringDefinition InstanceID="0xD53F7A47" TextString="Sims with Unique Appearance never blend in with the crowd, no matter how average they look." />
+    <TextStringDefinition InstanceID="0x5D7AE3C6" TextString="Shallow" />
+    <TextStringDefinition InstanceID="0x3603BC79" TextString="Shallow" />
+    <TextStringDefinition InstanceID="0x9428A07C" TextString="Shallow Sims only care about others looks and will agree to have sex with anybody who is at least Very Attractive." />
+    <TextStringDefinition InstanceID="0x2D2B98FD" TextString="Attractiveness Ambivalent" />
+    <TextStringDefinition InstanceID="0x5F2E7E7E" TextString="Attractiveness Ambivalent" />
+    <TextStringDefinition InstanceID="0xBC1FCCB7" TextString="Attractiveness Ambivalent Sims are not at all interested in others looks." />
     <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
     <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
     <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
@@ -169,20 +175,23 @@
     <TextStringDefinition InstanceID="0xB5A6AFE3" TextString="It's dreams like this that {0.SimFirstName} never wants to wake up from. In it there is but one focal point, one element that pervades all thoughts within {M0.his}{F0.her} mind and that is {1.SimName}.\n\nSuch a wondrous manifestation has {0.SimFirstName} utterly enthralled as {M0.he}{F0.she} abandons all other thoughts in order to contemplate {1.SimFirstName}'s every feature, every contour and nuance of {M1.his}{F1.her} body and every discernible detail that makes this breathtaking Sim unique. {0.SimFirstName} absolutely cherishes those factors and as the dream continues, they become more and more enraptured by this Sim that has stolen both {M0.his}{F0.her} mind and {M0.his}{F0.her} heart.\n\nIn the end, there is only one reason as to why they'd consider waking up, and that is the real {1.SimName} waiting for them on the other side." />
     <TextStringDefinition InstanceID="0xA8A76A74" TextString="Where is {0.SimName}?" />
     <TextStringDefinition InstanceID="0x57B90532" TextString="Attractiveness Hints" />
-    <TextStringDefinition InstanceID="0x77E108B1" TextString="After asking {1.SimName}, {0.SimFirstName} found them to be very forthcoming. According to them, they like Sims that have:\n" />
-    <TextStringDefinition InstanceID="0x9925EEDE" TextString="Well, that could have gone better. It sounds like {1.SimName} didn't appreciate {0.SimFirstName} asking for {M1.his}{F1.her} preferences. Though none of their likes were revealed, it wasn't a complete loss. {1.SimFirstName} briefly mentioned to {0.SimFirstName} that they have a strong disliking towards:\n" />
+    <TextStringDefinition InstanceID="0x71ACD5B0" TextString="Well, that could have gone better. It sounds like {1.SimName} didn't appreciate {0.SimFirstName} asking for {M1.his}{F1.her} preferences." />
     <TextStringDefinition InstanceID="0x9C1754A3" TextString="Following a few brief moments of silence, {1.SimName} expressed that {M1.he}{F1.she} doesn't have any noteworthy things to say that would satisfy {0.SimFirstName}. Perhaps {0.SimFirstName} is already attractive enough in the eyes of {1.SimFirstName}." />
-    <TextStringDefinition InstanceID="0xD06229A7" TextString="After asking {1.SimName}, {0.SimFirstName} found them to be unsurprisingly vocal about their particular aversions towards others. According to them, they dislike Sims that have:\n" />
-    <TextStringDefinition InstanceID="0xA881260C" TextString="Oops, that didn't go so well. It seems that {1.SimName} didn't appreciate {0.SimFirstName} asking for {M1.his}{F1.her} preferences. Even though this made things slightly awkward, {1.SimFirstName} in her flustered state briefly mentioned strongly disliking:\n" />
-    <TextStringDefinition InstanceID="0x4F51DD57" TextString="Following a few brief moments of silence, {1.SimName} expressed that {M1.he}{F1.she} doesn't have any noteworthy things to say. It could be that {M1.he}{F1.she} isn't so picky as some other Sims." />
-    <TextStringDefinition InstanceID="0x3D8A748E" TextString="{1.SimName} considers {0.SimFirstName}'s question for a moment, and then agrees to tell {M0.him}{F0.her} about the preferences of {2.SimName}. According to them {2.SimFirstName} likes:\n" />
-    <TextStringDefinition InstanceID="0x1E330C7B" TextString="After thinking about it for a moment {1.SimName} agreed to tell {0.SimFirstName} about features that {2.SimName} dislikes. From what {M1.he}{F1.she} understands, {2.SimFirstName} dislikes:\n" />
     <TextStringDefinition InstanceID="0xCDAB27C2" TextString="Well, that wasn't very useful at all. After asking {1.SimName} about {2.SimName} it was found that {M1.he}{F1.she} doesn't really know anything about {2.SimFirstName}'s preferences." />
     <TextStringDefinition InstanceID="0xA0AE2EC5" TextString="I'm not telling you anything about {2.SimName}." />
     <TextStringDefinition InstanceID="0x719F72D1" TextString="Attractiveness Scoping" />
     <TextStringDefinition InstanceID="0xEAC713CA" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} noticed one that sparked {M0.his}{F0.her} interest.\n\nSpot pulsating hearts to recognize attraction." />
     <TextStringDefinition InstanceID="0x2080E0CD" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} noticed a few that sparked {M0.his}{F0.her} interest.\n\nSpot pulsating hearts to recognize attraction." />
     <TextStringDefinition InstanceID="0x51CFA2C2" TextString="After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} hasn't noticed anybody interesting." />
+    <TextStringDefinition InstanceID="0x8413E2AF" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking &lt;b&gt;Very Unattractive&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0xD8E9FA2D" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking quite &lt;b&gt;Unattractive&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0x5F38B1EC" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s really &lt;b&gt;Basic Looking&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0x68A47FF4" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking quite &lt;b&gt;Attractive&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0x982CB932" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking &lt;b&gt;Very Attractive&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0xB48A244D" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking &lt;b&gt;Extremely Attractive&lt;/b&gt;, and so thinks the majority of the world." />
+    <TextStringDefinition InstanceID="0xACFFF7ED" TextString="&lt;i&gt;Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?&lt;/i&gt;\n\n{0.SimFirstName} looks into the mirror and it's... just {M0.him}{F0.her} looking back." />
+    <TextStringDefinition InstanceID="0x24150691" TextString="Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {M0.him}{F0.her} quite attractive, making {M0.him}{F0.her} wonder if {M0.he}{F0.she} has the right idea." />
+    <TextStringDefinition InstanceID="0xFC03A449" TextString="Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {M0.him}{F0.her} unattractive, making {M0.him}{F0.her} feel a little discouraged." />
     <TextStringDefinition InstanceID="0xD47B3999" TextString="--------- Attractiveness Visuals ---------" />
     <TextStringDefinition InstanceID="0x8131F000" TextString="Attractiveness" />
     <TextStringDefinition InstanceID="0x667A5114" TextString="{0.SimName} thinks {1.SimName} is Extremely Attractive." />
@@ -192,12 +201,11 @@
     <TextStringDefinition InstanceID="0xA4B9FD92" TextString="{0.SimName} thinks {1.SimName} is Unattractive." />
     <TextStringDefinition InstanceID="0x32B65B06" TextString="{0.SimName} thinks {1.SimName} is Very Unattractive." />
     <TextStringDefinition InstanceID="0x75EFDD27" TextString="--------- Attractiveness Interactions ---------" />
-    <TextStringDefinition InstanceID="0x25E6209B" TextString=" Ask about Attractiveness Likes" />
-    <TextStringDefinition InstanceID="0x667DEAFD" TextString=" Ask about Attractiveness Dislikes" />
+    <TextStringDefinition InstanceID="0xB2A6FED5" TextString=" Ask about Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0x17BA94BC" TextString="Who is {0.SimFirstName} interested in..." />
-    <TextStringDefinition InstanceID="0x34EBE77F" TextString=" Ask about Another Sim Attractiveness Likes" />
-    <TextStringDefinition InstanceID="0x312C67B1" TextString=" Ask about Another Sim Attractiveness Dislikes" />
+    <TextStringDefinition InstanceID="0x963819D9" TextString=" Ask about Another Sim Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0xA27DD8CB" TextString=" Scope the Surroundings" />
+    <TextStringDefinition InstanceID="0x090287BE" TextString=" Check Yourself Out" />
     <TextStringDefinition InstanceID="0xE875BEA7" TextString="--------- Attractiveness Traits ---------" />
     <TextStringDefinition InstanceID="0x8F24BB53" TextString="&lt;font color='#0CAB19'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x812C8432" TextString="&lt;font color='#1DCC2C'&gt;{0.String}&lt;/font&gt;\nOccurs in {1.String} of Sims.\nLiked by {2.String} of Sims." />
@@ -336,6 +344,7 @@
     <TextStringDefinition InstanceID="0x9ABE3C7E" TextString="Hats" />
     <TextStringDefinition InstanceID="0x5F3F9548" TextString="Glasses" />
     <TextStringDefinition InstanceID="0xBB691429" TextString="Jewelery" />
+    <TextStringDefinition InstanceID="0xB3FB8A2D" TextString="Piercing" />
     <TextStringDefinition InstanceID="0xD99B95F5" TextString="Makeup" />
     <TextStringDefinition InstanceID="0xC6E876B5" TextString="Very Revealing Outfits" />
     <TextStringDefinition InstanceID="0x40CDC481" TextString="Revealing Outfits" />
@@ -360,13 +369,363 @@
     <TextStringDefinition InstanceID="0xE0A826B8" TextString="Thin Thighs" />
     <TextStringDefinition InstanceID="0x8D57011C" TextString="Average Thighs" />
     <TextStringDefinition InstanceID="0xB3EC84DA" TextString="Thick Thighs" />
+    <TextStringDefinition InstanceID="0x6159F062" TextString="--------- Attractiveness Responses ---------" />
+    <TextStringDefinition InstanceID="0x7D1F4D8A" TextString="I dislike Humans." />
+    <TextStringDefinition InstanceID="0xA12BF640" TextString="{0.SimFirstName} dislikes Humans." />
+    <TextStringDefinition InstanceID="0xCEBE21DA" TextString="I dislike Vampires." />
+    <TextStringDefinition InstanceID="0x69194778" TextString="{0.SimFirstName} dislikes Vampires." />
+    <TextStringDefinition InstanceID="0xF5D0FFF6" TextString="I dislike Aliens." />
+    <TextStringDefinition InstanceID="0x5A6625DC" TextString="{0.SimFirstName} dislikes Aliens." />
+    <TextStringDefinition InstanceID="0xAE2ABAD2" TextString="I dislike Ghosts." />
+    <TextStringDefinition InstanceID="0xBA46B3D0" TextString="{0.SimFirstName} dislikes Ghosts." />
+    <TextStringDefinition InstanceID="0x42E411BA" TextString="I dislike PlantSims." />
+    <TextStringDefinition InstanceID="0xF27BB758" TextString="{0.SimFirstName} dislikes PlantSims." />
+    <TextStringDefinition InstanceID="0x4B0022FE" TextString="I dislike Mermaids." />
+    <TextStringDefinition InstanceID="0xAA4C0574" TextString="{0.SimFirstName} dislikes Mermaids." />
+    <TextStringDefinition InstanceID="0x2B3B9FA2" TextString="I dislike Spellcasters." />
+    <TextStringDefinition InstanceID="0x8B0D05D0" TextString="{0.SimFirstName} dislikes Spellcasters." />
+    <TextStringDefinition InstanceID="0x80F9D171" TextString="I dislike sweet-sounding voices." />
+    <TextStringDefinition InstanceID="0xC2C4EF9F" TextString="{0.SimFirstName} dislikes sweet-sounding voices." />
+    <TextStringDefinition InstanceID="0x95B775B3" TextString="I dislike melodic-sounding voices." />
+    <TextStringDefinition InstanceID="0x5C05F9D1" TextString="{0.SimFirstName} dislikes melodic-sounding voices." />
+    <TextStringDefinition InstanceID="0xC683D973" TextString="I dislike lilted-sounding voices." />
+    <TextStringDefinition InstanceID="0xED319849" TextString="{0.SimFirstName} dislikes lilted-sounding voices." />
+    <TextStringDefinition InstanceID="0x9E678E30" TextString="I dislike the clear-sounding voices." />
+    <TextStringDefinition InstanceID="0xC16227B6" TextString="{0.SimFirstName} dislikes the clear-sounding voices." />
+    <TextStringDefinition InstanceID="0x7C18D143" TextString="I dislike warm-sounding voices." />
+    <TextStringDefinition InstanceID="0x4F7AA1E1" TextString="{0.SimFirstName} dislikes warm-sounding voices." />
+    <TextStringDefinition InstanceID="0x8D7558B9" TextString="I dislike brash-sounding voices." />
+    <TextStringDefinition InstanceID="0x3F908B07" TextString="{0.SimFirstName} dislikes brash-sounding voices." />
+    <TextStringDefinition InstanceID="0xFD72C8AD" TextString="I like the color black." />
+    <TextStringDefinition InstanceID="0x1E78035F" TextString="I dislike the color black." />
+    <TextStringDefinition InstanceID="0x69AD02A1" TextString="{0.SimFirstName} likes the color black." />
+    <TextStringDefinition InstanceID="0x129B1125" TextString="{0.SimFirstName} dislikes the color black." />
+    <TextStringDefinition InstanceID="0xE4F437DD" TextString="I like the color gray." />
+    <TextStringDefinition InstanceID="0x5ED27EDF" TextString="I dislike the color gray." />
+    <TextStringDefinition InstanceID="0x104FE661" TextString="{0.SimFirstName} likes the color gray." />
+    <TextStringDefinition InstanceID="0xC58E1BB5" TextString="{0.SimFirstName} dislikes the color gray." />
+    <TextStringDefinition InstanceID="0x6E9A1123" TextString="I like the color blue." />
+    <TextStringDefinition InstanceID="0xB8788CF5" TextString="I dislike the color blue." />
+    <TextStringDefinition InstanceID="0x2EA1EE27" TextString="{0.SimFirstName} likes the color blue." />
+    <TextStringDefinition InstanceID="0xBBC706FB" TextString="{0.SimFirstName} dislikes the color blue." />
+    <TextStringDefinition InstanceID="0x1CB2082D" TextString="I like the color green." />
+    <TextStringDefinition InstanceID="0x8B6FFC6F" TextString="I dislike the color green." />
+    <TextStringDefinition InstanceID="0x2C8352D1" TextString="{0.SimFirstName} likes the color green." />
+    <TextStringDefinition InstanceID="0xE0A21AE5" TextString="{0.SimFirstName} dislikes the color green." />
+    <TextStringDefinition InstanceID="0x6738A037" TextString="I like the color yellow." />
+    <TextStringDefinition InstanceID="0x6695B011" TextString="I dislike the color yellow." />
+    <TextStringDefinition InstanceID="0xC48193BB" TextString="{0.SimFirstName} likes the color yellow." />
+    <TextStringDefinition InstanceID="0xDD0E10EF" TextString="{0.SimFirstName} dislikes the color yellow." />
+    <TextStringDefinition InstanceID="0xD7A06D2F" TextString="I like the color orange." />
+    <TextStringDefinition InstanceID="0xC1650E61" TextString="I dislike the color orange." />
+    <TextStringDefinition InstanceID="0x3464CA93" TextString="{0.SimFirstName} likes the color orange." />
+    <TextStringDefinition InstanceID="0x557603E7" TextString="{0.SimFirstName} dislikes the color orange." />
+    <TextStringDefinition InstanceID="0xEABAAAD5" TextString="I like the color brown." />
+    <TextStringDefinition InstanceID="0x65E3B587" TextString="I dislike the color brown." />
+    <TextStringDefinition InstanceID="0x934E0F99" TextString="{0.SimFirstName} likes the color brown." />
+    <TextStringDefinition InstanceID="0x48B052CD" TextString="{0.SimFirstName} dislikes the color brown." />
+    <TextStringDefinition InstanceID="0x249CF8D5" TextString="I like the color red." />
+    <TextStringDefinition InstanceID="0x43C520F7" TextString="I dislike the color red." />
+    <TextStringDefinition InstanceID="0xC72214E9" TextString="{0.SimFirstName} likes the color red." />
+    <TextStringDefinition InstanceID="0x7E78570D" TextString="{0.SimFirstName} dislikes the color red." />
+    <TextStringDefinition InstanceID="0x45163BB7" TextString="I like the color pink." />
+    <TextStringDefinition InstanceID="0xFBC391A9" TextString="I dislike the color pink." />
+    <TextStringDefinition InstanceID="0x870EC9FB" TextString="{0.SimFirstName} likes the color pink." />
+    <TextStringDefinition InstanceID="0x95C2354F" TextString="{0.SimFirstName} dislikes the color pink." />
+    <TextStringDefinition InstanceID="0x127FE5EB" TextString="I like the color purple." />
+    <TextStringDefinition InstanceID="0x20F1B715" TextString="I dislike the color purple." />
+    <TextStringDefinition InstanceID="0xB3E484AF" TextString="{0.SimFirstName} likes the color purple." />
+    <TextStringDefinition InstanceID="0x214C7DA3" TextString="{0.SimFirstName} dislikes the color purple." />
+    <TextStringDefinition InstanceID="0xA5258405" TextString="I like the color white." />
+    <TextStringDefinition InstanceID="0xC810FC0F" TextString="I dislike the color white." />
+    <TextStringDefinition InstanceID="0x9A1E1A79" TextString="{0.SimFirstName} likes the color white." />
+    <TextStringDefinition InstanceID="0x677DD17D" TextString="{0.SimFirstName} dislikes the color white." />
+    <TextStringDefinition InstanceID="0x1677E931" TextString="I like the black hair color." />
+    <TextStringDefinition InstanceID="0xB5C149D7" TextString="I dislike the black hair color." />
+    <TextStringDefinition InstanceID="0x58E54F45" TextString="{0.SimFirstName} likes the black hair color." />
+    <TextStringDefinition InstanceID="0x119BC419" TextString="{0.SimFirstName} dislikes the black hair color." />
+    <TextStringDefinition InstanceID="0xD63AA0B9" TextString="I like the salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0x0ACD9777" TextString="I dislike the salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0xFE27D2FD" TextString="{0.SimFirstName} likes the salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0x9C513651" TextString="{0.SimFirstName} dislikes the salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0xB2C8808F" TextString="I like the gray hair color." />
+    <TextStringDefinition InstanceID="0xF51C47C5" TextString="I dislike the gray hair color." />
+    <TextStringDefinition InstanceID="0x212CD603" TextString="{0.SimFirstName} likes the gray hair color." />
+    <TextStringDefinition InstanceID="0x968D6777" TextString="{0.SimFirstName} dislikes the gray hair color." />
+    <TextStringDefinition InstanceID="0xD8DF55C1" TextString="I like the platinum hair color." />
+    <TextStringDefinition InstanceID="0x8D455FBF" TextString="I dislike the platinum hair color." />
+    <TextStringDefinition InstanceID="0x5DD09145" TextString="{0.SimFirstName} likes the platinum hair color." />
+    <TextStringDefinition InstanceID="0xD1B29FA9" TextString="{0.SimFirstName} dislikes the platinum hair color." />
+    <TextStringDefinition InstanceID="0xE5224046" TextString="I like the dark blue hair color." />
+    <TextStringDefinition InstanceID="0x2BC24070" TextString="I dislike the dark blue hair color." />
+    <TextStringDefinition InstanceID="0x4CCAA4B2" TextString="{0.SimFirstName} likes the dark blue hair color." />
+    <TextStringDefinition InstanceID="0xCBCC8DFE" TextString="{0.SimFirstName} dislikes the dark blue hair color." />
+    <TextStringDefinition InstanceID="0x246CC195" TextString="I like the turquoise hair color." />
+    <TextStringDefinition InstanceID="0xD9AA4223" TextString="I dislike the turquoise hair color." />
+    <TextStringDefinition InstanceID="0xAEF911B9" TextString="{0.SimFirstName} likes the turquoise hair color." />
+    <TextStringDefinition InstanceID="0x6D299D5D" TextString="{0.SimFirstName} dislikes the turquoise hair color." />
+    <TextStringDefinition InstanceID="0xF8FA9E01" TextString="I like the green hair color." />
+    <TextStringDefinition InstanceID="0x5C72E2BF" TextString="I dislike the green hair color." />
+    <TextStringDefinition InstanceID="0x7DBFC1A5" TextString="{0.SimFirstName} likes the green hair color." />
+    <TextStringDefinition InstanceID="0x08BEA9E9" TextString="{0.SimFirstName} dislikes the green hair color." />
+    <TextStringDefinition InstanceID="0xEE87A879" TextString="I like the blonde hair color." />
+    <TextStringDefinition InstanceID="0xE5FEB037" TextString="I dislike the blonde hair color." />
+    <TextStringDefinition InstanceID="0xAC02DF4D" TextString="{0.SimFirstName} likes the blonde hair color." />
+    <TextStringDefinition InstanceID="0x5EE3F061" TextString="{0.SimFirstName} dislikes the blonde hair color." />
+    <TextStringDefinition InstanceID="0xB0C0041E" TextString="I like the dirty blonde hair color." />
+    <TextStringDefinition InstanceID="0xC5EF1AD8" TextString="I dislike the dirty blonde hair color." />
+    <TextStringDefinition InstanceID="0x2D59CD8A" TextString="{0.SimFirstName} likes the dirty blonde hair color." />
+    <TextStringDefinition InstanceID="0xA117BC16" TextString="{0.SimFirstName} dislikes the dirty blonde hair color." />
+    <TextStringDefinition InstanceID="0x7F0A1FB5" TextString="I like the orange hair color." />
+    <TextStringDefinition InstanceID="0x12043D43" TextString="I dislike the orange hair color." />
+    <TextStringDefinition InstanceID="0xB37498B9" TextString="{0.SimFirstName} likes the orange hair color." />
+    <TextStringDefinition InstanceID="0xE0976F9D" TextString="{0.SimFirstName} dislikes the orange hair color." />
+    <TextStringDefinition InstanceID="0x5F9FCF5D" TextString="I like the brown hair color." />
+    <TextStringDefinition InstanceID="0x25FF098B" TextString="I dislike the brown hair color." />
+    <TextStringDefinition InstanceID="0xA69AD401" TextString="{0.SimFirstName} likes the brown hair color." />
+    <TextStringDefinition InstanceID="0xCD54CC25" TextString="{0.SimFirstName} dislikes the brown hair color." />
+    <TextStringDefinition InstanceID="0x7BD89B60" TextString="I like the dark brown hair color." />
+    <TextStringDefinition InstanceID="0x9A580EB2" TextString="I dislike the dark brown hair color." />
+    <TextStringDefinition InstanceID="0x772E241C" TextString="{0.SimFirstName} likes the dark brown hair color." />
+    <TextStringDefinition InstanceID="0x03FC5198" TextString="{0.SimFirstName} dislikes the dark brown hair color." />
+    <TextStringDefinition InstanceID="0x5B0BF0BC" TextString="I like the brown salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0x101C0416" TextString="I dislike the brown salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0xB7E15F28" TextString="{0.SimFirstName} likes the brown salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0x83352434" TextString="{0.SimFirstName} dislikes the brown salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0xE7F338DB" TextString="I like the auburn hair color." />
+    <TextStringDefinition InstanceID="0x4DED09D1" TextString="I dislike the auburn hair color." />
+    <TextStringDefinition InstanceID="0x805AD70F" TextString="{0.SimFirstName} likes the auburn hair color." />
+    <TextStringDefinition InstanceID="0xB39B8CE3" TextString="{0.SimFirstName} dislikes the auburn hair color." />
+    <TextStringDefinition InstanceID="0x2CEE75CD" TextString="I like the red hair color." />
+    <TextStringDefinition InstanceID="0x23A49BC3" TextString="I dislike the red hair color." />
+    <TextStringDefinition InstanceID="0x26AAE4F1" TextString="{0.SimFirstName} likes the red hair color." />
+    <TextStringDefinition InstanceID="0x55AC3C35" TextString="{0.SimFirstName} dislikes the red hair color." />
+    <TextStringDefinition InstanceID="0x7073C575" TextString="I like the pink hair color." />
+    <TextStringDefinition InstanceID="0xED60196B" TextString="I dislike the pink hair color." />
+    <TextStringDefinition InstanceID="0x55691B11" TextString="{0.SimFirstName} likes the pink hair color." />
+    <TextStringDefinition InstanceID="0xDE83BBCD" TextString="{0.SimFirstName} dislikes the pink hair color." />
+    <TextStringDefinition InstanceID="0x534048E3" TextString="I like the purple hair color." />
+    <TextStringDefinition InstanceID="0x8F3EF5BD" TextString="I dislike the purple hair color." />
+    <TextStringDefinition InstanceID="0x92F0E05F" TextString="{0.SimFirstName} likes the purple hair color." />
+    <TextStringDefinition InstanceID="0x8C5F1A3B" TextString="{0.SimFirstName} dislikes the purple hair color." />
+    <TextStringDefinition InstanceID="0x6D16BAFD" TextString="I like the white hair color." />
+    <TextStringDefinition InstanceID="0xDD151953" TextString="I dislike the white hair color." />
+    <TextStringDefinition InstanceID="0xE1D604D1" TextString="{0.SimFirstName} likes the white hair color." />
+    <TextStringDefinition InstanceID="0x699226C5" TextString="{0.SimFirstName} dislikes the white hair color." />
+    <TextStringDefinition InstanceID="0x645D7F8E" TextString="I like good looking teeth." />
+    <TextStringDefinition InstanceID="0xAFE6FA7C" TextString="I dislike good looking teeth." />
+    <TextStringDefinition InstanceID="0xC9A80402" TextString="{0.SimFirstName} likes good looking teeth." />
+    <TextStringDefinition InstanceID="0x81A90936" TextString="{0.SimFirstName} dislikes good looking teeth." />
+    <TextStringDefinition InstanceID="0x662BE490" TextString="I like bad looking teeth." />
+    <TextStringDefinition InstanceID="0xBAFA250E" TextString="I dislike bad looking teeth." />
+    <TextStringDefinition InstanceID="0x9FB99284" TextString="{0.SimFirstName} likes bad looking teeth." />
+    <TextStringDefinition InstanceID="0xA29DD618" TextString="{0.SimFirstName} dislikes bad looking teeth." />
+    <TextStringDefinition InstanceID="0xE990C682" TextString="I dislike freckles." />
+    <TextStringDefinition InstanceID="0x5ADAADC0" TextString="{0.SimFirstName} dislikes freckles." />
+    <TextStringDefinition InstanceID="0xA2285802" TextString="I like tattoos." />
+    <TextStringDefinition InstanceID="0xEC6DD890" TextString="I dislike tattoos." />
+    <TextStringDefinition InstanceID="0xE33C444E" TextString="{0.SimFirstName} likes tattoos." />
+    <TextStringDefinition InstanceID="0x1C63891A" TextString="{0.SimFirstName} dislikes tattoos." />
+    <TextStringDefinition InstanceID="0x36F5FC77" TextString="I like bald {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0xBE922AA1" TextString="I dislike bald {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x45D1DC8B" TextString="{0.SimFirstName} likes bald {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x801E83AF" TextString="{0.SimFirstName} dislikes bald {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x008DB088" TextString="I like short hair." />
+    <TextStringDefinition InstanceID="0x10812CA2" TextString="I dislike short hair." />
+    <TextStringDefinition InstanceID="0x3BCA47EC" TextString="{0.SimFirstName} likes short hair." />
+    <TextStringDefinition InstanceID="0x7370BF60" TextString="{0.SimFirstName} dislikes short hair." />
+    <TextStringDefinition InstanceID="0x4E97E0AA" TextString="I like medium length hair." />
+    <TextStringDefinition InstanceID="0x3CCA8798" TextString="I dislike medium length hair." />
+    <TextStringDefinition InstanceID="0x5E07D6CE" TextString="{0.SimFirstName} likes medium length hair." />
+    <TextStringDefinition InstanceID="0x3A633FC2" TextString="{0.SimFirstName} dislikes medium length hair." />
+    <TextStringDefinition InstanceID="0xDEE61988" TextString="I like long hair." />
+    <TextStringDefinition InstanceID="0x2E820FEA" TextString="I dislike long hair." />
+    <TextStringDefinition InstanceID="0x7A928EAC" TextString="{0.SimFirstName} likes long hair." />
+    <TextStringDefinition InstanceID="0x2B69E6A0" TextString="{0.SimFirstName} dislikes long hair." />
+    <TextStringDefinition InstanceID="0x68531265" TextString="I like straight hair." />
+    <TextStringDefinition InstanceID="0xD099491F" TextString="I dislike straight hair." />
+    <TextStringDefinition InstanceID="0x539D74C1" TextString="{0.SimFirstName} likes straight hair." />
+    <TextStringDefinition InstanceID="0x3233B10D" TextString="{0.SimFirstName} dislikes straight hair." />
+    <TextStringDefinition InstanceID="0xBA041F97" TextString="I like wavy hair." />
+    <TextStringDefinition InstanceID="0x236BD901" TextString="I dislike wavy hair." />
+    <TextStringDefinition InstanceID="0xC21BBF63" TextString="{0.SimFirstName} likes wavy hair." />
+    <TextStringDefinition InstanceID="0xDDD1E49F" TextString="{0.SimFirstName} dislikes wavy hair." />
+    <TextStringDefinition InstanceID="0x4920B37B" TextString="I like curly hair." />
+    <TextStringDefinition InstanceID="0x4248E35D" TextString="I dislike curly hair." />
+    <TextStringDefinition InstanceID="0x22244D07" TextString="{0.SimFirstName} likes curly hair." />
+    <TextStringDefinition InstanceID="0xC81FCB63" TextString="{0.SimFirstName} dislikes curly hair." />
+    <TextStringDefinition InstanceID="0xFB60111E" TextString="I like a clean-shaven face." />
+    <TextStringDefinition InstanceID="0xAAE8C8A4" TextString="I dislike a clean-shaven face." />
+    <TextStringDefinition InstanceID="0x01F8E0E2" TextString="{0.SimFirstName} likes a clean-shaven face." />
+    <TextStringDefinition InstanceID="0x381177C6" TextString="{0.SimFirstName} dislikes a clean-shaven face." />
+    <TextStringDefinition InstanceID="0xAEC505DB" TextString="I like beards." />
+    <TextStringDefinition InstanceID="0x7E830015" TextString="I dislike beards." />
+    <TextStringDefinition InstanceID="0xFD6B9F67" TextString="{0.SimFirstName} likes beards." />
+    <TextStringDefinition InstanceID="0x7418CAE3" TextString="{0.SimFirstName} dislikes beards." />
+    <TextStringDefinition InstanceID="0xA1509705" TextString="I like goatees." />
+    <TextStringDefinition InstanceID="0x1822A9AF" TextString="I dislike goatees." />
+    <TextStringDefinition InstanceID="0xE189BD41" TextString="{0.SimFirstName} likes goatees." />
+    <TextStringDefinition InstanceID="0xFF98FE8D" TextString="{0.SimFirstName} dislikes goatees." />
+    <TextStringDefinition InstanceID="0x76449E29" TextString="I like mustaches." />
+    <TextStringDefinition InstanceID="0x40C00CFB" TextString="I dislike mustaches." />
+    <TextStringDefinition InstanceID="0xB137BD15" TextString="{0.SimFirstName} likes mustaches." />
+    <TextStringDefinition InstanceID="0x9E717591" TextString="{0.SimFirstName} dislikes mustaches." />
+    <TextStringDefinition InstanceID="0x3F2964DA" TextString="I like generic-looking outfits." />
+    <TextStringDefinition InstanceID="0xEBF33A00" TextString="I dislike generic-looking outfits." />
+    <TextStringDefinition InstanceID="0xFFF0737E" TextString="{0.SimFirstName} likes generic-looking outfits." />
+    <TextStringDefinition InstanceID="0xC3411572" TextString="{0.SimFirstName} dislikes generic-looking outfits." />
+    <TextStringDefinition InstanceID="0x19EE5BC3" TextString="I like goth, rocker, or punk looking outfits." />
+    <TextStringDefinition InstanceID="0xE17A50E6" TextString="I dislike goth, rocker, or punk looking outfits." />
+    <TextStringDefinition InstanceID="0x2D3EA067" TextString="{0.SimFirstName} likes goth, rocker, or punk looking outfits." />
+    <TextStringDefinition InstanceID="0x6A69604B" TextString="{0.SimFirstName} dislikes goth, rocker, or punk looking outfits." />
+    <TextStringDefinition InstanceID="0x7553D840" TextString="I like country-looking outfits." />
+    <TextStringDefinition InstanceID="0x3B9097FE" TextString="I dislike country-looking outfits." />
+    <TextStringDefinition InstanceID="0xA973C3A4" TextString="{0.SimFirstName} likes country-looking outfits." />
+    <TextStringDefinition InstanceID="0x9CCB70B8" TextString="{0.SimFirstName} dislikes country-looking outfits." />
+    <TextStringDefinition InstanceID="0x6121F826" TextString="I like hipster-looking outfits." />
+    <TextStringDefinition InstanceID="0xB7DC9E4C" TextString="I dislike hipster-looking outfits." />
+    <TextStringDefinition InstanceID="0x823BF44A" TextString="{0.SimFirstName} likes hipster-looking outfits." />
+    <TextStringDefinition InstanceID="0x402C5BFE" TextString="{0.SimFirstName} dislikes hipster-looking outfits." />
+    <TextStringDefinition InstanceID="0xF1108CA0" TextString="I like bohemian-looking outfits." />
+    <TextStringDefinition InstanceID="0xAF14680E" TextString="I dislike bohemian-looking outfits." />
+    <TextStringDefinition InstanceID="0x36038154" TextString="{0.SimFirstName} likes bohemian-looking outfits." />
+    <TextStringDefinition InstanceID="0x8EE2CFF8" TextString="{0.SimFirstName} dislikes bohemian-looking outfits." />
+    <TextStringDefinition InstanceID="0x4BD44568" TextString="I like islander-looking outfits." />
+    <TextStringDefinition InstanceID="0x85FB519E" TextString="I dislike islander-looking outfits." />
+    <TextStringDefinition InstanceID="0x281CCF6C" TextString="{0.SimFirstName} likes islander-looking outfits." />
+    <TextStringDefinition InstanceID="0xF4A9E740" TextString="{0.SimFirstName} dislikes islander-looking outfits." />
+    <TextStringDefinition InstanceID="0xF6570A38" TextString="I like {M1.men}{F1.women} with hats." />
+    <TextStringDefinition InstanceID="0x34ECF8FE" TextString="I dislike {M1.men}{F1.women} with hats." />
+    <TextStringDefinition InstanceID="0x8EB8759C" TextString="{0.SimFirstName} likes {M1.men}{F1.women} with hats." />
+    <TextStringDefinition InstanceID="0xD5FA5740" TextString="{0.SimFirstName} dislikes {M1.men}{F1.women} with hats." />
+    <TextStringDefinition InstanceID="0xE0751710" TextString="I like {M1.men}{F1.women} wearing glasses." />
+    <TextStringDefinition InstanceID="0x06D504CE" TextString="I dislike {M1.men}{F1.women} wearing glasses." />
+    <TextStringDefinition InstanceID="0xB8226534" TextString="{0.SimFirstName} likes {M1.men}{F1.women} wearing glasses." />
+    <TextStringDefinition InstanceID="0xD9212918" TextString="{0.SimFirstName} dislikes {M1.men}{F1.women} wearing glasses." />
+    <TextStringDefinition InstanceID="0x17A9C7D9" TextString="I like shiny jewelery." />
+    <TextStringDefinition InstanceID="0xC8F54818" TextString="I dislike jewelery." />
+    <TextStringDefinition InstanceID="0x66E95C6D" TextString="{0.SimFirstName} likes shiny jewelery." />
+    <TextStringDefinition InstanceID="0xB5D33EB2" TextString="{0.SimFirstName} dislikes jewelery." />
+    <TextStringDefinition InstanceID="0x36E625BA" TextString="I like body piercing." />
+    <TextStringDefinition InstanceID="0x0BDD47A4" TextString="I dislike body piercing." />
+    <TextStringDefinition InstanceID="0x7186D42E" TextString="{0.SimFirstName} likes body piercing." />
+    <TextStringDefinition InstanceID="0xA6B67202" TextString="{0.SimFirstName} dislikes body piercing." />
+    <TextStringDefinition InstanceID="0xE0D49D3A" TextString="I like good looking makeup." />
+    <TextStringDefinition InstanceID="0x189A13C5" TextString="I dislike {M1.men}{F1.women} with makeup." />
+    <TextStringDefinition InstanceID="0xA1194C56" TextString="{0.SimFirstName} likes good looking makeup." />
+    <TextStringDefinition InstanceID="0x0FE982BF" TextString="{0.SimFirstName} dislikes {M1.men}{F1.women} with makeup." />
+    <TextStringDefinition InstanceID="0xB0DD589E" TextString="I like very revealing outfits." />
+    <TextStringDefinition InstanceID="0x42C34D68" TextString="I dislike very revealing outfits." />
+    <TextStringDefinition InstanceID="0xA4AA0CC2" TextString="{0.SimFirstName} likes very revealing outfits." />
+    <TextStringDefinition InstanceID="0xF76B7B36" TextString="{0.SimFirstName} dislikes very revealing outfits." />
+    <TextStringDefinition InstanceID="0xB169E9D0" TextString="I like revealing outfits." />
+    <TextStringDefinition InstanceID="0x0C617C36" TextString="I dislike revealing outfits." />
+    <TextStringDefinition InstanceID="0x2D893584" TextString="{0.SimFirstName} likes revealing outfits." />
+    <TextStringDefinition InstanceID="0x7A5631E8" TextString="{0.SimFirstName} dislikes revealing outfits." />
+    <TextStringDefinition InstanceID="0x7E117383" TextString="I like formal outfits." />
+    <TextStringDefinition InstanceID="0x0BA03B9D" TextString="I dislike formal outfits." />
+    <TextStringDefinition InstanceID="0x4CE4FBE7" TextString="{0.SimFirstName} likes formal outfits." />
+    <TextStringDefinition InstanceID="0x2303358B" TextString="{0.SimFirstName} dislikes formal outfits." />
+    <TextStringDefinition InstanceID="0x88CFD79F" TextString="I like elegant outfits." />
+    <TextStringDefinition InstanceID="0x5DD16431" TextString="I dislike elegant outfits." />
+    <TextStringDefinition InstanceID="0x7891A413" TextString="{0.SimFirstName} likes elegant outfits." />
+    <TextStringDefinition InstanceID="0xC76603A7" TextString="{0.SimFirstName} dislikes elegant outfits." />
+    <TextStringDefinition InstanceID="0xBC142B5B" TextString="I like casual outfits." />
+    <TextStringDefinition InstanceID="0xA8D106D5" TextString="I dislike casual outfits." />
+    <TextStringDefinition InstanceID="0x0C12AA7F" TextString="{0.SimFirstName} likes casual outfits." />
+    <TextStringDefinition InstanceID="0x26F1AC63" TextString="{0.SimFirstName} dislikes casual outfits." />
+    <TextStringDefinition InstanceID="0x5F4F5600" TextString="I like a slender-looking body." />
+    <TextStringDefinition InstanceID="0x0B46BA36" TextString="I dislike a slender-looking body." />
+    <TextStringDefinition InstanceID="0x724759AC" TextString="{0.SimFirstName} likes a slender-looking body." />
+    <TextStringDefinition InstanceID="0x4CA4BF28" TextString="{0.SimFirstName} dislikes a slender-looking body." />
+    <TextStringDefinition InstanceID="0x39BB8B67" TextString="I like {M1.men}{F1.women} with average body weight." />
+    <TextStringDefinition InstanceID="0xB72B4DA5" TextString="I dislike {M1.men}{F1.women} with average body weight." />
+    <TextStringDefinition InstanceID="0x28CB245B" TextString="{0.SimFirstName} likes {M1.men}{F1.women} with average body weight." />
+    <TextStringDefinition InstanceID="0x5DF5885F" TextString="{0.SimFirstName} dislikes {M1.men}{F1.women} with average body weight." />
+    <TextStringDefinition InstanceID="0x72ED037F" TextString="I like heavy {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x6DA75DC5" TextString="I dislike heavy {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0xDE3949FB" TextString="{0.SimFirstName} likes heavy {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0xB62B4887" TextString="{0.SimFirstName} dislikes heavy {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0xF7D725BE" TextString="I like a lean-looking body." />
+    <TextStringDefinition InstanceID="0xE8A0408C" TextString="I dislike a lean-looking body." />
+    <TextStringDefinition InstanceID="0x3689E342" TextString="{0.SimFirstName} likes a lean-looking body." />
+    <TextStringDefinition InstanceID="0x1B06EF06" TextString="{0.SimFirstName} dislikes a lean-looking body." />
+    <TextStringDefinition InstanceID="0xB0FFC619" TextString="I like {M1.men}{F1.women} with average body muscle mass." />
+    <TextStringDefinition InstanceID="0x75CAF5FB" TextString="I dislike {M1.men}{F1.women} with average body muscle mass." />
+    <TextStringDefinition InstanceID="0x0185A57D" TextString="{0.SimFirstName} likes {M1.men}{F1.women} with average body muscle mass." />
+    <TextStringDefinition InstanceID="0x8BAABBF1" TextString="{0.SimFirstName} dislikes {M1.men}{F1.women} with average body muscle mass." />
+    <TextStringDefinition InstanceID="0xA9931172" TextString="I like muscular {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0xE53BD3B0" TextString="I dislike muscular {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x0966F1A6" TextString="{0.SimFirstName} likes muscular {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x484D0B4A" TextString="{0.SimFirstName} dislikes muscular {M1.men}{F1.women}." />
+    <TextStringDefinition InstanceID="0x54204BAE" TextString="I like small breasts." />
+    <TextStringDefinition InstanceID="0x71D25188" TextString="I dislike small breasts." />
+    <TextStringDefinition InstanceID="0xF856C1D2" TextString="{0.SimFirstName} likes small breasts." />
+    <TextStringDefinition InstanceID="0x9AEE7F76" TextString="{0.SimFirstName} dislikes small breasts." />
+    <TextStringDefinition InstanceID="0x0A2AEB8C" TextString="I like average-sized breasts." />
+    <TextStringDefinition InstanceID="0xE5D6F176" TextString="I dislike average-sized breasts." />
+    <TextStringDefinition InstanceID="0xA8016AB8" TextString="{0.SimFirstName} likes average-sized breasts." />
+    <TextStringDefinition InstanceID="0x75D02A64" TextString="{0.SimFirstName} dislikes average-sized breasts." />
+    <TextStringDefinition InstanceID="0x4F3F892A" TextString="I like big breasts." />
+    <TextStringDefinition InstanceID="0xE950EA34" TextString="I dislike big breasts." />
+    <TextStringDefinition InstanceID="0x08D4D3CE" TextString="{0.SimFirstName} likes big breasts." />
+    <TextStringDefinition InstanceID="0x330A48B2" TextString="{0.SimFirstName} dislikes big breasts." />
+    <TextStringDefinition InstanceID="0xFB9B539A" TextString="I like narrow hips." />
+    <TextStringDefinition InstanceID="0x91B78934" TextString="I dislike narrow hips." />
+    <TextStringDefinition InstanceID="0xA4C7CF26" TextString="{0.SimFirstName} likes narrow hips." />
+    <TextStringDefinition InstanceID="0xFE238DA2" TextString="{0.SimFirstName} dislikes narrow hips." />
+    <TextStringDefinition InstanceID="0xA31BFE5A" TextString="I like average-sized hips." />
+    <TextStringDefinition InstanceID="0xA4949B24" TextString="I dislike average-sized hips." />
+    <TextStringDefinition InstanceID="0x872F121E" TextString="{0.SimFirstName} likes average-sized hips." />
+    <TextStringDefinition InstanceID="0x51FBD4F2" TextString="{0.SimFirstName} dislikes average-sized hips." />
+    <TextStringDefinition InstanceID="0x9A14B80A" TextString="I like wide hips." />
+    <TextStringDefinition InstanceID="0xF38A8454" TextString="I dislike wide hips." />
+    <TextStringDefinition InstanceID="0xB55A28E6" TextString="{0.SimFirstName} likes wide hips." />
+    <TextStringDefinition InstanceID="0x2EDF2D52" TextString="{0.SimFirstName} dislikes wide hips." />
+    <TextStringDefinition InstanceID="0x2B746381" TextString="I like small butts." />
+    <TextStringDefinition InstanceID="0x7A576D23" TextString="I dislike small butts." />
+    <TextStringDefinition InstanceID="0xB23B867D" TextString="{0.SimFirstName} likes small butts." />
+    <TextStringDefinition InstanceID="0xAB3DBDD9" TextString="{0.SimFirstName} dislikes small butts." />
+    <TextStringDefinition InstanceID="0x74433AEB" TextString="I like average-sized butts." />
+    <TextStringDefinition InstanceID="0xCE134C85" TextString="I dislike average-sized butts." />
+    <TextStringDefinition InstanceID="0x15BAFB8F" TextString="{0.SimFirstName} likes average-sized butts." />
+    <TextStringDefinition InstanceID="0x920776B3" TextString="{0.SimFirstName} dislikes average-sized butts." />
+    <TextStringDefinition InstanceID="0x9ED9FEE7" TextString="I like big butts." />
+    <TextStringDefinition InstanceID="0xF6115571" TextString="I dislike big butts." />
+    <TextStringDefinition InstanceID="0xCB7B72E3" TextString="{0.SimFirstName} likes big butts." />
+    <TextStringDefinition InstanceID="0x05CDFF7F" TextString="{0.SimFirstName} dislikes big butts." />
+    <TextStringDefinition InstanceID="0xE9F859A6" TextString="I like thin thighs." />
+    <TextStringDefinition InstanceID="0x17450728" TextString="I dislike thin thighs." />
+    <TextStringDefinition InstanceID="0x03886F9A" TextString="{0.SimFirstName} likes thin thighs." />
+    <TextStringDefinition InstanceID="0xA98BE0EE" TextString="{0.SimFirstName} dislikes thin thighs." />
+    <TextStringDefinition InstanceID="0x5C5B2EC0" TextString="I like thick thighs." />
+    <TextStringDefinition InstanceID="0x8FEF6402" TextString="I dislike thick thighs." />
+    <TextStringDefinition InstanceID="0x2C330114" TextString="{0.SimFirstName} likes thick thighs." />
+    <TextStringDefinition InstanceID="0x534D08E8" TextString="{0.SimFirstName} dislikes thick thighs." />
     <TextStringDefinition InstanceID="0x034E6114" TextString="--------- Attractiveness Selectors ---------" />
     <TextStringDefinition InstanceID="0xBC7D21FB" TextString="Attractiveness" />
-    <TextStringDefinition InstanceID="0xE2538FF0" TextString="Generate" />
-    <TextStringDefinition InstanceID="0xB5B62CA5" TextString="Change Sim Attractiveness" />
-    <TextStringDefinition InstanceID="0xAFFF00BF" TextString="Change All Sims Attractiveness" />
-    <TextStringDefinition InstanceID="0x0A11A98A" TextString="Generate Sim Attractiveness" />
-    <TextStringDefinition InstanceID="0x6E923AEE" TextString="Generate All Sims Attractiveness" />
+    <TextStringDefinition InstanceID="0x9B4E4FF9" TextString="Select Preferences" />
+    <TextStringDefinition InstanceID="0xFD797C92" TextString="Generate Preferences" />
+    <TextStringDefinition InstanceID="0x8FF695C7" TextString="Select Sim Preferences" />
+    <TextStringDefinition InstanceID="0xCE19C0B2" TextString="Select Specific Sims Preferences" />
+    <TextStringDefinition InstanceID="0xF31ABE55" TextString="Select All Sims Preferences" />
+    <TextStringDefinition InstanceID="0x55028FD2" TextString="Generate Sim Preferences" />
+    <TextStringDefinition InstanceID="0x55DB4943" TextString="Generate Specific Sims Preferences" />
+    <TextStringDefinition InstanceID="0x625981F6" TextString="Generate All Sims Preferences" />
+    <TextStringDefinition InstanceID="0x0D31E9E2" TextString="Attractiveness Preferences Generator is currently in progress. Please wait." />
+    <TextStringDefinition InstanceID="0x9E80251A" TextString="Sims Types to Pre-Select" />
+    <TextStringDefinition InstanceID="0x5120379C" TextString="Select Female Sims" />
+    <TextStringDefinition InstanceID="0xEECFFD95" TextString="Select Male Sims" />
+    <TextStringDefinition InstanceID="0x573037CF" TextString="Select Teen Age Sims" />
+    <TextStringDefinition InstanceID="0x5D9A4253" TextString="Select Young Adult Age Sims" />
+    <TextStringDefinition InstanceID="0x745657FB" TextString="Select Adult Age Sims" />
+    <TextStringDefinition InstanceID="0x8E1568BF" TextString="Select Elder Age Sims" />
+    <TextStringDefinition InstanceID="0xEE39DA0B" TextString="Select Alien Occult Sims" />
+    <TextStringDefinition InstanceID="0x94BF4D6C" TextString="Select Vampire Occult Sims" />
+    <TextStringDefinition InstanceID="0xB4182027" TextString="Select Mermaid Occult Sims" />
+    <TextStringDefinition InstanceID="0xDEB59510" TextString="Select Spellcaster Occult Sims" />
+    <TextStringDefinition InstanceID="0x73DDF9DE" TextString="Select Homeless Sims" />
+    <TextStringDefinition InstanceID="0x470AA8EF" TextString="Select Random Sims" />
     <TextStringDefinition InstanceID="0x77F05830" TextString="Fundamental Attractiveness Traits" />
     <TextStringDefinition InstanceID="0x95BCF53B" TextString="Sims fundamental group of attractive traits.\n(Sex, Appearance, Occult, Age, Voice)" />
     <TextStringDefinition InstanceID="0xC7A0E53D" TextString="Hair Attractiveness Traits" />
@@ -377,8 +736,6 @@
     <TextStringDefinition InstanceID="0x4CA9953B" TextString="Sims body shape group of attractive traits.\n(Body Weight, Body Muscle, Breasts Size, Hips Wideness, Butt Size, Thighs Thickness)" />
     <TextStringDefinition InstanceID="0xDC5A17A4" TextString="Outfit Attractiveness Traits" />
     <TextStringDefinition InstanceID="0xF40D1335" TextString="Sims outfits group of attractive traits.\n(Basic Color, Outfits Archetype, Outfits Style, Outfits Type, Outfits Worth, Outfit Details)" />
-    <TextStringDefinition InstanceID="0x6235454D" TextString="Personality Attractiveness Traits" />
-    <TextStringDefinition InstanceID="0x8782EBA0" TextString="Sims personality group of attractive traits.\n(Personality Archetype)" />
     <TextStringDefinition InstanceID="0x976ABBEC" TextString="Sex" />
     <TextStringDefinition InstanceID="0xC33965AB" TextString="Preferred Sex" />
     <TextStringDefinition InstanceID="0xE50FF670" TextString="Preference to specific Sims sex." />
@@ -405,13 +762,13 @@
     <TextStringDefinition InstanceID="0xE3F4CE68" TextString="Age: {0.String}" />
     <TextStringDefinition InstanceID="0x8058186E" TextString="Voice" />
     <TextStringDefinition InstanceID="0x6FFD123A" TextString="Voice Type" />
-    <TextStringDefinition InstanceID="0xC05D4E5B" TextString="Preferred Voice Type" />
+    <TextStringDefinition InstanceID="0x23DD710B" TextString="Preferred Voice Type &lt;i&gt;(Advanced)&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0xECCAAEDF" TextString="Preference to Sims voice types." />
     <TextStringDefinition InstanceID="0xFED4BA42" TextString="Liked Voice Types" />
     <TextStringDefinition InstanceID="0xA0BD7A16" TextString="Disliked Voice Types" />
     <TextStringDefinition InstanceID="0xD0C0BE63" TextString="Voice Type: {0.String}" />
     <TextStringDefinition InstanceID="0x216B9B95" TextString="Voice Depth" />
-    <TextStringDefinition InstanceID="0x995DE0AA" TextString="Preferred Voice Depth" />
+    <TextStringDefinition InstanceID="0xE2B847FE" TextString="Preferred Voice Depth &lt;i&gt;(Advanced)&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x3E851E4B" TextString="Preference to Sims voice depth." />
     <TextStringDefinition InstanceID="0xBCA0202A" TextString="Liked Voice Depth" />
     <TextStringDefinition InstanceID="0x7ADA9AE6" TextString="Disliked Voice Depth" />
@@ -444,13 +801,13 @@
     <TextStringDefinition InstanceID="0x04EBE2BE" TextString="Facial Hair Style: {0.String}" />
     <TextStringDefinition InstanceID="0x957D5A08" TextString="Eyebrows" />
     <TextStringDefinition InstanceID="0x7CB3508B" TextString="Eyebrow Thickness" />
-    <TextStringDefinition InstanceID="0x2F581F78" TextString="Preferred Eyebrow Thickness" />
+    <TextStringDefinition InstanceID="0xD3F0906C" TextString="Preferred Eyebrow Thickness &lt;i&gt;(Advanced)&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x12CA1AE2" TextString="Preference to Sims eyebrows hair thickness." />
     <TextStringDefinition InstanceID="0xCCE4EC64" TextString="Liked Eyebrow Thicknesses" />
     <TextStringDefinition InstanceID="0x1EF7F940" TextString="Disliked Eyebrow Thicknesses" />
     <TextStringDefinition InstanceID="0x8E19A0E6" TextString="Eyebrow Thickness: {0.String}" />
     <TextStringDefinition InstanceID="0x7C19D576" TextString="Eyebrow Shape" />
-    <TextStringDefinition InstanceID="0x7431A1B1" TextString="Preferred Eyebrow Shape" />
+    <TextStringDefinition InstanceID="0xDABC48E1" TextString="Preferred Eyebrow Shape &lt;i&gt;(Advanced)&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x64A90CDD" TextString="Preference to Sims eyebrows shape." />
     <TextStringDefinition InstanceID="0x34CC2918" TextString="Liked Eyebrow Shapes" />
     <TextStringDefinition InstanceID="0x7EE73784" TextString="Disliked Eyebrow Shapes" />
@@ -467,8 +824,8 @@
     <TextStringDefinition InstanceID="0x350D096D" TextString="Liked Teeth Conditions" />
     <TextStringDefinition InstanceID="0xDBEB5031" TextString="Disliked Teeth Conditions" />
     <TextStringDefinition InstanceID="0x28E5F9C4" TextString="Teeth Condition: {0.String}" />
-    <TextStringDefinition InstanceID="0x3F8CD141" TextString="Skin Details" />
-    <TextStringDefinition InstanceID="0x15C95A70" TextString="Preferred Skin Details" />
+    <TextStringDefinition InstanceID="0x60271BBE" TextString="Skin Detail" />
+    <TextStringDefinition InstanceID="0xF736C6D9" TextString="Preferred Skin Detail" />
     <TextStringDefinition InstanceID="0x3819FE98" TextString="Preference to Sims skin details and tattoos." />
     <TextStringDefinition InstanceID="0x171350F0" TextString="Liked Skin Details" />
     <TextStringDefinition InstanceID="0x56C9D3BC" TextString="Disliked Skin Details" />
@@ -516,15 +873,15 @@
     <TextStringDefinition InstanceID="0xEFBF8084" TextString="Disliked Thighs Sizes" />
     <TextStringDefinition InstanceID="0x7400CB3F" TextString="Thighs Size: {0.String}" />
     <TextStringDefinition InstanceID="0x0A5C609C" TextString="Outfit Color" />
-    <TextStringDefinition InstanceID="0xD396B084" TextString="Colors" />
-    <TextStringDefinition InstanceID="0x18D7C0B5" TextString="Preferred Colors" />
+    <TextStringDefinition InstanceID="0x74AC5145" TextString="Color" />
+    <TextStringDefinition InstanceID="0xBF61241A" TextString="Preferred Color" />
     <TextStringDefinition InstanceID="0xB09558F7" TextString="Preference to clothing and accessories basic colors." />
     <TextStringDefinition InstanceID="0x62780B35" TextString="Liked Colors" />
     <TextStringDefinition InstanceID="0x54FD8151" TextString="Disliked Colors" />
     <TextStringDefinition InstanceID="0x398DA3C4" TextString="Color: {0.String}" />
     <TextStringDefinition InstanceID="0x2163F211" TextString="Outfit" />
     <TextStringDefinition InstanceID="0xB0ACBD18" TextString="Outfit Archetype" />
-    <TextStringDefinition InstanceID="0xFA5E8E1D" TextString="Preferred Outfit Archetype" />
+    <TextStringDefinition InstanceID="0xB16ADC5D" TextString="Preferred Outfit Archetype &lt;i&gt;(Advanced)&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0xE3C412C1" TextString="Preference to Sims outfit archetypes." />
     <TextStringDefinition InstanceID="0x030A9B8C" TextString="Liked Outfit Archetypes" />
     <TextStringDefinition InstanceID="0x144ACFC8" TextString="Disliked Outfit Archetypes" />
@@ -547,28 +904,23 @@
     <TextStringDefinition InstanceID="0xC0F872A8" TextString="Liked Outfit Worth" />
     <TextStringDefinition InstanceID="0x99AE25AC" TextString="Disliked Outfit Worth" />
     <TextStringDefinition InstanceID="0x3F7CFA48" TextString="Outfit Worth: {0.String}" />
-    <TextStringDefinition InstanceID="0x95041E83" TextString="Outfit Details" />
+    <TextStringDefinition InstanceID="0xA5477480" TextString="Outfit Detail" />
     <TextStringDefinition InstanceID="0xE0C3AA4B" TextString="Preferred Outfit Detail" />
     <TextStringDefinition InstanceID="0x308B6D2A" TextString="Preference to Sims outfit accessories, jewelery, and makeup." />
     <TextStringDefinition InstanceID="0x1F83F8F2" TextString="Liked Outfit Details" />
     <TextStringDefinition InstanceID="0xCC9166CE" TextString="Disliked Outfit Details" />
     <TextStringDefinition InstanceID="0xE914668D" TextString="Outfit Detail: {0.String}" />
-    <TextStringDefinition InstanceID="0x8082C55D" TextString="Personalty" />
-    <TextStringDefinition InstanceID="0xD5B61587" TextString="Personalty Archetypes" />
-    <TextStringDefinition InstanceID="0x6102E454" TextString="Preferred Personalty Archetypes" />
-    <TextStringDefinition InstanceID="0x2B50547E" TextString="Preference to Sims visible personality archetypes." />
-    <TextStringDefinition InstanceID="0xFF14070F" TextString="Liked Personalities" />
-    <TextStringDefinition InstanceID="0xEC5B0A1B" TextString="Disliked Personalities" />
-    <TextStringDefinition InstanceID="0x62D93CE0" TextString="Personality Archetype: {0.String}" />
-    <TextStringDefinition InstanceID="0x12A28E96" TextString="Appearance" />
-    <TextStringDefinition InstanceID="0xCA5401C3" TextString="Body Shape" />
-    <TextStringDefinition InstanceID="0xD4A990A6" TextString="{0.String} ({1.String})" />
     <TextStringDefinition InstanceID="0xCA51353E" TextString="Attractiveness Generator Sims Selector" />
     <TextStringDefinition InstanceID="0xEB86B298" TextString="Select Sims to generate Preferred Attractiveness Traits." />
     <TextStringDefinition InstanceID="0x65F9925A" TextString="Attractiveness Generator Types" />
+    <TextStringDefinition InstanceID="0x68C9BC85" TextString="Attractiveness Generator Modes" />
     <TextStringDefinition InstanceID="0xF637ADFE" TextString="Attractiveness Traits Sims Selector" />
     <TextStringDefinition InstanceID="0x8189B74B" TextString="Select Sims to edit Preferred Attractiveness Traits." />
     <TextStringDefinition InstanceID="0xA376312B" TextString="Attractiveness Traits Categories" />
+    <TextStringDefinition InstanceID="0xB796BC0C" TextString="Copy Preferences from Other Sim" />
+    <TextStringDefinition InstanceID="0x9E4D182A" TextString="Copy Attractiveness Preferences Sims Selector" />
+    <TextStringDefinition InstanceID="0xC61A1884" TextString="Select a Sim to copy Attractiveness Preferences from." />
+    <TextStringDefinition InstanceID="0x3CE68CBE" TextString="You're about to copy {0.SimName} Attractiveness Preferences and apply them to the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0xDACEA62E" TextString="Based on Romantic Partners" />
     <TextStringDefinition InstanceID="0xAC4C92EA" TextString="All of the attractiveness preferences are generated based on the Sim romantic partners attractive traits.\n\n(Requires existing romantic partners.)" />
     <TextStringDefinition InstanceID="0x839F8797" TextString="Based on Family Parents" />
@@ -583,6 +935,12 @@
     <TextStringDefinition InstanceID="0xA0DBC8BD" TextString="All of the attractiveness preferences are generated based on the most common attractive traits of all Sims in the world." />
     <TextStringDefinition InstanceID="0x6D0FBC05" TextString="Random" />
     <TextStringDefinition InstanceID="0x81C0FBCC" TextString="All of the attractiveness preferences are random." />
+    <TextStringDefinition InstanceID="0xACC48B63" TextString="Light Mode (Subtle)" />
+    <TextStringDefinition InstanceID="0xE247C6CA" TextString="Light Generator Mode will generate only positive preferences for a select group of Attractive Traits.\nUsing the Light Mode will produce results that lean towards more attractiveness between Sims." />
+    <TextStringDefinition InstanceID="0x7376DC10" TextString="Moderate Mode (Considerate)" />
+    <TextStringDefinition InstanceID="0x412A5265" TextString="Moderate Generator Mode will generate mostly positive preferences with occasional negative preferences for all Attractive Traits.\nUsing the Moderate Mode will produce a balanced mix of attractiveness and unattractiveness." />
+    <TextStringDefinition InstanceID="0x41EFD43D" TextString="Heavy Mode (Opinionated)" />
+    <TextStringDefinition InstanceID="0x169D95B3" TextString="Heavy Generator Mode will generate an equal amount of positive and negative preferences for all Attractive Traits.\nUsing the Heavy Mode will produce results that lean towards more unattractiveness between Sims." />
     <TextStringDefinition InstanceID="0x795102AF" TextString="Generate Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0x532FE634" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0x476673CC" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
@@ -590,6 +948,7 @@
     <TextStringDefinition InstanceID="0x421378D6" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0xB4A60733" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
     <TextStringDefinition InstanceID="0xAAF73F7C" TextString="You're about to generate random Attractiveness Preferences for the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0xC2D8AEFD" TextString="Attractiveness Preferences are being generated. With the number of Sims involved this may take around {0.String} seconds.\n\nYou can continue playing while the generator is working." />
     <TextStringDefinition InstanceID="0x19A52B9F" TextString="Select elements liked and disliked by {0.SimName}." />
     <TextStringDefinition InstanceID="0x983E258E" TextString="Select elements liked and disliked by many Sims." />
     <TextStringDefinition InstanceID="0x95ADEC03" TextString="Conflicting Elements" />
