@@ -3,6 +3,7 @@
   <TextStringDefinitions>
     <TextStringDefinition InstanceID="0xB6C2495F" TextString="---------- SETTINGS GENERAL ----------" />
     <TextStringDefinition InstanceID="0x14F72DE6" TextString="Warning! Changing sex settings with running sex interactions can cause issues!\n\nEnd running sex interaction first to avoid possible problems." />
+    <TextStringDefinition InstanceID="0xDBE1648D" TextString="Warning! Changing this sex settings can result in major problems! Make sure you really know what you're doing." />
     <TextStringDefinition InstanceID="0x39E9CFE9" TextString="Sex Settings" />
     <TextStringDefinition InstanceID="0xE2319E55" TextString="Change sex settings.\n\nThese settings affect only sex related functions like gender role recognition, positions progression, autonomy, outfit or pregnancy." />
     <TextStringDefinition InstanceID="0x914822A0" TextString="This option requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
@@ -149,7 +150,7 @@
     <TextStringDefinition InstanceID="0x125F7F2B" TextString="Travel Sex Probability" />
     <TextStringDefinition InstanceID="0x836ACD2A" TextString="Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\n(Default: 0.50, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x331EC4F5" TextString="Sex Joining Maximum Distance" />
-    <TextStringDefinition InstanceID="0x1030534E" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 18.0, Minimum: 1.0)" />
+    <TextStringDefinition InstanceID="0x3D749776" TextString="Set a maximum number of distance units for Sims to detect sex in and consider joining it.\n(Default: 10.0, Minimum: 1.0)" />
     <TextStringDefinition InstanceID="0x8F7D682E" TextString="Random Club Sex Probability" />
     <TextStringDefinition InstanceID="0x02A2915F" TextString="Set a unit interval value for chance of random club sex occurring. Value 1.0 is 100% chance.\n(Default: 1.0, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x52C9B0FC" TextString="Watching Sex Random Solo Probability" />
@@ -222,10 +223,12 @@
     <TextStringDefinition InstanceID="0x1D440DB1" TextString="Check to recognize male actor roles as both male and female roles (F/F).\n(allow female Sims to play male roles)" />
     <TextStringDefinition InstanceID="0x1D515CDD" TextString="Sim Specific Gender Recognition" />
     <TextStringDefinition InstanceID="0x46C03AEB" TextString="Check to enable 'Gender Recognition' interactions that allow to decide about individual Sims gender role." />
+    <TextStringDefinition InstanceID="0xECEA25EC" TextString="Advanced Gender Settings" />
+    <TextStringDefinition InstanceID="0xC52603A4" TextString="Advanced settings for gender recognition." />
     <TextStringDefinition InstanceID="0x16F11D0D" TextString="Ignore Occult Genders Restrictions" />
     <TextStringDefinition InstanceID="0x05E05E62" TextString="Check to disable restrictions for animations that require specific occult to be available.\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)" />
-    <TextStringDefinition InstanceID="0x43B34AD1" TextString="Fit Sex Animations To Sexual Orientation" />
-    <TextStringDefinition InstanceID="0x45A01B15" TextString="Check to display and use sex animations that fit sexual orientation of Sims in sex.\nUncheck to display and use all sex animations regardless of sexual orientation of Sims in sex." />
+    <TextStringDefinition InstanceID="0xCBDD99A9" TextString="Fit Sex Animations To Sexual Function" />
+    <TextStringDefinition InstanceID="0xC0DC5A87" TextString="Check to display and use sex animations that fit sexual function of Sims in sex.\nUncheck to display and use all sex animations regardless of sexual function of Sims in sex." />
     <TextStringDefinition InstanceID="0xB88A7BEE" TextString="STD Settings" />
     <TextStringDefinition InstanceID="0x1603CACF" TextString="Change STD related settings." />
     <TextStringDefinition InstanceID="0x3FC7DC0F" TextString="Crab Lice Switch" />

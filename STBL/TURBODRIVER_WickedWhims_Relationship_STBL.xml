@@ -98,6 +98,9 @@
     <TextStringDefinition InstanceID="0x5D7AE3C6" TextString="Shallow" />
     <TextStringDefinition InstanceID="0x3603BC79" TextString="Shallow" />
     <TextStringDefinition InstanceID="0x9428A07C" TextString="Shallow Sims only care about others looks and will agree to have sex with anybody who is at least Very Attractive." />
+    <TextStringDefinition InstanceID="0xEF35C115" TextString="Aversive Appearance" />
+    <TextStringDefinition InstanceID="0x5EC3D8D6" TextString="Aversive Appearance" />
+    <TextStringDefinition InstanceID="0x051C4863" TextString="Sims with Aversive Appearance will find it harder to attract others. Most eyes that look upon them will have a generally negative disposition towards their appearance." />
     <TextStringDefinition InstanceID="0x2D2B98FD" TextString="Attractiveness Ambivalent" />
     <TextStringDefinition InstanceID="0x5F2E7E7E" TextString="Attractiveness Ambivalent" />
     <TextStringDefinition InstanceID="0xBC1FCCB7" TextString="Attractiveness Ambivalent Sims are not at all interested in others looks." />
