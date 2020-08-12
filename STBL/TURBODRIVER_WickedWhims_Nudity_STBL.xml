@@ -189,7 +189,8 @@
     <TextStringDefinition InstanceID="0xF50F61E9" TextString="Exhibitionism" />
     <TextStringDefinition InstanceID="0xCF3BC932" TextString="Naturism" />
     <TextStringDefinition InstanceID="0xFAD2B27D" TextString="Clothing" />
-    <TextStringDefinition InstanceID="0xE5D6C5F8" TextString="Cover Body" />
+    <TextStringDefinition InstanceID="0x315341E9" TextString="Cover Body Top" />
+    <TextStringDefinition InstanceID="0x804F858B" TextString="Cover Body Bottom" />
     <TextStringDefinition InstanceID="0xE2292A10" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x7AF9E84D" TextString="Nudity" />
     <TextStringDefinition InstanceID="0x49A3EE0D" TextString="Times Undressed" />
@@ -233,18 +234,20 @@
     <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
     <TextStringDefinition InstanceID="0x103FEE4A" TextString="Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\n\nChanging underwear for sleepwear and swimwear outfit is not available." />
     <TextStringDefinition InstanceID="0x7C632FD2" TextString="Go Streaking!" />
+    <TextStringDefinition InstanceID="0xB6C4C717" TextString="Compliment Body" />
     <TextStringDefinition InstanceID="0x06789200" TextString="Compliment Sexy Body" />
-    <TextStringDefinition InstanceID="0x75AE1979" TextString="{1.SimFirstName} compliments my body" />
+    <TextStringDefinition InstanceID="0x75AE1979" TextString="{1.SimFirstName} Compliments My Body" />
     <TextStringDefinition InstanceID="0xB575760F" TextString="Talk About Nudity" />
     <TextStringDefinition InstanceID="0x58D5FE17" TextString="{1.SimFirstName} talks about nudity" />
-    <TextStringDefinition InstanceID="0xF26267CA" TextString="Convince to Nudity" />
-    <TextStringDefinition InstanceID="0x9F7EF920" TextString="{1.SimFirstName} convinces me to nudity" />
+    <TextStringDefinition InstanceID="0xF3C39818" TextString="Convince to Naturism" />
+    <TextStringDefinition InstanceID="0x3F1AFEFD" TextString="Convince to Exhibitionism" />
+    <TextStringDefinition InstanceID="0x9F7EF920" TextString="{1.SimFirstName} Convinces Me to Nudity" />
     <TextStringDefinition InstanceID="0xCE62863C" TextString="Ask to Get Naked" />
-    <TextStringDefinition InstanceID="0x6839AFEC" TextString="{1.SimFirstName} asks me to get naked" />
+    <TextStringDefinition InstanceID="0x6839AFEC" TextString="{1.SimFirstName} Asks Me to Get Naked" />
     <TextStringDefinition InstanceID="0xB4F6170B" TextString="Ask to Undress Shoes" />
-    <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} asks me to undress shoes" />
+    <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} Asks Me to Undress Shoes" />
     <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
-    <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} asks me to dress up" />
+    <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} Asks Me to Dress Up" />
     <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
     <TextStringDefinition InstanceID="0xC9AB3921" TextString="{0.SimName} stripped from {M0.his}{F0.her} top." />
     <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
