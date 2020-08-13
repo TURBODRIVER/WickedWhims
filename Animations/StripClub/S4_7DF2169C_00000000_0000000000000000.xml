@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="StripClubDanceAnimationPackage" i="snippet" m="wickedwhims.nudity.business.stripclub.dancing.dance_animations_tuning" n="YourName:YourPackageName" s="12345"> <!-- 'n' as your Package Name and 's' as Integer ID of your package -->
+  <T n="wickedwhims_dance_animations">1</T>
+  <L n="dance_animations_list">
+
+    <U> <!-- [START OF ANIMATION ENTRY] -->
+      <T n="raw_display_name">StripClubDanceName</T> <!-- [REMOVE IF USING "display_name_id" FIELD] Raw Text for displayed animation name -->
+      <T n="author_name">YourName</T> <!-- Raw Text for displayed author name of this animation -->
+
+      <T n="dance_type">POLE_DANCE</T> <!-- Dance Type of the animation (POLE_DANCE, SPOT_DANCE, LAP_DANCE) -->
+      <T n="dancer_gender">FEMALE</T> <!-- Gender Type of the dancer (FEMALE, MALE) -->
+
+      <T n="dancer_animation_clip_name">DancerAnimationClipName</T> <!-- Dancer Sim animation ClipName -->
+      <T n="watcher_animation_clip_name">WatcherAnimationClipName</T> <!-- [REMOVE IF NOT TYPE "LAP_DANCE"] Watching Sim animation ClipName -->
+      <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] Object animation ClipName -->
+      <T n="animation_loops">2</T> <!-- Number of times the animation will play in a row -->
+
+      <T n="dance_set_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] Unique name of a set of animations that is used to order animations as a sequence of dances -->
+      <T n="dance_set_order">0</T> <!-- [REMOVE IF UNUSED] Order number in the set of animations defined in the "dance_set_name" variable -->
+    </U> <!-- [END OF ANIMATION ENTRY] -->
+
+    <!-- Next Animation Goes Here -->
+  </L>
+</I>

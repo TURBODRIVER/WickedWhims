@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="StripClubDanceAnimationPackage" i="snippet" m="wickedwhims.nudity.business.stripclub.dancing.dance_animations_tuning" n="YourName:YourPackageName" s="12345"> <!-- 'n' as your Package Name and 's' as Integer ID of your package -->
+  <T n="wickedwhims_dance_animations">1</T>
+  <L n="dance_animations_list">
+
+    <U> <!-- [START OF ANIMATION ENTRY] -->
+      <T n="raw_display_name">StripClubDanceName</T> <!-- [REMOVE IF USING "display_name_id" FIELD] -->
+      <T n="author_name">YourName</T>
+
+      <T n="dance_type">POLE_DANCE</T>
+      <T n="dancer_gender">FEMALE</T>
+
+      <T n="dancer_animation_clip_name">DancerAnimationClipName</T>
+      <T n="watcher_animation_clip_name">WatcherAnimationClipName</T> <!-- [REMOVE IF NOT TYPE "LAP_DANCE"] -->
+      <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
+      <T n="animation_loops">2</T>
+
+      <T n="dance_set_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
+      <T n="dance_set_order">0</T> <!-- [REMOVE IF UNUSED] -->
+    </U> <!-- [END OF ANIMATION ENTRY] -->
+
+    <!-- Next Animation Goes Here -->
+  </L>
+</I>
