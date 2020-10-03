@@ -39,7 +39,9 @@
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
           <T n="animation_allow_strapon">0</T> <!-- Flag to allow equipment of strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
 
+          <T n="animation_x_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in x axis -->
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in y axis -->
+          <T n="animation_z_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in z axis -->
           <T n="animation_angle_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor orientation in 360 degrees -->
 
           <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
@@ -69,7 +71,9 @@
           <T n="animation_force_nude_feet">0</T> <!-- Flag to force undress shoes if needed (0=Ignore, 1=Force) -->
           <T n="animation_allow_strapon">0</T> <!-- Flag to allow equipment of strapon even if this position is not designed for males (0=Disallow, 1=Allow) -->
 
+          <T n="animation_x_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in x axis -->
           <T n="animation_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in y axis -->
+          <T n="animation_z_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor position in z axis -->
           <T n="animation_angle_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of actor orientation in 360 degrees -->
 
           <T n="animation_actor_tags"></T> <!-- [REMOVE IF UNUSED] List of Actor Tags that give the animation context and functions (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
