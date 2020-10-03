@@ -7,6 +7,8 @@
     <TextStringDefinition InstanceID="0x49E0C5AB" TextString="Changing this setting requires restarting the game to take full effect!\n\nSave and restart for this setting to work." />
     <TextStringDefinition InstanceID="0x1B09D825" TextString="Naturism and Exhibitionism Switch" />
     <TextStringDefinition InstanceID="0x09B382A3" TextString="Check to enable nudity skills, nudity autonomy, and nudity story progression." />
+    <TextStringDefinition InstanceID="0xFB7BFCAF" TextString="Nudity Pressure Switch" />
+    <TextStringDefinition InstanceID="0x019A7360" TextString="Check to make Sims gradually gain pressure from being naked and experience embarrassment.\nUncheck to make Sims ignore pressure and not get embarrassed from nudity.\n(both settings respect Sims nudity skills limitations)" />
     <TextStringDefinition InstanceID="0x2BBCDED7" TextString="Outfit Undressing Settings" />
     <TextStringDefinition InstanceID="0x34F35A9D" TextString="Outfit undressing behavior of Sims." />
     <TextStringDefinition InstanceID="0x5E13BB7A" TextString="Underwear Switch" />
@@ -53,8 +55,10 @@
     <TextStringDefinition InstanceID="0x2DBDB9B7" TextString="Select to only display notifications about autonomy nudity actions." />
     <TextStringDefinition InstanceID="0x58A3A9F5" TextString="Show All Notifications" />
     <TextStringDefinition InstanceID="0xB7D95464" TextString="Select to display all notifications about nudity actions." />
-    <TextStringDefinition InstanceID="0x8828ABA5" TextString="Notifications Household Limit Switch" />
-    <TextStringDefinition InstanceID="0x030353A2" TextString="Check for nudity notifications to be displayed only about household Sims.\nUncheck for nudity notifications to be displayed about all Sims." />
+    <TextStringDefinition InstanceID="0xB30F00FC" TextString="Display Player Sims Notifications" />
+    <TextStringDefinition InstanceID="0x8B5A1893" TextString="Check to display nudity notifications about Player Sims." />
+    <TextStringDefinition InstanceID="0x58FC679E" TextString="Display NPC Sims Notifications" />
+    <TextStringDefinition InstanceID="0x316438F3" TextString="Check to display nudity notifications about NPC Sims." />
     <TextStringDefinition InstanceID="0x18054B4F" TextString="Occurrence &amp; Autonomy Settings" />
     <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
     <TextStringDefinition InstanceID="0x01C964F4" TextString="Player Occurrences Inclusion" />
@@ -210,6 +214,16 @@
     <TextStringDefinition InstanceID="0x66AC60E9" TextString="---------- Buffs ----------" />
     <TextStringDefinition InstanceID="0xF48B094F" TextString="&lt;font color='#340658'&gt;Being Naked&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x32E7A30B" TextString="When you shed your clothes you also shed just a few of the burdens of everyday life." />
+    <TextStringDefinition InstanceID="0x65745556" TextString="&lt;font color='#340658'&gt;Under Pressure&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC26EAB52" TextString="(From Being Naked)" />
+    <TextStringDefinition InstanceID="0xD3F60337" TextString="While taking off your clothes can be a cathartic experience, one should also make sure they're feeling comfortable doing it where they are at the moment." />
+    <TextStringDefinition InstanceID="0x6A655D67" TextString="&lt;font color='#340658'&gt;Barely Appropriate&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8AD9CF36" TextString="{0.SimFirstName} couldn't handle the rising pressure of being naked and put {M0.his}{F0.her} clothes back on." />
+    <TextStringDefinition InstanceID="0x2D590108" TextString="&lt;font color='#340658'&gt;Eyes Wide Open&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDD25CF23" TextString="{0.SimFirstName} is fascinated by the exciting view of a nearby delightfully naked Sim." />
+    <TextStringDefinition InstanceID="0xDB01112F" TextString="&lt;font color='#340658'&gt;Try to Look Away!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x70ADFA9F" TextString="{0.SimFirstName} is trying not to put {M0.his}{F0.her} gaze at some nearby unpleasant looking naked Sims." />
+    <TextStringDefinition InstanceID="0x9E74F187" TextString="(From Being Around Naked Sims)" />
     <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
     <TextStringDefinition InstanceID="0x05301777" TextString="Admire Yourself Sexually" />
     <TextStringDefinition InstanceID="0x85EE2242" TextString="Click on a mirror and select 'Admire Your Body'." />

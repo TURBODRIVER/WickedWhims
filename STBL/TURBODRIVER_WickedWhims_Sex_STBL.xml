@@ -453,6 +453,7 @@
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
     <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
+    <TextStringDefinition InstanceID="0x56A6B759" TextString="Actions" />
     <TextStringDefinition InstanceID="0x6A3A3959" TextString="Teasing" />
     <TextStringDefinition InstanceID="0x795BA55C" TextString="Handjob" />
     <TextStringDefinition InstanceID="0x0748F0BB" TextString="Footjob" />
@@ -504,6 +505,17 @@
     <TextStringDefinition InstanceID="0x2907043C" TextString="{0.SimName} is attempting progressing to {1.String} sex. Do you allow it?\n\nAnimation: {2.String} by {3.String}" />
     <TextStringDefinition InstanceID="0x6886F72E" TextString="Allow It" />
     <TextStringDefinition InstanceID="0xABA0F852" TextString="Disallow It" />
+    <TextStringDefinition InstanceID="0x7D5724A6" TextString="Enable Positioning" />
+    <TextStringDefinition InstanceID="0x6876F4A9" TextString="Disable Positioning" />
+    <TextStringDefinition InstanceID="0x1729A2B9" TextString="Select Positioning Participants" />
+    <TextStringDefinition InstanceID="0x2A87708D" TextString="Participants" />
+    <TextStringDefinition InstanceID="0x3A1DAA88" TextString="Select which elements should be manipulated by the controls." />
+    <TextStringDefinition InstanceID="0x7DA39B4A" TextString="Position Increment" />
+    <TextStringDefinition InstanceID="0x0F05BC97" TextString="Rotation Increment" />
+    <TextStringDefinition InstanceID="0xB03AEF87" TextString="Custom" />
+    <TextStringDefinition InstanceID="0xBBE81022" TextString="Custom Increment" />
+    <TextStringDefinition InstanceID="0x71CFE92B" TextString="Input custom increment value." />
+    <TextStringDefinition InstanceID="0xCE124AB6" TextString="Reset Positioning" />
     <TextStringDefinition InstanceID="0x48F53F24" TextString="Sim is not ready for climax yet." />
     <TextStringDefinition InstanceID="0x9285BB84" TextString="Stop That!" />
     <TextStringDefinition InstanceID="0xB8062F74" TextString="Go Away" />
