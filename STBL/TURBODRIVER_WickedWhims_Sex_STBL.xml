@@ -352,6 +352,8 @@
     <TextStringDefinition InstanceID="0xD4553434" TextString="Check to display extra pregnancy notifications." />
     <TextStringDefinition InstanceID="0x7386B8EC" TextString="Native Pregnancy Override" />
     <TextStringDefinition InstanceID="0x480521E6" TextString="Check to allow WickedWhims pregnancy functionality override WooHoo and Try For Baby interactions behavior.\nUncheck to keep WooHoo and Try For Baby interactions behavior unaltered by WickedWhims." />
+    <TextStringDefinition InstanceID="0x4B170F09" TextString="Transform WooHoo into TFB Switch" />
+    <TextStringDefinition InstanceID="0x4C50479E" TextString="Check to transform all WooHoo interactions to allow pregnancy and disable all Try for Baby interactions.\nUncheck to keep all WooHoo interactions unchanged and enable Try for Baby interactions." />
     <TextStringDefinition InstanceID="0x8CAC249F" TextString="Other Settings" />
     <TextStringDefinition InstanceID="0xB6B16360" TextString="Change all of the unrelated settings." />
     <TextStringDefinition InstanceID="0xD4E78AE0" TextString="Vanilla Interactions Switch" />
@@ -515,6 +517,10 @@
     <TextStringDefinition InstanceID="0xB03AEF87" TextString="Custom" />
     <TextStringDefinition InstanceID="0xBBE81022" TextString="Custom Increment" />
     <TextStringDefinition InstanceID="0x71CFE92B" TextString="Input custom increment value." />
+    <TextStringDefinition InstanceID="0x2BCC960B" TextString="Rotation Axis" />
+    <TextStringDefinition InstanceID="0x6E92AC6E" TextString="Pitch" />
+    <TextStringDefinition InstanceID="0x67D1CC67" TextString="Yaw" />
+    <TextStringDefinition InstanceID="0x7ED88397" TextString="Roll" />
     <TextStringDefinition InstanceID="0xCE124AB6" TextString="Reset Positioning" />
     <TextStringDefinition InstanceID="0x48F53F24" TextString="Sim is not ready for climax yet." />
     <TextStringDefinition InstanceID="0x9285BB84" TextString="Stop That!" />
