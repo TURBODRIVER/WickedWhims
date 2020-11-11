@@ -17,8 +17,12 @@
     <TextStringDefinition InstanceID="0x632C1C48" TextString="Check to enable attractiveness affecting Sims.\nUncheck to disable attractiveness affecting Sims." />
     <TextStringDefinition InstanceID="0x064DE5C3" TextString="Attractiveness Relationship Scoring Switch" />
     <TextStringDefinition InstanceID="0xA47B1131" TextString="Check to allow Sims attractiveness to influence relationship interactions.\nUncheck to disallow Sims attractiveness from influencing relationship interactions." />
-    <TextStringDefinition InstanceID="0xA8D4C6FE" TextString="Attractiveness Storytelling Switch" />
-    <TextStringDefinition InstanceID="0x7EAC11E7" TextString="Check to allow storytelling notifications, moodlets, and events related to attractiveness.\nUncheck to disallow storytelling notifications, moodlets, and events related to attractiveness." />
+    <TextStringDefinition InstanceID="0xF32F8DEF" TextString="Attractiveness Memory Storytelling Switch" />
+    <TextStringDefinition InstanceID="0xBD410AEF" TextString="Check to allow memory storytelling notifications, moodlets, and events related to attractiveness.\nUncheck to disallow memory storytelling notifications, moodlets, and events related to attractiveness." />
+    <TextStringDefinition InstanceID="0xEEC64D8C" TextString="Attractiveness Suggestive Looks Switch" />
+    <TextStringDefinition InstanceID="0x8D9BE379" TextString="Check to allow NPC Sims to give your playable Sims a Suggestive Look.\nUncheck to disallow NPC Sims from giving your playable Sims Suggestive Looks." />
+    <TextStringDefinition InstanceID="0x8977483C" TextString="Attractiveness Suggestive Look Base Chance" />
+    <TextStringDefinition InstanceID="0xF856BBC7" TextString="Set a unit interval value for chance of Suggestive Look occurring. Value 1.0 is 100% chance.\n(Default: 0.85, Minimum: 0.0)" />
     <TextStringDefinition InstanceID="0x80C270BF" TextString="Romance Age Restrictions Switch" />
     <TextStringDefinition InstanceID="0xD1771538" TextString="Check to unlock romance interactions between teen-age and adult-age Sims.\nUncheck to keep romance interactions locked between teen-age and adult-age Sims." />
     <TextStringDefinition InstanceID="0x342BA695" TextString="Open Relationships Switch" />
@@ -166,6 +170,8 @@
     <TextStringDefinition InstanceID="0x9FA3DE3C" TextString="(From Dreaming About Spouse)" />
     <TextStringDefinition InstanceID="0x28395403" TextString="(From Thinking About Spouse)" />
     <TextStringDefinition InstanceID="0x26EAF0FE" TextString="{0.SimFirstName} suddenly finds {M0.himself}{F0.herself} craving a certain someone, their beloved Spouse. {M0.He}{F0.She} hit the jackpot in the field of love, there isn't anyone who suits {M0.his}{F0.her} desires more than their loving partner in life. Just thinking of them has {0.SimFirstName} yearning for their presence. A burning desire to hold and to love this Sim that has captured {M0.his}{F0.her} heart." />
+    <TextStringDefinition InstanceID="0xBBD6E60D" TextString="&lt;font color='#340658'&gt;Eyeing a Catch&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF01E32FF" TextString="{0.SimFirstName} noticed someone attractive and is hoping they will find interest in them too." />
     <TextStringDefinition InstanceID="0xB4623C9F" TextString="Attractiveness Alert!" />
     <TextStringDefinition InstanceID="0xDB2A3127" TextString="Wow, what a Sim! {0.SimName} just stopped what they were thinking about for a moment and found themselves staring at {1.SimName}. That {M1.man}{F1.woman} has so many of the qualities that make {0.SimFirstName}'s heart race, as if it were on a cross country marathon. Their {M1.handsome}{F1.beautiful} features meet {0.SimFirstName}'s desires so readily that it's almost as if whatever created such a Sim sculpted {M1.him}{F1.her} specifically for them.\n\nNow the only thing left is to pick up their jaw and work up the courage to speak to such an {M1.Adonis}{F1.Aphrodite}. Hopefully, {1.SimFirstName} will be kind enough to reciprocate {0.SimFirstName}'s feelings." />
     <TextStringDefinition InstanceID="0x06E2FDF2" TextString="Hot Daydreaming" />
@@ -176,7 +182,15 @@
     <TextStringDefinition InstanceID="0x78A2AF16" TextString="They say lightning never strikes the same place twice. Well tell that to {0.SimFirstName}, {M0.he}{F0.she} found the Sim of {M0.his}{F0.her} dreams and by some miracle, got to marry {M1.him}{F1.her} too.\n\nThere are times like this when {0.SimFirstName} likes to remind {M0.himself}{F0.herself} just how lucky they are to be married to a ravishing {M1.hunk}{F1.goddess} like {1.SimName}. To be able to love and be loved by such a captivating creature brings incomprehensible joy to {M0.his}{F0.her} heart and the attraction they have for their beloved partner still endures like an undying blaze even now." />
     <TextStringDefinition InstanceID="0x3FD5954C" TextString="Dreams of the Heart" />
     <TextStringDefinition InstanceID="0xB5A6AFE3" TextString="It's dreams like this that {0.SimFirstName} never wants to wake up from. In it there is but one focal point, one element that pervades all thoughts within {M0.his}{F0.her} mind and that is {1.SimName}.\n\nSuch a wondrous manifestation has {0.SimFirstName} utterly enthralled as {M0.he}{F0.she} abandons all other thoughts in order to contemplate {1.SimFirstName}'s every feature, every contour and nuance of {M1.his}{F1.her} body and every discernible detail that makes this breathtaking Sim unique. {0.SimFirstName} absolutely cherishes those factors and as the dream continues, they become more and more enraptured by this Sim that has stolen both {M0.his}{F0.her} mind and {M0.his}{F0.her} heart.\n\nIn the end, there is only one reason as to why they'd consider waking up, and that is the real {1.SimName} waiting for them on the other side." />
+    <TextStringDefinition InstanceID="0x897B86FB" TextString="Suggestive Look" />
+    <TextStringDefinition InstanceID="0x6719AB51" TextString="{0.SimFirstName} has noticed that {1.SimFirstName}'s eyes are lingering on them more and more. There's an intensity to their stare and with their attention fixed squarely upon them this may be the chance to move things into a more intimate direction.\n\nIs {0.SimFirstName} going to &lt;b&gt;accept&lt;/b&gt; {1.SimFirstName}'s advances or &lt;b&gt;ignore&lt;/b&gt; {M1.him}{F1.her}?" />
+    <TextStringDefinition InstanceID="0xAF12863C" TextString="{0.SimFirstName} is under the impression that another Sim has their gaze fixed directly upon {M0.him}{F0.her}. With a glimmer in their eyes it's plain to see that {1.SimFirstName} has an intense interest in {0.SimFirstName}.\n\nIf {0.SimFirstName} tries to push things to a more intimate level they may have a good chance at success.\n\nIs {0.SimFirstName} going to &lt;b&gt;accept&lt;/b&gt; {1.SimFirstName}'s advances or &lt;b&gt;ignore&lt;/b&gt; {M1.him}{F1.her}?" />
+    <TextStringDefinition InstanceID="0xFD6F1B2A" TextString="{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {M1.He}{F1.She} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {M1.him}{F1.her} for the next few hours." />
+    <TextStringDefinition InstanceID="0x2D68ECEB" TextString="{0.SimFirstName} ignored {1.SimFirstName}'s advances. {M1.He}{F1.She} shouldn't bother {M0.him}{F0.her} with {M1.his}{F1.her} antics anymore." />
+    <TextStringDefinition InstanceID="0x668CEF72" TextString="It's a little too late to respond now." />
     <TextStringDefinition InstanceID="0xA8A76A74" TextString="Where is {0.SimName}?" />
+    <TextStringDefinition InstanceID="0xD176CAC7" TextString="Accept {M0.His}{F0.Her} Advances" />
+    <TextStringDefinition InstanceID="0x5989C57E" TextString="Ignore {M0.Him}{F0.Her}" />
     <TextStringDefinition InstanceID="0x57B90532" TextString="Attractiveness Hints" />
     <TextStringDefinition InstanceID="0x71ACD5B0" TextString="Well, that could have gone better. It sounds like {1.SimName} didn't appreciate {0.SimFirstName} asking for {M1.his}{F1.her} preferences." />
     <TextStringDefinition InstanceID="0x9C1754A3" TextString="Following a few brief moments of silence, {1.SimName} expressed that {M1.he}{F1.she} doesn't have any noteworthy things to say that would satisfy {0.SimFirstName}. Perhaps {0.SimFirstName} is already attractive enough in the eyes of {1.SimFirstName}." />
@@ -198,11 +212,17 @@
     <TextStringDefinition InstanceID="0xD47B3999" TextString="--------- Attractiveness Visuals ---------" />
     <TextStringDefinition InstanceID="0x8131F000" TextString="Attractiveness" />
     <TextStringDefinition InstanceID="0x667A5114" TextString="{0.SimName} thinks {1.SimName} is Extremely Attractive." />
+    <TextStringDefinition InstanceID="0x397299D9" TextString="Perceived as Extremely Attractive" />
     <TextStringDefinition InstanceID="0x7B4153B9" TextString="{0.SimName} thinks {1.SimName} is Very Attractive." />
+    <TextStringDefinition InstanceID="0xDEE8D114" TextString="Perceived as Very Attractive" />
     <TextStringDefinition InstanceID="0xE7D436C5" TextString="{0.SimName} thinks {1.SimName} is Attractive." />
+    <TextStringDefinition InstanceID="0x0024CF7E" TextString="Perceived as Attractive" />
     <TextStringDefinition InstanceID="0x67FA8923" TextString="{0.SimName} thinks {1.SimName} is Basic Looking." />
+    <TextStringDefinition InstanceID="0x08DFC2C6" TextString="Perceived as Basic Looking" />
     <TextStringDefinition InstanceID="0xA4B9FD92" TextString="{0.SimName} thinks {1.SimName} is Unattractive." />
+    <TextStringDefinition InstanceID="0xDE4EE3A3" TextString="Perceived as Unattractive" />
     <TextStringDefinition InstanceID="0x32B65B06" TextString="{0.SimName} thinks {1.SimName} is Very Unattractive." />
+    <TextStringDefinition InstanceID="0xD393F31D" TextString="Perceived as Very Unattractive" />
     <TextStringDefinition InstanceID="0x75EFDD27" TextString="--------- Attractiveness Interactions ---------" />
     <TextStringDefinition InstanceID="0xB2A6FED5" TextString=" Ask about Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0x17BA94BC" TextString="Who is {0.SimFirstName} interested in..." />

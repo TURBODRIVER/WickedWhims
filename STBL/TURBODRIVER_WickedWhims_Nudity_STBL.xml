@@ -296,9 +296,9 @@
     <TextStringDefinition InstanceID="0x41389A02" TextString="Admire Your Body" />
     <TextStringDefinition InstanceID="0x286F517D" TextString="Naturism" />
     <TextStringDefinition InstanceID="0x612420AC" TextString="Take off your clothes and discover the wonderful world of Naturism!" />
-    <TextStringDefinition InstanceID="0x08FF1FBA" TextString="The thought of nudity is scarier than nudity itself.\n\nThe more you stay naked, the more confidence you gain.\nPerforming interactions naked lowers the amount of lost hygiene.\n\nStart by changing into more revealing outfits (sleepwear, swimwear or underwear) or admiring your body in mirrors." />
+    <TextStringDefinition InstanceID="0x0BDA8F42" TextString="The thought of nudity is scarier than nudity itself.\n\nThe more you stay naked, the more confidence you gain.\nPerforming interactions naked lowers the amount of lost hygiene.\n\nStart by undressing in a comfortable place or admiring your body in mirrors." />
     <TextStringDefinition InstanceID="0x999106EE" TextString="Acquired the Naturism Skill" />
-    <TextStringDefinition InstanceID="0xBFA0BA39" TextString="{0.SimFirstName}'s new Naturism skill will allow {M0.him}{F0.her} to perform various nudity related activities. As the skill level increases, more will be possible.\nGet into your underwear, sleepwear or swimwear outfit and try to get more comfortable around others." />
+    <TextStringDefinition InstanceID="0xE4130CA3" TextString="{0.SimFirstName}'s new Naturism skill will allow {M0.him}{F0.her} to perform various nudity related activities. As the skill level increases, more will be possible.\nUndress in different situations and try to get more comfortable around others." />
     <TextStringDefinition InstanceID="0xB9DBFD9C" TextString="Reached Naturism Level 2" />
     <TextStringDefinition InstanceID="0x250955B5" TextString="{0.SimFirstName} is now much more comfortable with nudity! Getting naked outside shouldn't be a big problem anymore." />
     <TextStringDefinition InstanceID="0xD8DBEA89" TextString="Reached Naturism Level 3" />
