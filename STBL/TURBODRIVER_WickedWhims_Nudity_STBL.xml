@@ -59,6 +59,13 @@
     <TextStringDefinition InstanceID="0x8B5A1893" TextString="Check to display nudity notifications about Player Sims." />
     <TextStringDefinition InstanceID="0x58FC679E" TextString="Display NPC Sims Notifications" />
     <TextStringDefinition InstanceID="0x316438F3" TextString="Check to display nudity notifications about NPC Sims." />
+    <TextStringDefinition InstanceID="0x2F12B6C0" TextString="Body Settings" />
+    <TextStringDefinition InstanceID="0x42099974" TextString="Body appearance of Sims." />
+    <TextStringDefinition InstanceID="0xCF0DD5C6" TextString="Penis Size Manipulation Switch" />
+    <TextStringDefinition InstanceID="0x8435F1C1" TextString="Check to allow Sims Penis Size Manipulation.\nUncheck to disallow Sims Penis Size Manipulation and revert all Sims to default size." />
+    <TextStringDefinition InstanceID="0x5242765C" TextString="Penis Size Manipulation" />
+    <TextStringDefinition InstanceID="0x7945242C" TextString="Please keep in mind that adjusting Sims penis size can cause certain animations to display effects/props incorrectly, as well as result in sporadic geometry clipping." />
+    <TextStringDefinition InstanceID="0x5EBC0894" TextString="Warning! Keeping this setting disabled will revert all Sims penis size to default!\nAny Sim penis size you might have configured will be lost!" />
     <TextStringDefinition InstanceID="0x18054B4F" TextString="Occurrence &amp; Autonomy Settings" />
     <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
     <TextStringDefinition InstanceID="0x01C964F4" TextString="Player Occurrences Inclusion" />
@@ -121,6 +128,8 @@
     <TextStringDefinition InstanceID="0x15A547DB" TextString="Check to remove irrelevant to dancing interactions from Dancing Poles, Spot Dancing Markers, and Lap Dancing Seats.\nUncheck to keep all game interactions on Dancing Poles, Spot Dancing Markers, and Lap Dancing Spots." />
     <TextStringDefinition InstanceID="0x754B3A3F" TextString="Clients Visitation Limits Switch" />
     <TextStringDefinition InstanceID="0x2FB576F8" TextString="Check to limit visiting Sims by their relationship status.\nUncheck to not limit visiting Sims in any way." />
+    <TextStringDefinition InstanceID="0x92744D99" TextString="Height Slider Mods Support" />
+    <TextStringDefinition InstanceID="0x28436F91" TextString="Check to detect Height Slider mods and adjust Sims height during dances.\nUncheck to ignore Height Slider mods." />
     <TextStringDefinition InstanceID="0x949DD67A" TextString="Window Peeping Settings" />
     <TextStringDefinition InstanceID="0x016DBACF" TextString="Window Peeping related settings." />
     <TextStringDefinition InstanceID="0x372AC0C5" TextString="Window Peeping Switch" />
@@ -192,7 +201,7 @@
     <TextStringDefinition InstanceID="0xBB7FE824" TextString="Nudity" />
     <TextStringDefinition InstanceID="0xF50F61E9" TextString="Exhibitionism" />
     <TextStringDefinition InstanceID="0xCF3BC932" TextString="Naturism" />
-    <TextStringDefinition InstanceID="0xFAD2B27D" TextString="Clothing" />
+    <TextStringDefinition InstanceID="0x0FED2090" TextString="Anatomy &amp; Clothing" />
     <TextStringDefinition InstanceID="0x315341E9" TextString="Cover Body Top" />
     <TextStringDefinition InstanceID="0x804F858B" TextString="Cover Body Bottom" />
     <TextStringDefinition InstanceID="0xE2292A10" TextString="---------- Statistics ----------" />
@@ -245,6 +254,8 @@
     <TextStringDefinition InstanceID="0x8B997542" TextString="Reacting to Nudity" />
     <TextStringDefinition InstanceID="0x96DE8943" TextString="Enable Nudity Reactions" />
     <TextStringDefinition InstanceID="0x6FC8B340" TextString="Disable Nudity Reactions" />
+    <TextStringDefinition InstanceID="0x352F30F8" TextString="Enable for Nudity Autonomy" />
+    <TextStringDefinition InstanceID="0xBB1F4B35" TextString="Disable for Nudity Autonomy" />
     <TextStringDefinition InstanceID="0x2A71C5E5" TextString="Change Sim Underwear" />
     <TextStringDefinition InstanceID="0x103FEE4A" TextString="Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\n\nChanging underwear for sleepwear and swimwear outfit is not available." />
     <TextStringDefinition InstanceID="0x7C632FD2" TextString="Go Streaking!" />
@@ -262,6 +273,32 @@
     <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} Asks Me to Undress Shoes" />
     <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
     <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} Asks Me to Dress Up" />
+    <TextStringDefinition InstanceID="0xB1063430" TextString="---------- Penis Adjustments ----------" />
+    <TextStringDefinition InstanceID="0x8E04BCC6" TextString="Penis Adjustments" />
+    <TextStringDefinition InstanceID="0xE5CDC5D3" TextString="Change Penis Size" />
+    <TextStringDefinition InstanceID="0xA530B333" TextString="Pick Sims for adjusting of penis size." />
+    <TextStringDefinition InstanceID="0x15CFA939" TextString="Select penis size to be applied on picked Sims." />
+    <TextStringDefinition InstanceID="0xB06EC994" TextString="Random" />
+    <TextStringDefinition InstanceID="0x6047E819" TextString="Randomize Length and Girth values." />
+    <TextStringDefinition InstanceID="0x935205A1" TextString="Short and Thin" />
+    <TextStringDefinition InstanceID="0x4E3E3953" TextString="Short and Average" />
+    <TextStringDefinition InstanceID="0x786360D5" TextString="Short and Thick" />
+    <TextStringDefinition InstanceID="0xD7F19952" TextString="Average and Thin" />
+    <TextStringDefinition InstanceID="0xCB561174" TextString="Average" />
+    <TextStringDefinition InstanceID="0x5D60B380" TextString="Average and Thick" />
+    <TextStringDefinition InstanceID="0x3B272BFD" TextString="Long and Thin" />
+    <TextStringDefinition InstanceID="0x7AC41EE7" TextString="Long and Average" />
+    <TextStringDefinition InstanceID="0x9178B811" TextString="Long and Thick" />
+    <TextStringDefinition InstanceID="0x1A923EC4" TextString="Length: {0.String}%\nGirth: {1.String}%" />
+    <TextStringDefinition InstanceID="0x6D8FEC50" TextString="Custom" />
+    <TextStringDefinition InstanceID="0xFBFB6555" TextString="Custom Length and Girth values." />
+    <TextStringDefinition InstanceID="0x9C8CB31E" TextString="Custom Length and Girth values.\nCurrent Length: {0.String}%\nCurrent Girth: {1.String}%" />
+    <TextStringDefinition InstanceID="0xA327C796" TextString="Custom Penis Size" />
+    <TextStringDefinition InstanceID="0xE0C985DF" TextString="Input values, from 0 to 100, that will be applied on picked Sims." />
+    <TextStringDefinition InstanceID="0xCA94286F" TextString="Penis Length Value" />
+    <TextStringDefinition InstanceID="0xC1A3D81B" TextString="Penis Girth Value" />
+    <TextStringDefinition InstanceID="0xB361B051" TextString="Penis Size of the picked Sims has been changed to the selected option." />
+    <TextStringDefinition InstanceID="0x37321772" TextString="Failed to change picked Sims Penis Size due to invalid custom values." />
     <TextStringDefinition InstanceID="0xFC6CB117" TextString="---------- Messages ----------" />
     <TextStringDefinition InstanceID="0xC9AB3921" TextString="{0.SimName} stripped from {M0.his}{F0.her} top." />
     <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
@@ -635,6 +672,9 @@
     <TextStringDefinition InstanceID="0x81C9C0B8" TextString="Run Away" />
     <TextStringDefinition InstanceID="0xE659C948" TextString="Invite In to Have Sex" />
     <TextStringDefinition InstanceID="0x16BDAE0C" TextString="Sell Peeping Pictures" />
+    <TextStringDefinition InstanceID="0xEA90054F" TextString="Window Peeping Enthusiast" />
+    <TextStringDefinition InstanceID="0xACC07998" TextString="Window Peeping Enthusiast" />
+    <TextStringDefinition InstanceID="0x965C6EB0" TextString="Window Peeping Sims randomly show up at residential lots looking through windows for an opportunity to see something spicy." />
     <TextStringDefinition InstanceID="0x3EEA6E32" TextString="&lt;font color='#340658'&gt;Feeling Exposed&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0334A55A" TextString="Oh no! Some perverted Sim was peeping through the window and {0.SimFirstName} caught them taking a picture of {M0.his}{F0.her} naked body!" />
     <TextStringDefinition InstanceID="0x8A1B13A1" TextString="&lt;font color='#340658'&gt;Unexpected Exposure&lt;/font&gt;" />

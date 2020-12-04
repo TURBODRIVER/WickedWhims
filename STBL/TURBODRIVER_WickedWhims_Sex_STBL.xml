@@ -17,6 +17,8 @@
     <TextStringDefinition InstanceID="0x5D469CA8" TextString="Check to allow Sims to talk after finishing sex." />
     <TextStringDefinition InstanceID="0x15BB7E21" TextString="Auto Silence Phone During Sex" />
     <TextStringDefinition InstanceID="0x0289438D" TextString="Check to automatically silence Sim phone during sex." />
+    <TextStringDefinition InstanceID="0xE6E75D8F" TextString="Categorize Animation Authors" />
+    <TextStringDefinition InstanceID="0xAB996C37" TextString="Check to display the list of animations authors when selecting sex animations.\nUncheck to display all sex animations at once." />
     <TextStringDefinition InstanceID="0x7E68095C" TextString="Animations Sorting Button Position" />
     <TextStringDefinition InstanceID="0xB06AA36B" TextString="Check to display the Animations Sorting Button on the top of the animations list.\nUncheck to display the Animations Sorting Button on the bottom of the animations list." />
     <TextStringDefinition InstanceID="0x863EB150" TextString="Sex Progression Settings" />
@@ -91,14 +93,19 @@
     <TextStringDefinition InstanceID="0xCBD03B67" TextString="Display sex autonomy related notifications." />
     <TextStringDefinition InstanceID="0xCD73FD6F" TextString="Autonomy Intensity Presets" />
     <TextStringDefinition InstanceID="0xEF9F53DB" TextString="Choose an intensity preset for autonomy.\n(this alters the Autonomy Awareness settings, Autonomy Triggers settings, and Autonomy Specifics settings)" />
+    <TextStringDefinition InstanceID="0xB2634FCE" TextString="Disabled Autonomy" />
+    <TextStringDefinition InstanceID="0x84A67799" TextString="Select to disable Sex Autonomy." />
+    <TextStringDefinition InstanceID="0xD9BF9E57" TextString="Very Low Intensity" />
+    <TextStringDefinition InstanceID="0x59C6F741" TextString="Select for minimal sex occurrences, very high Sims and Location precision, very slow cooldowns." />
     <TextStringDefinition InstanceID="0x74B333EB" TextString="Low Intensity" />
     <TextStringDefinition InstanceID="0x58C240BD" TextString="Select for less frequent sex, higher Sims and Location precision, slower cooldowns." />
-    <TextStringDefinition InstanceID="0x7C08C420" TextString="Default Intensity" />
+    <TextStringDefinition InstanceID="0x6CFA1AAE" TextString="Normal Intensity (Default)" />
     <TextStringDefinition InstanceID="0x1021C6B0" TextString="Select for default settings for Sex Autonomy." />
     <TextStringDefinition InstanceID="0xB868AE55" TextString="High Intensity" />
     <TextStringDefinition InstanceID="0xF7F5B654" TextString="Select for more frequent sex, higher chances, quicker cooldowns." />
     <TextStringDefinition InstanceID="0xCD83EE51" TextString="Extreme Intensity" />
     <TextStringDefinition InstanceID="0x3A9E341B" TextString="Select for very frequent sex, very high chances, relationships don't matter, almost no cooldowns." />
+    <TextStringDefinition InstanceID="0x0C29E865" TextString="All of the Sex Autonomy settings have been adjusted accordingly to the {0.String} Preset." />
     <TextStringDefinition InstanceID="0x61A18927" TextString="Autonomy Triggers" />
     <TextStringDefinition InstanceID="0xFA61C8A4" TextString="Choose which types of autonomy are allowed to run." />
     <TextStringDefinition InstanceID="0xAAF92019" TextString="Random Sex Switch" />
@@ -243,6 +250,10 @@
     <TextStringDefinition InstanceID="0xA2DF81B4" TextString="Check to enable cum layers showing up on Sims bodies." />
     <TextStringDefinition InstanceID="0x2CA75A5D" TextString="Cum Layers Visibility with Condom" />
     <TextStringDefinition InstanceID="0x1B1AA8E3" TextString="Check to allow applying of cum layers when using a condom.\nUncheck to disallow applying of cum layers when using a condom." />
+    <TextStringDefinition InstanceID="0x50E8A35A" TextString="Cum Auto Apply Switch" />
+    <TextStringDefinition InstanceID="0x7C84AAE5" TextString="Check to allow automatic applying of cum layers during sex.\nUncheck to disallow automatic applying of cum layers during sex and require manual usage of cum interactions." />
+    <TextStringDefinition InstanceID="0xD3898C5B" TextString="Limitless Cum Switch" />
+    <TextStringDefinition InstanceID="0x473688F1" TextString="Check to allow applying of cum layers during sex no matter the involved Sims.\nUncheck to disallow applying of cum layers when a Sim capable of producing cum is not present." />
     <TextStringDefinition InstanceID="0xFF4E8C90" TextString="Pregnancy Settings" />
     <TextStringDefinition InstanceID="0xF1EC39AD" TextString="Change pregnancy settings.\n\nThese settings affect only pregnancy related functions that are the outcome of WickedWhims sex interactions." />
     <TextStringDefinition InstanceID="0xD14FC8FE" TextString="Pregnancy Mode" />
@@ -538,10 +549,17 @@
     <TextStringDefinition InstanceID="0x30E5FB01" TextString="Disable Undressing in Sex" />
     <TextStringDefinition InstanceID="0x2B6D4ADE" TextString="Disable Currently Playing Animation" />
     <TextStringDefinition InstanceID="0x921BDED1" TextString="STD" />
-    <TextStringDefinition InstanceID="0x74C9DB2A" TextString="Gender Recognition" />
+    <TextStringDefinition InstanceID="0xD5AA04C1" TextString="Role Assignment" />
+    <TextStringDefinition InstanceID="0x0C26D46F" TextString="Gender Role" />
     <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
     <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
     <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
+    <TextStringDefinition InstanceID="0x748602C5" TextString="Gender Recognition Setting is currently set to Sex Identity." />
+    <TextStringDefinition InstanceID="0xF09A547A" TextString="Sexual Role" />
+    <TextStringDefinition InstanceID="0x83877607" TextString="Top" />
+    <TextStringDefinition InstanceID="0xE00CC04F" TextString="Bottom" />
+    <TextStringDefinition InstanceID="0x8D72A1A9" TextString="Dynamic" />
+    <TextStringDefinition InstanceID="0x72FA82AF" TextString="This is currently selected." />
     <TextStringDefinition InstanceID="0xD8967BA2" TextString="---------- SEX BUFFS ----------" />
     <TextStringDefinition InstanceID="0x8F4BF39D" TextString="(From High Desire)" />
     <TextStringDefinition InstanceID="0x1F556228" TextString="&lt;font color='#340658'&gt;Sexual Desire&lt;/font&gt;" />
@@ -571,6 +589,7 @@
     <TextStringDefinition InstanceID="0x0396E3D3" TextString="Code #5\n\nNo animations were found for the picked sex category, location, and Sims!" />
     <TextStringDefinition InstanceID="0x7F392A31" TextString="Code #6\n\nNo animations were found for the current location and Sims!" />
     <TextStringDefinition InstanceID="0xEC895E18" TextString="Code #7\n\nNo animations were found for the selected Sims!" />
+    <TextStringDefinition InstanceID="0x89384D1D" TextString="Code #8\n\nNo animations were found for the picked sex category, location, current Sims and joining Sims!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
     <TextStringDefinition InstanceID="0xB404E49E" TextString="Sex Animations Sorting Types" />
@@ -645,6 +664,9 @@
     <TextStringDefinition InstanceID="0x0DBCB31B" TextString="{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0xF133DCDE" TextString="{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName} are having sex!" />
     <TextStringDefinition InstanceID="0xE392734A" TextString="Sims are having sex!" />
+    <TextStringDefinition InstanceID="0xB74A8CCC" TextString="Autonomy Configuration" />
+    <TextStringDefinition InstanceID="0x6C32F470" TextString="This message is meant to inform you about the possibility of adjusting settings related to Sex Autonomy.\n\nAn autonomous sex interaction has occurred in your game. These will happen every so often, depending on your settings.\nYou can change how often, if at all, sex interactions should happen on their own. Use the button below to decide about your preferred Sex Autonomy configuration.\n\nIf you already adjusted your Sex Autonomy settings you can safely ignore this message." />
+    <TextStringDefinition InstanceID="0x4C5C9F2A" TextString="Select Autonomy Intensity Preset" />
     <TextStringDefinition InstanceID="0xABA62CF3" TextString="---------- SEX TRAITS ----------" />
     <TextStringDefinition InstanceID="0xFAD9FBA0" TextString="Incest" />
     <TextStringDefinition InstanceID="0xDA9DAA2D" TextString="Incest" />
@@ -655,6 +677,9 @@
     <TextStringDefinition InstanceID="0x6A8F4B55" TextString="Sexually Abstinent" />
     <TextStringDefinition InstanceID="0x066DF4EE" TextString="Sexually Abstinent" />
     <TextStringDefinition InstanceID="0xF0D3FB42" TextString="Sexually Abstinent Sims have no interest in sexual activities." />
+    <TextStringDefinition InstanceID="0xFF89F6D8" TextString="Selfish Lover" />
+    <TextStringDefinition InstanceID="0xF251B175" TextString="Selfish Lover" />
+    <TextStringDefinition InstanceID="0xD336412F" TextString="Selfish Lovers only care about their own sexual experience and often leave their partners unsatisfied." />
     <TextStringDefinition InstanceID="0x7E716804" TextString="---------- SEX LOT TRAITS ----------" />
     <TextStringDefinition InstanceID="0x30E54B00" TextString="Hypersexual" />
     <TextStringDefinition InstanceID="0x4945BA26" TextString="The extreme vibe of sexual desire makes this an especially great place to have sex." />

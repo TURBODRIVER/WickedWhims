@@ -37,6 +37,12 @@
     <TextStringDefinition InstanceID="0x20BE35FD" TextString="Check to keep the default jealousy from cheating behavior of Sims.\nUncheck to disable any jealousy from cheating behavior of Sims.\n\nUse the Polyamorous reward trait for individual Sims." />
     <TextStringDefinition InstanceID="0xEFC850D3" TextString="Global Incest Switch" />
     <TextStringDefinition InstanceID="0x5DAF1625" TextString="Check to enable incestuous relationships.\nUncheck to disable incestuous relationships.\n\nUse the Incest reward trait for individual Sims." />
+    <TextStringDefinition InstanceID="0xEAB5E6C9" TextString="Gender Preference Distribution Weights" />
+    <TextStringDefinition InstanceID="0xB8E31FF9" TextString="Adjust newly generated Sims gender preference.\n\nThe values below represent the game gender preference chance of getting picked." />
+    <TextStringDefinition InstanceID="0xB3B39F1C" TextString="Likes Neither Distribution Value" />
+    <TextStringDefinition InstanceID="0x3B811666" TextString="Heterosexual Distribution Value" />
+    <TextStringDefinition InstanceID="0x16BED458" TextString="Homosexual Distribution Value" />
+    <TextStringDefinition InstanceID="0xD543F140" TextString="Bisexual Distribution Value" />
     <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x2046ED9E" TextString="Relationships" />
     <TextStringDefinition InstanceID="0x7E53B6FC" TextString="--------- Buffs ---------" />
@@ -389,6 +395,12 @@
     <TextStringDefinition InstanceID="0x70E83BE8" TextString="Small Butt" />
     <TextStringDefinition InstanceID="0x9B8882E8" TextString="Average Butt" />
     <TextStringDefinition InstanceID="0xAE230EC0" TextString="Large Butt" />
+    <TextStringDefinition InstanceID="0x4275E9DB" TextString="Short Length Penis" />
+    <TextStringDefinition InstanceID="0x4AF1CD82" TextString="Average Length Penis" />
+    <TextStringDefinition InstanceID="0x1F783C5F" TextString="Long Length Penis" />
+    <TextStringDefinition InstanceID="0x850F3702" TextString="Thin Girth Penis" />
+    <TextStringDefinition InstanceID="0x01E7336E" TextString="Average Girth Penis" />
+    <TextStringDefinition InstanceID="0xE13B9A90" TextString="Thick Girth Penis" />
     <TextStringDefinition InstanceID="0xE0A826B8" TextString="Thin Thighs" />
     <TextStringDefinition InstanceID="0x8D57011C" TextString="Average Thighs" />
     <TextStringDefinition InstanceID="0xB3EC84DA" TextString="Thick Thighs" />
@@ -717,6 +729,22 @@
     <TextStringDefinition InstanceID="0xF6115571" TextString="I dislike big butts." />
     <TextStringDefinition InstanceID="0xCB7B72E3" TextString="{0.SimFirstName} likes big butts." />
     <TextStringDefinition InstanceID="0x05CDFF7F" TextString="{0.SimFirstName} dislikes big butts." />
+    <TextStringDefinition InstanceID="0xBE70877B" TextString="I like short dicks." />
+    <TextStringDefinition InstanceID="0x87ADCF11" TextString="I dislike short dicks." />
+    <TextStringDefinition InstanceID="0xAD6873DF" TextString="{0.SimFirstName} likes short dicks." />
+    <TextStringDefinition InstanceID="0xD0B34043" TextString="{0.SimFirstName} dislikes short dicks." />
+    <TextStringDefinition InstanceID="0xBB74C61C" TextString="I like long dicks." />
+    <TextStringDefinition InstanceID="0x90A637D2" TextString="I dislike long dicks." />
+    <TextStringDefinition InstanceID="0x72CA9D08" TextString="{0.SimFirstName} likes long dicks." />
+    <TextStringDefinition InstanceID="0x7BF47124" TextString="{0.SimFirstName} dislikes long dicks." />
+    <TextStringDefinition InstanceID="0xF8DF0260" TextString="I like thin dicks." />
+    <TextStringDefinition InstanceID="0xDE99CD92" TextString="I dislike thin dicks." />
+    <TextStringDefinition InstanceID="0x6320F06C" TextString="{0.SimFirstName} likes thin dicks." />
+    <TextStringDefinition InstanceID="0xFAFD0528" TextString="{0.SimFirstName} dislikes thin dicks." />
+    <TextStringDefinition InstanceID="0xB1F3D7A9" TextString="I like thick dicks." />
+    <TextStringDefinition InstanceID="0x2A90D187" TextString="I dislike thick dicks." />
+    <TextStringDefinition InstanceID="0x5FF55785" TextString="{0.SimFirstName} likes thick dicks." />
+    <TextStringDefinition InstanceID="0x36EE0541" TextString="{0.SimFirstName} dislikes thick dicks." />
     <TextStringDefinition InstanceID="0xE9F859A6" TextString="I like thin thighs." />
     <TextStringDefinition InstanceID="0x17450728" TextString="I dislike thin thighs." />
     <TextStringDefinition InstanceID="0x03886F9A" TextString="{0.SimFirstName} likes thin thighs." />
@@ -889,6 +917,12 @@
     <TextStringDefinition InstanceID="0xC40A1358" TextString="Liked Butt Sizes" />
     <TextStringDefinition InstanceID="0xDA3A492C" TextString="Disliked Butt Sizes" />
     <TextStringDefinition InstanceID="0x7932139F" TextString="Butt Size: {0.String}" />
+    <TextStringDefinition InstanceID="0x20FEE7A4" TextString="Penis Size" />
+    <TextStringDefinition InstanceID="0xBB874C21" TextString="Preferred Penis Size" />
+    <TextStringDefinition InstanceID="0xBC056AB4" TextString="Preference to Sims penis size." />
+    <TextStringDefinition InstanceID="0x85607648" TextString="Liked Penis Sizes" />
+    <TextStringDefinition InstanceID="0xF08B97CC" TextString="Disliked Penis Sizes" />
+    <TextStringDefinition InstanceID="0xAB96A759" TextString="Penis Size: {0.String}" />
     <TextStringDefinition InstanceID="0xF4EB7349" TextString="Thighs Thickness" />
     <TextStringDefinition InstanceID="0x095D7094" TextString="Preferred Thighs Thickness" />
     <TextStringDefinition InstanceID="0x68E101EB" TextString="Preference to Sims thighs thickness." />
