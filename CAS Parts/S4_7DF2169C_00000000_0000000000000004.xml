@@ -3,13 +3,19 @@
   <T n="wickedwhims_cas_parts">1</T>
   <L n="cas_parts_list">
 
-    <T>
+    <U>
       <T n="cas_part_raw_display_name">Fancy Name Of The Body Part</T> <!-- Raw Text for displayed CAS part name. Remove this field if using the "cas_part_display_name" field. -->
       <T n="cas_part_author">YourName</T> <!-- Raw Text for author name of this CAS part. -->
       <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T> <!-- Resource Key for displayed CAS part icon. -->
-      <T n="cas_part_type">BODY_TOP_MALE</T> <!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE) -->
+      <T n="cas_part_type">BODY_TOP_MALE</T> <!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, TONGUE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE, ROBOT_PENIS_HARD) -->
       <T n="cas_part_id">111111111111111111</T> <!-- Numerical ID of the CAS part. Use "cas_part_ids" when CAS part type requires it. -->
-    </T>
+      <U n="penis_sliders"> <!-- REMOVE IF NOT A 'PENIS_HARD' PART TYPE VARIANT -->
+        <T n="length_slider_low">0</T> <!-- Numerical ID of the Low Length Slider resource. -->
+        <T n="length_slider_high">0</T> <!-- Numerical ID of the High Length Slider resource. -->
+        <T n="girth_slider_low">0</T> <!-- Numerical ID of the Low Girth Slider resource. -->
+        <T n="girth_slider_high">0</T> <!-- Numerical ID of the High Girth Slider resource. -->
+      </U> <!-- REMOVE IF NOT A 'PENIS_HARD' PART TYPE VARIANT -->
+    </U>
 
   </L>
 </I>
