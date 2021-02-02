@@ -85,6 +85,13 @@
     <TextStringDefinition InstanceID="0x63604AD4" TextString="Override Duration" />
     <TextStringDefinition InstanceID="0x4B584CEA" TextString="Animation Override Duration" />
     <TextStringDefinition InstanceID="0xD01E6927" TextString="Override duration for all sex animations in realtime seconds.\n\nAnimations will not play exactly for the set amount out time. They will play for the approximate number of loops for the set time." />
+    <TextStringDefinition InstanceID="0xB6B83A74" TextString="Sex Context Settings" />
+    <TextStringDefinition InstanceID="0x682B5429" TextString="Change Sex Context related settings." />
+    <TextStringDefinition InstanceID="0xD07F63B2" TextString="Display Sex Context Interactions" />
+    <TextStringDefinition InstanceID="0xC0409FA2" TextString="Check to display the Context pie menu category during sex.\nUncheck to not disable the Context pie menu category during sex." />
+    <TextStringDefinition InstanceID="0x8B400D49" TextString="Select Available Sex Contexts" />
+    <TextStringDefinition InstanceID="0x3B57D6B7" TextString="Choose which options are available under the Context pie menu category during sex." />
+    <TextStringDefinition InstanceID="0xA6BBD7CF" TextString="Select to display the '{0.String}' sex context option." />
     <TextStringDefinition InstanceID="0x2E0B7D13" TextString="Autonomy Settings" />
     <TextStringDefinition InstanceID="0x152E455C" TextString="Change Sex Autonomy related settings." />
     <TextStringDefinition InstanceID="0x3EE0D7D2" TextString="Autonomy Switch" />
@@ -174,6 +181,8 @@
     <TextStringDefinition InstanceID="0x9DFD6EF3" TextString="Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\n(Default: 8, Minimum: 1)" />
     <TextStringDefinition InstanceID="0x90B95FD1" TextString="Minimum Sex Actors Limit" />
     <TextStringDefinition InstanceID="0x7659E3DC" TextString="Set a minimum number of actors that every sex interaction can be made out of by autonomy joining.\n\n(Default: 3, Minimum: 2)" />
+    <TextStringDefinition InstanceID="0xA2DCA6FF" TextString="Maximum Sex Actors Limit" />
+    <TextStringDefinition InstanceID="0xDB368393" TextString="Set a maximum number of actors that every sex interaction can be made out of by autonomy joining.\n\n(Default: 10, Maximum: 10)" />
     <TextStringDefinition InstanceID="0x62803C2E" TextString="NPC Sims Relationship Modifier" />
     <TextStringDefinition InstanceID="0x0D830867" TextString="Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\n(Default: 1.0)" />
     <TextStringDefinition InstanceID="0xF48591CC" TextString="Player to NPC Sims Relationship Modifier" />
@@ -279,6 +288,8 @@
     <TextStringDefinition InstanceID="0x2F080814" TextString="Select for life expectancy of: Forever (21-30 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0x8E231DC6" TextString="Long" />
     <TextStringDefinition InstanceID="0xE49B081A" TextString="Select for life expectancy of: 324 days (18-24 days per menstrual cycle)" />
+    <TextStringDefinition InstanceID="0x720553B4" TextString="Normal-To-Long" />
+    <TextStringDefinition InstanceID="0xA1417FD4" TextString="Select for life expectancy of: 162 days (13-16 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0xB6B5C03A" TextString="Normal" />
     <TextStringDefinition InstanceID="0xECCA1FA6" TextString="Select for life expectancy of: 81 days (8-10 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0xCC236812" TextString="Short" />
@@ -463,10 +474,22 @@
     <TextStringDefinition InstanceID="0x848A4827" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x22CA569A" TextString="Animations Count: {0.String}\nAuthor: {1.String}" />
     <TextStringDefinition InstanceID="0x7781241A" TextString="Locations: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
+    <TextStringDefinition InstanceID="0x15CBE9BB" TextString="Sex Animation Tags" />
+    <TextStringDefinition InstanceID="0x73C9A10E" TextString="Select Tags to add to the '{0.String}' animation." />
+    <TextStringDefinition InstanceID="0xF0BFEC8C" TextString="Select to add the '{0.String}' tag." />
+    <TextStringDefinition InstanceID="0xA6B3CB40" TextString="Select a Tag to remove from the '{0.String}' animation." />
+    <TextStringDefinition InstanceID="0xA6CE0212" TextString="Remove the '{0.String}' tag." />
+    <TextStringDefinition InstanceID="0x87E7D168" TextString="Add New Sex Animation Tags" />
+    <TextStringDefinition InstanceID="0x2B53785A" TextString="Do you want to remove the '{0.String}' tag?" />
     <TextStringDefinition InstanceID="0x77E7E1E9" TextString="Note that using this during any sex interactions may result in problems!\nIt is recommended to not use this disabler while any sex interactions are playing!" />
     <TextStringDefinition InstanceID="0x3C06D868" TextString="---------- SEX GENERAL ----------" />
+    <TextStringDefinition InstanceID="0x015A0E32" TextString="New Sex Animations Available" />
+    <TextStringDefinition InstanceID="0x65AFE413" TextString="Congratulations! You installed new sex animations!\n\nA total of {0.Number} new animation{P0.s} has been installed.\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0x8C54C33B" TextString="Failed to Load Personal Overrides" />
+    <TextStringDefinition InstanceID="0xCF1C8893" TextString="The personal sex animations overrides file failed to load. Any new alterations to sex animations will result in previous data getting deleted." />
     <TextStringDefinition InstanceID="0xA4CE44F8" TextString="Sex" />
     <TextStringDefinition InstanceID="0x56A6B759" TextString="Actions" />
+    <TextStringDefinition InstanceID="0x4CD0FC21" TextString="Context" />
     <TextStringDefinition InstanceID="0x6A3A3959" TextString="Teasing" />
     <TextStringDefinition InstanceID="0x795BA55C" TextString="Handjob" />
     <TextStringDefinition InstanceID="0x0748F0BB" TextString="Footjob" />
@@ -477,6 +500,158 @@
     <TextStringDefinition InstanceID="0x70AAE6BB" TextString="Random" />
     <TextStringDefinition InstanceID="0x2B6E2038" TextString="Playlist..." />
     <TextStringDefinition InstanceID="0xCA6D3CD6" TextString="Playlist" />
+    <TextStringDefinition InstanceID="0x6E101573" TextString="Teasing Context" />
+    <TextStringDefinition InstanceID="0x87EA3C74" TextString="Handjob Context" />
+    <TextStringDefinition InstanceID="0x0C7B3E0D" TextString="Footjob Context" />
+    <TextStringDefinition InstanceID="0x464ECA79" TextString="Oraljob Context" />
+    <TextStringDefinition InstanceID="0x25D22D9C" TextString="Vaginal Context" />
+    <TextStringDefinition InstanceID="0xC450AF32" TextString="Anal Context" />
+    <TextStringDefinition InstanceID="0xAFEDB8F8" TextString="Climax Context" />
+    <TextStringDefinition InstanceID="0x2B0C1096" TextString="Homoerotic" />
+    <TextStringDefinition InstanceID="0xE4101137" TextString="Homoerotic Context" />
+    <TextStringDefinition InstanceID="0xF87BE16C" TextString="Dressed Up" />
+    <TextStringDefinition InstanceID="0xE2053DE9" TextString="Standing" />
+    <TextStringDefinition InstanceID="0x184F9554" TextString="Standing Context" />
+    <TextStringDefinition InstanceID="0xFE65BA11" TextString="Sitting" />
+    <TextStringDefinition InstanceID="0x323B1D8C" TextString="Sitting Context" />
+    <TextStringDefinition InstanceID="0x106BBF5C" TextString="Sideways" />
+    <TextStringDefinition InstanceID="0xC246ECF1" TextString="Sideways Context" />
+    <TextStringDefinition InstanceID="0x7712A923" TextString="Upside Down" />
+    <TextStringDefinition InstanceID="0x0288EC72" TextString="Upside Down Context" />
+    <TextStringDefinition InstanceID="0x5584F700" TextString="Carry" />
+    <TextStringDefinition InstanceID="0xFB20A44D" TextString="Carry Context" />
+    <TextStringDefinition InstanceID="0x6C0937E8" TextString="Kneeling" />
+    <TextStringDefinition InstanceID="0x0668EC25" TextString="Kneeling Context" />
+    <TextStringDefinition InstanceID="0x2CE72B32" TextString="Masturbation" />
+    <TextStringDefinition InstanceID="0xBD2B732B" TextString="Masturbation Context" />
+    <TextStringDefinition InstanceID="0x89860048" TextString="Blowjob" />
+    <TextStringDefinition InstanceID="0x729F9985" TextString="Blowjob Context" />
+    <TextStringDefinition InstanceID="0x6F89FFF5" TextString="Deep Throat" />
+    <TextStringDefinition InstanceID="0x9BE63088" TextString="Deep Throat Context" />
+    <TextStringDefinition InstanceID="0x0686AC94" TextString="Cunnilingus" />
+    <TextStringDefinition InstanceID="0x2A6EF759" TextString="Cunnilingus Context" />
+    <TextStringDefinition InstanceID="0xABD024AC" TextString="Rimjob" />
+    <TextStringDefinition InstanceID="0xFFC7DFE1" TextString="Rimjob Context" />
+    <TextStringDefinition InstanceID="0xD277E2E0" TextString="Fingering" />
+    <TextStringDefinition InstanceID="0x92D806AD" TextString="Fingering Context" />
+    <TextStringDefinition InstanceID="0xC0C13610" TextString="Sixtynine" />
+    <TextStringDefinition InstanceID="0xD8B10B7D" TextString="Sixtynine Context" />
+    <TextStringDefinition InstanceID="0x02FF8E16" TextString="Face Sitting" />
+    <TextStringDefinition InstanceID="0x2385BEB7" TextString="Face Sitting Context" />
+    <TextStringDefinition InstanceID="0x33EF7B99" TextString="Titjob" />
+    <TextStringDefinition InstanceID="0x421A8E24" TextString="Titjob Context" />
+    <TextStringDefinition InstanceID="0x052A706C" TextString="Thighjob" />
+    <TextStringDefinition InstanceID="0x08E3E721" TextString="Thighjob Context" />
+    <TextStringDefinition InstanceID="0x9C5DCE13" TextString="Doggy" />
+    <TextStringDefinition InstanceID="0x2B1C7C02" TextString="Doggy Context" />
+    <TextStringDefinition InstanceID="0x78DF1A9D" TextString="Missionary" />
+    <TextStringDefinition InstanceID="0x39F580C0" TextString="Missionary Context" />
+    <TextStringDefinition InstanceID="0xF448DD46" TextString="Cowgirl" />
+    <TextStringDefinition InstanceID="0xA88F9787" TextString="Cowgirl Context" />
+    <TextStringDefinition InstanceID="0xBE1576A4" TextString="Spooning" />
+    <TextStringDefinition InstanceID="0xBEA10F89" TextString="Spooning Context" />
+    <TextStringDefinition InstanceID="0x6F7B7069" TextString="Pronebone" />
+    <TextStringDefinition InstanceID="0xD3C997D4" TextString="Pronebone Context" />
+    <TextStringDefinition InstanceID="0x08169A27" TextString="Piledriver" />
+    <TextStringDefinition InstanceID="0x12AC957E" TextString="Piledriver Context" />
+    <TextStringDefinition InstanceID="0x19859198" TextString="Spitroast" />
+    <TextStringDefinition InstanceID="0xDA9EA935" TextString="Spitroast Context" />
+    <TextStringDefinition InstanceID="0x54FB3953" TextString="Kissing" />
+    <TextStringDefinition InstanceID="0x69ED9FC2" TextString="Kissing Context" />
+    <TextStringDefinition InstanceID="0x481ABA78" TextString="Spanking" />
+    <TextStringDefinition InstanceID="0xC5AE6815" TextString="Spanking Context" />
+    <TextStringDefinition InstanceID="0x5BEB391C" TextString="Choking" />
+    <TextStringDefinition InstanceID="0x7E00CC31" TextString="Choking Context" />
+    <TextStringDefinition InstanceID="0x53F13CCF" TextString="Groping" />
+    <TextStringDefinition InstanceID="0x85A3A8F6" TextString="Groping Context" />
+    <TextStringDefinition InstanceID="0xDBBE2561" TextString="Tits Sucking" />
+    <TextStringDefinition InstanceID="0x250E547C" TextString="Tits Sucking Context" />
+    <TextStringDefinition InstanceID="0x6D0099A8" TextString="Toes Sucking" />
+    <TextStringDefinition InstanceID="0x01848E65" TextString="Toes Sucking Context" />
+    <TextStringDefinition InstanceID="0xDA11CE1C" TextString="Flexible" />
+    <TextStringDefinition InstanceID="0x87450131" TextString="Flexible Context" />
+    <TextStringDefinition InstanceID="0xE3D29011" TextString="Double Penetration" />
+    <TextStringDefinition InstanceID="0x3EACB38C" TextString="Double Penetration Context" />
+    <TextStringDefinition InstanceID="0x9C0F0E3B" TextString="Peeing" />
+    <TextStringDefinition InstanceID="0x70AB8E9A" TextString="Peeing Context" />
+    <TextStringDefinition InstanceID="0x9FFFB4B3" TextString="Fisting" />
+    <TextStringDefinition InstanceID="0x6F9F9E22" TextString="Fisting Context" />
+    <TextStringDefinition InstanceID="0xAEEB3E95" TextString="Squirt" />
+    <TextStringDefinition InstanceID="0x2C919BA8" TextString="Squirt Context" />
+    <TextStringDefinition InstanceID="0xD890F9A4" TextString="Cumshot" />
+    <TextStringDefinition InstanceID="0xA129F289" TextString="Cumshot Context" />
+    <TextStringDefinition InstanceID="0x4381C6E5" TextString="Creampie" />
+    <TextStringDefinition InstanceID="0xC68A5218" TextString="Creampie Context" />
+    <TextStringDefinition InstanceID="0x7E0028F2" TextString="Cum In Mouth" />
+    <TextStringDefinition InstanceID="0x5EB83A6B" TextString="Cum In Mouth Context" />
+    <TextStringDefinition InstanceID="0x70DDE38A" TextString="Cum Inside" />
+    <TextStringDefinition InstanceID="0x461C1353" TextString="Cum Inside Context" />
+    <TextStringDefinition InstanceID="0xABC49233" TextString="Bukkake" />
+    <TextStringDefinition InstanceID="0x6FB2ABA2" TextString="Bukkake Context" />
+    <TextStringDefinition InstanceID="0xCCADCD61" TextString="Foreplay" />
+    <TextStringDefinition InstanceID="0xCB4AFC7C" TextString="Foreplay Context" />
+    <TextStringDefinition InstanceID="0x5E63016E" TextString="Slow" />
+    <TextStringDefinition InstanceID="0xF2B2DB9F" TextString="Slow Context" />
+    <TextStringDefinition InstanceID="0x3676B40C" TextString="Passionate" />
+    <TextStringDefinition InstanceID="0x761329C1" TextString="Passionate Context" />
+    <TextStringDefinition InstanceID="0x13650EC6" TextString="Rough" />
+    <TextStringDefinition InstanceID="0x63107907" TextString="Rough Context" />
+    <TextStringDefinition InstanceID="0xC22D396E" TextString="Forced" />
+    <TextStringDefinition InstanceID="0x128C139F" TextString="Forced Context" />
+    <TextStringDefinition InstanceID="0xDCACD9FF" TextString="BDSM" />
+    <TextStringDefinition InstanceID="0x2DB1FEC6" TextString="BDSM Context" />
+    <TextStringDefinition InstanceID="0x30803FF5" TextString="Femdom" />
+    <TextStringDefinition InstanceID="0x1D647088" TextString="Femdom Context" />
+    <TextStringDefinition InstanceID="0x0C2940AC" TextString="Maledom" />
+    <TextStringDefinition InstanceID="0x18A87BE1" TextString="Maledom Context" />
+    <TextStringDefinition InstanceID="0x0B531196" TextString="Free Use" />
+    <TextStringDefinition InstanceID="0x87963237" TextString="Free Use Context" />
+    <TextStringDefinition InstanceID="0x039EED57" TextString="Shy" />
+    <TextStringDefinition InstanceID="0xDFA67C8E" TextString="Shy Context" />
+    <TextStringDefinition InstanceID="0x50B55B0C" TextString="Awkward" />
+    <TextStringDefinition InstanceID="0x5F1FB0C1" TextString="Awkward Context" />
+    <TextStringDefinition InstanceID="0x0498DDAF" TextString="Futa" />
+    <TextStringDefinition InstanceID="0x57C4C2D6" TextString="Futa Context" />
+    <TextStringDefinition InstanceID="0x96E72921" TextString="Threesome" />
+    <TextStringDefinition InstanceID="0x07F0C6BC" TextString="Threesome Context" />
+    <TextStringDefinition InstanceID="0x2EC09DDD" TextString="Foursome" />
+    <TextStringDefinition InstanceID="0x58183A80" TextString="Foursome Context" />
+    <TextStringDefinition InstanceID="0x0B1BD97E" TextString="Orgy" />
+    <TextStringDefinition InstanceID="0x3CD5C84F" TextString="Orgy Context" />
+    <TextStringDefinition InstanceID="0x70DCA196" TextString="Gangbang" />
+    <TextStringDefinition InstanceID="0x3AC1C237" TextString="Gangbang Context" />
+    <TextStringDefinition InstanceID="0x1155AE9E" TextString="Harem" />
+    <TextStringDefinition InstanceID="0x485ED76F" TextString="Harem Context" />
+    <TextStringDefinition InstanceID="0x3BADB5A1" TextString="Toy" />
+    <TextStringDefinition InstanceID="0xB02C633C" TextString="Toy Context" />
+    <TextStringDefinition InstanceID="0x006EA249" TextString="Dildo" />
+    <TextStringDefinition InstanceID="0x45734534" TextString="Dildo Context" />
+    <TextStringDefinition InstanceID="0x6B0A46C8" TextString="Camera" />
+    <TextStringDefinition InstanceID="0xD1563005" TextString="Camera Context" />
+    <TextStringDefinition InstanceID="0xE7B2E5DE" TextString="Story" />
+    <TextStringDefinition InstanceID="0x4F57492F" TextString="Story Context" />
+    <TextStringDefinition InstanceID="0x9BDA2E83" TextString="Cuck" />
+    <TextStringDefinition InstanceID="0x9F9F9952" TextString="Cuck Context" />
+    <TextStringDefinition InstanceID="0xC91D4E8E" TextString="Onlooker" />
+    <TextStringDefinition InstanceID="0xCDFD92BF" TextString="Onlooker Context" />
+    <TextStringDefinition InstanceID="0xC313F646" TextString="Weird" />
+    <TextStringDefinition InstanceID="0x2804D087" TextString="Weird Context" />
+    <TextStringDefinition InstanceID="0xBCB26D5E" TextString="Sleeping" />
+    <TextStringDefinition InstanceID="0x6F1040AF" TextString="Sleeping Context" />
+    <TextStringDefinition InstanceID="0x8BF279CD" TextString="Gross" />
+    <TextStringDefinition InstanceID="0x99C11190" TextString="Gross Context" />
+    <TextStringDefinition InstanceID="0x45C8F6A7" TextString="Vampire" />
+    <TextStringDefinition InstanceID="0xC37E01FE" TextString="Vampire Context" />
+    <TextStringDefinition InstanceID="0xDBC03328" TextString="Alien" />
+    <TextStringDefinition InstanceID="0x0BADD7E5" TextString="Alien Context" />
+    <TextStringDefinition InstanceID="0x13ED7888" TextString="Ghost" />
+    <TextStringDefinition InstanceID="0x6E597945" TextString="Ghost Context" />
+    <TextStringDefinition InstanceID="0x0B9B8272" TextString="Servo" />
+    <TextStringDefinition InstanceID="0xAF7543EB" TextString="Servo Context" />
+    <TextStringDefinition InstanceID="0xDEEFB7BC" TextString="Magic" />
+    <TextStringDefinition InstanceID="0x96CBB851" TextString="Magic Context" />
+    <TextStringDefinition InstanceID="0xCA9F9EE0" TextString="Dance" />
+    <TextStringDefinition InstanceID="0x8ABB42AD" TextString="Dance Context" />
     <TextStringDefinition InstanceID="0xB3EAB2BF" TextString="---------- SEX SKILL ----------" />
     <TextStringDefinition InstanceID="0x9E76EEDC" TextString="Sexpertise" />
     <TextStringDefinition InstanceID="0x1E2935FB" TextString="As one begins their journey through the fields of Sim sexuality, they begin to see the subtle connections between each aspect of intimacy. The more time spent developing this skill, the more one is able to understand and adapt to their partner's sexual desires as well as furthering their proficiency at reading their signs.\n\nSexpertise skill is improved by analyzing the intricacies of Sim sexology via books, or more personal 'research'." />
@@ -548,6 +723,7 @@
     <TextStringDefinition InstanceID="0x3858B3E2" TextString="Enable Undressing in Sex" />
     <TextStringDefinition InstanceID="0x30E5FB01" TextString="Disable Undressing in Sex" />
     <TextStringDefinition InstanceID="0x2B6D4ADE" TextString="Disable Currently Playing Animation" />
+    <TextStringDefinition InstanceID="0x94D3BEDD" TextString="Modify Currently Playing Animation Tags" />
     <TextStringDefinition InstanceID="0x921BDED1" TextString="STD" />
     <TextStringDefinition InstanceID="0xD5AA04C1" TextString="Role Assignment" />
     <TextStringDefinition InstanceID="0x0C26D46F" TextString="Gender Role" />
@@ -576,6 +752,7 @@
     <TextStringDefinition InstanceID="0xEDA45727" TextString="Climax Animations" />
     <TextStringDefinition InstanceID="0xD04B21FD" TextString="Random Animation" />
     <TextStringDefinition InstanceID="0x8933D1B4" TextString="Sex Categories" />
+    <TextStringDefinition InstanceID="0x58E99F90" TextString="Sex Contexts" />
     <TextStringDefinition InstanceID="0x1BB9A6D3" TextString="Swap {0.SimFirstName}'s Spot" />
     <TextStringDefinition InstanceID="0xF7507D17" TextString="Pick a Sim to swap with {0.SimFirstName}." />
     <TextStringDefinition InstanceID="0x360C3F6A" TextString="Pick a partner for sex or yourself for a solo interaction." />
@@ -589,7 +766,7 @@
     <TextStringDefinition InstanceID="0x0396E3D3" TextString="Code #5\n\nNo animations were found for the picked sex category, location, and Sims!" />
     <TextStringDefinition InstanceID="0x7F392A31" TextString="Code #6\n\nNo animations were found for the current location and Sims!" />
     <TextStringDefinition InstanceID="0xEC895E18" TextString="Code #7\n\nNo animations were found for the selected Sims!" />
-    <TextStringDefinition InstanceID="0x89384D1D" TextString="Code #8\n\nNo animations were found for the picked sex category, location, current Sims and joining Sims!" />
+    <TextStringDefinition InstanceID="0xB7B66B9A" TextString="Code #9\n\nNo animations were found for the picked sex category, location, current Sims and joining Sims!" />
     <TextStringDefinition InstanceID="0xB99AC50D" TextString="Install Sex Animations!" />
     <TextStringDefinition InstanceID="0x3F91C4BB" TextString="Looks like you have not installed any sex animations.\nCurrently you will only have few default animations that are included with the mod.\n\nIf you want more animations, look for them included on the mod page download section." />
     <TextStringDefinition InstanceID="0xB404E49E" TextString="Sex Animations Sorting Types" />
@@ -614,10 +791,14 @@
     <TextStringDefinition InstanceID="0x5071CFE1" TextString="Duration" />
     <TextStringDefinition InstanceID="0x1D7AA8E9" TextString="Sort animations by duration, from shortest to longest." />
     <TextStringDefinition InstanceID="0x714D1958" TextString="[&lt;font color='#EC262E'&gt;♥&lt;/font&gt;] {0.String}" />
+    <TextStringDefinition InstanceID="0xCD289D78" TextString="&lt;i&gt;{0.String}&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x16F32D85" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
+    <TextStringDefinition InstanceID="0x4DD61AA2" TextString="Can I join in on the fun?" />
+    <TextStringDefinition InstanceID="0x4DA573FD" TextString="Sure, come on in." />
+    <TextStringDefinition InstanceID="0xE6BC9647" TextString="Sorry, not this time." />
+    <TextStringDefinition InstanceID="0x4D9E91EC" TextString="No, you cannot join in." />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
-    <TextStringDefinition InstanceID="0xE866AA8C" TextString="Can I join?" />
     <TextStringDefinition InstanceID="0xCA90E74C" TextString="Accept" />
     <TextStringDefinition InstanceID="0xC8860772" TextString="Decline" />
     <TextStringDefinition InstanceID="0xE2582FB4" TextString="---------- SEX NOTIFICATIONS ----------" />
@@ -651,6 +832,7 @@
     <TextStringDefinition InstanceID="0x646CF964" TextString="{1.SimFirstName} is feeling uncomfortable." />
     <TextStringDefinition InstanceID="0xDB2FBC63" TextString="{1.SimFirstName} is feeling sad." />
     <TextStringDefinition InstanceID="0xF433204C" TextString="{1.SimFirstName} is feeling embarrassed." />
+    <TextStringDefinition InstanceID="0x1FE93A8D" TextString="{1.SimFirstName} is feeling scared." />
     <TextStringDefinition InstanceID="0xEDF66FE8" TextString="{0.SimFirstName} smells." />
     <TextStringDefinition InstanceID="0xDA3271AA" TextString="Relationship between {0.SimFirstName} and {1.SimFirstName} is too weak." />
     <TextStringDefinition InstanceID="0xE2B227A5" TextString="{0.SimName} is having some fun!" />
@@ -686,6 +868,7 @@
     <TextStringDefinition InstanceID="0xA8A4207C" TextString="---------- SEX SHOP ----------" />
     <TextStringDefinition InstanceID="0x99735826" TextString="Purchase Wicked Items" />
     <TextStringDefinition InstanceID="0xEA05E1F4" TextString="Thanks for ordering! The Wicked items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox." />
+    <TextStringDefinition InstanceID="0xA97C2B7E" TextString="Go to the Wicked Store" />
     <TextStringDefinition InstanceID="0x5CE2AE4B" TextString="---------- WATCHING SEX ----------" />
     <TextStringDefinition InstanceID="0x9AF9827F" TextString="Watch Sex" />
     <TextStringDefinition InstanceID="0x66CA9C71" TextString="Watching Sex" />
@@ -939,7 +1122,10 @@
     <TextStringDefinition InstanceID="0xA9EA21AC" TextString="Cum Slut Sims love to receive hot loads of cum all over their body." />
     <TextStringDefinition InstanceID="0x84347ED1" TextString="---------- PREGNANCY GENERAL ----------" />
     <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
-    <TextStringDefinition InstanceID="0x2B830EE5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nAttempting conception sex multiple times a day with the same partner will not yield different results." />
+    <TextStringDefinition InstanceID="0x0D9DD9D5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result." />
+    <TextStringDefinition InstanceID="0x6B84E486" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nWait at least 8 hours before attempting conception with the same partner again." />
+    <TextStringDefinition InstanceID="0xD231332B" TextString="{0.SimName} &lt;b&gt;cannot&lt;/b&gt; get pregnant right now.\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0x55853127" TextString="Maximum number of Sims that can fit in a household has been reached." />
     <TextStringDefinition InstanceID="0x6DA00490" TextString="---------- PREGNANCY INTERACTIONS ----------" />
     <TextStringDefinition InstanceID="0x95DD6D27" TextString="---------- PREGNANCY BUFFS ----------" />
     <TextStringDefinition InstanceID="0xCE47E2B7" TextString="&lt;font color='#340658'&gt;Discovered Teen Pregnancy&lt;/font&gt;" />
@@ -972,8 +1158,8 @@
     <TextStringDefinition InstanceID="0x35E1CC94" TextString="From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just passed {M1.his}{F1.her} ovulation day. That means {M1.he}{F1.she} won't be able to get pregnant anytime soon." />
     <TextStringDefinition InstanceID="0x21CD5B98" TextString="Take Fertility Awareness Test" />
     <TextStringDefinition InstanceID="0xA6EF980D" TextString="Fertility Awareness Test" />
-    <TextStringDefinition InstanceID="0x94B4AA01" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant.\n\nCheck {0.SimFirstName}'s fertility information via phone by using the Period Tracker app." />
-    <TextStringDefinition InstanceID="0x0452D939" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.String}% chance of becoming pregnant." />
+    <TextStringDefinition InstanceID="0xBFC56519" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.Number}% chance of becoming pregnant.\n\nCheck {0.SimFirstName}'s fertility information via phone by using the Period Tracker app." />
+    <TextStringDefinition InstanceID="0x573A0391" TextString="{0.SimFirstName}'s fertility awareness test resulted in {1.Number}% chance of becoming pregnant." />
     <TextStringDefinition InstanceID="0x1EE0796A" TextString="Fertility Treatment" />
     <TextStringDefinition InstanceID="0x4AAC8862" TextString="{0.SimName} received a temporary fertility treatment.\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\n\nAfter the next ovulation ends, treatment will lose its potential." />
     <TextStringDefinition InstanceID="0x2B88AD91" TextString="{0.SimFirstName} is not able to do this while pregnant." />
@@ -998,15 +1184,15 @@
     <TextStringDefinition InstanceID="0xA0D10F73" TextString="Allow Birth Control Pills Auto Use" />
     <TextStringDefinition InstanceID="0xC393D467" TextString="Disallow Birth Control Pills Auto Use" />
     <TextStringDefinition InstanceID="0xB0586B51" TextString="Used a condom owned by {1.SimName}." />
-    <TextStringDefinition InstanceID="0xA843178D" TextString="Used {0.String} condoms owned by {1.SimName} and {2.SimName}." />
-    <TextStringDefinition InstanceID="0xEA1A8CFC" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName} and {3.SimName}." />
-    <TextStringDefinition InstanceID="0xA9965330" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName} and {4.SimName}." />
-    <TextStringDefinition InstanceID="0x72D05B59" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName} and {5.SimName}." />
-    <TextStringDefinition InstanceID="0xED901BE5" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName} and {6.SimName}." />
-    <TextStringDefinition InstanceID="0x86BD3278" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName} and {7.SimName}." />
-    <TextStringDefinition InstanceID="0x784040C0" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName}." />
-    <TextStringDefinition InstanceID="0xEBDC9D7D" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName}." />
-    <TextStringDefinition InstanceID="0xDA3CB31E" TextString="Used {0.String} condoms owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName}, {9.SimName} and {10.SimName}." />
+    <TextStringDefinition InstanceID="0xD6F5DC81" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName} and {2.SimName}." />
+    <TextStringDefinition InstanceID="0xB6311070" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName} and {3.SimName}." />
+    <TextStringDefinition InstanceID="0xFAEB440C" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName} and {4.SimName}." />
+    <TextStringDefinition InstanceID="0xB263381D" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName} and {5.SimName}." />
+    <TextStringDefinition InstanceID="0x9F6E07D1" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName} and {6.SimName}." />
+    <TextStringDefinition InstanceID="0x50EB5D6C" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName} and {7.SimName}." />
+    <TextStringDefinition InstanceID="0xB46AF514" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName}." />
+    <TextStringDefinition InstanceID="0x1F432271" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName}." />
+    <TextStringDefinition InstanceID="0xBD32DC6A" TextString="Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName}, {9.SimName} and {10.SimName}." />
     <TextStringDefinition InstanceID="0xEDDC3975" TextString="Not enough condoms to use for every partner!" />
     <TextStringDefinition InstanceID="0x3896FBD9" TextString="{0.SimFirstName} took a birth control pill." />
     <TextStringDefinition InstanceID="0xE7D868DF" TextString="Wicked Condoms Box" />

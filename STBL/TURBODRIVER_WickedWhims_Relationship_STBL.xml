@@ -13,6 +13,8 @@
     <TextStringDefinition InstanceID="0xD1E5625C" TextString="Check to allow Sims personality archetypes hint notifications to show up.\nUncheck to disallow Sims personality archetypes hint notifications from showing up." />
     <TextStringDefinition InstanceID="0x0BA438C3" TextString="Attractiveness Settings" />
     <TextStringDefinition InstanceID="0xAF2D2146" TextString="Change Sims attractiveness related settings." />
+    <TextStringDefinition InstanceID="0xD726B059" TextString="Advanced Attractiveness Settings" />
+    <TextStringDefinition InstanceID="0x71D1E69C" TextString="Change advanced attractiveness related settings." />
     <TextStringDefinition InstanceID="0x54AF2510" TextString="Sims Attractiveness Switch" />
     <TextStringDefinition InstanceID="0x632C1C48" TextString="Check to enable attractiveness affecting Sims.\nUncheck to disable attractiveness affecting Sims." />
     <TextStringDefinition InstanceID="0x064DE5C3" TextString="Attractiveness Relationship Scoring Switch" />
@@ -23,6 +25,9 @@
     <TextStringDefinition InstanceID="0x8D9BE379" TextString="Check to allow NPC Sims to give your playable Sims a Suggestive Look.\nUncheck to disallow NPC Sims from giving your playable Sims Suggestive Looks." />
     <TextStringDefinition InstanceID="0x8977483C" TextString="Attractiveness Suggestive Look Base Chance" />
     <TextStringDefinition InstanceID="0xF856BBC7" TextString="Set a unit interval value for chance of Suggestive Look occurring. Value 1.0 is 100% chance.\n(Default: 0.85, Minimum: 0.0)" />
+    <TextStringDefinition InstanceID="0x397B3B1B" TextString="Attractiveness Frozen World View Switch" />
+    <TextStringDefinition InstanceID="0x28882C2D" TextString="Check to enable dynamically adjusting world view for attractive traits strength.\nUncheck to disable dynamically adjusting world view for attractive traits strength.\n\nWarning! Enabling dynamically adjusting world view will cause your attractiveness status of Sims to fluctuate randomly." />
+    <TextStringDefinition InstanceID="0x4767E2E5" TextString="Changing this setting will irreversibly alter the state of Attractiveness!\n\nMake sure to save the game before applying changes." />
     <TextStringDefinition InstanceID="0x80C270BF" TextString="Romance Age Restrictions Switch" />
     <TextStringDefinition InstanceID="0xD1771538" TextString="Check to unlock romance interactions between teen-age and adult-age Sims.\nUncheck to keep romance interactions locked between teen-age and adult-age Sims." />
     <TextStringDefinition InstanceID="0x342BA695" TextString="Open Relationships Switch" />
@@ -405,6 +410,10 @@
     <TextStringDefinition InstanceID="0x8D57011C" TextString="Average Thighs" />
     <TextStringDefinition InstanceID="0xB3EC84DA" TextString="Thick Thighs" />
     <TextStringDefinition InstanceID="0x6159F062" TextString="--------- Attractiveness Responses ---------" />
+    <TextStringDefinition InstanceID="0xBE35F6C4" TextString="I'm not into men." />
+    <TextStringDefinition InstanceID="0xE972D98B" TextString="{0.SimFirstName} is not into men." />
+    <TextStringDefinition InstanceID="0xC3C27AD6" TextString="I'm not into women." />
+    <TextStringDefinition InstanceID="0x3EBB4B15" TextString="{0.SimFirstName} is not into women." />
     <TextStringDefinition InstanceID="0x7D1F4D8A" TextString="I dislike Humans." />
     <TextStringDefinition InstanceID="0xA12BF640" TextString="{0.SimFirstName} dislikes Humans." />
     <TextStringDefinition InstanceID="0xCEBE21DA" TextString="I dislike Vampires." />
@@ -755,16 +764,15 @@
     <TextStringDefinition InstanceID="0x534D08E8" TextString="{0.SimFirstName} dislikes thick thighs." />
     <TextStringDefinition InstanceID="0x034E6114" TextString="--------- Attractiveness Selectors ---------" />
     <TextStringDefinition InstanceID="0xBC7D21FB" TextString="Attractiveness" />
-    <TextStringDefinition InstanceID="0x9B4E4FF9" TextString="Select Preferences" />
-    <TextStringDefinition InstanceID="0xFD797C92" TextString="Generate Preferences" />
-    <TextStringDefinition InstanceID="0x8FF695C7" TextString="Select Sim Preferences" />
-    <TextStringDefinition InstanceID="0xCE19C0B2" TextString="Select Specific Sims Preferences" />
-    <TextStringDefinition InstanceID="0xF31ABE55" TextString="Select All Sims Preferences" />
-    <TextStringDefinition InstanceID="0x55028FD2" TextString="Generate Sim Preferences" />
-    <TextStringDefinition InstanceID="0x55DB4943" TextString="Generate Specific Sims Preferences" />
-    <TextStringDefinition InstanceID="0x625981F6" TextString="Generate All Sims Preferences" />
-    <TextStringDefinition InstanceID="0x0D31E9E2" TextString="Attractiveness Preferences Generator is currently in progress. Please wait." />
-    <TextStringDefinition InstanceID="0x9E80251A" TextString="Sims Types to Pre-Select" />
+    <TextStringDefinition InstanceID="0xD242932F" TextString="Choose &lt;b&gt;{1.SimFirstName}&lt;/b&gt;'s Preferences" />
+    <TextStringDefinition InstanceID="0x5C92DB19" TextString="Choose Other Sims Preferences" />
+    <TextStringDefinition InstanceID="0x2DCAFF9F" TextString="Develop &lt;b&gt;{1.SimFirstName}&lt;/b&gt;'s Preferences" />
+    <TextStringDefinition InstanceID="0xB038A569" TextString="Develop Other Sims Preferences" />
+    <TextStringDefinition InstanceID="0x3B07DF5E" TextString="Developing Attractiveness Preferences is currently in progress. Please wait." />
+    <TextStringDefinition InstanceID="0x35554365" TextString="Sims to Pre-Select" />
+    <TextStringDefinition InstanceID="0x228315B8" TextString="Choose types of Sims to pre-select for attractiveness development." />
+    <TextStringDefinition InstanceID="0x9FD2C5F1" TextString="Choose types of Sims to pre-select for editing of attractiveness traits." />
+    <TextStringDefinition InstanceID="0x4DDCAFC3" TextString="Select All Sims" />
     <TextStringDefinition InstanceID="0x5120379C" TextString="Select Female Sims" />
     <TextStringDefinition InstanceID="0xEECFFD95" TextString="Select Male Sims" />
     <TextStringDefinition InstanceID="0x573037CF" TextString="Select Teen Age Sims" />
@@ -967,10 +975,12 @@
     <TextStringDefinition InstanceID="0x1F83F8F2" TextString="Liked Outfit Details" />
     <TextStringDefinition InstanceID="0xCC9166CE" TextString="Disliked Outfit Details" />
     <TextStringDefinition InstanceID="0xE914668D" TextString="Outfit Detail: {0.String}" />
-    <TextStringDefinition InstanceID="0xCA51353E" TextString="Attractiveness Generator Sims Selector" />
-    <TextStringDefinition InstanceID="0xEB86B298" TextString="Select Sims to generate Preferred Attractiveness Traits." />
-    <TextStringDefinition InstanceID="0x65F9925A" TextString="Attractiveness Generator Types" />
-    <TextStringDefinition InstanceID="0x68C9BC85" TextString="Attractiveness Generator Modes" />
+    <TextStringDefinition InstanceID="0xF795549A" TextString="Developing Attractiveness Sims Selector" />
+    <TextStringDefinition InstanceID="0x511A0C4E" TextString="Select Sims for Developing Preferred Attractiveness Traits." />
+    <TextStringDefinition InstanceID="0x2A8F976A" TextString="Attractiveness Developing Method" />
+    <TextStringDefinition InstanceID="0xF4BFE668" TextString="Choose the method of how Sims should develop their attractiveness." />
+    <TextStringDefinition InstanceID="0x8E57E976" TextString="Attractiveness Developing Strength" />
+    <TextStringDefinition InstanceID="0x71949F42" TextString="Choose how strong should Sims development of attractiveness be." />
     <TextStringDefinition InstanceID="0xF637ADFE" TextString="Attractiveness Traits Sims Selector" />
     <TextStringDefinition InstanceID="0x8189B74B" TextString="Select Sims to edit Preferred Attractiveness Traits." />
     <TextStringDefinition InstanceID="0xA376312B" TextString="Attractiveness Traits Categories" />
@@ -978,34 +988,34 @@
     <TextStringDefinition InstanceID="0x9E4D182A" TextString="Copy Attractiveness Preferences Sims Selector" />
     <TextStringDefinition InstanceID="0xC61A1884" TextString="Select a Sim to copy Attractiveness Preferences from." />
     <TextStringDefinition InstanceID="0x3CE68CBE" TextString="You're about to copy {0.SimName} Attractiveness Preferences and apply them to the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0xDACEA62E" TextString="Based on Romantic Partners" />
-    <TextStringDefinition InstanceID="0xAC4C92EA" TextString="All of the attractiveness preferences are generated based on the Sim romantic partners attractive traits.\n\n(Requires existing romantic partners.)" />
-    <TextStringDefinition InstanceID="0x839F8797" TextString="Based on Family Parents" />
-    <TextStringDefinition InstanceID="0x0A642E80" TextString="All of the attractiveness preferences are generated based on the Sim parents attractive traits.\n\n(Requires existing family parents.)" />
-    <TextStringDefinition InstanceID="0xB6EE1C28" TextString="Based on Picked Sims" />
-    <TextStringDefinition InstanceID="0x3CE715D1" TextString="All of the attractiveness preferences are generated based on the picked Sims attractive traits." />
+    <TextStringDefinition InstanceID="0xB00CBBB3" TextString="Develop based on Romantic Partners" />
+    <TextStringDefinition InstanceID="0x011B9729" TextString="All of the attractiveness preferences are developed based on the Sim romantic partners attractive traits.\n\n(Requires existing romantic partners.)" />
+    <TextStringDefinition InstanceID="0x5D775954" TextString="Develop based on Family Parents" />
+    <TextStringDefinition InstanceID="0xF6DE9985" TextString="All of the attractiveness preferences are developed based on the Sim parents attractive traits.\n\n(Requires existing family parents.)" />
+    <TextStringDefinition InstanceID="0x593AF585" TextString="Develop based on Picked Sims" />
+    <TextStringDefinition InstanceID="0x21BD68A6" TextString="All of the attractiveness preferences are developed based on the picked Sims attractive traits." />
     <TextStringDefinition InstanceID="0x912128BC" TextString="Attractiveness Sims Picker" />
     <TextStringDefinition InstanceID="0x88BDA16D" TextString="Pick Sims that will be used as the base for attractiveness preferences." />
-    <TextStringDefinition InstanceID="0x29841457" TextString="Based on Sim own Attractive Traits" />
-    <TextStringDefinition InstanceID="0xA23ACED6" TextString="All of the attractiveness preferences are generated based on the Sim own attractive traits." />
-    <TextStringDefinition InstanceID="0x5E10C5AE" TextString="Based on most common Attractive Traits" />
-    <TextStringDefinition InstanceID="0xA0DBC8BD" TextString="All of the attractiveness preferences are generated based on the most common attractive traits of all Sims in the world." />
+    <TextStringDefinition InstanceID="0x927013DE" TextString="Develop based on Sim own Attractive Traits" />
+    <TextStringDefinition InstanceID="0xCFE189F5" TextString="All of the attractiveness preferences are developed based on the Sim own attractive traits." />
+    <TextStringDefinition InstanceID="0xFCF3FADF" TextString="Develop based on Most Common Attractive Traits" />
+    <TextStringDefinition InstanceID="0x72A7DA7C" TextString="All of the attractiveness preferences are developed based on the most common attractive traits of all Sims in the world." />
     <TextStringDefinition InstanceID="0x6D0FBC05" TextString="Random" />
     <TextStringDefinition InstanceID="0x81C0FBCC" TextString="All of the attractiveness preferences are random." />
-    <TextStringDefinition InstanceID="0xACC48B63" TextString="Light Mode (Subtle)" />
-    <TextStringDefinition InstanceID="0xE247C6CA" TextString="Light Generator Mode will generate only positive preferences for a select group of Attractive Traits.\nUsing the Light Mode will produce results that lean towards more attractiveness between Sims." />
-    <TextStringDefinition InstanceID="0x7376DC10" TextString="Moderate Mode (Considerate)" />
-    <TextStringDefinition InstanceID="0x412A5265" TextString="Moderate Generator Mode will generate mostly positive preferences with occasional negative preferences for all Attractive Traits.\nUsing the Moderate Mode will produce a balanced mix of attractiveness and unattractiveness." />
-    <TextStringDefinition InstanceID="0x41EFD43D" TextString="Heavy Mode (Opinionated)" />
-    <TextStringDefinition InstanceID="0x169D95B3" TextString="Heavy Generator Mode will generate an equal amount of positive and negative preferences for all Attractive Traits.\nUsing the Heavy Mode will produce results that lean towards more unattractiveness between Sims." />
-    <TextStringDefinition InstanceID="0x795102AF" TextString="Generate Attractiveness Preferences" />
-    <TextStringDefinition InstanceID="0x532FE634" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0x476673CC" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0xA2284DCF" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the picked Sims attractiveness traits.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0x421378D6" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0xB4A60733" TextString="You're about to generate Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when generating new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0xAAF73F7C" TextString="You're about to generate random Attractiveness Preferences for the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
-    <TextStringDefinition InstanceID="0xC2D8AEFD" TextString="Attractiveness Preferences are being generated. With the number of Sims involved this may take around {0.String} seconds.\n\nYou can continue playing while the generator is working." />
+    <TextStringDefinition InstanceID="0xBA3217B9" TextString="Light Strength (Subtle)" />
+    <TextStringDefinition InstanceID="0xD036D352" TextString="Light Development Strength will develop only positive preferences for a select group of Attractive Traits.\nUsing the Light Mode will produce results that lean towards more attractiveness between Sims." />
+    <TextStringDefinition InstanceID="0x9441B9C2" TextString="Moderate Strength (Considerate)" />
+    <TextStringDefinition InstanceID="0x2781B277" TextString="Moderate Development Strength will develop mostly positive preferences with occasional negative preferences for all Attractive Traits.\nUsing the Moderate Mode will produce a balanced mix of attractiveness and unattractiveness." />
+    <TextStringDefinition InstanceID="0x023691C7" TextString="Heavy Strength (Opinionated)" />
+    <TextStringDefinition InstanceID="0xAD6292FD" TextString="Heavy Development Strength will develop an equal amount of positive and negative preferences for all Attractive Traits.\nUsing the Heavy Mode will produce results that lean towards more unattractiveness between Sims." />
+    <TextStringDefinition InstanceID="0x15A2B151" TextString="Develop Attractiveness Preferences" />
+    <TextStringDefinition InstanceID="0xABB1E1D3" TextString="You're about to develop Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x90E080FB" TextString="You're about to develop Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x95953C64" TextString="You're about to develop Attractiveness Preferences for the selected Sims based on the picked Sims attractiveness traits.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x46CD09F1" TextString="You're about to develop Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x06934C10" TextString="You're about to develop Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x30E3F9CC" TextString="You're about to develop random Attractiveness Preferences for the selected Sims.\n\n\nThis action will override any existing Attractiveness Preferences of the selected Sims." />
+    <TextStringDefinition InstanceID="0x86CD507D" TextString="Attractiveness Preferences are being currently developed. With the number of Sims involved this may take around {0.String} seconds.\n\nYou can continue playing while the developing is in progress." />
     <TextStringDefinition InstanceID="0x19A52B9F" TextString="Select elements liked and disliked by {0.SimName}." />
     <TextStringDefinition InstanceID="0x983E258E" TextString="Select elements liked and disliked by many Sims." />
     <TextStringDefinition InstanceID="0x95ADEC03" TextString="Conflicting Elements" />

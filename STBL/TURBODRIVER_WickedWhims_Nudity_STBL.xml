@@ -66,6 +66,8 @@
     <TextStringDefinition InstanceID="0x5242765C" TextString="Penis Size Manipulation" />
     <TextStringDefinition InstanceID="0x7945242C" TextString="Please keep in mind that adjusting Sims penis size can cause certain animations to display effects/props incorrectly, as well as result in sporadic geometry clipping." />
     <TextStringDefinition InstanceID="0x5EBC0894" TextString="Warning! Keeping this setting disabled will revert all Sims penis size to default!\nAny Sim penis size you might have configured will be lost!" />
+    <TextStringDefinition InstanceID="0xA9D2F279" TextString="Reset Penis Size During Sex" />
+    <TextStringDefinition InstanceID="0x24D51B52" TextString="Check to reset Sims penis size to default size for the duration of the sex interaction.\nUncheck to keep Sims altered penis size at all times." />
     <TextStringDefinition InstanceID="0x18054B4F" TextString="Occurrence &amp; Autonomy Settings" />
     <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
     <TextStringDefinition InstanceID="0x01C964F4" TextString="Player Occurrences Inclusion" />
@@ -289,10 +291,10 @@
     <TextStringDefinition InstanceID="0x3B272BFD" TextString="Long and Thin" />
     <TextStringDefinition InstanceID="0x7AC41EE7" TextString="Long and Average" />
     <TextStringDefinition InstanceID="0x9178B811" TextString="Long and Thick" />
-    <TextStringDefinition InstanceID="0x1A923EC4" TextString="Length: {0.String}%\nGirth: {1.String}%" />
+    <TextStringDefinition InstanceID="0xF4642690" TextString="Length: {0.Number}%\nGirth: {1.Number}%" />
     <TextStringDefinition InstanceID="0x6D8FEC50" TextString="Custom" />
     <TextStringDefinition InstanceID="0xFBFB6555" TextString="Custom Length and Girth values." />
-    <TextStringDefinition InstanceID="0x9C8CB31E" TextString="Custom Length and Girth values.\nCurrent Length: {0.String}%\nCurrent Girth: {1.String}%" />
+    <TextStringDefinition InstanceID="0xE3AF9136" TextString="Custom Length and Girth values.\nCurrent Length: {0.Number}%\nCurrent Girth: {1.Number}%" />
     <TextStringDefinition InstanceID="0xA327C796" TextString="Custom Penis Size" />
     <TextStringDefinition InstanceID="0xE0C985DF" TextString="Input values, from 0 to 100, that will be applied on picked Sims." />
     <TextStringDefinition InstanceID="0xCA94286F" TextString="Penis Length Value" />
@@ -737,12 +739,12 @@
     <TextStringDefinition InstanceID="0x2E106BDD" TextString="Uh oh, looks like the uploaded photo was automatically removed by SimHub.\nIt's hard to tell why, the Terms and Conditions of SimHub are as long as the 'Fifty Shades of CAS' catalog, so there is no way {0.SimFirstName} will ever know." />
     <TextStringDefinition InstanceID="0x3ADE41C7" TextString="Check Analytics" />
     <TextStringDefinition InstanceID="0x6654BF41" TextString="SimHub Analytics" />
-    <TextStringDefinition InstanceID="0xB7296851" TextString="{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.String} new supporters and lost {3.String} supporters in the last 24 hours.\n\nThe @{1.String} account currently has {4.String} supporters and is earning {5.String} Simoleons in a day.\n\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile." />
+    <TextStringDefinition InstanceID="0xF509E932" TextString="{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.Number} new supporter{P2.s} and lost {3.Number} supporter{P3.s} in the last 24 hours.\n\nThe @{1.String} account currently has {4.Number} supporter{P4.s} and is earning {5.Number} Simoleon{P4.s} in a day.\n\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile." />
     <TextStringDefinition InstanceID="0x0CBCB52C" TextString="Payout ({0.Money})" />
     <TextStringDefinition InstanceID="0x6913E5A1" TextString="There's nothing to pay out." />
     <TextStringDefinition InstanceID="0x3385E767" TextString="SimHub Payout" />
-    <TextStringDefinition InstanceID="0x51D3827D" TextString="{0.SimFirstName} has earned §{2.String} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings.\n\n&lt;i&gt;Note that trending topics have changed and Checking Analytics is advised.&lt;/i&gt;" />
-    <TextStringDefinition InstanceID="0x84B55314" TextString="Woohoo - you just got paid!\n\n{1.String} Simoleons was just sent out to you from SimHub.\n\nCongrats again and thank you from all of us at SimHub.\nPlease contact us at noreply@simhub.cc if you are having any issues." />
+    <TextStringDefinition InstanceID="0x38CD7C4D" TextString="{0.SimFirstName} has earned §{2.Number} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings.\n\n&lt;i&gt;Note that trending topics have changed and Checking Analytics is advised.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x4EAE212B" TextString="Woohoo - you just got paid!\n\n{1.Number} Simoleon{P1.s} was just sent out to you from SimHub.\n\nCongrats again and thank you from all of us at SimHub.\nPlease contact us at noreply@simhub.cc if you are having any issues." />
     <TextStringDefinition InstanceID="0x6F32E854" TextString="Read &amp; Like Comments" />
     <TextStringDefinition InstanceID="0x0054F782" TextString="{0.SimFirstName} just read the comments." />
     <TextStringDefinition InstanceID="0x76D0DD5B" TextString="SimHub Comments" />
