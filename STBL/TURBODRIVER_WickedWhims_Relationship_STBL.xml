@@ -25,7 +25,7 @@
     <TextStringDefinition InstanceID="0x8D9BE379" TextString="Check to allow NPC Sims to give your playable Sims a Suggestive Look.\nUncheck to disallow NPC Sims from giving your playable Sims Suggestive Looks." />
     <TextStringDefinition InstanceID="0x8977483C" TextString="Attractiveness Suggestive Look Base Chance" />
     <TextStringDefinition InstanceID="0xF856BBC7" TextString="Set a unit interval value for chance of Suggestive Look occurring. Value 1.0 is 100% chance.\n(Default: 0.85, Minimum: 0.0)" />
-    <TextStringDefinition InstanceID="0x397B3B1B" TextString="Attractiveness Frozen World View Switch" />
+    <TextStringDefinition InstanceID="0x99C4B68E" TextString="Attractiveness Dynamic World View Switch" />
     <TextStringDefinition InstanceID="0x28882C2D" TextString="Check to enable dynamically adjusting world view for attractive traits strength.\nUncheck to disable dynamically adjusting world view for attractive traits strength.\n\nWarning! Enabling dynamically adjusting world view will cause your attractiveness status of Sims to fluctuate randomly." />
     <TextStringDefinition InstanceID="0x4767E2E5" TextString="Changing this setting will irreversibly alter the state of Attractiveness!\n\nMake sure to save the game before applying changes." />
     <TextStringDefinition InstanceID="0x80C270BF" TextString="Romance Age Restrictions Switch" />
