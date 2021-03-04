@@ -72,8 +72,8 @@
     <TextStringDefinition InstanceID="0x873AFB28" TextString="Nudity occurrence and autonomy related settings." />
     <TextStringDefinition InstanceID="0x01C964F4" TextString="Player Occurrences Inclusion" />
     <TextStringDefinition InstanceID="0x7D45D663" TextString="Check for playable Sims to be included in random nudity occurrences." />
-    <TextStringDefinition InstanceID="0xA397E916" TextString="Respect Children's Eyes" />
-    <TextStringDefinition InstanceID="0x1455BD73" TextString="Check for Sims to never undress around children." />
+    <TextStringDefinition InstanceID="0x70DC1D19" TextString="Respect Child Sims Eyes" />
+    <TextStringDefinition InstanceID="0xC7241FE8" TextString="Sims behavior when children are around.\n&lt;b&gt;Fully Check&lt;/b&gt; for Sims to never undress when child Sims are on the lot.\n&lt;b&gt;Half Check&lt;/b&gt; for Sims to never undress when child Sims are nearby.\n&lt;b&gt;Uncheck&lt;/b&gt; for Sims to undress without acknowledgment of child Sims." />
     <TextStringDefinition InstanceID="0x24E20EC3" TextString="Autonomy Respects Underwear" />
     <TextStringDefinition InstanceID="0x7E210EB8" TextString="Check for Sims to first undress to underwear when performing an autonomous interaction before getting naked.\nUncheck for Sims to undress directly to nudity when performing an autonomous interaction and skip showing underwear." />
     <TextStringDefinition InstanceID="0x5918AF2F" TextString="Occurrence Specifics" />
@@ -275,6 +275,8 @@
     <TextStringDefinition InstanceID="0x3E160A5B" TextString="{1.SimFirstName} Asks Me to Undress Shoes" />
     <TextStringDefinition InstanceID="0x79CFEEF1" TextString="Ask to Dress Up" />
     <TextStringDefinition InstanceID="0x19FE4FC1" TextString="{1.SimFirstName} Asks Me to Dress Up" />
+    <TextStringDefinition InstanceID="0xAAAD4C3E" TextString="---------- Tanning ----------" />
+    <TextStringDefinition InstanceID="0xC3984F06" TextString="Go to Tanning Salon" />
     <TextStringDefinition InstanceID="0xB1063430" TextString="---------- Penis Adjustments ----------" />
     <TextStringDefinition InstanceID="0x8E04BCC6" TextString="Penis Adjustments" />
     <TextStringDefinition InstanceID="0xE5CDC5D3" TextString="Change Penis Size" />
@@ -698,6 +700,9 @@
     <TextStringDefinition InstanceID="0x0C5B7E35" TextString="{0.SimFirstName} has sold the peeping pictures {M0.he}{F0.she} took for total of {1.Number} Simoleons.\n" />
     <TextStringDefinition InstanceID="0xEC0ECF91" TextString="Naked {0.SimName}: {1.Money}" />
     <TextStringDefinition InstanceID="0x1795CFD1" TextString="In Sex {0.SimName}: {1.Money}" />
+    <TextStringDefinition InstanceID="0x6CA4751B" TextString="Window Peeping Configuration" />
+    <TextStringDefinition InstanceID="0x684A205D" TextString="This message is meant to inform you about the possibility of adjusting settings related to Window Peeping.\n\nA Peeping Sim is about to peep through the windows of the house. This will happen from time to time, depending on your settings.\nAs this can be a shocking encounter to some, you can disable this feature or adjust its behavior. Use the button below to decide about the behavior of Window Peeping Sims.\n\nIf you already adjusted your Window Peeping settings you can safely ignore this message." />
+    <TextStringDefinition InstanceID="0xD61A50AB" TextString="Adjust Window Peeping Settings" />
     <TextStringDefinition InstanceID="0x287A8DC5" TextString="---------- Private Pictures ----------" />
     <TextStringDefinition InstanceID="0xE1696F96" TextString="Take Photo" />
     <TextStringDefinition InstanceID="0xCAA7CB7F" TextString="Take Naked Photo" />

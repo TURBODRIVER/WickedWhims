@@ -26,10 +26,13 @@
     <TextStringDefinition InstanceID="0x896139BB" TextString="Player Sex Duration" />
     <TextStringDefinition InstanceID="0xB10B3951" TextString="Player Sex Interaction duration related settings." />
     <TextStringDefinition InstanceID="0xDDAA6306" TextString="Time Limit Duration" />
+    <TextStringDefinition InstanceID="0x9566A451" TextString="Sex interaction ends after duration in realtime minutes." />
+    <TextStringDefinition InstanceID="0x05754127" TextString="Climax Finish" />
+    <TextStringDefinition InstanceID="0xAECB36B0" TextString="Sex interaction ends after a climax sex animation finishes." />
+    <TextStringDefinition InstanceID="0x6730FA4B" TextString="Time Limit &amp; Climax Finish" />
+    <TextStringDefinition InstanceID="0xE6F4D5F1" TextString="Sex ends after a climax sex animation finishes or after duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0xC33EF4A8" TextString="Sex Interaction Duration" />
     <TextStringDefinition InstanceID="0x6C0E5818" TextString="Sex interaction duration in realtime minutes.\n(Default: 3)" />
-    <TextStringDefinition InstanceID="0x05754127" TextString="Climax Finish" />
-    <TextStringDefinition InstanceID="0x8CDA18E9" TextString="Sex interaction ends only after a climax sex animation." />
     <TextStringDefinition InstanceID="0x1FD54219" TextString="Sex Progression Type" />
     <TextStringDefinition InstanceID="0xD9D91975" TextString="Choose the type of sex animations progression." />
     <TextStringDefinition InstanceID="0xC92EBB73" TextString="Disable Sex Progression" />
@@ -265,14 +268,10 @@
     <TextStringDefinition InstanceID="0x473688F1" TextString="Check to allow applying of cum layers during sex no matter the involved Sims.\nUncheck to disallow applying of cum layers when a Sim capable of producing cum is not present." />
     <TextStringDefinition InstanceID="0xFF4E8C90" TextString="Pregnancy Settings" />
     <TextStringDefinition InstanceID="0xF1EC39AD" TextString="Change pregnancy settings.\n\nThese settings affect only pregnancy related functions that are the outcome of WickedWhims sex interactions." />
-    <TextStringDefinition InstanceID="0xD14FC8FE" TextString="Pregnancy Mode" />
-    <TextStringDefinition InstanceID="0x02DBE1F7" TextString="Change Sims pregnancy behavior." />
-    <TextStringDefinition InstanceID="0x598E7E7C" TextString="Disabled" />
-    <TextStringDefinition InstanceID="0x8E35548D" TextString="Select to make Sims not get pregnant from sex." />
-    <TextStringDefinition InstanceID="0x705B798C" TextString="Menstrual Cycle Mode" />
-    <TextStringDefinition InstanceID="0x45396B6C" TextString="Select to make Sims follow rules of their menstrual cycle for the pregnancy." />
-    <TextStringDefinition InstanceID="0x86CD9185" TextString="Simple Mode" />
-    <TextStringDefinition InstanceID="0xDFA66E56" TextString="Select to make Sims get pregnant based on the set percentage chances." />
+    <TextStringDefinition InstanceID="0xC679E973" TextString="Disable Pregnancy" />
+    <TextStringDefinition InstanceID="0xB6B4AD7D" TextString="Check to make Sims not get pregnant from sex." />
+    <TextStringDefinition InstanceID="0xFD8670B3" TextString="Menstrual Cycle Switch" />
+    <TextStringDefinition InstanceID="0x80CBEE7E" TextString="Check to make Sims follow rules of their menstrual cycle for the pregnancy.\nUncheck to make Sims get pregnant based on set percentage chances" />
     <TextStringDefinition InstanceID="0x9D5DA45C" TextString="Player Sims Pregnancy Chance" />
     <TextStringDefinition InstanceID="0x3B87E494" TextString="Choose percentage chance of Player Sims getting pregnant from sex." />
     <TextStringDefinition InstanceID="0xDB4B89D2" TextString="NPC Sims Pregnancy Chance" />
@@ -364,6 +363,8 @@
     <TextStringDefinition InstanceID="0x377DD1EB" TextString="Check to make Sims use birth control pills automatically once a day." />
     <TextStringDefinition InstanceID="0x4C781793" TextString="Condom Auto Remove for Non-Pregnancy Sex" />
     <TextStringDefinition InstanceID="0xB1DED9B4" TextString="Check to automatically remove condoms from Sims during sex that cannot cause pregnancy.\nUncheck to keep Sims condoms on during any sex." />
+    <TextStringDefinition InstanceID="0x162306E4" TextString="Other Settings" />
+    <TextStringDefinition InstanceID="0xA2D48FF7" TextString="Change other pregnancy related settings." />
     <TextStringDefinition InstanceID="0x212943B1" TextString="Pregnancy Duration" />
     <TextStringDefinition InstanceID="0xDAE773C9" TextString="Native pregnancy duration in Sim days.\n(Default: 3, Minimum: 1)" />
     <TextStringDefinition InstanceID="0x853ED1F7" TextString="Miscarriage Switch" />
@@ -542,6 +543,8 @@
     <TextStringDefinition InstanceID="0x421A8E24" TextString="Titjob Context" />
     <TextStringDefinition InstanceID="0x052A706C" TextString="Thighjob" />
     <TextStringDefinition InstanceID="0x08E3E721" TextString="Thighjob Context" />
+    <TextStringDefinition InstanceID="0xD9862FB1" TextString="Buttjob" />
+    <TextStringDefinition InstanceID="0xB52BE0AC" TextString="Buttjob Context" />
     <TextStringDefinition InstanceID="0x9C5DCE13" TextString="Doggy" />
     <TextStringDefinition InstanceID="0x2B1C7C02" TextString="Doggy Context" />
     <TextStringDefinition InstanceID="0x78DF1A9D" TextString="Missionary" />
@@ -884,6 +887,17 @@
     <TextStringDefinition InstanceID="0x921CF15F" TextString="Caught Masturbating" />
     <TextStringDefinition InstanceID="0x29E9BF97" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {0.SimFirstName}, {1.SimFirstName} could not keep control and the dam had to blow letting loose a deluge of satisfaction for {M0.his}{F0.her} eyes to see!" />
     <TextStringDefinition InstanceID="0x103C7921" TextString="Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {1.SimFirstName}, the sudden appearance of another Sim meant that {M1.he}{F1.she} needed to keep it in {M1.his}{F1.her} pants. {0.SimFirstName} saw something they really didn't need or want to see and {1.SimFirstName} has been left embarrassed and unsatisfied." />
+    <TextStringDefinition InstanceID="0xB2555236" TextString="---------- LUBE ----------" />
+    <TextStringDefinition InstanceID="0x9FCDCCDB" TextString="Wicked Lubricant" />
+    <TextStringDefinition InstanceID="0xAA26AC51" TextString="Personal oil-based lubricant to guarantee a silky and smooth sexual experience.\n\nUse it during sex by clicking on it in Sim inventory." />
+    <TextStringDefinition InstanceID="0x8420B8AE" TextString="Uses Left: {0.Number}" />
+    <TextStringDefinition InstanceID="0xA1D0E4DE" TextString="Apply to Entire Body" />
+    <TextStringDefinition InstanceID="0xF99164CB" TextString="Apply to Other Sim Entire Body" />
+    <TextStringDefinition InstanceID="0x8359C1DE" TextString="Apply for Pleasure" />
+    <TextStringDefinition InstanceID="0xC5BE47A7" TextString="Lube is already applied." />
+    <TextStringDefinition InstanceID="0x5B1F508E" TextString="Wicked Lubricant" />
+    <TextStringDefinition InstanceID="0xC74632BD" TextString="Lube has been applied for pleasure." />
+    <TextStringDefinition InstanceID="0x085F0129" TextString="Lube has been applied for pleasure to all participants." />
     <TextStringDefinition InstanceID="0x52EE8454" TextString="---------- SEX SATISFACTION ----------" />
     <TextStringDefinition InstanceID="0x3D4FEBAE" TextString="(From Satisfying Sex)" />
     <TextStringDefinition InstanceID="0xFA6AF4FB" TextString="(From Unsatisfying Sex)" />
@@ -1273,11 +1287,15 @@
     <TextStringDefinition InstanceID="0x2898CBE5" TextString="{0.SimFirstName} replaced {M0.his}{F0.her} tampon." />
     <TextStringDefinition InstanceID="0xBBFD1296" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
     <TextStringDefinition InstanceID="0xAC5B7CB4" TextString="{0.SimFirstName} will soon have {M0.his}{F0.her} first period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\n\nTampons, Pads, and Birth Control can be ordered from a computer." />
+    <TextStringDefinition InstanceID="0xDAA3B1D5" TextString="Pregnancy Configuration" />
+    <TextStringDefinition InstanceID="0x07FECF16" TextString="This message is meant to inform you about the possibility of adjusting settings related to Pregnancy Modes.\n\nA Sim in your household is about have their first period. This will happen to other Sims in the world, depending on your settings.\nYou can change how and in what way, if at all, Sims will experience their Menstrual Cycle. Use the button below to decide about your preferred Pregnancy configuration.\n\nIf you already adjusted your Pregnancy settings you can safely ignore this message." />
+    <TextStringDefinition InstanceID="0xC035CD11" TextString="Adjust Pregnancy Settings" />
     <TextStringDefinition InstanceID="0xC5856650" TextString="Sure, here you go." />
     <TextStringDefinition InstanceID="0x341154FB" TextString="{0.SimFirstName} took a Chill Pill." />
     <TextStringDefinition InstanceID="0x4EB90CA3" TextString="Kaya Period Tracker" />
     <TextStringDefinition InstanceID="0x3FF32DB7" TextString="Hello {0.SimFirstName}!\nThis is your &lt;b&gt;Kaya Period Tracker&lt;/b&gt; Report.\n\n&lt;b&gt;Menstrual Cycle&lt;/b&gt;\n • Currently you're at day {1.Number} of your cycle, out of {2.Number} days.\n&lt;b&gt;PMS&lt;/b&gt;\n • Next PMS is coming up in {3.Number} day{P3.s}.\n&lt;b&gt;Period&lt;/b&gt;\n • Next Period starts in {4.Number} day{P4.s}.\n\n&lt;b&gt;Fertility&lt;/b&gt;\n • The Next Most Fertile Day is coming up in {5.Number} day{P5.s}.\n • The Next Ovulation Day is coming up in {6.Number} day{P6.s}.\n\nThank you for using the &lt;b&gt;Kaya Period Tracker&lt;/b&gt;." />
     <TextStringDefinition InstanceID="0x447151B2" TextString="Check Period Tracker" />
+    <TextStringDefinition InstanceID="0x07BE4C10" TextString="{0.SimFirstName} can't menstruate." />
     <TextStringDefinition InstanceID="0x86AA8716" TextString="Open Box" />
     <TextStringDefinition InstanceID="0x93465008" TextString="Unpack Box" />
     <TextStringDefinition InstanceID="0xD421B4A3" TextString="Tampons &amp; Pads" />
