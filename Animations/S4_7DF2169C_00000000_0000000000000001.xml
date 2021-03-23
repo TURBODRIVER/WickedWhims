@@ -11,6 +11,7 @@
       <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T>
       <T n="animation_custom_locations">123456789, 987654321</T> <!-- [REMOVE IF UNUSED] -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
+      <T n="object_geometry_state"></T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_category">VAGINAL</T>
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] -->
@@ -96,6 +97,7 @@
           <T n="prop_type">BASIC</T>
           <T n="prop_guids">123456789, 987654321</T>
           <T n="prop_animation_clip_name">PropAnimationClipName</T>
+          <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] -->
         </U> <!-- [END OF PROP ENTRY] -->
 
       </L>

@@ -11,6 +11,7 @@
       <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T> <!-- List of Location Categories for where this animation can be used at -->
       <T n="animation_custom_locations">123456789, 987654321</T> <!-- [REMOVE IF UNUSED] List of Object WWIDs for where this animation can be used at -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] Object animation ClipName -->
+      <T n="object_geometry_state"></T> <!-- [REMOVE IF UNUSED] Object geometry state -->
 
       <T n="animation_category">VAGINAL</T> <!-- Sex Category of the animation (TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL, CLIMAX) -->
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] List of Sex Tags that give the animation context (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
@@ -97,6 +98,7 @@
           <T n="prop_type">BASIC</T> <!-- Prop Type of this prop (BASIC) -->
           <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
           <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
+          <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] Prop geometry state -->
         </U> <!-- [END OF PROP ENTRY] -->
 
       </L>
