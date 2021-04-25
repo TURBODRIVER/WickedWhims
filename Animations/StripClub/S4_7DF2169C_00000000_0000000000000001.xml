@@ -14,6 +14,7 @@
       <T n="watcher_animation_clip_name">WatcherAnimationClipName</T> <!-- [REMOVE IF NOT TYPE "LAP_DANCE"] -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="animation_loops">2</T>
+      <T n="animation_negative_duration_offset">0</T>
 
       <T n="dance_set_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="dance_set_order">0</T> <!-- [REMOVE IF UNUSED] -->

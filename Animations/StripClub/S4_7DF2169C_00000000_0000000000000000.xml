@@ -14,6 +14,7 @@
       <T n="watcher_animation_clip_name">WatcherAnimationClipName</T> <!-- [REMOVE IF NOT TYPE "LAP_DANCE"] Watching Sim animation ClipName -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] Object animation ClipName -->
       <T n="animation_loops">2</T> <!-- Number of times the animation will play in a row -->
+      <T n="animation_negative_duration_offset">0</T> <!-- [REMOVE IF UNUSED] Amount of time that is subtracted from the animation duration (ONLY USE WHEN animation_loops IS SET TO 1) -->
 
       <T n="dance_set_name">YourNameAndYourAnimationStageName</T> <!-- [REMOVE IF UNUSED] Unique name of a set of animations that is used to order animations as a sequence of dances -->
       <T n="dance_set_order">0</T> <!-- [REMOVE IF UNUSED] Order number in the set of animations defined in the "dance_set_name" variable -->
