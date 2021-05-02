@@ -34,6 +34,8 @@
     <TextStringDefinition InstanceID="0xE5E593A7" TextString="Check to unlock romance interactions for multiple partners and marriages.\nUncheck to keep romance interactions locked from multiple partners and marriages." />
     <TextStringDefinition InstanceID="0x70A69160" TextString="Persistent Social Boredom Switch" />
     <TextStringDefinition InstanceID="0xEE6E5033" TextString="Check to enable Sims remembering boring conversations for a few hours.\nUncheck to keep the base game behavior of boring conversations.\n\nRepeating social interactions leads to boredom, which in the base game is forgotten immediately after the conversation ends." />
+    <TextStringDefinition InstanceID="0x0834BB4F" TextString="Lewd Dreaming Switch" />
+    <TextStringDefinition InstanceID="0x5175D905" TextString="Check to allow Sims to have lewd dreams about Sims they know." />
     <TextStringDefinition InstanceID="0x1CF2A53E" TextString="Cheats" />
     <TextStringDefinition InstanceID="0xBABFC4D5" TextString="Change things that you find annoying." />
     <TextStringDefinition InstanceID="0x71EA565C" TextString="Desire Switch" />
@@ -122,6 +124,8 @@
     <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
     <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
     <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x270E9AC1" TextString="Become Casual Sex Partners" />
+    <TextStringDefinition InstanceID="0xC09F1323" TextString="Becoming Casual Sex Partners with {1.SimFirstName}" />
     <TextStringDefinition InstanceID="0x231C3E23" TextString="Fake Personality Archetypes" />
     <TextStringDefinition InstanceID="0x41435C2E" TextString="Personality" />
     <TextStringDefinition InstanceID="0x72DE385E" TextString="Fake Major Personality" />

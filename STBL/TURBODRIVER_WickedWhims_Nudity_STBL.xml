@@ -110,16 +110,20 @@
     <TextStringDefinition InstanceID="0x441FB7CB" TextString="Strip Club related settings." />
     <TextStringDefinition InstanceID="0x4269D77E" TextString="Dress Up After Dance Switch" />
     <TextStringDefinition InstanceID="0x0FF5A29E" TextString="Check to make dancers dress up after every dance.\nUncheck to keep dancers undressed after a dance." />
+    <TextStringDefinition InstanceID="0xF23172A6" TextString="Click-The-Spot Game Switch" />
+    <TextStringDefinition InstanceID="0x0194C660" TextString="Check to allow playing the Click-The-Spot game for Player Dancer Sims." />
+    <TextStringDefinition InstanceID="0xC223056D" TextString="Strip Club Cheats" />
+    <TextStringDefinition InstanceID="0x52B13BFD" TextString="Cheats for Strip Clubs." />
+    <TextStringDefinition InstanceID="0x0BAB28C4" TextString="Personal Lap Dance Cheat" />
+    <TextStringDefinition InstanceID="0xDC8525DE" TextString="Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club." />
+    <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
+    <TextStringDefinition InstanceID="0xFB55B2B9" TextString="Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\n(Default: 0, Maximum: 30)" />
     <TextStringDefinition InstanceID="0xC03EDEB7" TextString="Dancer Profit Share Percentage" />
     <TextStringDefinition InstanceID="0xEB38AB44" TextString="Set a number of profit share, as percentage, for the club from the dancer earning.\n(Default: 20%)" />
     <TextStringDefinition InstanceID="0x8154B767" TextString="Dancer Earning Multiplier" />
     <TextStringDefinition InstanceID="0x502712FF" TextString="Set a number of earnings multiplier, as percentage, for the dancer tips.\n(Default: 100%)" />
     <TextStringDefinition InstanceID="0x161BD9BD" TextString="Bar Earning Multiplier" />
     <TextStringDefinition InstanceID="0x72A4E11D" TextString="Set a number of earnings multiplier, as percentage, for the bar sales.\n(Default: 100%)" />
-    <TextStringDefinition InstanceID="0x0BAB28C4" TextString="Personal Lap Dance Cheat" />
-    <TextStringDefinition InstanceID="0xDC8525DE" TextString="Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club." />
-    <TextStringDefinition InstanceID="0x8E1922A9" TextString="Static Clients Count Cheat" />
-    <TextStringDefinition InstanceID="0xFB55B2B9" TextString="Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\n(Default: 0, Maximum: 30)" />
     <TextStringDefinition InstanceID="0xDFC944D8" TextString="Advanced Strip Club Settings" />
     <TextStringDefinition InstanceID="0xE3DEEC5E" TextString="Advanced settings for Strip Clubs." />
     <TextStringDefinition InstanceID="0x1D108DF0" TextString="Native Undressing Behavior Switch" />
@@ -196,7 +200,7 @@
     <TextStringDefinition InstanceID="0x5A86D77C" TextString="Male Body Feet" />
     <TextStringDefinition InstanceID="0x169A2707" TextString="Female Body Feet" />
     <TextStringDefinition InstanceID="0xF8C92227" TextString="Default" />
-    <TextStringDefinition InstanceID="0x7DD2AEE9" TextString="Native" />
+    <TextStringDefinition InstanceID="0x91F92694" TextString="Native / Override" />
     <TextStringDefinition InstanceID="0xBB04EB9B" TextString="&lt;font color='#199C2C'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x2E4B0A57" TextString="Author: {0.String}" />
     <TextStringDefinition InstanceID="0xF765D503" TextString="---------- General ----------" />
@@ -235,6 +239,10 @@
     <TextStringDefinition InstanceID="0xDB01112F" TextString="&lt;font color='#340658'&gt;Try to Look Away!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x70ADFA9F" TextString="{0.SimFirstName} is trying not to put {M0.his}{F0.her} gaze at some nearby unpleasant looking naked Sims." />
     <TextStringDefinition InstanceID="0x9E74F187" TextString="(From Being Around Naked Sims)" />
+    <TextStringDefinition InstanceID="0xF954074E" TextString="&lt;font color='#340658'&gt;Morning Wood&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF6A65AA4" TextString="{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. &lt;i&gt;Knock on wood&lt;/i&gt; it gets taken care of soon." />
+    <TextStringDefinition InstanceID="0x7A35453F" TextString="&lt;font color='#340658'&gt;Morning Dew&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7E950972" TextString="{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} &lt;i&gt;wet&lt;/i&gt; the bed by mistake?" />
     <TextStringDefinition InstanceID="0x35715025" TextString="---------- Whims ----------" />
     <TextStringDefinition InstanceID="0x05301777" TextString="Admire Yourself Sexually" />
     <TextStringDefinition InstanceID="0x85EE2242" TextString="Click on a mirror and select 'Admire Your Body'." />
@@ -308,8 +316,8 @@
     <TextStringDefinition InstanceID="0x4B20D36F" TextString="{0.SimName} stripped from {M0.his}{F0.her} bottom." />
     <TextStringDefinition InstanceID="0x50F0734A" TextString="{0.SimName} stripped from {M0.his}{F0.her} shoes." />
     <TextStringDefinition InstanceID="0x6132B9A3" TextString="{0.SimName} stripped from {M0.his}{F0.her} outfit." />
-    <TextStringDefinition InstanceID="0x170E692A" TextString="{0.SimName} put {M0.his}{F0.her} outfit back on.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
-    <TextStringDefinition InstanceID="0x98D3F307" TextString="{0.SimName} doesn't feel like taking off clothes right now is a good idea.\n\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}" />
+    <TextStringDefinition InstanceID="0xE680739D" TextString="{0.SimName} put {M0.his}{F0.her} outfit back on.\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0x688D1158" TextString="{0.SimName} doesn't feel like taking off clothes right now is a good idea.\n\n{1.String}" />
     <TextStringDefinition InstanceID="0x9119AE4E" TextString="- The most comfortable place to undress will always be Sim home.\n\n" />
     <TextStringDefinition InstanceID="0x00D78934" TextString="- Undressing outside requires a lot more courage.\n\n" />
     <TextStringDefinition InstanceID="0x35C8020B" TextString="- Sims around can make it quite embarrassing to undress.\n\n" />
@@ -326,6 +334,8 @@
     <TextStringDefinition InstanceID="0x30E3D666" TextString="Irresistible Command to Undress" />
     <TextStringDefinition InstanceID="0xD38AA793" TextString="Strangely...compelled...to...get...naked." />
     <TextStringDefinition InstanceID="0x18356D38" TextString="{0.SimFirstName} is already naked." />
+    <TextStringDefinition InstanceID="0x088F8E8A" TextString="---------- Simray ----------" />
+    <TextStringDefinition InstanceID="0xD1C2134E" TextString="Naked" />
     <TextStringDefinition InstanceID="0xFBC90FD6" TextString="---------- Clubs ----------" />
     <TextStringDefinition InstanceID="0x3365FD6C" TextString="Embrace Nudity" />
     <TextStringDefinition InstanceID="0x84F241B6" TextString="Don't Embrace Nudity" />
@@ -444,6 +454,7 @@
     <TextStringDefinition InstanceID="0x40E12AB6" TextString="Select a style of pubic hair for {0.SimName}." />
     <TextStringDefinition InstanceID="0x7FC608F6" TextString="Enable Growth of Pubic Hair for {0.SimName}" />
     <TextStringDefinition InstanceID="0xFEEF6E15" TextString="Disable Growth of Pubic Hair for {0.SimName}" />
+    <TextStringDefinition InstanceID="0x3A19A398" TextString="Trim Pubic Hair" />
     <TextStringDefinition InstanceID="0xBAC32260" TextString="Restylize to '{0.String}'" />
     <TextStringDefinition InstanceID="0xF91FB3BB" TextString="Restylize Pubic Hair" />
     <TextStringDefinition InstanceID="0x87411598" TextString="{0.SimFirstName}'s pubic hair is already fully stylized." />
@@ -519,10 +530,37 @@
     <TextStringDefinition InstanceID="0x407C0FA1" TextString="The Strip Club is now open!" />
     <TextStringDefinition InstanceID="0x49CBC77B" TextString="The Strip Club is now open!\n\nAnd it will close at {0.String}." />
     <TextStringDefinition InstanceID="0xD0ED654D" TextString="Strip Club is Closed" />
-    <TextStringDefinition InstanceID="0x54F1E44B" TextString="The Strip Club is now closed!\n\nClick on your phone to change the opening hours under the Strip Club category." />
-    <TextStringDefinition InstanceID="0xF913EEB3" TextString="The Strip Club is now closed!\nAnd it will open at {0.String}.\n\nClick on your phone to change the opening hours under the Strip Club category." />
+    <TextStringDefinition InstanceID="0xB764B5B8" TextString="The Strip Club is now closed!\n\nClick on your Sim phone to change the opening hours under the Strip Club category." />
+    <TextStringDefinition InstanceID="0x74C10FE0" TextString="The Strip Club is now closed!\nAnd it will open at {0.String}.\n\nClick on your Sim phone to change the opening hours under the Strip Club category." />
     <TextStringDefinition InstanceID="0x1C1A1265" TextString="Open for Business!" />
     <TextStringDefinition InstanceID="0xD99DA0E9" TextString="The Strip Club is now open and clients will being showing up at night hours.\n\nAny hired dancer will be arriving momentarily; be sure to assign them a task to perform or let them decide what to do on their own.\n\nMake sure to place a Dancing Pole/Dancing Spot for Stage Dancing and Assign Lap Dancing Seats for Private Dances.\n\nRemember to manage the bar by adjusting the Price Markup for extra profit and Order Bar Supplies to not run out of stock." />
+    <TextStringDefinition InstanceID="0x4CBA660D" TextString="Manage Business Quirks" />
+    <TextStringDefinition InstanceID="0x4CAF4064" TextString="Strip Club Quirks" />
+    <TextStringDefinition InstanceID="0x2D740AD9" TextString="Select which Quirks should take effect.\n\n&lt;font color='#0949AB'&gt;&lt;b&gt;Quirk Points: {0.Number}★&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x21ADF81E" TextString="{0.String}\n{1.String}" />
+    <TextStringDefinition InstanceID="0xA3DEFAB6" TextString="Required Points: &lt;b&gt;{0.Number}&lt;/b&gt;★" />
+    <TextStringDefinition InstanceID="0x5F590114" TextString="Required Points: &lt;b&gt;Free&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x89AEA7CE" TextString="&lt;font color='#EC262E'&gt;Conflicts with '{0.String}'.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x25E59948" TextString="New Strip Club Quirk Available" />
+    <TextStringDefinition InstanceID="0x6E84606A" TextString="The '{0.String}' Strip Club Quirk is now available.\n\nClick on your Sim phone to manage Strip Club Quirks in the Strip Club category." />
+    <TextStringDefinition InstanceID="0xDFC76139" TextString="Men's Club" />
+    <TextStringDefinition InstanceID="0xF617AD55" TextString="Only male clients are allowed to enter the establishment." />
+    <TextStringDefinition InstanceID="0xB1E3254B" TextString="Women's Club" />
+    <TextStringDefinition InstanceID="0x099C2B72" TextString="Only female clients are allowed to enter the establishment." />
+    <TextStringDefinition InstanceID="0x09A4D106" TextString="Only Known Faces" />
+    <TextStringDefinition InstanceID="0x3EFBE032" TextString="Only pre-existing Sims are allowed to enter the establishment.\n(New Sims are not going to be generated.)" />
+    <TextStringDefinition InstanceID="0xDF500BAC" TextString="Never Undressed Dancers" />
+    <TextStringDefinition InstanceID="0x4E693FAE" TextString="Hired dancers are never undressed when dancing." />
+    <TextStringDefinition InstanceID="0x7C8AD21D" TextString="Always Undressed Dancers" />
+    <TextStringDefinition InstanceID="0x1EAD7E83" TextString="Hired dancers are always undressed when dancing." />
+    <TextStringDefinition InstanceID="0x89F18FEB" TextString="Erection Affection" />
+    <TextStringDefinition InstanceID="0xC5962277" TextString="Hired dancers are erect during dancing." />
+    <TextStringDefinition InstanceID="0xDCEFC11F" TextString="Cheaper Bar Supplies" />
+    <TextStringDefinition InstanceID="0xE125EAF8" TextString="Purchasing Bar Supplies costs less, but can come with contaminated ingredients." />
+    <TextStringDefinition InstanceID="0x04CA4AD9" TextString="Less Trashy" />
+    <TextStringDefinition InstanceID="0x7C381B8F" TextString="Loiterers no longer drop trash on the floor, but clients become way more annoyed by dirty surroundings." />
+    <TextStringDefinition InstanceID="0x5B791CAB" TextString="Rhythm Catcher" />
+    <TextStringDefinition InstanceID="0x8890E948" TextString="Dancers perform better when dancing to music, but get tired from dancing a lot faster." />
     <TextStringDefinition InstanceID="0x7306C27C" TextString="Client - {0.String}" />
     <TextStringDefinition InstanceID="0x1CF49816" TextString="Drinker" />
     <TextStringDefinition InstanceID="0x8EFF121C" TextString="Socializer" />
@@ -538,6 +576,7 @@
     <TextStringDefinition InstanceID="0x69BC7207" TextString="Your drinks are way too expensive for what you have available. I'm leaving to find a better place to get a drink." />
     <TextStringDefinition InstanceID="0xD4354162" TextString="What is this club? Why is nobody dancing? What's the point of going here? I'm leaving." />
     <TextStringDefinition InstanceID="0x9D7F6267" TextString="I want someone to talk to and get a private dance! Am I to believe that all of the dancers are busy right now? You need to manage this place better." />
+    <TextStringDefinition InstanceID="0x69BE606C" TextString="Why is this place so smelly? Can't you get someone to clean up all of this mess? Gross. I'm leaving." />
     <TextStringDefinition InstanceID="0xC5F7A6DF" TextString="Watch Dance" />
     <TextStringDefinition InstanceID="0xD82A0BBF" TextString="Watch Dance: {0.String} ({1.String})" />
     <TextStringDefinition InstanceID="0xCDB45CF7" TextString="Tip Dancer" />
@@ -607,8 +646,7 @@
     <TextStringDefinition InstanceID="0xAE7CA640" TextString="Select which dance type animations you want to disable." />
     <TextStringDefinition InstanceID="0xDD902145" TextString="Select which creator animations you want to disable." />
     <TextStringDefinition InstanceID="0xE3CBE411" TextString="Dancer Tip" />
-    <TextStringDefinition InstanceID="0x4B821084" TextString="Buy a Bar!" />
-    <TextStringDefinition InstanceID="0x328AC52F" TextString="Buying a Bar is required for the club to earn any real money. Selling drinks to clients is the main revenue source of a Strip Club.\n\nLook for a 'Bar' in Build Mode and place one somewhere in the club. A hired dancer will be assigned the 'Bartender' role and sell drinks to clients.\n\n" />
+    <TextStringDefinition InstanceID="0x4AAC01FE" TextString="Playable Sims Dancers automatically participate in the &quot;Click-The-Spot&quot; game when clients watch them.\n\nClick-The-Spot is a simple game where the player needs to actively participate in clicking the glowing orange spot floating in the air around the dancing Sim.\nClicking the spot increases Sim dancing performance which increases the value of received tips and decreases the tiredness so the Sim can dance longer.\n\nThis functionality can be disabled in the Strip Club settings." />
     <TextStringDefinition InstanceID="0x9CF0FC62" TextString="Buy Dancing Equipment!" />
     <TextStringDefinition InstanceID="0xCD2AC4EF" TextString="Buying a Dancing Pole or a Dancing Spot Marker is required for dancers to Stage Dance and for clients to watch them.\n\nLook for a 'Dancing Pole' or a 'Dancing Spot' in Build Mode and place one in an open area or at a stage.\nClients will gather around and look for a comfortable seat to watch dancers. It's suggested to place seats around the Dancing Pole or Dancing Spot." />
     <TextStringDefinition InstanceID="0xBEB9B040" TextString="Assign Lap Dancing Seats!" />
@@ -618,8 +656,10 @@
     <TextStringDefinition InstanceID="0x5D863984" TextString="Specialized floor marking spot that is used by dancers as the designated dancing position. Dancers on this spot will perform dances that do not involve a dancing pole.\n\nPut this object in places where dancers are meant to dance when assigned the dancing role. &lt;i&gt;Use the invisible variant to make the dancing spots not visible in Live Mode.&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0xF697EAF2" TextString="Wicked Strip Club Dancing Pole" />
     <TextStringDefinition InstanceID="0x0CBAF2BA" TextString="Freestanding spin dancing poles are an easy and convenient choice for blooming Strip Club businesses. The shiny finish and rotating function enhance dancers performance with additional 'wow factor' that makes customers heads turn.\nProvided by the Noir and Dark Sims Inc." />
+    <TextStringDefinition InstanceID="0x4B821084" TextString="Buy a Bar!" />
+    <TextStringDefinition InstanceID="0x328AC52F" TextString="Buying a Bar is required for the club to earn any real money. Selling drinks to clients is the main revenue source of a Strip Club.\n\nLook for a 'Bar' in Build Mode and place one somewhere in the club. A hired dancer will be assigned the 'Bartender' role and sell drinks to clients.\n\n" />
     <TextStringDefinition InstanceID="0x8E4A5AA2" TextString="Supply Carrier" />
-    <TextStringDefinition InstanceID="0xB57D49E1" TextString="Your order for {0.Number} Bar Supplies has been placed and will arrive the next day at around noon." />
+    <TextStringDefinition InstanceID="0x3DAF9B19" TextString="Your order for {0.Number} Bar Supplies has been placed and will arrive the next day." />
     <TextStringDefinition InstanceID="0x6B9B1E99" TextString="Your order of Bar Supplies has been delivered to your Strip Club." />
     <TextStringDefinition InstanceID="0xE089EB2C" TextString="Bar Supplies Status ({0.Number}/{1.Number})" />
     <TextStringDefinition InstanceID="0x653BE29B" TextString="Available Supplies: {0.Number}\nSupplies Capacity: {1.Number}\nOrdered Supplies: {2.Number}\nPrice Markup: {3.Number}%\n\nPreparing drinks consumes Bar Supplies which are required to craft various drinks for clients. Order more supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu." />
@@ -630,7 +670,7 @@
     <TextStringDefinition InstanceID="0x60222DFA" TextString="Order 30" />
     <TextStringDefinition InstanceID="0x50B1641B" TextString="Order 40" />
     <TextStringDefinition InstanceID="0x86722924" TextString="Order 50" />
-    <TextStringDefinition InstanceID="0x93D14490" TextString="Currently you have {0.Number} out of {1.Number} supplies and ordered {2.Number} supplies.\n\nDo you want to order {3.Number} supplies for {4.Number} Simoleons?\n\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
+    <TextStringDefinition InstanceID="0xDCA5AAF5" TextString="Currently you have {0.Number} out of {1.Number} supplies and ordered {2.Number} supplies.\n\nDo you want to order {3.Number} supplies for {4.Number} Simoleons?\n\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at either noon or midnight depending when the order is made.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
     <TextStringDefinition InstanceID="0xDA22C1B4" TextString="You already ordered {0.Number} out of {1.Number} supplies." />
     <TextStringDefinition InstanceID="0x7ED712FE" TextString="Price Markup" />
     <TextStringDefinition InstanceID="0xB67898BE" TextString="0%" />
@@ -643,7 +683,7 @@
     <TextStringDefinition InstanceID="0xAB7E34BF" TextString="Hey boss, we are out of Bar Supplies. We can't sell any more drinks until you restock the bar. Could you order more supplies?" />
     <TextStringDefinition InstanceID="0xFBFFDEA9" TextString="Bartender Tip" />
     <TextStringDefinition InstanceID="0xFC8385B0" TextString="High Price Markup and Low Bar Supplies decrease the likeliness of clients purchasing drinks.\n\nShortage of supplies means fewer drinks to offer, and increased price makes them less appealing for purchase. When you can't sell the client's favorite drinks, lower the 'Price Markup' to make other drinks an attractive offer.\n\nClick on any Bar to access the Strip Club Price Markup menu." />
-    <TextStringDefinition InstanceID="0xCA0EEBD9" TextString="Bar Supplies are required to prepare drinks for clients. Each prepared drink consumes supplies, and when they run out, drinks cannot be prepared anymore.\n\nYou can order supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu.\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
+    <TextStringDefinition InstanceID="0x0B16457E" TextString="Bar Supplies are required to prepare drinks for clients. Each prepared drink consumes supplies, and when they run out, drinks cannot be prepared anymore.\n\nYou can order supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu.\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at either noon or midnight depending when the order is made.\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies." />
     <TextStringDefinition InstanceID="0x1B886719" TextString="Things here are great! You're a fantastic boss and I couldn't be happier with our customers." />
     <TextStringDefinition InstanceID="0x67A22BF5" TextString="I get up each day, excited to bring joy to our customers." />
     <TextStringDefinition InstanceID="0x2302D9DB" TextString="Everything about my work makes me happy! And that makes our customers happy!" />
@@ -713,6 +753,8 @@
     <TextStringDefinition InstanceID="0xB5913578" TextString="Take Sex Photo of {1.SimFirstName}" />
     <TextStringDefinition InstanceID="0xE6E7674C" TextString="Display Reference Data" />
     <TextStringDefinition InstanceID="0x8D8A7C6E" TextString="SimHub Rating: {0.Number}%" />
+    <TextStringDefinition InstanceID="0x40B252A8" TextString="Can't use the Picture Slider?" />
+    <TextStringDefinition InstanceID="0x2DDD4C55" TextString="The picture slider to rotate the scene might not be functional.\n\nClick on the camera viewfinder to rotate the view around. Use the WSAD and QE keys to move the camera." />
     <TextStringDefinition InstanceID="0xD59F9D85" TextString="SimHub" />
     <TextStringDefinition InstanceID="0x68686315" TextString="Create a SimHub Account..." />
     <TextStringDefinition InstanceID="0x639F3D3D" TextString="Register SimHub Account" />
