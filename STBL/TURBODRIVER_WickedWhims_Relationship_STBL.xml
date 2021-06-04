@@ -124,8 +124,6 @@
     <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
     <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
     <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
-    <TextStringDefinition InstanceID="0x270E9AC1" TextString="Become Casual Sex Partners" />
-    <TextStringDefinition InstanceID="0xC09F1323" TextString="Becoming Casual Sex Partners with {1.SimFirstName}" />
     <TextStringDefinition InstanceID="0x231C3E23" TextString="Fake Personality Archetypes" />
     <TextStringDefinition InstanceID="0x41435C2E" TextString="Personality" />
     <TextStringDefinition InstanceID="0x72DE385E" TextString="Fake Major Personality" />
@@ -244,7 +242,166 @@
     <TextStringDefinition InstanceID="0x963819D9" TextString=" Ask about Another Sim Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0xA27DD8CB" TextString=" Scope the Surroundings" />
     <TextStringDefinition InstanceID="0x090287BE" TextString=" Check Yourself Out" />
-    <TextStringDefinition InstanceID="0xE875BEA7" TextString="--------- Attractiveness Traits ---------" />
+    <TextStringDefinition InstanceID="0xDB0CC9F0" TextString="--------- Attractiveness Simple Preference Traits ---------" />
+    <TextStringDefinition InstanceID="0x362A8C9C" TextString="CAS Likes &amp; Dislikes Conflict" />
+    <TextStringDefinition InstanceID="0x3222BC20" TextString="Changes made to Sims preferences don't fully match their CAS Likes &amp; Dislikes.\nThese changes have been reverted to match their CAS Likes &amp; Dislikes preferences." />
+    <TextStringDefinition InstanceID="0x7DA3614F" TextString="Attractiveness\nBasics" />
+    <TextStringDefinition InstanceID="0x7EEF5776" TextString="Attractiveness\nVoice" />
+    <TextStringDefinition InstanceID="0x9D088EDB" TextString="Attractiveness\nHair Color" />
+    <TextStringDefinition InstanceID="0x046A5AF2" TextString="Attractiveness\nEye Color" />
+    <TextStringDefinition InstanceID="0x42348135" TextString="Attractiveness\nHair Style" />
+    <TextStringDefinition InstanceID="0x7E42BDAE" TextString="Attractiveness\nOutfit Style" />
+    <TextStringDefinition InstanceID="0xB1445715" TextString="Attractiveness\nBody Shape" />
+    <TextStringDefinition InstanceID="0x0E05CCF2" TextString="Attractiveness\nDetails" />
+    <TextStringDefinition InstanceID="0x2E0E22C3" TextString="Sims are more interested in bonding with others that match their Likes and less likely to interact with ones that posses things they Dislike. Sims can share and talk about their preferences too!" />
+    <TextStringDefinition InstanceID="0x4D9E7111" TextString="Gender\nMales" />
+    <TextStringDefinition InstanceID="0x568624FA" TextString="Likes Males" />
+    <TextStringDefinition InstanceID="0x8BEAF376" TextString="Dislikes Males" />
+    <TextStringDefinition InstanceID="0x5B464A59" TextString="Gender\nFemales" />
+    <TextStringDefinition InstanceID="0x401B91E2" TextString="Likes Females" />
+    <TextStringDefinition InstanceID="0x998F1FCE" TextString="Dislikes Females" />
+    <TextStringDefinition InstanceID="0x2AB0DE1F" TextString="Sweet\n(Feminine)" />
+    <TextStringDefinition InstanceID="0xA5C52365" TextString="Likes Sweet Voice" />
+    <TextStringDefinition InstanceID="0x392BB5C1" TextString="Dislikes Sweet Voice" />
+    <TextStringDefinition InstanceID="0x4CAAE2B5" TextString="Melodic\n(Feminine)" />
+    <TextStringDefinition InstanceID="0xD780752F" TextString="Likes Melodic Voice" />
+    <TextStringDefinition InstanceID="0xB1A0265B" TextString="Dislikes Melodic Voice" />
+    <TextStringDefinition InstanceID="0x796C4E75" TextString="Lilted\n(Feminine)" />
+    <TextStringDefinition InstanceID="0x7AED854B" TextString="Likes Lilted Voice" />
+    <TextStringDefinition InstanceID="0xD7652D27" TextString="Dislikes Lilted Voice" />
+    <TextStringDefinition InstanceID="0xCE7EA34D" TextString="Clear\n(Masculine)" />
+    <TextStringDefinition InstanceID="0xE354AE0F" TextString="Likes Clear Voice" />
+    <TextStringDefinition InstanceID="0x1714027B" TextString="Dislikes Clear Voice" />
+    <TextStringDefinition InstanceID="0xED9A6B99" TextString="Warm\n(Masculine)" />
+    <TextStringDefinition InstanceID="0x4558526F" TextString="Likes Warm Voice" />
+    <TextStringDefinition InstanceID="0x80DE4BBB" TextString="Dislikes Warm Voice" />
+    <TextStringDefinition InstanceID="0x93CE5F05" TextString="Brash\n(Masculine)" />
+    <TextStringDefinition InstanceID="0x43D5F04D" TextString="Likes Brash Voice" />
+    <TextStringDefinition InstanceID="0x32D35B49" TextString="Dislikes Brash Voice" />
+    <TextStringDefinition InstanceID="0x66E0EFCA" TextString="Black" />
+    <TextStringDefinition InstanceID="0xD0FA4B9F" TextString="Likes Black Hair Color" />
+    <TextStringDefinition InstanceID="0xCCF570D3" TextString="Dislikes Black Hair Color" />
+    <TextStringDefinition InstanceID="0x3CCC43D8" TextString="Blonde" />
+    <TextStringDefinition InstanceID="0x8EC96EF9" TextString="Likes Blonde Hair Color" />
+    <TextStringDefinition InstanceID="0x8EDC944D" TextString="Dislikes Blonde Hair Color" />
+    <TextStringDefinition InstanceID="0x5BCFDA60" TextString="Brown" />
+    <TextStringDefinition InstanceID="0xC5083AE7" TextString="Likes Brown Hair Color" />
+    <TextStringDefinition InstanceID="0x84BB9D7B" TextString="Dislikes Brown Hair Color" />
+    <TextStringDefinition InstanceID="0x76A85446" TextString="Red" />
+    <TextStringDefinition InstanceID="0x1BE78677" TextString="Likes Red Hair Color" />
+    <TextStringDefinition InstanceID="0x530E8C6B" TextString="Dislikes Red Hair Color" />
+    <TextStringDefinition InstanceID="0x7E3021A0" TextString="Gray" />
+    <TextStringDefinition InstanceID="0x3378463F" TextString="Likes Gray Hair Color" />
+    <TextStringDefinition InstanceID="0xEB462C63" TextString="Dislikes Gray Hair Color" />
+    <TextStringDefinition InstanceID="0x22B69018" TextString="Pink" />
+    <TextStringDefinition InstanceID="0x80667C41" TextString="Likes Pink Hair Color" />
+    <TextStringDefinition InstanceID="0xC463D205" TextString="Dislikes Pink Hair Color" />
+    <TextStringDefinition InstanceID="0xE9F50748" TextString="Blue" />
+    <TextStringDefinition InstanceID="0x1DC9E5DD" TextString="Likes Blue Hair Color" />
+    <TextStringDefinition InstanceID="0x5872F351" TextString="Dislikes Blue Hair Color" />
+    <TextStringDefinition InstanceID="0xB0B6331A" TextString="Green" />
+    <TextStringDefinition InstanceID="0xFF1133F7" TextString="Likes Green Hair Color" />
+    <TextStringDefinition InstanceID="0x2A75F2FB" TextString="Dislikes Green Hair Color" />
+    <TextStringDefinition InstanceID="0x3CBD6EFF" TextString="Blue" />
+    <TextStringDefinition InstanceID="0xDF2CF9A1" TextString="Likes Blue Eye Color" />
+    <TextStringDefinition InstanceID="0x4A610D05" TextString="Dislikes Blue Eye Color" />
+    <TextStringDefinition InstanceID="0xE4868B7D" TextString="Green" />
+    <TextStringDefinition InstanceID="0xE31FBA77" TextString="Likes Green Eye Color" />
+    <TextStringDefinition InstanceID="0xD2FA54CB" TextString="Dislikes Green Eye Color" />
+    <TextStringDefinition InstanceID="0x0B2EA095" TextString="Brown" />
+    <TextStringDefinition InstanceID="0xBC8193B3" TextString="Likes Brown Eye Color" />
+    <TextStringDefinition InstanceID="0x9F1C48E7" TextString="Dislikes Brown Eye Color" />
+    <TextStringDefinition InstanceID="0x4C00C6B9" TextString="Unnatural" />
+    <TextStringDefinition InstanceID="0x30F30EA7" TextString="Likes Unnatural Eye Color" />
+    <TextStringDefinition InstanceID="0x12FBA23B" TextString="Dislikes Unnatural Eye Color" />
+    <TextStringDefinition InstanceID="0x69826AB0" TextString="Freckles" />
+    <TextStringDefinition InstanceID="0xA4DE3FB0" TextString="Likes Freckles" />
+    <TextStringDefinition InstanceID="0xC03A2FE4" TextString="Dislikes Freckles" />
+    <TextStringDefinition InstanceID="0x29EAE3B2" TextString="Tattoos" />
+    <TextStringDefinition InstanceID="0xFA5B70B2" TextString="Likes Tattoos" />
+    <TextStringDefinition InstanceID="0x68DCCFF6" TextString="Dislikes Tattoos" />
+    <TextStringDefinition InstanceID="0xBDDE820A" TextString="Hats" />
+    <TextStringDefinition InstanceID="0x8D48B70A" TextString="Likes Hats" />
+    <TextStringDefinition InstanceID="0x2DA37BEE" TextString="Dislikes Hats" />
+    <TextStringDefinition InstanceID="0x690C29EE" TextString="Glasses" />
+    <TextStringDefinition InstanceID="0x397CB6EE" TextString="Likes Glasses" />
+    <TextStringDefinition InstanceID="0x32514092" TextString="Dislikes Glasses" />
+    <TextStringDefinition InstanceID="0xE93C1D3C" TextString="Jewelery" />
+    <TextStringDefinition InstanceID="0x2497F23C" TextString="Likes Jewelery" />
+    <TextStringDefinition InstanceID="0x35F18DF0" TextString="Dislikes Jewelery" />
+    <TextStringDefinition InstanceID="0xB764D424" TextString="Piercing" />
+    <TextStringDefinition InstanceID="0xF2C0A924" TextString="Likes Piercing" />
+    <TextStringDefinition InstanceID="0x1375AED8" TextString="Dislikes Piercing" />
+    <TextStringDefinition InstanceID="0x321D9624" TextString="Makeup" />
+    <TextStringDefinition InstanceID="0x37361B24" TextString="Likes Makeup" />
+    <TextStringDefinition InstanceID="0xBEED2D18" TextString="Dislikes Makeup" />
+    <TextStringDefinition InstanceID="0xDE53246B" TextString="Facial Hair\nClean" />
+    <TextStringDefinition InstanceID="0x48888A09" TextString="Likes Clean Facial Hair" />
+    <TextStringDefinition InstanceID="0x306573AD" TextString="Dislikes Clean Facial Hair" />
+    <TextStringDefinition InstanceID="0xF77618AB" TextString="Facial Hair\nBeard" />
+    <TextStringDefinition InstanceID="0x47AC420D" TextString="Likes Beard Facial Hair" />
+    <TextStringDefinition InstanceID="0xA9D10AC1" TextString="Dislikes Beard Facial Hair" />
+    <TextStringDefinition InstanceID="0x73E1A6C7" TextString="Facial Hair\nGoatee" />
+    <TextStringDefinition InstanceID="0x3D86D58D" TextString="Likes Goatee Facial Hair" />
+    <TextStringDefinition InstanceID="0x75716131" TextString="Dislikes Goatee Facial Hair" />
+    <TextStringDefinition InstanceID="0xFEC85CA1" TextString="Facial Hair\nMustache" />
+    <TextStringDefinition InstanceID="0x06AED78B" TextString="Likes Mustache Facial Hair" />
+    <TextStringDefinition InstanceID="0x1860C86F" TextString="Dislikes Mustache Facial Hair" />
+    <TextStringDefinition InstanceID="0x551D9EA7" TextString="Hair Length\nBald" />
+    <TextStringDefinition InstanceID="0xB50FB15D" TextString="Likes Bald Hair Length" />
+    <TextStringDefinition InstanceID="0x0383A091" TextString="Dislikes Bald Hair Length" />
+    <TextStringDefinition InstanceID="0xB06F9E03" TextString="Hair Length\nShort" />
+    <TextStringDefinition InstanceID="0x65160A0D" TextString="Likes Short Hair Length" />
+    <TextStringDefinition InstanceID="0x56394C51" TextString="Dislikes Short Hair Length" />
+    <TextStringDefinition InstanceID="0x588BC747" TextString="Hair Length\nMedium" />
+    <TextStringDefinition InstanceID="0x6F313059" TextString="Likes Medium Hair Length" />
+    <TextStringDefinition InstanceID="0xC599D15D" TextString="Dislikes Medium Hair Length" />
+    <TextStringDefinition InstanceID="0xB03B92E5" TextString="Hair Length\nLong" />
+    <TextStringDefinition InstanceID="0x06BEAADF" TextString="Likes Long Hair Length" />
+    <TextStringDefinition InstanceID="0xA8F0D253" TextString="Dislikes Long Hair Length" />
+    <TextStringDefinition InstanceID="0x0FD6132C" TextString="Body Weight\nLight" />
+    <TextStringDefinition InstanceID="0xD11532B6" TextString="Likes Light Body Weight" />
+    <TextStringDefinition InstanceID="0xDEFE9B4A" TextString="Dislikes Light Body Weight" />
+    <TextStringDefinition InstanceID="0x308C72CA" TextString="Body Weight\nHeavy" />
+    <TextStringDefinition InstanceID="0xA5E9ED04" TextString="Likes Heavy Body Weight" />
+    <TextStringDefinition InstanceID="0x2D3AC6E8" TextString="Dislikes Heavy Body Weight" />
+    <TextStringDefinition InstanceID="0x26A1D38D" TextString="Body Muscle\nLow" />
+    <TextStringDefinition InstanceID="0xBF54004D" TextString="Likes Low Body Muscle" />
+    <TextStringDefinition InstanceID="0x3E99DE31" TextString="Dislikes Low Body Muscle" />
+    <TextStringDefinition InstanceID="0x3A3290D5" TextString="Body Muscle\nHigh" />
+    <TextStringDefinition InstanceID="0x4939038F" TextString="Likes High Body Muscle" />
+    <TextStringDefinition InstanceID="0xE3387613" TextString="Dislikes High Body Muscle" />
+    <TextStringDefinition InstanceID="0x38A766D1" TextString="Body Shape\nBreasts Small" />
+    <TextStringDefinition InstanceID="0xF823DCBB" TextString="Likes Breasts Small Body Shape" />
+    <TextStringDefinition InstanceID="0xB89BCA07" TextString="Dislikes Breasts Small Body Shape" />
+    <TextStringDefinition InstanceID="0xA0264881" TextString="Body Shape\nBreasts Large" />
+    <TextStringDefinition InstanceID="0x54F60913" TextString="Likes Breasts Large Body Shape" />
+    <TextStringDefinition InstanceID="0xF059921F" TextString="Dislikes Breasts Large Body Shape" />
+    <TextStringDefinition InstanceID="0xB65702C7" TextString="Body Shape\nButt Small" />
+    <TextStringDefinition InstanceID="0xEC31CB59" TextString="Likes Butt Small Body Shape" />
+    <TextStringDefinition InstanceID="0x58048955" TextString="Dislikes Butt Small Body Shape" />
+    <TextStringDefinition InstanceID="0xC53C3EAF" TextString="Body Shape\nButt Large" />
+    <TextStringDefinition InstanceID="0xFCC58E25" TextString="Likes Butt Large Body Shape" />
+    <TextStringDefinition InstanceID="0x98BD9651" TextString="Dislikes Butt Large Body Shape" />
+    <TextStringDefinition InstanceID="0x54BC7A4F" TextString="Generic" />
+    <TextStringDefinition InstanceID="0x7CC6B60F" TextString="Likes Generic Outfit Style" />
+    <TextStringDefinition InstanceID="0xE93FD5A3" TextString="Dislikes Generic Outfit Style" />
+    <TextStringDefinition InstanceID="0x4FB10AB3" TextString="Goth, Rock &amp; Punk" />
+    <TextStringDefinition InstanceID="0x0E7EBC93" TextString="Likes Goth, Rock &amp; Punk Outfit Style" />
+    <TextStringDefinition InstanceID="0xB5746DEF" TextString="Dislikes Goth, Rock &amp; Punk Outfit Style" />
+    <TextStringDefinition InstanceID="0x42602041" TextString="Country" />
+    <TextStringDefinition InstanceID="0x9CE05827" TextString="Likes Country Outfit Style" />
+    <TextStringDefinition InstanceID="0x7306767B" TextString="Dislikes Country Outfit Style" />
+    <TextStringDefinition InstanceID="0x34FD7CAF" TextString="Hipster" />
+    <TextStringDefinition InstanceID="0x0E0B1777" TextString="Likes Hipster Outfit Style" />
+    <TextStringDefinition InstanceID="0x84BBF60B" TextString="Dislikes Hipster Outfit Style" />
+    <TextStringDefinition InstanceID="0xEC5A08D7" TextString="Bohemian" />
+    <TextStringDefinition InstanceID="0xBF16F2EF" TextString="Likes Bohemian Outfit Style" />
+    <TextStringDefinition InstanceID="0x032FC1E3" TextString="Dislikes Bohemian Outfit Style" />
+    <TextStringDefinition InstanceID="0xB90AE103" TextString="Islander" />
+    <TextStringDefinition InstanceID="0x86DF2AB1" TextString="Likes Islander Outfit Style" />
+    <TextStringDefinition InstanceID="0xD763FEB5" TextString="Dislikes Islander Outfit Style" />
+    <TextStringDefinition InstanceID="0xB7B14818" TextString="--------- Attractiveness Preference Traits ---------" />
     <TextStringDefinition InstanceID="0x8F24BB53" TextString="&lt;font color='#0CAB19'&gt;{0.String}&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x812C8432" TextString="&lt;font color='#1DCC2C'&gt;{0.String}&lt;/font&gt;\nOccurs in {1.String} of Sims.\nLiked by {2.String} of Sims." />
     <TextStringDefinition InstanceID="0x02C170DC" TextString="&lt;font color='#AB0C10'&gt;{0.String}&lt;/font&gt;" />
@@ -324,15 +481,21 @@
     <TextStringDefinition InstanceID="0xF0FEAD48" TextString="Hazel Eye Color" />
     <TextStringDefinition InstanceID="0x6AB5FAC2" TextString="Black Hair Color" />
     <TextStringDefinition InstanceID="0x509A9A8D" TextString="Black Salt and Pepper Hair Color" />
+    <TextStringDefinition InstanceID="0x1154B545" TextString="Neutral Black Hair Color" />
     <TextStringDefinition InstanceID="0xEFE5D9B6" TextString="Gray Hair Color" />
     <TextStringDefinition InstanceID="0xB6D8B329" TextString="Platinum Hair Color" />
     <TextStringDefinition InstanceID="0x8E743349" TextString="Dark Blue Hair Color" />
     <TextStringDefinition InstanceID="0x26D6EC7C" TextString="Turquoise Hair Color" />
     <TextStringDefinition InstanceID="0xCCF24172" TextString="Green Hair Color" />
     <TextStringDefinition InstanceID="0xB0E8AC2D" TextString="Blonde Hair Color" />
+    <TextStringDefinition InstanceID="0x7D11C54C" TextString="Neutral Blonde Hair Color" />
+    <TextStringDefinition InstanceID="0x183E4856" TextString="White Blonde Hair Color" />
+    <TextStringDefinition InstanceID="0xC457E459" TextString="Light Blonde Hair Color" />
     <TextStringDefinition InstanceID="0x04A3654D" TextString="Dirty Blonde Hair Color" />
     <TextStringDefinition InstanceID="0x191DC4A7" TextString="Orange Hair Color" />
     <TextStringDefinition InstanceID="0x99AC8775" TextString="Brown Hair Color" />
+    <TextStringDefinition InstanceID="0x1A7A8D8C" TextString="Warm Brown Hair Color" />
+    <TextStringDefinition InstanceID="0xB1BFD219" TextString="Light Brown Hair Color" />
     <TextStringDefinition InstanceID="0x6660A261" TextString="Dark Brown Hair Color" />
     <TextStringDefinition InstanceID="0x9B210526" TextString="Brown Salt and Pepper Hair Color" />
     <TextStringDefinition InstanceID="0xF91F26BA" TextString="Auburn Hair Color" />
@@ -496,6 +659,10 @@
     <TextStringDefinition InstanceID="0x0ACD9777" TextString="I dislike the salt and pepper hair color." />
     <TextStringDefinition InstanceID="0xFE27D2FD" TextString="{0.SimFirstName} likes the salt and pepper hair color." />
     <TextStringDefinition InstanceID="0x9C513651" TextString="{0.SimFirstName} dislikes the salt and pepper hair color." />
+    <TextStringDefinition InstanceID="0xA2606758" TextString="I like the neutral black hair color." />
+    <TextStringDefinition InstanceID="0x1493E792" TextString="I dislike the neutral black hair color." />
+    <TextStringDefinition InstanceID="0x461B2BA4" TextString="{0.SimFirstName} likes the neutral black hair color." />
+    <TextStringDefinition InstanceID="0xB237D9B0" TextString="{0.SimFirstName} dislikes the neutral black hair color." />
     <TextStringDefinition InstanceID="0xB2C8808F" TextString="I like the gray hair color." />
     <TextStringDefinition InstanceID="0xF51C47C5" TextString="I dislike the gray hair color." />
     <TextStringDefinition InstanceID="0x212CD603" TextString="{0.SimFirstName} likes the gray hair color." />
@@ -520,6 +687,18 @@
     <TextStringDefinition InstanceID="0xE5FEB037" TextString="I dislike the blonde hair color." />
     <TextStringDefinition InstanceID="0xAC02DF4D" TextString="{0.SimFirstName} likes the blonde hair color." />
     <TextStringDefinition InstanceID="0x5EE3F061" TextString="{0.SimFirstName} dislikes the blonde hair color." />
+    <TextStringDefinition InstanceID="0xC8004590" TextString="I like the neutral blonde hair color." />
+    <TextStringDefinition InstanceID="0x6C819E4E" TextString="I dislike the neutral blonde hair color." />
+    <TextStringDefinition InstanceID="0x82DAC7AC" TextString="{0.SimFirstName} likes the neutral blonde hair color." />
+    <TextStringDefinition InstanceID="0xD6046538" TextString="{0.SimFirstName} dislikes the neutral blonde hair color." />
+    <TextStringDefinition InstanceID="0xFF4F2F72" TextString="I like the white blonde hair color." />
+    <TextStringDefinition InstanceID="0x3D6A4504" TextString="I dislike the white blonde hair color." />
+    <TextStringDefinition InstanceID="0x493ABA5E" TextString="{0.SimFirstName} likes the white blonde hair color." />
+    <TextStringDefinition InstanceID="0x5E8FE93A" TextString="{0.SimFirstName} dislikes the white blonde hair color." />
+    <TextStringDefinition InstanceID="0x493F2415" TextString="I like the light blonde hair color." />
+    <TextStringDefinition InstanceID="0x478FFEF7" TextString="I dislike the light blonde hair color." />
+    <TextStringDefinition InstanceID="0x2326CAA1" TextString="{0.SimFirstName} likes the light blonde hair color." />
+    <TextStringDefinition InstanceID="0x0D242DED" TextString="{0.SimFirstName} dislikes the light blonde hair color." />
     <TextStringDefinition InstanceID="0xB0C0041E" TextString="I like the dirty blonde hair color." />
     <TextStringDefinition InstanceID="0xC5EF1AD8" TextString="I dislike the dirty blonde hair color." />
     <TextStringDefinition InstanceID="0x2D59CD8A" TextString="{0.SimFirstName} likes the dirty blonde hair color." />
@@ -532,6 +711,14 @@
     <TextStringDefinition InstanceID="0x25FF098B" TextString="I dislike the brown hair color." />
     <TextStringDefinition InstanceID="0xA69AD401" TextString="{0.SimFirstName} likes the brown hair color." />
     <TextStringDefinition InstanceID="0xCD54CC25" TextString="{0.SimFirstName} dislikes the brown hair color." />
+    <TextStringDefinition InstanceID="0x76B8AF20" TextString="I like the warm brown hair color." />
+    <TextStringDefinition InstanceID="0xD6DC6F3A" TextString="I dislike the warm brown hair color." />
+    <TextStringDefinition InstanceID="0x0C32FDEC" TextString="{0.SimFirstName} likes the warm brown hair color." />
+    <TextStringDefinition InstanceID="0xED831C68" TextString="{0.SimFirstName} dislikes the warm brown hair color." />
+    <TextStringDefinition InstanceID="0x14871289" TextString="I like the light brown hair color." />
+    <TextStringDefinition InstanceID="0xB2EEEE4B" TextString="I dislike the light brown hair color." />
+    <TextStringDefinition InstanceID="0xECC1C365" TextString="{0.SimFirstName} likes the light brown hair color." />
+    <TextStringDefinition InstanceID="0x930B8321" TextString="{0.SimFirstName} dislikes the light brown hair color." />
     <TextStringDefinition InstanceID="0x7BD89B60" TextString="I like the dark brown hair color." />
     <TextStringDefinition InstanceID="0x9A580EB2" TextString="I dislike the dark brown hair color." />
     <TextStringDefinition InstanceID="0x772E241C" TextString="{0.SimFirstName} likes the dark brown hair color." />
