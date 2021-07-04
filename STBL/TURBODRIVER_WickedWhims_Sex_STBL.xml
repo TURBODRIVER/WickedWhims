@@ -224,8 +224,10 @@
     <TextStringDefinition InstanceID="0x0D018DAC" TextString="Check for Player Sims asking Player Sims for sex dialogs." />
     <TextStringDefinition InstanceID="0xE7EC962B" TextString="Display NPC Asking Player Sex Dialog" />
     <TextStringDefinition InstanceID="0x1BE752BC" TextString="Check for NPC Sims asking Player Sims for sex dialogs." />
-    <TextStringDefinition InstanceID="0x27015517" TextString="Display Player Asking NPC Sex Dialog" />
-    <TextStringDefinition InstanceID="0xC5B2B81C" TextString="Check for Player Sims asking NPC Sims for sex dialogs." />
+    <TextStringDefinition InstanceID="0x57B1750A" TextString="Display Player Asking NPC to Join Sex Dialog" />
+    <TextStringDefinition InstanceID="0x12AA2E71" TextString="Check for Player Sims asking NPC Sims to join to sex dialogs." />
+    <TextStringDefinition InstanceID="0x3D0A00F8" TextString="Social Context Sex Questions Dialogs" />
+    <TextStringDefinition InstanceID="0x5B5C2F22" TextString="Check to enable social context sex questions when Sims ask to initiate sex.\nUncheck to use a generic sex question when Sims ask to initiate sex." />
     <TextStringDefinition InstanceID="0x1CA1C80B" TextString="NPC Sims Sex Duration" />
     <TextStringDefinition InstanceID="0x733E164D" TextString="Set NPC Sims sex interaction duration in realtime minutes.\n(Default: 3)" />
     <TextStringDefinition InstanceID="0x4AD9531A" TextString="Gender Settings" />
@@ -238,6 +240,14 @@
     <TextStringDefinition InstanceID="0x8240E6B9" TextString="Select to recognize Sims gender by CAS 'Custom Gender Settings'." />
     <TextStringDefinition InstanceID="0x2728D93C" TextString="Anything Goes" />
     <TextStringDefinition InstanceID="0x30B35831" TextString="Select to not recognize Sims gender at all." />
+    <TextStringDefinition InstanceID="0x4373B61D" TextString="&quot;Both&quot; Gender As Specific Recognition" />
+    <TextStringDefinition InstanceID="0xF08C3EE0" TextString="Choose the type of Sims gender the &quot;Both&quot; gender will be recognized as." />
+    <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
+    <TextStringDefinition InstanceID="0xFC2F0AB8" TextString="Select to keep the default behavior." />
+    <TextStringDefinition InstanceID="0x3EA2BECA" TextString="Both As Male" />
+    <TextStringDefinition InstanceID="0x608AA9E0" TextString="Select to recognize &quot;Both&quot; gender as Male." />
+    <TextStringDefinition InstanceID="0x3C09C813" TextString="Both As Female" />
+    <TextStringDefinition InstanceID="0xB95BE0F7" TextString="Select to recognize &quot;Both&quot; gender as Female." />
     <TextStringDefinition InstanceID="0xE2BCD512" TextString="Recognize Females As Both" />
     <TextStringDefinition InstanceID="0xE3879839" TextString="Check to recognize female actor roles as both female and male roles (M/M).\n(allows male Sims to play female roles)" />
     <TextStringDefinition InstanceID="0x76357825" TextString="Recognize Males As Both" />
@@ -299,6 +309,8 @@
     <TextStringDefinition InstanceID="0x0D83B15B" TextString="Select for life expectancy of: 42 days (6-7 days per menstrual cycle)" />
     <TextStringDefinition InstanceID="0x6DF5CD9D" TextString="Menstrual Cycle Fertility Level" />
     <TextStringDefinition InstanceID="0xFAE3382C" TextString="Choose Sims menstrual cycle fertility level." />
+    <TextStringDefinition InstanceID="0xB54CF23D" TextString="Decreased (Very Low)" />
+    <TextStringDefinition InstanceID="0xD47329D1" TextString="Select for decreased menstrual cycle fertility chances.\n(0%-3%, 6%-10%, 15%-20%)" />
     <TextStringDefinition InstanceID="0x1ED735B9" TextString="Realistic (Low)" />
     <TextStringDefinition InstanceID="0xCFDF484E" TextString="Select for realistic menstrual cycle fertility chances.\n(0%-10%, 16%-27%, 31%-33%)" />
     <TextStringDefinition InstanceID="0x6D30329C" TextString="Boosted (Medium)" />
@@ -707,7 +719,7 @@
     <TextStringDefinition InstanceID="0x55E11FF9" TextString="{0.SimFirstName}'s Sexpertise skill is not on an appropriate level to read this book." />
     <TextStringDefinition InstanceID="0x8BB9DD8F" TextString="&lt;font color='#FF0000'&gt;\\\ MISSING SEX TEXT\\\&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0x0F8958BF" TextString="---------- SEX INTERACTIONS ----------" />
-    <TextStringDefinition InstanceID="0x456C0ACB" TextString=" Have Sex" />
+    <TextStringDefinition InstanceID="0x36D522ED" TextString=" Make a Move" />
     <TextStringDefinition InstanceID="0xE0C90006" TextString="Ask for Sex" />
     <TextStringDefinition InstanceID="0xBA4656AC" TextString="Ask for Sex (Random)" />
     <TextStringDefinition InstanceID="0x4218F70A" TextString="Be Asked for Sex" />
@@ -762,7 +774,6 @@
     <TextStringDefinition InstanceID="0x0C26D46F" TextString="Gender Role" />
     <TextStringDefinition InstanceID="0x8590154D" TextString="Male" />
     <TextStringDefinition InstanceID="0xF63025C4" TextString="Female" />
-    <TextStringDefinition InstanceID="0x4809946D" TextString="Default" />
     <TextStringDefinition InstanceID="0x61314D40" TextString="Allow Any Gender Role" />
     <TextStringDefinition InstanceID="0xACAEC79C" TextString="Disallow Any Gender Role" />
     <TextStringDefinition InstanceID="0x6C46C9DA" TextString="Sim is currently allowed to occupy Any Gender Role." />
@@ -830,10 +841,331 @@
     <TextStringDefinition InstanceID="0xCD289D78" TextString="&lt;i&gt;{0.String}&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x16F32D85" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
+    <TextStringDefinition InstanceID="0x5312DD62" TextString="---------- SEX QUESTIONNAIRES ----------" />
+    <TextStringDefinition InstanceID="0xACC51DD3" TextString="Inappropriate Inquiry" />
+    <TextStringDefinition InstanceID="0x78CF22AB" TextString="(From Asking For Sex)" />
+    <TextStringDefinition InstanceID="0xA218D3E9" TextString="{0.SimFirstName} asked someone to have sex with {M0.him}{F0.her} but it didn't go so well." />
+    <TextStringDefinition InstanceID="0x883D8442" TextString="Unexpected Inquiry" />
+    <TextStringDefinition InstanceID="0x1337F427" TextString="(From Being Asked For Sex)" />
+    <TextStringDefinition InstanceID="0x8DA1AECA" TextString="{0.SimFirstName} was asked if {M0.he}{F0.she} wants to have sex but that conversation was downright distasteful." />
     <TextStringDefinition InstanceID="0x4DD61AA2" TextString="Can I join in on the fun?" />
     <TextStringDefinition InstanceID="0x4DA573FD" TextString="Sure, come on in." />
     <TextStringDefinition InstanceID="0x4D9E91EC" TextString="No, you cannot join in." />
     <TextStringDefinition InstanceID="0x5102FB59" TextString="No, nobody can join in." />
+    <TextStringDefinition InstanceID="0x9A0B7AB2" TextString="Do you want to join in on the fun?" />
+    <TextStringDefinition InstanceID="0x14F2A678" TextString="Sure, I'm coming in." />
+    <TextStringDefinition InstanceID="0xCAA87CD2" TextString="No, I don't want to join in." />
+    <TextStringDefinition InstanceID="0x0C76017A" TextString="Is sleeping with the enemy supposed to be a bad thing? Would you like to find out for yourself?" />
+    <TextStringDefinition InstanceID="0x208C258D" TextString="Maybe then I won't hate you so much." />
+    <TextStringDefinition InstanceID="0xDC54D9A9" TextString="I have always wondered that. We might as well!" />
+    <TextStringDefinition InstanceID="0x678B8719" TextString="I didn't think I could hate you more, but I do now!" />
+    <TextStringDefinition InstanceID="0x1805412F" TextString="I am too preoccupied to consider this right now." />
+    <TextStringDefinition InstanceID="0xB3E2890A" TextString="Sometimes I really can't stand the sight of you but right now all I want to do is get down and dirty.\nWhat about you? What would you say to a romp in the hay?" />
+    <TextStringDefinition InstanceID="0xD4073820" TextString="I hate you too but I feel the same. Let's do it." />
+    <TextStringDefinition InstanceID="0x2AC9178D" TextString="I don't think you realize just how much I hate you." />
+    <TextStringDefinition InstanceID="0x433A9DC0" TextString="What makes you think I'd ever agree to that?" />
+    <TextStringDefinition InstanceID="0x80F48B57" TextString="When I see you I see only trash! But sometimes you just &lt;b&gt;NEED&lt;/b&gt; some junk food. Know what I mean?" />
+    <TextStringDefinition InstanceID="0x77ABC823" TextString="You're definitely not good for me. Let's do it!" />
+    <TextStringDefinition InstanceID="0xA9FF1AFA" TextString="I'd rather eat literal garbage." />
+    <TextStringDefinition InstanceID="0xC1BE3BB2" TextString="Um... what?" />
+    <TextStringDefinition InstanceID="0x73883F88" TextString="Instead of ruining my day with your presence why don't you put that loose tongue of yours to good use for once, bend down and see how fast you can make me scream?" />
+    <TextStringDefinition InstanceID="0xDA93A9AD" TextString="Fine, get over here Asshole!" />
+    <TextStringDefinition InstanceID="0x31A773E2" TextString="I would rather lick a dead fish." />
+    <TextStringDefinition InstanceID="0x04EADAEF" TextString="I won't degrade myself by bending down for you." />
+    <TextStringDefinition InstanceID="0x656AF9B1" TextString="I hate you so much, but I also want to bang the hell out of you." />
+    <TextStringDefinition InstanceID="0x8D6B7745" TextString="I get exactly what you mean. Let's act on that feeling." />
+    <TextStringDefinition InstanceID="0xE7CAEB0E" TextString="You are being extremely weird. Leave me alone." />
+    <TextStringDefinition InstanceID="0x6F144C11" TextString="What did you just say?" />
+    <TextStringDefinition InstanceID="0x64BB54B8" TextString="Have you ever heard of hate sex? I did, and I heard it can be one of the most memorable experiences in one's life." />
+    <TextStringDefinition InstanceID="0x94E81ACE" TextString="Let's test that theory." />
+    <TextStringDefinition InstanceID="0xCF9AB882" TextString="No, and I don't care to try it!" />
+    <TextStringDefinition InstanceID="0x88243FA5" TextString="Excuse me?" />
+    <TextStringDefinition InstanceID="0x32D7B236" TextString="Did you know that hate and lust are two sides of the same coin? Or was it love? I think it was lust." />
+    <TextStringDefinition InstanceID="0x60486F21" TextString="So, you wanna get freaky?" />
+    <TextStringDefinition InstanceID="0x2B68F6D5" TextString="It was definitely love, and I don't have any for you." />
+    <TextStringDefinition InstanceID="0x9FF8E1FF" TextString="I think I misheard you..." />
+    <TextStringDefinition InstanceID="0xD3DA559A" TextString="You really are desperate aren't you?" />
+    <TextStringDefinition InstanceID="0xA5E3084D" TextString="You know what? Screw you!" />
+    <TextStringDefinition InstanceID="0x48E1B721" TextString="Screw me yourself, you coward!" />
+    <TextStringDefinition InstanceID="0xE6399AE8" TextString="Screw you too!" />
+    <TextStringDefinition InstanceID="0x07974158" TextString="What's gotten into you? Leave me alone." />
+    <TextStringDefinition InstanceID="0xD2AF0714" TextString="I honestly can't look at your face but we can always have sex with our eyes closed." />
+    <TextStringDefinition InstanceID="0x87BBDFF5" TextString="Ok, first of all, rude. But let's do it anyway." />
+    <TextStringDefinition InstanceID="0xBD031FAB" TextString="No, even if I had my eyes gouged out." />
+    <TextStringDefinition InstanceID="0x2B06FFD7" TextString="I'm don't feel like even joking about that stuff." />
+    <TextStringDefinition InstanceID="0x59D9A320" TextString="I know we're not on good terms, so do you wanna have sex and make up?" />
+    <TextStringDefinition InstanceID="0x800FDFF6" TextString="It's about time to bury the hatchet." />
+    <TextStringDefinition InstanceID="0x95A2B057" TextString="We're not on good terms for a reason, dickhead." />
+    <TextStringDefinition InstanceID="0xADA87717" TextString="I don't wanna talk to you." />
+    <TextStringDefinition InstanceID="0x3E4D2CE8" TextString="Let's make up first, talk sex later, ok?" />
+    <TextStringDefinition InstanceID="0xB495B802" TextString="Hey, you wanna bump uglies?" />
+    <TextStringDefinition InstanceID="0xA5A33FAE" TextString="Sure, let's get &lt;i&gt;naughty&lt;/i&gt;!" />
+    <TextStringDefinition InstanceID="0xBBD53BC5" TextString="You're disgusting. I will &lt;b&gt;NEVER&lt;/b&gt; have sex with you." />
+    <TextStringDefinition InstanceID="0xDEE332FF" TextString="I'm not saying no, but I'm also not saying yes." />
+    <TextStringDefinition InstanceID="0x03289E81" TextString="I don't know if we're ever going to be great friends, but we can at least have some great sex." />
+    <TextStringDefinition InstanceID="0x6F4FE352" TextString="You better not disappoint me!" />
+    <TextStringDefinition InstanceID="0xB4C42EEE" TextString="Great sex? With you? What a joke." />
+    <TextStringDefinition InstanceID="0x41C6406A" TextString="Why are you like this?" />
+    <TextStringDefinition InstanceID="0xCB87B8E3" TextString="We can still be friends you know? But don't force it." />
+    <TextStringDefinition InstanceID="0x302D19FE" TextString="We don't know each other, but would you like to have some &lt;i&gt;fun&lt;/i&gt; with me?" />
+    <TextStringDefinition InstanceID="0x5B437F44" TextString="You know what? Let's see how much fun we can have!" />
+    <TextStringDefinition InstanceID="0x8C7BD045" TextString="I'm not interested in any kind fun with strangers." />
+    <TextStringDefinition InstanceID="0x0A2B8F23" TextString="Ugh, you sound so pathetic and desperate. No way!" />
+    <TextStringDefinition InstanceID="0x63DA841A" TextString="Um...that's creepy. Why would you even ask that?" />
+    <TextStringDefinition InstanceID="0x484F00DA" TextString="Hey there, I know we haven't spoken before, but as soon as I saw you I instantly felt a connection. What's say we take the plunge and have some &lt;i&gt;fun&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0xBC03DE51" TextString="Sure! There's no better way to get to know someone." />
+    <TextStringDefinition InstanceID="0xD426029D" TextString="I'd rather with anyone else but you." />
+    <TextStringDefinition InstanceID="0x8D687B69" TextString="You're right, I don't know you so please go away." />
+    <TextStringDefinition InstanceID="0xC49A9F76" TextString="Why excuse me {M1.Sir}{F1.Madam}, but I couldn't help but lose myself in your {M1.devilishly handsome aura}{F1.angelic beauty}.\nWe may not know one another but I have this deep hungering desire to discover as much as I can through the carnal act of skinship." />
+    <TextStringDefinition InstanceID="0xD8642FDE" TextString="Indeed, let us intimately explore each other's bodies." />
+    <TextStringDefinition InstanceID="0xB95C4FAF" TextString="You're probably the biggest creep I've met in a while." />
+    <TextStringDefinition InstanceID="0x555FFF3A" TextString="I'm sorry but would you kindly... go away?" />
+    <TextStringDefinition InstanceID="0xC306900D" TextString="HEY!!! You! Me! Sex! &lt;b&gt;NOW!&lt;b&gt;" />
+    <TextStringDefinition InstanceID="0x145F3840" TextString="That's not even a pick-up line but fine, LET'S DO THIS!" />
+    <TextStringDefinition InstanceID="0xCF9158C0" TextString="HEY. YOU. HELL. NO!" />
+    <TextStringDefinition InstanceID="0xCB7F8E1C" TextString="Does that ever actually work on people?" />
+    <TextStringDefinition InstanceID="0x312E8BEC" TextString="Hey there {M1.handsome}{F1.cutie}, wanna have some fun with a fun {M0.guy}{F0.girl} such as myself?" />
+    <TextStringDefinition InstanceID="0x590CC7FB" TextString="Sure, why not!" />
+    <TextStringDefinition InstanceID="0x5CF09A6F" TextString="No." />
+    <TextStringDefinition InstanceID="0x7BA88045" TextString="Another time, maybe." />
+    <TextStringDefinition InstanceID="0x5EA1862E" TextString="Get lost, creep!" />
+    <TextStringDefinition InstanceID="0x52700DC1" TextString="Did it hurt when you fell from heaven? I can give you a &lt;i&gt;nice&lt;/i&gt; butt massage." />
+    <TextStringDefinition InstanceID="0xA6142D89" TextString="Yeah, my butt's been killing me actually." />
+    <TextStringDefinition InstanceID="0xE1932E0C" TextString="I actually crawled up from hell, it was pretty easy." />
+    <TextStringDefinition InstanceID="0x6923BD7D" TextString="No, but when I do need a &lt;i&gt;massage&lt;/i&gt; I will call you!" />
+    <TextStringDefinition InstanceID="0xEB1ABE7E" TextString="Do you wanna leave here on a stretcher? Creep..." />
+    <TextStringDefinition InstanceID="0xECF238D3" TextString="You look like you're fun in bed. Are you &lt;i&gt;fun&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0xAC85D120" TextString="Oh, I can be &lt;i&gt;very&lt;/i&gt; fun... Can you handle it?" />
+    <TextStringDefinition InstanceID="0x442A776A" TextString="Nah, I'm very boring. I only use my bed to sleep in it." />
+    <TextStringDefinition InstanceID="0x962F4A1D" TextString="What do you mean?" />
+    <TextStringDefinition InstanceID="0xC6F97470" TextString="I love your legs, but I think they would look better spread out." />
+    <TextStringDefinition InstanceID="0x97ABAB21" TextString="I'm sure you will love what's between them." />
+    <TextStringDefinition InstanceID="0x3F33A846" TextString="Leave. Me. Alone." />
+    <TextStringDefinition InstanceID="0x33778EBE" TextString="My orthopedist wouldn't agree." />
+    <TextStringDefinition InstanceID="0x0692BE27" TextString="And you would look better if you were walking away!" />
+    <TextStringDefinition InstanceID="0xD06B531C" TextString="I've heard my face is quite comfortable, wanna sit on it?" />
+    <TextStringDefinition InstanceID="0xDBBBC1EC" TextString="I did hear I make an excellent sitter." />
+    <TextStringDefinition InstanceID="0x1474D210" TextString="Did you honestly think that would work?" />
+    <TextStringDefinition InstanceID="0x9F492C39" TextString="I'm gonna pretend I didn't hear that." />
+    <TextStringDefinition InstanceID="0xD84A6374" TextString="I'd rather sit on nails." />
+    <TextStringDefinition InstanceID="0x1528481D" TextString="Hey {1.SimFirstName}, I know we don't know each other that well but I think would be really good in the sack. I think we should skip the formalities and just go for it!" />
+    <TextStringDefinition InstanceID="0x4A994F25" TextString="Alright, let's go for it. Screw the Formalities!" />
+    <TextStringDefinition InstanceID="0xEFF707A8" TextString="What? No! Gross! Get away from me." />
+    <TextStringDefinition InstanceID="0xEE0AB78C" TextString="I don't really know you enough to see you like that." />
+    <TextStringDefinition InstanceID="0x7744C049" TextString="I know we don't know each other that well, but... would you like to have sex with me?" />
+    <TextStringDefinition InstanceID="0xEA73BA5E" TextString="I thought you would never ask!" />
+    <TextStringDefinition InstanceID="0x0281D7DE" TextString="Not interested." />
+    <TextStringDefinition InstanceID="0x8C439ABA" TextString="You're direct, I like that, but now is not the time." />
+    <TextStringDefinition InstanceID="0xB27CBC3B" TextString="You know what? I've had you on my dirty mind since I met you." />
+    <TextStringDefinition InstanceID="0x0E627003" TextString="Funny, you haven't left my mind either!" />
+    <TextStringDefinition InstanceID="0x017CAD5B" TextString="Better cleanse that mind cause that's not happening." />
+    <TextStringDefinition InstanceID="0xF77F46EC" TextString="We barely know each other, maybe one day..." />
+    <TextStringDefinition InstanceID="0x260E60AD" TextString="What makes you think it's okay to say that?" />
+    <TextStringDefinition InstanceID="0xF960A310" TextString="Is that a gnome in your pocket or are you just happy to see me?" />
+    <TextStringDefinition InstanceID="0x2508C2F7" TextString="Wanna find out for yourself?" />
+    <TextStringDefinition InstanceID="0xCA31AC87" TextString="I'm less happy to see you now that you've said that." />
+    <TextStringDefinition InstanceID="0xF9030B59" TextString="How would one even fit a gnome into their pocket?" />
+    <TextStringDefinition InstanceID="0xFE7C6882" TextString="Did you really just say that?" />
+    <TextStringDefinition InstanceID="0x896EAC83" TextString="You give off vibes that make me feel we're sexually compatible. Wanna test that?" />
+    <TextStringDefinition InstanceID="0xDB847ED5" TextString="Guess there's only one way to test it!" />
+    <TextStringDefinition InstanceID="0xABD75254" TextString="And you give off creep vibes. No thanks." />
+    <TextStringDefinition InstanceID="0xFBCB2758" TextString="I'm not vibing with that idea right now." />
+    <TextStringDefinition InstanceID="0x70A0BC8E" TextString="Would you like to take part in a mating ritual involving at least you and me?" />
+    <TextStringDefinition InstanceID="0xEEAF7E8A" TextString="You &lt;i&gt;do&lt;/i&gt; look like a suitable mate. Let's do it!" />
+    <TextStringDefinition InstanceID="0x8F54910E" TextString="Mating with you doesn't seem beneficial, so no." />
+    <TextStringDefinition InstanceID="0x1EEEA7A6" TextString="It's not mating season just yet." />
+    <TextStringDefinition InstanceID="0xC7839663" TextString="There is a possibility of more people? Sign me in!" />
+    <TextStringDefinition InstanceID="0x60D56751" TextString="Hey, you want to get lucky with me?" />
+    <TextStringDefinition InstanceID="0x62B2C00E" TextString="Well lucky you, because I do!" />
+    <TextStringDefinition InstanceID="0x0F9267C9" TextString="That sounds like bad luck though." />
+    <TextStringDefinition InstanceID="0x0BBBFBAB" TextString="Not in a mood, but try your luck again sometime!" />
+    <TextStringDefinition InstanceID="0x19436E87" TextString="I think we should skip the 'getting to know each other' part, and just have sex. Preferably right now." />
+    <TextStringDefinition InstanceID="0xF2900020" TextString="Wonderful idea!" />
+    <TextStringDefinition InstanceID="0x3CFF0170" TextString="Oh, I don't even wanna get to know you, creep!" />
+    <TextStringDefinition InstanceID="0x8977CECF" TextString="But I actually like that part..." />
+    <TextStringDefinition InstanceID="0x3EE2A971" TextString="We should get to know each other better. &lt;i&gt;Physically&lt;/i&gt;." />
+    <TextStringDefinition InstanceID="0xA592377B" TextString="Agreed. Best way of strengthening a relation." />
+    <TextStringDefinition InstanceID="0xE4317819" TextString="We really should not. Ever." />
+    <TextStringDefinition InstanceID="0xC2DF7B58" TextString="I'd like to get to know you as a person first." />
+    <TextStringDefinition InstanceID="0x1E201DBA" TextString="I'm from the future. We need to have sex right now or the space-time continuum will collapse!" />
+    <TextStringDefinition InstanceID="0x8451EEAF" TextString="Oh no! Not the space-time continuum! Quickly!" />
+    <TextStringDefinition InstanceID="0x0808EB6D" TextString="You're not from the future. You're full of crap." />
+    <TextStringDefinition InstanceID="0x7C5B94DE" TextString="Heard that one before. You might wanna redo." />
+    <TextStringDefinition InstanceID="0x25816B34" TextString="My horoscope told me I am going to have sex this week... so I thought I would ask." />
+    <TextStringDefinition InstanceID="0x702E751C" TextString="Well if the horoscope says so... can't fight fate!" />
+    <TextStringDefinition InstanceID="0xBD8B94BD" TextString="Horoscope?! Do you also believe in mole people?" />
+    <TextStringDefinition InstanceID="0x98F47289" TextString="Stars are not aligned today. But they might be later." />
+    <TextStringDefinition InstanceID="0x62D79D85" TextString="There is this primal, animal-like urge in all of us. Some of us fight it, but I think we should just give ourselves up to it, and act on it." />
+    <TextStringDefinition InstanceID="0x6540E31A" TextString="I think I feel it too. You mean sex, right?" />
+    <TextStringDefinition InstanceID="0x376F5CBF" TextString="You're a moron. Leave me alone." />
+    <TextStringDefinition InstanceID="0xEDCFA433" TextString="What are you talking about?!" />
+    <TextStringDefinition InstanceID="0xBF687BAF" TextString="I want to have fuck with you." />
+    <TextStringDefinition InstanceID="0x43A8B9A8" TextString="Hope you've got the endurance. Let's go." />
+    <TextStringDefinition InstanceID="0x36839C1E" TextString="What an idiotic suggestion. Get lost." />
+    <TextStringDefinition InstanceID="0x20E32C0E" TextString="What was that? That's not even how words are used." />
+    <TextStringDefinition InstanceID="0x21D20433" TextString="Would you be willing to have sex with me, you know, for practice?" />
+    <TextStringDefinition InstanceID="0xA2CAC0F0" TextString="What else are friends for?" />
+    <TextStringDefinition InstanceID="0x318C4BB0" TextString="Sure, I could use the practice myself." />
+    <TextStringDefinition InstanceID="0x488F340E" TextString="I don’t want to complicate our friendship." />
+    <TextStringDefinition InstanceID="0x1C515FC1" TextString="I cannot believe you just asked me that! No!" />
+    <TextStringDefinition InstanceID="0x0D94BC2F" TextString="Sometimes we've got to get by with a little help from our friends.\nThere's nothing I need more help with than this raging sensation in my {M0.pants}{F0.panties}.\nHow about you and I help each other out?" />
+    <TextStringDefinition InstanceID="0xC05A1BC1" TextString="Sure, I'm always keen to lend a helping hand." />
+    <TextStringDefinition InstanceID="0xC414B031" TextString="You're not going to get that kind of help from me. No." />
+    <TextStringDefinition InstanceID="0x7118235D" TextString="I don't think I need your help with anything right now." />
+    <TextStringDefinition InstanceID="0x9E99C310" TextString="Hey... {1.SimFirstName}. We're good friends. Would you like to become more... intimate with each other?" />
+    <TextStringDefinition InstanceID="0xDAFBF66C" TextString="I've felt this way about you for some time as well!" />
+    <TextStringDefinition InstanceID="0x06EFD2FC" TextString="No {0.SimFirstName}, I don't feel that way about you..." />
+    <TextStringDefinition InstanceID="0xF14CE752" TextString="I'm not sure I understand the question..." />
+    <TextStringDefinition InstanceID="0xA132BC68" TextString="I like you, and I'd like to see you naked while I'm naked and then we would do some stuff together." />
+    <TextStringDefinition InstanceID="0x1881630D" TextString="Ugh... haha, sure... let's do it!" />
+    <TextStringDefinition InstanceID="0x1C5E498C" TextString="Not interested." />
+    <TextStringDefinition InstanceID="0xC05E60EB" TextString="Let's &lt;i&gt;see&lt;/i&gt; about that some other time." />
+    <TextStringDefinition InstanceID="0x54055A3A" TextString="I was thinking... how do you like an idea of us... sleeping together?" />
+    <TextStringDefinition InstanceID="0xDAABA1D9" TextString="Is this a proposition? Cause I'm all in!" />
+    <TextStringDefinition InstanceID="0xE8E553D4" TextString="I see it working for some, but not for us." />
+    <TextStringDefinition InstanceID="0xE6E18542" TextString="Like in one bed? Weird, why would you want that?" />
+    <TextStringDefinition InstanceID="0x5783E106" TextString="Wanna play Truth or Dare? I dare you to have sex with me!" />
+    <TextStringDefinition InstanceID="0xE999D40B" TextString="My dare was gonna be the same!" />
+    <TextStringDefinition InstanceID="0x1B93C29A" TextString="Uh... sorry, but no." />
+    <TextStringDefinition InstanceID="0xBD29B42B" TextString="But... I would have picked Truth..." />
+    <TextStringDefinition InstanceID="0xD087546C" TextString="I feel there's been a sexual tension building between us. Wanna release it?" />
+    <TextStringDefinition InstanceID="0xAF0C6BC4" TextString="I felt it too. Let's do it." />
+    <TextStringDefinition InstanceID="0x0B25F8A7" TextString="Can't say I feel it, no." />
+    <TextStringDefinition InstanceID="0xA376B13E" TextString="Maybe we should let it build for a little longer?" />
+    <TextStringDefinition InstanceID="0x1FF1443C" TextString="I think you're &lt;i&gt;dense&lt;/i&gt; if you feel that way." />
+    <TextStringDefinition InstanceID="0x000EBFD7" TextString="Is it just me or do I feel like you're coming onto me sexually?" />
+    <TextStringDefinition InstanceID="0x32C77BE9" TextString="I was worrying you're never going to realize that!" />
+    <TextStringDefinition InstanceID="0xDFBFC0CE" TextString="It's just you. Pig." />
+    <TextStringDefinition InstanceID="0x131FCC6B" TextString="I wasn't doing that... Yet, anyway." />
+    <TextStringDefinition InstanceID="0xECFF65AD" TextString="Did you know the studies show that good friends sleep together?" />
+    <TextStringDefinition InstanceID="0xD6CC85CA" TextString="Huh, really? I guess we should have sex then!" />
+    <TextStringDefinition InstanceID="0x5A7D32E6" TextString="There are no such studies. You're full of crap." />
+    <TextStringDefinition InstanceID="0x12B86FA7" TextString="I don't think our friendship is quite there &lt;i&gt;yet.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xBED41805" TextString="This may come out as corny, but you're making me horny." />
+    <TextStringDefinition InstanceID="0x9F17A6DC" TextString="It may be corny, but it's working. Get over here!" />
+    <TextStringDefinition InstanceID="0x64CC4A59" TextString="Did you really think it's appropriate to say that?" />
+    <TextStringDefinition InstanceID="0x5565C900" TextString="It was indeed corny, but I'm not horny." />
+    <TextStringDefinition InstanceID="0xAB84AC79" TextString="Smile if you wanna have sex with me." />
+    <TextStringDefinition InstanceID="0x19253FAC" TextString="*smile*" />
+    <TextStringDefinition InstanceID="0xC6E1727E" TextString="*angry face*" />
+    <TextStringDefinition InstanceID="0x1FCFD417" TextString="*keep a poker face*" />
+    <TextStringDefinition InstanceID="0xE61EE726" TextString="Wanna play pretend we're shooting a porno?" />
+    <TextStringDefinition InstanceID="0xCE3E0AB8" TextString="I'm always happy to play a lead role in a movie." />
+    <TextStringDefinition InstanceID="0x6412FCEB" TextString="No, you wanna play? Play with yourself, asshole!" />
+    <TextStringDefinition InstanceID="0x5306C93F" TextString="I'll let you know when the mood strikes me." />
+    <TextStringDefinition InstanceID="0xE294E892" TextString="Wanna do couple &lt;i&gt;stuff&lt;/i&gt; together? I mean... sex." />
+    <TextStringDefinition InstanceID="0xB78CF2DD" TextString="Let's do it a &lt;i&gt;couple&lt;/i&gt; of times!" />
+    <TextStringDefinition InstanceID="0x7E6823EF" TextString="I'd rather not, if you don't mind." />
+    <TextStringDefinition InstanceID="0xF296BCBA" TextString="Not right now." />
+    <TextStringDefinition InstanceID="0xAD56026E" TextString="{1.SimFirstName}, are you in a mood to... &lt;i&gt;you know&lt;/i&gt;... with me?" />
+    <TextStringDefinition InstanceID="0xA32256CA" TextString="I know that you know that I am!" />
+    <TextStringDefinition InstanceID="0x721957B3" TextString="Nah, not really." />
+    <TextStringDefinition InstanceID="0x634B20FE" TextString="To what? I don't understand." />
+    <TextStringDefinition InstanceID="0x7DC5A1B1" TextString="I had a dirty dream with both of us in leading roles. Wanna &lt;i&gt;come&lt;/i&gt; and make it true?" />
+    <TextStringDefinition InstanceID="0xE23A8062" TextString="I wonder what the script is, show me!" />
+    <TextStringDefinition InstanceID="0xBC12626D" TextString="I don't really star in cheap porn." />
+    <TextStringDefinition InstanceID="0x5F11CBB9" TextString="My schedule is swamped right now, maybe later." />
+    <TextStringDefinition InstanceID="0x8592C5A9" TextString="That's a weird thing to say, honestly..." />
+    <TextStringDefinition InstanceID="0x25B48200" TextString="Wanna strip naked and make each other feel good with various parts of our bodies?" />
+    <TextStringDefinition InstanceID="0xA6EE46DB" TextString="Sure you weird freak!" />
+    <TextStringDefinition InstanceID="0x58096F2B" TextString="No, not when you put it like that." />
+    <TextStringDefinition InstanceID="0xE0E72B96" TextString="I wanted to but you just killed the mood. Later?" />
+    <TextStringDefinition InstanceID="0x85A3BB0C" TextString="I'm kinda turned on right now, what about you?" />
+    <TextStringDefinition InstanceID="0x3EE2375A" TextString="Ditto." />
+    <TextStringDefinition InstanceID="0x0EF046C3" TextString="No, I'm not." />
+    <TextStringDefinition InstanceID="0x75B34628" TextString="I don't feel like it right now, maybe later." />
+    <TextStringDefinition InstanceID="0x3DF9BECE" TextString="Hey {1.SimFirstName}, wanna have some dirty fun?" />
+    <TextStringDefinition InstanceID="0x3227763B" TextString="I'm always down to get dirty with you!" />
+    <TextStringDefinition InstanceID="0xA1784D62" TextString="That will be a firm 'no'." />
+    <TextStringDefinition InstanceID="0x748D26B9" TextString="I'm fine at the moment. Maybe later?" />
+    <TextStringDefinition InstanceID="0x09769B09" TextString="You. Me. Sexy time. Whaddya say?" />
+    <TextStringDefinition InstanceID="0x6227B94D" TextString="I'm in!" />
+    <TextStringDefinition InstanceID="0xED6854DC" TextString="Hard pass." />
+    <TextStringDefinition InstanceID="0x35A3E7BE" TextString="Not feeling up to it right now, sorry." />
+    <TextStringDefinition InstanceID="0xBA2B2D42" TextString="Our bodies weren't designed to be apart. Wanna... &lt;i&gt;close the distance&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0x1240C07D" TextString="You mean you wanna have sex? I'm down with that." />
+    <TextStringDefinition InstanceID="0xD9A82CF1" TextString="I don't feel like closing the distance." />
+    <TextStringDefinition InstanceID="0x36397FFF" TextString="Wrong time, wrong place" />
+    <TextStringDefinition InstanceID="0x410A2DBF" TextString="Wanna get at least partially undressed and do X-rated things to each other?" />
+    <TextStringDefinition InstanceID="0x422FFECA" TextString="Y not. Get it?" />
+    <TextStringDefinition InstanceID="0x3739A824" TextString="I don't, no." />
+    <TextStringDefinition InstanceID="0xC76DCBC9" TextString="I'm feeling more PG right now to be honest." />
+    <TextStringDefinition InstanceID="0x862C2E4B" TextString="We should practice making love to keep our form up. How about a training session, right now?" />
+    <TextStringDefinition InstanceID="0x071BE6EB" TextString="Sign me up, coach!" />
+    <TextStringDefinition InstanceID="0xF5848576" TextString="Time out for me." />
+    <TextStringDefinition InstanceID="0xCE8FB76D" TextString="Count me out for now. Maybe later." />
+    <TextStringDefinition InstanceID="0x87924525" TextString="I’ve been thinking about your body all day. Do you want to show me how sexy you are?" />
+    <TextStringDefinition InstanceID="0x40A36F5F" TextString="I’ll show my body and so much more." />
+    <TextStringDefinition InstanceID="0x43921C76" TextString="Perhaps later." />
+    <TextStringDefinition InstanceID="0x619CAE79" TextString="Is that all you have to say? No." />
+    <TextStringDefinition InstanceID="0x2E9ABF26" TextString="Oh, so I’m just a piece of meat to you? No!" />
+    <TextStringDefinition InstanceID="0xFC069605" TextString="I want to show you how much I love you. Do you want to make love?" />
+    <TextStringDefinition InstanceID="0xBE307871" TextString="Of course!" />
+    <TextStringDefinition InstanceID="0x98655B16" TextString="Yes, but only because I want to show you too." />
+    <TextStringDefinition InstanceID="0x2682A9BE" TextString="I think I’d prefer doing something else right now." />
+    <TextStringDefinition InstanceID="0xFD4E245B" TextString="Seriously? Is that supposed turn me on?" />
+    <TextStringDefinition InstanceID="0x752A1E83" TextString="{1.SimFirstName}, you have this aura of magnetism that constantly draws me closer and closer to you.\n&lt;i&gt;{0.SimFirstName} looks down at the ground and then back up at {1.SimFirstName}.&lt;/i&gt;\nI hope you want me too." />
+    <TextStringDefinition InstanceID="0xF31545AE" TextString="There's nothing I would love more than you right now." />
+    <TextStringDefinition InstanceID="0xAEC375E7" TextString="Unfortunately, you lack any sort of aura yourself." />
+    <TextStringDefinition InstanceID="0x4EB102C3" TextString="Sorry, I want you... Just not right now." />
+    <TextStringDefinition InstanceID="0xEA9E0199" TextString="I'm in a mood to have some naughty time... You in?" />
+    <TextStringDefinition InstanceID="0x47CC64EA" TextString="I was thinking the same thing. Come here!" />
+    <TextStringDefinition InstanceID="0x594E257A" TextString="No, sorry, not feeling it right now." />
+    <TextStringDefinition InstanceID="0x98BB8655" TextString="Maybe later? I'm kinda busy right now." />
+    <TextStringDefinition InstanceID="0xA2A2EB59" TextString="I read up on some interesting sex techniques. Wanna try them out?" />
+    <TextStringDefinition InstanceID="0x9F85CE36" TextString="I'm not doing anything else right now, so sure." />
+    <TextStringDefinition InstanceID="0x83D76502" TextString="Not up for experiments right now, sorry boo." />
+    <TextStringDefinition InstanceID="0x928FFE45" TextString="You better not disappoint me!" />
+    <TextStringDefinition InstanceID="0xA8D59DFD" TextString="Wanna practice making babies?" />
+    <TextStringDefinition InstanceID="0xBF66DFAD" TextString="I'm a natural at that! Let me show you!" />
+    <TextStringDefinition InstanceID="0x456D268F" TextString="Oh no, no. Saying it like that totally killed the mood." />
+    <TextStringDefinition InstanceID="0x087C8C86" TextString="Interesting offer, I might pick you up on it later." />
+    <TextStringDefinition InstanceID="0x9442FF4B" TextString="Isn't it a little too soon to be talking about kids?" />
+    <TextStringDefinition InstanceID="0xE449674D" TextString="Wanna unwind a little bit with me?" />
+    <TextStringDefinition InstanceID="0x66E65674" TextString="Come here." />
+    <TextStringDefinition InstanceID="0xF5F7549E" TextString="Not in the mood right now." />
+    <TextStringDefinition InstanceID="0xA0FB4BA1" TextString="Maybe a little bit later." />
+    <TextStringDefinition InstanceID="0x6CBA6A98" TextString="I have a feeling you wanna have sex with me, right now." />
+    <TextStringDefinition InstanceID="0xCB2068E1" TextString="You know me so well... come here!" />
+    <TextStringDefinition InstanceID="0x7A8D4BCC" TextString="You might wanna calibrate your sensors." />
+    <TextStringDefinition InstanceID="0x0B1F9E5F" TextString="Not right now, but who know what the future holds?" />
+    <TextStringDefinition InstanceID="0x45461200" TextString="Roses are red,\nviolets are blue,\nI'm kinda horny,\nwhat about you?" />
+    <TextStringDefinition InstanceID="0xE8152C1A" TextString="Roses are red, and all that stuff, let's have sex!" />
+    <TextStringDefinition InstanceID="0xB9345798" TextString="Really? This is the best line you have? Terrible." />
+    <TextStringDefinition InstanceID="0x3B81C110" TextString="...violets are blue, I'm not in the mood..." />
+    <TextStringDefinition InstanceID="0x76C8BB08" TextString="{1.SimFirstName}, you're looking absolutely irresistible right now. I'm really in the mood for a good time.\n&lt;i&gt;{0.SimFirstName} stares deeply into {1.SimFirstName}'s eyes.&lt;/i&gt;\nAre you in the mood for a &lt;b&gt;Good Time&lt;/b&gt; too?" />
+    <TextStringDefinition InstanceID="0x2A8EA6A6" TextString="For you {0.SimFirstName}? Anytime and always." />
+    <TextStringDefinition InstanceID="0x85D510DE" TextString="No, just go away. Can't you see I'm not in the mood?" />
+    <TextStringDefinition InstanceID="0xBD33E6D3" TextString="I'm just too tired right now, sorry dear." />
+    <TextStringDefinition InstanceID="0xAF1C63FD" TextString="I want to make sure that you have a good time first." />
+    <TextStringDefinition InstanceID="0x8EDCA3E1" TextString="{1.SimFirstName}, have I ever told you how ravishing you look? Right now there's nothing I would desire more than your sweet embrace.\nI have this unquenchable need for you. Please, help me before I die of thirst." />
+    <TextStringDefinition InstanceID="0x01157528" TextString="Then by all means, let me help quench your thirst." />
+    <TextStringDefinition InstanceID="0x70E63477" TextString="What's with that odd way of talking? Go away." />
+    <TextStringDefinition InstanceID="0x874B95A5" TextString="I'm afraid you'll have to be thirsty a little longer, sorry." />
+    <TextStringDefinition InstanceID="0x22AC3E64" TextString="&lt;i&gt;{0.SimFirstName} begins to bite {M0.his}{F0.her} lips in a suggestive manner, their eyes stare intensely into {1.SimFirstName}'s.&lt;/i&gt;\n{1.SimFirstName} dear, there's nothing that I would love more than &lt;b&gt;YOU&lt;b&gt; right now." />
+    <TextStringDefinition InstanceID="0x6E11E4DB" TextString="Come here you, let's not waste another moment!" />
+    <TextStringDefinition InstanceID="0xEB7681D9" TextString="Sorry, I can't. I'm so sorry to disappoint you." />
+    <TextStringDefinition InstanceID="0x59EFA31B" TextString="Can't you see I need some space? Stop bothering me." />
+    <TextStringDefinition InstanceID="0x6953E41D" TextString="I'm an extremely lucky {M0.man}{F0.woman} to be married to someone like you {1.SimFirstName}. Putting a ring on that finger was the best decision I ever made.\nI was wondering if you and I could drop what we're doing and maybe change things to more... Marital Activities?" />
+    <TextStringDefinition InstanceID="0xBD7CF85D" TextString="You know I feel the same. Marital Activities it is!" />
+    <TextStringDefinition InstanceID="0x2006164C" TextString="I'm a bit busy at the moment my love. Soon, I promise." />
+    <TextStringDefinition InstanceID="0x82975757" TextString="Don't you ever get tired of being all sappy? Not now." />
+    <TextStringDefinition InstanceID="0x8D3B0719" TextString="You're on my list of things to do today." />
+    <TextStringDefinition InstanceID="0x086E6770" TextString="I hope I'm a priority!" />
+    <TextStringDefinition InstanceID="0x358C752C" TextString="Too bad I'm busy today." />
+    <TextStringDefinition InstanceID="0x5899782F" TextString="Let's postpone that, what do you say?" />
+    <TextStringDefinition InstanceID="0xAF0A5330" TextString="I was feeling off today, but you definitely turned me on." />
+    <TextStringDefinition InstanceID="0x2BBBB76C" TextString="Well, what are you waiting for, get over here!" />
+    <TextStringDefinition InstanceID="0x0235CDBB" TextString="Well I'm definitely 'off' myself." />
+    <TextStringDefinition InstanceID="0x4DEBFCA6" TextString="Not right now, ask me later, hmm?" />
+    <TextStringDefinition InstanceID="0xEE7B9A9B" TextString="I did all my chores, now I wanna do you." />
+    <TextStringDefinition InstanceID="0xE0DB18CF" TextString="Look at you, you smooth talker... Come on!" />
+    <TextStringDefinition InstanceID="0x5CDD9981" TextString="Are you sure you have done them all?" />
+    <TextStringDefinition InstanceID="0x2AA0A543" TextString="Good one, but maybe later." />
+    <TextStringDefinition InstanceID="0xDBB7D42B" TextString="It's been a good day so far, how about we make it even better, if you know what I mean..." />
+    <TextStringDefinition InstanceID="0x70C17198" TextString="I was just about to propose some sexy time too." />
+    <TextStringDefinition InstanceID="0x565DC407" TextString="I don't feel like it." />
+    <TextStringDefinition InstanceID="0x2787D2F5" TextString="Glad you feel that way, but maybe later." />
     <TextStringDefinition InstanceID="0x61A8D63E" TextString="Do you want to have sex?" />
     <TextStringDefinition InstanceID="0xCA90E74C" TextString="Accept" />
     <TextStringDefinition InstanceID="0xC8860772" TextString="Decline" />
@@ -1183,6 +1515,7 @@
     <TextStringDefinition InstanceID="0xA9EA21AC" TextString="Cum Slut Sims love to receive hot loads of cum all over their body." />
     <TextStringDefinition InstanceID="0x84347ED1" TextString="---------- PREGNANCY GENERAL ----------" />
     <TextStringDefinition InstanceID="0x8CF0F0CF" TextString="Pregnancy" />
+    <TextStringDefinition InstanceID="0xD8E85184" TextString="&lt;b&gt;Uh oh! Looks like the condom broke...&lt;/b&gt;\n\n{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result." />
     <TextStringDefinition InstanceID="0x0D9DD9D5" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result." />
     <TextStringDefinition InstanceID="0x6B84E486" TextString="{0.SimName} might now be pregnant!\nPerforming a pregnancy test or waiting a day will show the result.\n\nWait at least 8 hours before attempting conception with the same partner again." />
     <TextStringDefinition InstanceID="0xD231332B" TextString="{0.SimName} &lt;b&gt;cannot&lt;/b&gt; get pregnant right now.\n\n{1.String}" />

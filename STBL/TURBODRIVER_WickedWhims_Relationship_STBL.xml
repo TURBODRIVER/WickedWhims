@@ -50,16 +50,71 @@
     <TextStringDefinition InstanceID="0x3B811666" TextString="Heterosexual Distribution Value" />
     <TextStringDefinition InstanceID="0x16BED458" TextString="Homosexual Distribution Value" />
     <TextStringDefinition InstanceID="0xD543F140" TextString="Bisexual Distribution Value" />
+    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
+    <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
+    <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Traits ---------" />
+    <TextStringDefinition InstanceID="0x4528A2FC" TextString="Polyamorous" />
+    <TextStringDefinition InstanceID="0xD054832F" TextString="Polyamorous" />
+    <TextStringDefinition InstanceID="0x433E58F6" TextString="Polyamorous Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
+    <TextStringDefinition InstanceID="0x28D0FB8E" TextString="Adulterer" />
+    <TextStringDefinition InstanceID="0x49F26021" TextString="Adulterer" />
+    <TextStringDefinition InstanceID="0xB8695A99" TextString="Adulterer Sims are open to having sex with others when in an established relationship." />
     <TextStringDefinition InstanceID="0x7B4646A5" TextString="---------- Statistics ----------" />
     <TextStringDefinition InstanceID="0x2046ED9E" TextString="Relationships" />
-    <TextStringDefinition InstanceID="0x7E53B6FC" TextString="--------- Buffs ---------" />
-    <TextStringDefinition InstanceID="0x6E867FB7" TextString="&lt;font color='#340658'&gt;Poser&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0x17A09C4E" TextString="Bummer, looks like {0.SimFirstName} wasn't being honest and was found faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now." />
-    <TextStringDefinition InstanceID="0x214E9974" TextString="&lt;font color='#340658'&gt;Deceitful Sim&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xEBD6F06C" TextString="{0.SimFirstName} has been deceived by a Sim pretending to be someone they're not! You can't trust them anymore, not when they are being dishonest." />
-    <TextStringDefinition InstanceID="0xCDE5E44C" TextString="&lt;font color='#340658'&gt;Good Impression&lt;/font&gt;" />
-    <TextStringDefinition InstanceID="0xAF7FAF74" TextString="{0.SimFirstName} formed a positive impression with another Sim. This should help to shape a good relationship and build more trust." />
-    <TextStringDefinition InstanceID="0xEA226BC2" TextString="--------- Skills ---------" />
+    <TextStringDefinition InstanceID="0x2E654FAE" TextString="---------- Casual Sex Partners ----------" />
+    <TextStringDefinition InstanceID="0x270E9AC1" TextString="Become Casual Sex Partners" />
+    <TextStringDefinition InstanceID="0xC09F1323" TextString="Becoming Casual Sex Partners with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x58C35B51" TextString="{0.SimFirstName} and {1.SimFirstName} just became casual sex partners! Whether friends or foes, it is all about pure physical pleasure." />
+    <TextStringDefinition InstanceID="0x22047524" TextString="End Casual Sex Partnership" />
+    <TextStringDefinition InstanceID="0xD5153C01" TextString="Ending Casual Sex Partnership with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x53B7AF63" TextString="{0.SimFirstName} and {1.SimFirstName} have ended their casual sex partnership." />
+    <TextStringDefinition InstanceID="0x7F8A1362" TextString="Casual Sex Partners" />
+    <TextStringDefinition InstanceID="0xD4C1F357" TextString="You left something at my place, could you come pick it up and stay for a while?" />
+    <TextStringDefinition InstanceID="0xDD75820C" TextString="Sure, I'm coming to pick &lt;b&gt;it&lt;/b&gt; up ;)" />
+    <TextStringDefinition InstanceID="0x32C6600C" TextString="I will pick it up some other day." />
+    <TextStringDefinition InstanceID="0x1ED0276E" TextString="I’m not feeling myself today. Can I feel you instead?" />
+    <TextStringDefinition InstanceID="0x7162F02B" TextString="I have something for you to feel ;) I'm coming over!" />
+    <TextStringDefinition InstanceID="0xEB18C51F" TextString="I'm not feeling like myself today either." />
+    <TextStringDefinition InstanceID="0x1F71DC2B" TextString="I'm feeling very off today, could you come over and turn me on?" />
+    <TextStringDefinition InstanceID="0x55D5B1AD" TextString="Oh! I'm good at pressing these kind of buttons ;) I'm on my way!" />
+    <TextStringDefinition InstanceID="0x9AAA2CDB" TextString="Sometimes you need some time off." />
+    <TextStringDefinition InstanceID="0x0675B0B7" TextString="I’m about to have sex with you so you might as well be here for it." />
+    <TextStringDefinition InstanceID="0x3DB5A41E" TextString="I'm on my way, don't start without me!" />
+    <TextStringDefinition InstanceID="0x81AA4F97" TextString="Sorry, I will be late." />
+    <TextStringDefinition InstanceID="0x4DDE6353" TextString="I've been thinking about you a lot today... and these were some dirty thoughts." />
+    <TextStringDefinition InstanceID="0x0F93121E" TextString="Say no more, I'm coming over!" />
+    <TextStringDefinition InstanceID="0xBCE6BCB0" TextString="I'd love to come, but I'm busy right now." />
+    <TextStringDefinition InstanceID="0x59989024" TextString="I think I'm gonna go take a shower, but I don't feel like locking my doors..." />
+    <TextStringDefinition InstanceID="0xFDA1A943" TextString="What if &lt;i&gt;someone&lt;/i&gt; sneaks into your house? ;)" />
+    <TextStringDefinition InstanceID="0x79977AC4" TextString="That's very irresponsible, please always lock your doors." />
+    <TextStringDefinition InstanceID="0x48F1B043" TextString="I'm &lt;i&gt;thirsty&lt;/i&gt; for you right now..." />
+    <TextStringDefinition InstanceID="0x50CE4DB2" TextString="Oh, I've got &lt;i&gt;something&lt;/i&gt; that can quench your thirst!" />
+    <TextStringDefinition InstanceID="0x8345411A" TextString="Stay hydrated, I can't make it today." />
+    <TextStringDefinition InstanceID="0xDB75D35D" TextString="I wanted to ask you for a nude pic, but I might as well invite you over and get the real thing!" />
+    <TextStringDefinition InstanceID="0xDCBB67F6" TextString="I like the way you think, on my way!" />
+    <TextStringDefinition InstanceID="0x1FED4AB5" TextString="Looks like a nude pic is all you can get today, sorry!" />
+    <TextStringDefinition InstanceID="0xF5C3AC8F" TextString="I would love to touch you in some inappropriate places... but you would need to be here..." />
+    <TextStringDefinition InstanceID="0xA3B92222" TextString="On my way, but I get to touch you too!" />
+    <TextStringDefinition InstanceID="0x3F34B745" TextString="It's a shame that I'm busy right now." />
+    <TextStringDefinition InstanceID="0x95712481" TextString="I've installed some &lt;i&gt;&lt;b&gt;naughty&lt;/b&gt;&lt;/i&gt; mods for my video games and now I'm kinda turned on..." />
+    <TextStringDefinition InstanceID="0x26DE0E3B" TextString="Let's see how faithful these mods are. I'm on my way!" />
+    <TextStringDefinition InstanceID="0x2D448FFF" TextString="Sorry, I can't make it today." />
+    <TextStringDefinition InstanceID="0x5C2E3865" TextString="I just went on SimHub and saw some new sex techniques we should try together." />
+    <TextStringDefinition InstanceID="0xE73BB3B5" TextString="Sounds exciting! I'm coming!" />
+    <TextStringDefinition InstanceID="0xE1E4FFAD" TextString="Maybe another time?" />
+    <TextStringDefinition InstanceID="0xA61EA8B9" TextString="Booty Call" />
+    <TextStringDefinition InstanceID="0x94C8C365" TextString="--------- Reputation ---------" />
+    <TextStringDefinition InstanceID="0x5090D01D" TextString="{0.String}\n\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0x66744FDC" TextString="{1.SimName} &lt;b&gt;liked&lt;/b&gt; that." />
+    <TextStringDefinition InstanceID="0x71D126A3" TextString="{1.SimName} &lt;b&gt;really liked&lt;/b&gt; that." />
+    <TextStringDefinition InstanceID="0xC787295A" TextString="{1.SimName} &lt;b&gt;disliked&lt;/b&gt; that." />
+    <TextStringDefinition InstanceID="0xB9400107" TextString="{1.SimName} &lt;b&gt;really disliked&lt;/b&gt; that." />
+    <TextStringDefinition InstanceID="0x0957A986" TextString="Increased Wicked Reputation." />
+    <TextStringDefinition InstanceID="0x78E11AEA" TextString="Decreased Wicked Reputation." />
+    <TextStringDefinition InstanceID="0x94302047" TextString="Sent a Nude Selfie." />
+    <TextStringDefinition InstanceID="0xCEC4A53C" TextString="--------- Impressions ---------" />
+    <TextStringDefinition InstanceID="0x3C9C45EC" TextString="--------- Impressions Skills ---------" />
     <TextStringDefinition InstanceID="0x5450A823" TextString="Persuasion" />
     <TextStringDefinition InstanceID="0x143ED128" TextString="Show your personality and make a good impression towards a Sim." />
     <TextStringDefinition InstanceID="0x52A4FCB8" TextString="Persuasion helps immensely when trying to influence Sims beliefs and behavior against their mind.\n\nStart by trying to impress Sims with your real or fake personality." />
@@ -73,13 +128,7 @@
     <TextStringDefinition InstanceID="0x117C6C4F" TextString="{0.SimFirstName} is now much better at persuading Sims!\n\nTruly persuasive Sims understand their power and use it sparingly and knowingly. They are actively listening when in persuasion mode, looking for common ground to help establish a meaningful relationship.\n\nFaking personalities should be easier as well!" />
     <TextStringDefinition InstanceID="0x49541E62" TextString="Reached Persuasion Level 5" />
     <TextStringDefinition InstanceID="0x45C85D20" TextString="{0.SimFirstName} is now very good at persuading Sims!\n\nInfluence is power, and {0.SimFirstName} is now the master of influence with {M0.his}{F0.her} persuasion skill.\n\nFaking personalities should be much easier as well!" />
-    <TextStringDefinition InstanceID="0xCD865ABF" TextString="--------- Traits ---------" />
-    <TextStringDefinition InstanceID="0x4528A2FC" TextString="Polyamorous" />
-    <TextStringDefinition InstanceID="0xD054832F" TextString="Polyamorous" />
-    <TextStringDefinition InstanceID="0x433E58F6" TextString="Polyamorous Sims are open to having multiple romantic or sexual committed relationships and don't get jealous about their loved ones having more than one partner." />
-    <TextStringDefinition InstanceID="0x28D0FB8E" TextString="Adulterer" />
-    <TextStringDefinition InstanceID="0x49F26021" TextString="Adulterer" />
-    <TextStringDefinition InstanceID="0xB8695A99" TextString="Adulterer Sims are open to having sex with others when in an established relationship." />
+    <TextStringDefinition InstanceID="0x157522E5" TextString="--------- Impressions Traits ---------" />
     <TextStringDefinition InstanceID="0x4B2E6B29" TextString="Everyman" />
     <TextStringDefinition InstanceID="0x90DBE483" TextString="Everyman Sims just want to belong and feel like a part of something. They lack any distinctive identity and rarely stand out." />
     <TextStringDefinition InstanceID="0x944CBA6D" TextString="Jester" />
@@ -109,21 +158,14 @@
     <TextStringDefinition InstanceID="0x4EB5CC7F" TextString="Personality Reader" />
     <TextStringDefinition InstanceID="0x59E4F0E8" TextString="Personality Reader" />
     <TextStringDefinition InstanceID="0x015C70CE" TextString="Personality Readers need just a few words to determine the personality of another Sim." />
-    <TextStringDefinition InstanceID="0xE9DE03BF" TextString="Unique Appearance" />
-    <TextStringDefinition InstanceID="0x9DA91528" TextString="Unique Appearance" />
-    <TextStringDefinition InstanceID="0xD53F7A47" TextString="Sims with Unique Appearance never blend in with the crowd, no matter how average they look." />
-    <TextStringDefinition InstanceID="0x5D7AE3C6" TextString="Shallow" />
-    <TextStringDefinition InstanceID="0x3603BC79" TextString="Shallow" />
-    <TextStringDefinition InstanceID="0x9428A07C" TextString="Shallow Sims only care about others looks and will agree to have sex with anybody who is at least Very Attractive." />
-    <TextStringDefinition InstanceID="0xEF35C115" TextString="Aversive Appearance" />
-    <TextStringDefinition InstanceID="0x5EC3D8D6" TextString="Aversive Appearance" />
-    <TextStringDefinition InstanceID="0x051C4863" TextString="Sims with Aversive Appearance will find it harder to attract others. Most eyes that look upon them will have a generally negative disposition towards their appearance." />
-    <TextStringDefinition InstanceID="0x2D2B98FD" TextString="Attractiveness Ambivalent" />
-    <TextStringDefinition InstanceID="0x5F2E7E7E" TextString="Attractiveness Ambivalent" />
-    <TextStringDefinition InstanceID="0xBC1FCCB7" TextString="Attractiveness Ambivalent Sims are not at all interested in others looks." />
-    <TextStringDefinition InstanceID="0xC92B951F" TextString="--------- Interactions ---------" />
-    <TextStringDefinition InstanceID="0x381750E1" TextString="Talk about Fantasies" />
-    <TextStringDefinition InstanceID="0x56E0B72E" TextString="Talk about Fantasies with {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xB6E343F6" TextString="--------- Impressions Buffs ---------" />
+    <TextStringDefinition InstanceID="0x6E867FB7" TextString="&lt;font color='#340658'&gt;Poser&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x17A09C4E" TextString="Bummer, looks like {0.SimFirstName} wasn't being honest and was found faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now." />
+    <TextStringDefinition InstanceID="0x214E9974" TextString="&lt;font color='#340658'&gt;Deceitful Sim&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xEBD6F06C" TextString="{0.SimFirstName} has been deceived by a Sim pretending to be someone they're not! You can't trust them anymore, not when they are being dishonest." />
+    <TextStringDefinition InstanceID="0xCDE5E44C" TextString="&lt;font color='#340658'&gt;Good Impression&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAF7FAF74" TextString="{0.SimFirstName} formed a positive impression with another Sim. This should help to shape a good relationship and build more trust." />
+    <TextStringDefinition InstanceID="0xE12C406D" TextString="--------- Impressions Interactions ---------" />
     <TextStringDefinition InstanceID="0x231C3E23" TextString="Fake Personality Archetypes" />
     <TextStringDefinition InstanceID="0x41435C2E" TextString="Personality" />
     <TextStringDefinition InstanceID="0x72DE385E" TextString="Fake Major Personality" />
@@ -168,6 +210,8 @@
     <TextStringDefinition InstanceID="0x00ADE3F1" TextString="Personality Impression" />
     <TextStringDefinition InstanceID="0x8C6A41A6" TextString="Looks like {0.SimName} formed a positive impression towards {1.SimName}. This should help to shape a good relationship and build more trust." />
     <TextStringDefinition InstanceID="0xCA17AA57" TextString="Oof! {1.SimName} seems to be very unimpressed with {0.SimName} behavior and personality. This makes shaping their relationship harder and hinders the trust between them." />
+    <TextStringDefinition InstanceID="0x0BC50E12" TextString="--------- Attractiveness ---------" />
+    <TextStringDefinition InstanceID="0x11F05048" TextString="Attractiveness" />
     <TextStringDefinition InstanceID="0xD6030C95" TextString="--------- Attractiveness Story ---------" />
     <TextStringDefinition InstanceID="0x68703CC6" TextString="&lt;font color='#340658'&gt;Gaaah! My Eyes!&lt;/font&gt;" />
     <TextStringDefinition InstanceID="0xA1C6810E" TextString="(From Seeing An Unattractive Sim)" />
@@ -195,15 +239,17 @@
     <TextStringDefinition InstanceID="0x78A2AF16" TextString="They say lightning never strikes the same place twice. Well tell that to {0.SimFirstName}, {M0.he}{F0.she} found the Sim of {M0.his}{F0.her} dreams and by some miracle, got to marry {M1.him}{F1.her} too.\n\nThere are times like this when {0.SimFirstName} likes to remind {M0.himself}{F0.herself} just how lucky they are to be married to a ravishing {M1.hunk}{F1.goddess} like {1.SimName}. To be able to love and be loved by such a captivating creature brings incomprehensible joy to {M0.his}{F0.her} heart and the attraction they have for their beloved partner still endures like an undying blaze even now." />
     <TextStringDefinition InstanceID="0x3FD5954C" TextString="Dreams of the Heart" />
     <TextStringDefinition InstanceID="0xB5A6AFE3" TextString="It's dreams like this that {0.SimFirstName} never wants to wake up from. In it there is but one focal point, one element that pervades all thoughts within {M0.his}{F0.her} mind and that is {1.SimName}.\n\nSuch a wondrous manifestation has {0.SimFirstName} utterly enthralled as {M0.he}{F0.she} abandons all other thoughts in order to contemplate {1.SimFirstName}'s every feature, every contour and nuance of {M1.his}{F1.her} body and every discernible detail that makes this breathtaking Sim unique. {0.SimFirstName} absolutely cherishes those factors and as the dream continues, they become more and more enraptured by this Sim that has stolen both {M0.his}{F0.her} mind and {M0.his}{F0.her} heart.\n\nIn the end, there is only one reason as to why they'd consider waking up, and that is the real {1.SimName} waiting for them on the other side." />
+    <TextStringDefinition InstanceID="0xA8A76A74" TextString="Where is {0.SimName}?" />
+    <TextStringDefinition InstanceID="0xD176CAC7" TextString="Accept {M0.His}{F0.Her} Advances" />
+    <TextStringDefinition InstanceID="0x5989C57E" TextString="Ignore {M0.Him}{F0.Her}" />
+    <TextStringDefinition InstanceID="0x114B7787" TextString="--------- Attractiveness Suggestive Look ---------" />
     <TextStringDefinition InstanceID="0x897B86FB" TextString="Suggestive Look" />
     <TextStringDefinition InstanceID="0x6719AB51" TextString="{0.SimFirstName} has noticed that {1.SimFirstName}'s eyes are lingering on them more and more. There's an intensity to their stare and with their attention fixed squarely upon them this may be the chance to move things into a more intimate direction.\n\nIs {0.SimFirstName} going to &lt;b&gt;accept&lt;/b&gt; {1.SimFirstName}'s advances or &lt;b&gt;ignore&lt;/b&gt; {M1.him}{F1.her}?" />
     <TextStringDefinition InstanceID="0xAF12863C" TextString="{0.SimFirstName} is under the impression that another Sim has their gaze fixed directly upon {M0.him}{F0.her}. With a glimmer in their eyes it's plain to see that {1.SimFirstName} has an intense interest in {0.SimFirstName}.\n\nIf {0.SimFirstName} tries to push things to a more intimate level they may have a good chance at success.\n\nIs {0.SimFirstName} going to &lt;b&gt;accept&lt;/b&gt; {1.SimFirstName}'s advances or &lt;b&gt;ignore&lt;/b&gt; {M1.him}{F1.her}?" />
     <TextStringDefinition InstanceID="0xFD6F1B2A" TextString="{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {M1.He}{F1.She} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {M1.him}{F1.her} for the next few hours." />
     <TextStringDefinition InstanceID="0x2D68ECEB" TextString="{0.SimFirstName} ignored {1.SimFirstName}'s advances. {M1.He}{F1.She} shouldn't bother {M0.him}{F0.her} with {M1.his}{F1.her} antics anymore." />
     <TextStringDefinition InstanceID="0x668CEF72" TextString="It's a little too late to respond now." />
-    <TextStringDefinition InstanceID="0xA8A76A74" TextString="Where is {0.SimName}?" />
-    <TextStringDefinition InstanceID="0xD176CAC7" TextString="Accept {M0.His}{F0.Her} Advances" />
-    <TextStringDefinition InstanceID="0x5989C57E" TextString="Ignore {M0.Him}{F0.Her}" />
+    <TextStringDefinition InstanceID="0xB77322D0" TextString="--------- Attractiveness Hints ---------" />
     <TextStringDefinition InstanceID="0x57B90532" TextString="Attractiveness Hints" />
     <TextStringDefinition InstanceID="0x71ACD5B0" TextString="Well, that could have gone better. It sounds like {1.SimName} didn't appreciate {0.SimFirstName} asking for {M1.his}{F1.her} preferences." />
     <TextStringDefinition InstanceID="0x9C1754A3" TextString="Following a few brief moments of silence, {1.SimName} expressed that {M1.he}{F1.she} doesn't have any noteworthy things to say that would satisfy {0.SimFirstName}. Perhaps {0.SimFirstName} is already attractive enough in the eyes of {1.SimFirstName}." />
@@ -242,6 +288,19 @@
     <TextStringDefinition InstanceID="0x963819D9" TextString=" Ask about Another Sim Attractiveness Preferences" />
     <TextStringDefinition InstanceID="0xA27DD8CB" TextString=" Scope the Surroundings" />
     <TextStringDefinition InstanceID="0x090287BE" TextString=" Check Yourself Out" />
+    <TextStringDefinition InstanceID="0xE875BEA7" TextString="--------- Attractiveness Traits ---------" />
+    <TextStringDefinition InstanceID="0xE9DE03BF" TextString="Unique Appearance" />
+    <TextStringDefinition InstanceID="0x9DA91528" TextString="Unique Appearance" />
+    <TextStringDefinition InstanceID="0xD53F7A47" TextString="Sims with Unique Appearance never blend in with the crowd, no matter how average they look." />
+    <TextStringDefinition InstanceID="0x5D7AE3C6" TextString="Shallow" />
+    <TextStringDefinition InstanceID="0x3603BC79" TextString="Shallow" />
+    <TextStringDefinition InstanceID="0x9428A07C" TextString="Shallow Sims only care about others looks and will agree to have sex with anybody who is at least Very Attractive." />
+    <TextStringDefinition InstanceID="0xEF35C115" TextString="Aversive Appearance" />
+    <TextStringDefinition InstanceID="0x5EC3D8D6" TextString="Aversive Appearance" />
+    <TextStringDefinition InstanceID="0x051C4863" TextString="Sims with Aversive Appearance will find it harder to attract others. Most eyes that look upon them will have a generally negative disposition towards their appearance." />
+    <TextStringDefinition InstanceID="0x2D2B98FD" TextString="Attractiveness Ambivalent" />
+    <TextStringDefinition InstanceID="0x5F2E7E7E" TextString="Attractiveness Ambivalent" />
+    <TextStringDefinition InstanceID="0xBC1FCCB7" TextString="Attractiveness Ambivalent Sims are not at all interested in others looks." />
     <TextStringDefinition InstanceID="0xDB0CC9F0" TextString="--------- Attractiveness Simple Preference Traits ---------" />
     <TextStringDefinition InstanceID="0x362A8C9C" TextString="CAS Likes &amp; Dislikes Conflict" />
     <TextStringDefinition InstanceID="0x3222BC20" TextString="Changes made to Sims preferences don't fully match their CAS Likes &amp; Dislikes.\nThese changes have been reverted to match their CAS Likes &amp; Dislikes preferences." />
@@ -581,6 +640,7 @@
     <TextStringDefinition InstanceID="0xE972D98B" TextString="{0.SimFirstName} is not into men." />
     <TextStringDefinition InstanceID="0xC3C27AD6" TextString="I'm not into women." />
     <TextStringDefinition InstanceID="0x3EBB4B15" TextString="{0.SimFirstName} is not into women." />
+    <TextStringDefinition InstanceID="0x6901B3E3" TextString="I don't care about looks." />
     <TextStringDefinition InstanceID="0x7D1F4D8A" TextString="I dislike Humans." />
     <TextStringDefinition InstanceID="0xA12BF640" TextString="{0.SimFirstName} dislikes Humans." />
     <TextStringDefinition InstanceID="0xCEBE21DA" TextString="I dislike Vampires." />
