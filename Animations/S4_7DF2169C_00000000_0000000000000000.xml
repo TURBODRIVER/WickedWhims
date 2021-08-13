@@ -99,6 +99,11 @@
           <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
           <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
           <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] Prop geometry state -->
+
+          <T n="prop_x_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop position in x axis -->
+          <T n="prop_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop position in y axis -->
+          <T n="prop_z_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop position in z axis -->
+          <T n="prop_angle_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop orientation in 360 degrees -->
         </U> <!-- [END OF PROP ENTRY] -->
 
       </L>

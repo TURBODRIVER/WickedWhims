@@ -98,6 +98,11 @@
           <T n="prop_guids">123456789, 987654321</T>
           <T n="prop_animation_clip_name">PropAnimationClipName</T>
           <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] -->
+
+          <T n="prop_x_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="prop_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="prop_z_offset">0</T> <!-- [REMOVE IF UNUSED] -->
+          <T n="prop_angle_offset">0</T> <!-- [REMOVE IF UNUSED] -->
         </U> <!-- [END OF PROP ENTRY] -->
 
       </L>
