@@ -840,6 +840,7 @@
     <TextStringDefinition InstanceID="0x714D1958" TextString="[&lt;font color='#EC262E'&gt;♥&lt;/font&gt;] {0.String}" />
     <TextStringDefinition InstanceID="0xCD289D78" TextString="&lt;i&gt;{0.String}&lt;/i&gt;" />
     <TextStringDefinition InstanceID="0x16F32D85" TextString="Author: {0.String}\nRoles: {1.String} | Orientation: {2.String}\nDuration: {3.String}s" />
+    <TextStringDefinition InstanceID="0x4DC2C085" TextString="Category: {0.String} | Author: {1.String}\nRoles: {2.String} | Orientation: {3.String}\nDuration: {3.String}s" />
     <TextStringDefinition InstanceID="0xBCBE0470" TextString="Animations Count: {0.String}" />
     <TextStringDefinition InstanceID="0x5312DD62" TextString="---------- SEX QUESTIONNAIRES ----------" />
     <TextStringDefinition InstanceID="0xACC51DD3" TextString="Inappropriate Inquiry" />

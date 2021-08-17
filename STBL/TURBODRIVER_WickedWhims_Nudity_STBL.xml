@@ -305,6 +305,8 @@
     <TextStringDefinition InstanceID="0xAAAD4C3E" TextString="---------- Tanning ----------" />
     <TextStringDefinition InstanceID="0xC3984F06" TextString="Go to Tanning Salon" />
     <TextStringDefinition InstanceID="0xB1063430" TextString="---------- Penis Adjustments ----------" />
+    <TextStringDefinition InstanceID="0x865B8B03" TextString="Change {0.SimFirstName}'s Penis Size" />
+    <TextStringDefinition InstanceID="0xFB4CD6BE" TextString="Change All Sims Penis Size" />
     <TextStringDefinition InstanceID="0x8E04BCC6" TextString="Penis Adjustments" />
     <TextStringDefinition InstanceID="0xE5CDC5D3" TextString="Change Penis Size" />
     <TextStringDefinition InstanceID="0xA530B333" TextString="Pick Sims for adjusting of penis size." />
