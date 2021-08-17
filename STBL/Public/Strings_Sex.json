@@ -1,0 +1,5378 @@
+"Entries": [
+  {
+    "Key": "0xB6C2495F",
+    "Value": "---------- SETTINGS GENERAL ----------"
+  },
+  {
+    "Key": "0x14F72DE6",
+    "Value": "Warning! Changing sex settings with running sex interactions can cause issues!\\n\\nEnd running sex interaction first to avoid possible problems."
+  },
+  {
+    "Key": "0xDBE1648D",
+    "Value": "Warning! Changing this sex settings can result in major problems! Make sure you really know what you're doing."
+  },
+  {
+    "Key": "0x39E9CFE9",
+    "Value": "Sex Settings"
+  },
+  {
+    "Key": "0xE2319E55",
+    "Value": "Change sex settings.\\n\\nThese settings affect only sex related functions like gender role recognition, positions progression, autonomy, outfit or pregnancy."
+  },
+  {
+    "Key": "0x914822A0",
+    "Value": "This option requires restarting the game to take full effect!\\n\\nSave and restart for this setting to work."
+  },
+  {
+    "Key": "0xBB828BC1",
+    "Value": "Sex Interaction Settings"
+  },
+  {
+    "Key": "0x8538DEF2",
+    "Value": "Change sex interaction related settings."
+  },
+  {
+    "Key": "0x124D4B77",
+    "Value": "Teens Sex Switch"
+  },
+  {
+    "Key": "0xF29A4A80",
+    "Value": "Check to allow teen age Sims to participate in sex interactions."
+  },
+  {
+    "Key": "0x3FEC890C",
+    "Value": "Respect Gender Preference Switch"
+  },
+  {
+    "Key": "0x5BAD60EB",
+    "Value": "Check to prevent Sims from accepting sex propositions from non-preferred genders.\\nUncheck to allow Sims to accept sex propositions from any gender."
+  },
+  {
+    "Key": "0x3981FB4C",
+    "Value": "Talk After Sex Switch"
+  },
+  {
+    "Key": "0x5D469CA8",
+    "Value": "Check to allow Sims to talk after finishing sex."
+  },
+  {
+    "Key": "0x15BB7E21",
+    "Value": "Auto Silence Phone During Sex"
+  },
+  {
+    "Key": "0x0289438D",
+    "Value": "Check to automatically silence Sim phone during sex."
+  },
+  {
+    "Key": "0xE6E75D8F",
+    "Value": "Categorize Animation Authors"
+  },
+  {
+    "Key": "0xAB996C37",
+    "Value": "Check to display the list of animations authors when selecting sex animations.\\nUncheck to display all sex animations at once."
+  },
+  {
+    "Key": "0x7E68095C",
+    "Value": "Animations Sorting Button Position"
+  },
+  {
+    "Key": "0xB06AA36B",
+    "Value": "Check to display the Animations Sorting Button on the top of the animations list.\\nUncheck to display the Animations Sorting Button on the bottom of the animations list."
+  },
+  {
+    "Key": "0x863EB150",
+    "Value": "Sex Progression Settings"
+  },
+  {
+    "Key": "0xC5E8C4CD",
+    "Value": "Change behavior of sex animations progression."
+  },
+  {
+    "Key": "0x896139BB",
+    "Value": "Player Sex Duration"
+  },
+  {
+    "Key": "0xB10B3951",
+    "Value": "Player Sex Interaction duration related settings."
+  },
+  {
+    "Key": "0xDDAA6306",
+    "Value": "Time Limit Duration"
+  },
+  {
+    "Key": "0xC33EF4A8",
+    "Value": "Sex Interaction Duration"
+  },
+  {
+    "Key": "0x6C0E5818",
+    "Value": "Sex interaction duration in realtime minutes.\\n(Default: 3)"
+  },
+  {
+    "Key": "0x05754127",
+    "Value": "Climax Finish"
+  },
+  {
+    "Key": "0x8CDA18E9",
+    "Value": "Sex interaction ends only after a climax sex animation."
+  },
+  {
+    "Key": "0x1FD54219",
+    "Value": "Sex Progression Type"
+  },
+  {
+    "Key": "0xD9D91975",
+    "Value": "Choose the type of sex animations progression."
+  },
+  {
+    "Key": "0xC92EBB73",
+    "Value": "Disable Sex Progression"
+  },
+  {
+    "Key": "0x28DC3BB1",
+    "Value": "Sex animations will not change on their own."
+  },
+  {
+    "Key": "0xFA1DD9E3",
+    "Value": "Stage Only Sex Progression"
+  },
+  {
+    "Key": "0x7A051765",
+    "Value": "Sex animations will only change to animations that are in their stage list."
+  },
+  {
+    "Key": "0x2F4FDFBA",
+    "Value": "Full Sex Progression"
+  },
+  {
+    "Key": "0x5DE2C1D9",
+    "Value": "Sex animations will change according to their stage list and continue afterwards."
+  },
+  {
+    "Key": "0x4BD9F79C",
+    "Value": "Random Sex Progression"
+  },
+  {
+    "Key": "0xC3723CCC",
+    "Value": "Sex animations will always change to a random available animation."
+  },
+  {
+    "Key": "0x46E3CBC2",
+    "Value": "Sex Progression Key Shortcut"
+  },
+  {
+    "Key": "0xDB139EF2",
+    "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: Q)"
+  },
+  {
+    "Key": "0x88379669",
+    "Value": "Controlled Sex Progression"
+  },
+  {
+    "Key": "0x4DC442D9",
+    "Value": "Progression to the next sex animation category has to be allowed by the user."
+  },
+  {
+    "Key": "0x0EA8DF84",
+    "Value": "Continue Progression After Climax"
+  },
+  {
+    "Key": "0xC3E6754D",
+    "Value": "Check to allow sex animations progression to continue after playing a climax animation."
+  },
+  {
+    "Key": "0xFF489E48",
+    "Value": "Outfit Settings"
+  },
+  {
+    "Key": "0xAF546FDD",
+    "Value": "Change Sims outfits behavior in sex."
+  },
+  {
+    "Key": "0x29B4D512",
+    "Value": "Sims Undressing Type"
+  },
+  {
+    "Key": "0xF8E2FBF5",
+    "Value": "Choose the type of undressing behavior Sims will follow during sex."
+  },
+  {
+    "Key": "0x258EB493",
+    "Value": "NPC Sims Undressing Type"
+  },
+  {
+    "Key": "0x55954230",
+    "Value": "Choose the type of undressing behavior NPC Sims will follow during sex."
+  },
+  {
+    "Key": "0x0A2E11EE",
+    "Value": "Disable Undressing"
+  },
+  {
+    "Key": "0x52B3BB0B",
+    "Value": "Sims in sex will not undress automatically."
+  },
+  {
+    "Key": "0x6389B96F",
+    "Value": "Auto Undressing"
+  },
+  {
+    "Key": "0x8CC033AD",
+    "Value": "Sims in sex will undress automatically according to the sex animations configuration."
+  },
+  {
+    "Key": "0x42E3745F",
+    "Value": "Complete Undressing"
+  },
+  {
+    "Key": "0xFD11D2AA",
+    "Value": "Sims in sex will always undress completely."
+  },
+  {
+    "Key": "0xC0F3FC63",
+    "Value": "Auto Dress Up After Sex"
+  },
+  {
+    "Key": "0x1C4A982B",
+    "Value": "Sims dressing up behavior after sex.\\n<b>Fully Check</b> for Sims to always dress up after sex.\\n<b>Half Check</b> for Sims to dress up after sex when outdoors.\\n<b>Uncheck</b> for Sims to never dress up after sex."
+  },
+  {
+    "Key": "0x892C3238",
+    "Value": "Auto Remove Unnecessary Strapon"
+  },
+  {
+    "Key": "0xEFCCD4D3",
+    "Value": "Check to automatically undressed strapons when not needed in the currently playing animation."
+  },
+  {
+    "Key": "0x4E854CF3",
+    "Value": "Advanced Sex Interaction Settings"
+  },
+  {
+    "Key": "0x8E74CA75",
+    "Value": "Advanced settings for sex interactions."
+  },
+  {
+    "Key": "0xA5228413",
+    "Value": "Sex Initiation Settings"
+  },
+  {
+    "Key": "0x10557617",
+    "Value": "Choose the type of sex initiation."
+  },
+  {
+    "Key": "0x21C401F8",
+    "Value": "Talk and Walk"
+  },
+  {
+    "Key": "0xB5F6352E",
+    "Value": "Sex will start with Sims talking and then walking to the sex location."
+  },
+  {
+    "Key": "0x22802A73",
+    "Value": "Instant (requires enabling Always Accept)"
+  },
+  {
+    "Key": "0xE5D7DF3A",
+    "Value": "Sex will start instantly, teleporting Sims to the sex location."
+  },
+  {
+    "Key": "0x9E42147A",
+    "Value": "Height Slider Mods Support"
+  },
+  {
+    "Key": "0x77DF61C0",
+    "Value": "Check to detect Height Slider mods and adjust Sims height during sex.\\nUncheck to ignore Height Slider mods."
+  },
+  {
+    "Key": "0x38E716A5",
+    "Value": "Adaptive Roles Reassignment"
+  },
+  {
+    "Key": "0xD9523B18",
+    "Value": "Check to allow Sims in sex to adapt to the animation roles requirements and disable automatic reassignment when swapped to opposite roles."
+  },
+  {
+    "Key": "0xA033CE1D",
+    "Value": "Sex Location Reservation"
+  },
+  {
+    "Key": "0x4711602F",
+    "Value": "Check to reserve objects used for sex. Reservation prevents Sims from using the objects while they are being used for sex."
+  },
+  {
+    "Key": "0xD7F4F85B",
+    "Value": "Climax Sex Animations"
+  },
+  {
+    "Key": "0x80E55031",
+    "Value": "Check to have a separate Climax sex category for Climax sex animations.\\nUncheck to automatically bundle Climax sex animations into other sex categories."
+  },
+  {
+    "Key": "0xFFA256D8",
+    "Value": "Sex Animations Duration Override Settings"
+  },
+  {
+    "Key": "0x014E7511",
+    "Value": "Override of sex animations duration in realtime seconds."
+  },
+  {
+    "Key": "0xB641582F",
+    "Value": "Default Duration"
+  },
+  {
+    "Key": "0x032AF84B",
+    "Value": "Use animations duration time defined by the author."
+  },
+  {
+    "Key": "0x63604AD4",
+    "Value": "Override Duration"
+  },
+  {
+    "Key": "0x4B584CEA",
+    "Value": "Animation Override Duration"
+  },
+  {
+    "Key": "0xD01E6927",
+    "Value": "Override duration for all sex animations in realtime seconds.\\n\\nAnimations will not play exactly for the set amount out time. They will play for the approximate number of loops for the set time."
+  },
+  {
+    "Key": "0xB6B83A74",
+    "Value": "Sex Context Settings"
+  },
+  {
+    "Key": "0x682B5429",
+    "Value": "Change Sex Context related settings."
+  },
+  {
+    "Key": "0xD07F63B2",
+    "Value": "Display Sex Context Interactions"
+  },
+  {
+    "Key": "0xC0409FA2",
+    "Value": "Check to display the Context pie menu category during sex.\\nUncheck to not disable the Context pie menu category during sex."
+  },
+  {
+    "Key": "0x8B400D49",
+    "Value": "Select Available Sex Contexts"
+  },
+  {
+    "Key": "0x3B57D6B7",
+    "Value": "Choose which options are available under the Context pie menu category during sex."
+  },
+  {
+    "Key": "0xA6BBD7CF",
+    "Value": "Select to display the '{0.String}' sex context option."
+  },
+  {
+    "Key": "0x2E0B7D13",
+    "Value": "Autonomy Settings"
+  },
+  {
+    "Key": "0x152E455C",
+    "Value": "Change Sex Autonomy related settings."
+  },
+  {
+    "Key": "0x3EE0D7D2",
+    "Value": "Autonomy Switch"
+  },
+  {
+    "Key": "0xB20413C0",
+    "Value": "Check to enable Sims Sex Autonomy."
+  },
+  {
+    "Key": "0xC8AA9EC2",
+    "Value": "Sex Autonomy Notifications"
+  },
+  {
+    "Key": "0xCBD03B67",
+    "Value": "Display sex autonomy related notifications."
+  },
+  {
+    "Key": "0xCD73FD6F",
+    "Value": "Autonomy Intensity Presets"
+  },
+  {
+    "Key": "0xEF9F53DB",
+    "Value": "Choose an intensity preset for autonomy.\\n(this alters the Autonomy Awareness settings, Autonomy Triggers settings, and Autonomy Specifics settings)"
+  },
+  {
+    "Key": "0xB2634FCE",
+    "Value": "Disabled Autonomy"
+  },
+  {
+    "Key": "0x84A67799",
+    "Value": "Select to disable Sex Autonomy."
+  },
+  {
+    "Key": "0xD9BF9E57",
+    "Value": "Very Low Intensity"
+  },
+  {
+    "Key": "0x59C6F741",
+    "Value": "Select for minimal sex occurrences, very high Sims and Location precision, very slow cooldowns."
+  },
+  {
+    "Key": "0x74B333EB",
+    "Value": "Low Intensity"
+  },
+  {
+    "Key": "0x58C240BD",
+    "Value": "Select for less frequent sex, higher Sims and Location precision, slower cooldowns."
+  },
+  {
+    "Key": "0x6CFA1AAE",
+    "Value": "Normal Intensity (Default)"
+  },
+  {
+    "Key": "0x1021C6B0",
+    "Value": "Select for default settings for Sex Autonomy."
+  },
+  {
+    "Key": "0xB868AE55",
+    "Value": "High Intensity"
+  },
+  {
+    "Key": "0xF7F5B654",
+    "Value": "Select for more frequent sex, higher chances, quicker cooldowns."
+  },
+  {
+    "Key": "0xCD83EE51",
+    "Value": "Extreme Intensity"
+  },
+  {
+    "Key": "0x3A9E341B",
+    "Value": "Select for very frequent sex, very high chances, relationships don't matter, almost no cooldowns."
+  },
+  {
+    "Key": "0x0C29E865",
+    "Value": "All of the Sex Autonomy settings have been adjusted accordingly to the {0.String} Preset."
+  },
+  {
+    "Key": "0x61A18927",
+    "Value": "Autonomy Triggers"
+  },
+  {
+    "Key": "0xFA61C8A4",
+    "Value": "Choose which types of autonomy are allowed to run."
+  },
+  {
+    "Key": "0xAAF92019",
+    "Value": "Random Sex Switch"
+  },
+  {
+    "Key": "0x115BE714",
+    "Value": "Check to allow Sims to perform random sex interactions with other Sims."
+  },
+  {
+    "Key": "0x29DFD6F1",
+    "Value": "Solo Sex Switch"
+  },
+  {
+    "Key": "0x1C921B31",
+    "Value": "Check to allow Sims to perform random masturbation interactions."
+  },
+  {
+    "Key": "0x59A68EF4",
+    "Value": "Joining Sex Switch"
+  },
+  {
+    "Key": "0x943581C5",
+    "Value": "Check to allow Sims to try to join existing sex interactions."
+  },
+  {
+    "Key": "0x7BAB0518",
+    "Value": "Travel Sex Switch"
+  },
+  {
+    "Key": "0x7A7CBCAF",
+    "Value": "Check to allow Sims to perform random sex interactions when travelling to locations. Active household Sims and Sims in travel groups are not included."
+  },
+  {
+    "Key": "0xFFBE14EC",
+    "Value": "Romance Conversation Sex Switch"
+  },
+  {
+    "Key": "0x9F76B937",
+    "Value": "Check to allow Sims to initiate sex from romantic conversations."
+  },
+  {
+    "Key": "0xC96ECC84",
+    "Value": "Solo Watching Sex Switch"
+  },
+  {
+    "Key": "0x785E2DB8",
+    "Value": "Check to allow Sims to perform masturbation interactions while watching sex.\\n\\n(requires Amra72 and ooOLaLa World animations)"
+  },
+  {
+    "Key": "0x1EFECEB8",
+    "Value": "Club Sex Switch"
+  },
+  {
+    "Key": "0x92A34392",
+    "Value": "Check to allow Sims to perform sex interactions when at a sex club gathering."
+  },
+  {
+    "Key": "0x49572334",
+    "Value": "Invite Peeping Sim Switch"
+  },
+  {
+    "Key": "0x2FC0A8AA",
+    "Value": "Check to allow Sims to invite in and perform sex interactions with peeping Sims."
+  },
+  {
+    "Key": "0x0D1F566B",
+    "Value": "Autonomy Awareness"
+  },
+  {
+    "Key": "0x86A8C987",
+    "Value": "Choose which elements are considered when triggering autonomy."
+  },
+  {
+    "Key": "0xBD3EC40F",
+    "Value": "Player Sims Autonomy"
+  },
+  {
+    "Key": "0xD86BF067",
+    "Value": "Check to allow Player Sims to participate in Sex Autonomy."
+  },
+  {
+    "Key": "0xE71734FF",
+    "Value": "Player Sims Joining Sex Autonomy"
+  },
+  {
+    "Key": "0x9A945F9B",
+    "Value": "Check to allow Player Sims to join to existing sex interactions."
+  },
+  {
+    "Key": "0x74BB4DB9",
+    "Value": "Relationship Awareness Switch"
+  },
+  {
+    "Key": "0x1A04B56C",
+    "Value": "Check for Sims to stay faithful to their partner and not have sex with others.\\n\\nThe 'Adulterer', 'Noncommittal' and 'Player' traits on Sims ignore this setting."
+  },
+  {
+    "Key": "0xF93747C7",
+    "Value": "NPC Pregnancy Awareness Switch"
+  },
+  {
+    "Key": "0xC53CE741",
+    "Value": "Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\\n(only works with Menstrual Cycle Pregnancy Mode enabled)"
+  },
+  {
+    "Key": "0xF06E0D9D",
+    "Value": "Sex Locations Memory Switch"
+  },
+  {
+    "Key": "0xFCB7A291",
+    "Value": "Check to allow the game and individual Sims to remember locations used for sex by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex locations and pick them randomly."
+  },
+  {
+    "Key": "0xE3EA5EBE",
+    "Value": "Sex Animations Memory Switch"
+  },
+  {
+    "Key": "0x7381079C",
+    "Value": "Check to allow the game and individual Sims to remember sex animations used by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex animations and pick them randomly."
+  },
+  {
+    "Key": "0xC0D61043",
+    "Value": "Block Around Children Switch"
+  },
+  {
+    "Key": "0x0FE568C6",
+    "Value": "Check for Sims to avoid attempting sex when children are on the lot.\\nUncheck for Sims to attempt sex when children are on the lot."
+  },
+  {
+    "Key": "0xE0357740",
+    "Value": "Joining Sex Gender Compliance Switch"
+  },
+  {
+    "Key": "0x3582858A",
+    "Value": "Check for Sims to respect their own and participants gender preference when asking to join sex. (Decreases Joining Autonomy)\\nUncheck for Sims to only match gender preference with any single participant when asking to join sex. (Increases Joining Autonomy)"
+  },
+  {
+    "Key": "0xF519F23F",
+    "Value": "Joining Sex Relationship Compliance Switch"
+  },
+  {
+    "Key": "0xB5FD395C",
+    "Value": "Check for joining Sim to account for their romantic relationship with all participants when asking to join sex or when invited to join sex. (Decreases Joining Autonomy)\\nUncheck for joining Sim to only account for their romantic relationship with any single participant when asking to join sex. (Increases Joining Autonomy)"
+  },
+  {
+    "Key": "0xAB9438BE",
+    "Value": "Gender Specific Doors Switch"
+  },
+  {
+    "Key": "0x137B88A6",
+    "Value": "Check for Sims to respect doors gender specific lock.\\nUncheck for Sims to be able to walk through gender specific locked doors."
+  },
+  {
+    "Key": "0x030E869E",
+    "Value": "Risk Roll Switch"
+  },
+  {
+    "Key": "0x132BDB92",
+    "Value": "Check for Sims to assess risk of having sex by their age, number of Sims around, number of children around, and family relations."
+  },
+  {
+    "Key": "0x6D880C9F",
+    "Value": "Autonomy Specifics"
+  },
+  {
+    "Key": "0xD40B3B2A",
+    "Value": "Edit specific parts of autonomy and mess up everything."
+  },
+  {
+    "Key": "0xC5C62052",
+    "Value": "Random Sex Frequency Modifier"
+  },
+  {
+    "Key": "0xD2C9EEC8",
+    "Value": "Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\\n(Default: 1.2, Minimum: 0.01)"
+  },
+  {
+    "Key": "0x22971499",
+    "Value": "Random Solo Sex Probability"
+  },
+  {
+    "Key": "0x6BB588AA",
+    "Value": "Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\\n(Default: 0.45, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x125F7F2B",
+    "Value": "Travel Sex Probability"
+  },
+  {
+    "Key": "0x836ACD2A",
+    "Value": "Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\\n(Default: 0.50, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x331EC4F5",
+    "Value": "Sex Joining Maximum Distance"
+  },
+  {
+    "Key": "0x3D749776",
+    "Value": "Set a maximum number of distance units for Sims to detect sex in and consider joining it.\\n(Default: 10.0, Minimum: 1.0)"
+  },
+  {
+    "Key": "0x8F7D682E",
+    "Value": "Random Club Sex Probability"
+  },
+  {
+    "Key": "0x02A2915F",
+    "Value": "Set a unit interval value for chance of random club sex occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x52C9B0FC",
+    "Value": "Watching Sex Random Solo Probability"
+  },
+  {
+    "Key": "0x781607CD",
+    "Value": "Set a unit interval value for chance of random solo sex occurring from watching sex. Value 1.0 is 100% chance.\\n(Default: 0.10, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x60D9AD86",
+    "Value": "Romance Sex Probability"
+  },
+  {
+    "Key": "0xA58CEA38",
+    "Value": "Set a unit interval value for chance of random sex from romantic conversations occurring. Value 1.0 is 100% chance.\\n(Default: 0.10, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x0D91EBFD",
+    "Value": "Peeping Sex Probability"
+  },
+  {
+    "Key": "0x947280F8",
+    "Value": "Set a unit interval value for chance of random sex from positive reaction to a peeping Sim. Value 1.0 is 100% chance.\\n(Default: 0.50, Minimum: 0.0)"
+  },
+  {
+    "Key": "0x52EDB46D",
+    "Value": "Trigger Attempts Count"
+  },
+  {
+    "Key": "0x704D76EC",
+    "Value": "Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\\n(Default: 5, Minimum: 1, Maximum: 120)"
+  },
+  {
+    "Key": "0xD3A5F7EE",
+    "Value": "Sims Sex Pairs Sample Size"
+  },
+  {
+    "Key": "0x5285DD51",
+    "Value": "Set a number of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\\n(Default: 8, Minimum: 1)"
+  },
+  {
+    "Key": "0xBA43CAC3",
+    "Value": "Sex Locations Sample Size"
+  },
+  {
+    "Key": "0x9DFD6EF3",
+    "Value": "Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\\n(Default: 8, Minimum: 1)"
+  },
+  {
+    "Key": "0x90B95FD1",
+    "Value": "Minimum Sex Actors Limit"
+  },
+  {
+    "Key": "0x7659E3DC",
+    "Value": "Set a minimum number of actors that every sex interaction can be made out of by autonomy joining.\\n\\n(Default: 3, Minimum: 2)"
+  },
+  {
+    "Key": "0xA2DCA6FF",
+    "Value": "Maximum Sex Actors Limit"
+  },
+  {
+    "Key": "0xDB368393",
+    "Value": "Set a maximum number of actors that every sex interaction can be made out of by autonomy joining.\\n\\n(Default: 10, Maximum: 10)"
+  },
+  {
+    "Key": "0x62803C2E",
+    "Value": "NPC Sims Relationship Modifier"
+  },
+  {
+    "Key": "0x0D830867",
+    "Value": "Set a number of extra points NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\\n(Default: 1.0)"
+  },
+  {
+    "Key": "0xF48591CC",
+    "Value": "Player to NPC Sims Relationship Modifier"
+  },
+  {
+    "Key": "0x7BC71984",
+    "Value": "Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\\n(Default: 0.0)"
+  },
+  {
+    "Key": "0x5C733BDD",
+    "Value": "Autonomy Location Styles"
+  },
+  {
+    "Key": "0x3A583A16",
+    "Value": "Choose and Set allowed for autonomy location styles."
+  },
+  {
+    "Key": "0xFA48E2A4",
+    "Value": "Outside Lots Style Locations"
+  },
+  {
+    "Key": "0x5F59051C",
+    "Value": "Check to allow picking of sex locations outside of the lot boundaries."
+  },
+  {
+    "Key": "0xDF5B9BA0",
+    "Value": "Outdoors Style Locations"
+  },
+  {
+    "Key": "0xF7448F33",
+    "Value": "Check to allow picking of sex locations outdoors within lot boundaries"
+  },
+  {
+    "Key": "0x3A19652B",
+    "Value": "Risky Style Locations"
+  },
+  {
+    "Key": "0x36EBB258",
+    "Value": "Check to allow picking of risky sex locations."
+  },
+  {
+    "Key": "0x47290295",
+    "Value": "Comfort Style Locations"
+  },
+  {
+    "Key": "0x31F1764A",
+    "Value": "Check to allow picking of comfortable sex locations."
+  },
+  {
+    "Key": "0xF38596DA",
+    "Value": "Private Style Locations"
+  },
+  {
+    "Key": "0x2355180F",
+    "Value": "Check to allow picking of private sex locations."
+  },
+  {
+    "Key": "0xFADD3551",
+    "Value": "Sims Risky Factor"
+  },
+  {
+    "Key": "0x89B72B19",
+    "Value": "Set a multiplier value per 'Sim In Room' that increases the likeliness of the room being considered as risky.\\n(Default: 2.0, Minimum: 0.0)"
+  },
+  {
+    "Key": "0xFB0C4D05",
+    "Value": "NPC Household Relationship Modifier"
+  },
+  {
+    "Key": "0xB646E1DF",
+    "Value": "Set a number of extra relationship points to add to the average of an NPC Household's relationship value when considering sex while an active Sim is visiting a residential lot.\\n(Default: 0, Minimum: 0)"
+  },
+  {
+    "Key": "0x29D0EE3C",
+    "Value": "Autonomy Cooldowns"
+  },
+  {
+    "Key": "0x5ECE6FB2",
+    "Value": "Set cooldown timers for autonomy sex."
+  },
+  {
+    "Key": "0x1FDB2A09",
+    "Value": "Random Sex Minimum Cooldown Time"
+  },
+  {
+    "Key": "0x192829D9",
+    "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 90, Minimum: 0)"
+  },
+  {
+    "Key": "0xF3F7320F",
+    "Value": "Random Sex Maximum Cooldown Time"
+  },
+  {
+    "Key": "0x5A37E1CE",
+    "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 1800, Minimum: 1)"
+  },
+  {
+    "Key": "0xCF48FF9E",
+    "Value": "Club Sex Minimum Cooldown Time"
+  },
+  {
+    "Key": "0x2634118F",
+    "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy club sex again.\\n(Default: 45, Minimum: 0)"
+  },
+  {
+    "Key": "0x9F3DC20C",
+    "Value": "Club Sex Maximum Cooldown Time"
+  },
+  {
+    "Key": "0x6A66ED0A",
+    "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy club sex again.\\n(Default: 90, Minimum: 1)"
+  },
+  {
+    "Key": "0xA9ECC932",
+    "Value": "Asking for Sex Dialogs Settings"
+  },
+  {
+    "Key": "0xB088165F",
+    "Value": "Choose which asking sex dialogs are displayed."
+  },
+  {
+    "Key": "0x9234BF69",
+    "Value": "Display Player Asking Player Sex Dialog"
+  },
+  {
+    "Key": "0x0D018DAC",
+    "Value": "Check for Player Sims asking Player Sims for sex dialogs."
+  },
+  {
+    "Key": "0xE7EC962B",
+    "Value": "Display NPC Asking Player Sex Dialog"
+  },
+  {
+    "Key": "0x1BE752BC",
+    "Value": "Check for NPC Sims asking Player Sims for sex dialogs."
+  },
+  {
+    "Key": "0x27015517",
+    "Value": "Display Player Asking NPC Sex Dialog"
+  },
+  {
+    "Key": "0xC5B2B81C",
+    "Value": "Check for Player Sims asking NPC Sims for sex dialogs."
+  },
+  {
+    "Key": "0x1CA1C80B",
+    "Value": "NPC Sims Sex Duration"
+  },
+  {
+    "Key": "0x733E164D",
+    "Value": "Set NPC Sims sex interaction duration in realtime minutes.\\n(Default: 3)"
+  },
+  {
+    "Key": "0x4AD9531A",
+    "Value": "Gender Settings"
+  },
+  {
+    "Key": "0x7D69A97C",
+    "Value": "Change Sims gender recognition."
+  },
+  {
+    "Key": "0x6A9CCCD6",
+    "Value": "Gender Recognition Type"
+  },
+  {
+    "Key": "0xF9C6EC06",
+    "Value": "Choose the type of how Sims gender is recognized."
+  },
+  {
+    "Key": "0x9981B189",
+    "Value": "Sex Identity Based"
+  },
+  {
+    "Key": "0x09556EED",
+    "Value": "Select to recognize Sims gender by biological characteristics of their genitalia."
+  },
+  {
+    "Key": "0x22AAE08E",
+    "Value": "Gender Identity Based"
+  },
+  {
+    "Key": "0x8240E6B9",
+    "Value": "Select to recognize Sims gender by CAS 'Custom Gender Settings'."
+  },
+  {
+    "Key": "0x2728D93C",
+    "Value": "Anything Goes"
+  },
+  {
+    "Key": "0x30B35831",
+    "Value": "Select to not recognize Sims gender at all."
+  },
+  {
+    "Key": "0xE2BCD512",
+    "Value": "Recognize Females As Both"
+  },
+  {
+    "Key": "0xE3879839",
+    "Value": "Check to recognize female actor roles as both female and male roles (M/M).\\n(allows male Sims to play female roles)"
+  },
+  {
+    "Key": "0x76357825",
+    "Value": "Recognize Males As Both"
+  },
+  {
+    "Key": "0x1D440DB1",
+    "Value": "Check to recognize male actor roles as both male and female roles (F/F).\\n(allow female Sims to play male roles)"
+  },
+  {
+    "Key": "0x1D515CDD",
+    "Value": "Sim Specific Gender Recognition"
+  },
+  {
+    "Key": "0x46C03AEB",
+    "Value": "Check to enable 'Gender Recognition' interactions that allow to decide about individual Sims gender role."
+  },
+  {
+    "Key": "0xECEA25EC",
+    "Value": "Advanced Gender Settings"
+  },
+  {
+    "Key": "0xC52603A4",
+    "Value": "Advanced settings for gender recognition."
+  },
+  {
+    "Key": "0x16F11D0D",
+    "Value": "Ignore Occult Genders Restrictions"
+  },
+  {
+    "Key": "0x05E05E62",
+    "Value": "Check to disable restrictions for animations that require specific occult to be available.\\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)"
+  },
+  {
+    "Key": "0xCBDD99A9",
+    "Value": "Fit Sex Animations To Sexual Function"
+  },
+  {
+    "Key": "0xC0DC5A87",
+    "Value": "Check to display and use sex animations that fit sexual function of Sims in sex.\\nUncheck to display and use all sex animations regardless of sexual function of Sims in sex."
+  },
+  {
+    "Key": "0xB88A7BEE",
+    "Value": "STD Settings"
+  },
+  {
+    "Key": "0x1603CACF",
+    "Value": "Change STD related settings."
+  },
+  {
+    "Key": "0x3FC7DC0F",
+    "Value": "Crab Lice Switch"
+  },
+  {
+    "Key": "0x8EB56449",
+    "Value": "Check to enable Sims contracting Crabs Lice STD."
+  },
+  {
+    "Key": "0x5E18ED60",
+    "Value": "Crab Lice Infested Bedding"
+  },
+  {
+    "Key": "0xE79B9252",
+    "Value": "Check to enable Sims contracting Crabs Lice through infested bedding."
+  },
+  {
+    "Key": "0xDEEF4C08",
+    "Value": "Crab Lice Sleeper Agents Population"
+  },
+  {
+    "Key": "0x2114B69F",
+    "Value": "Set a number of population percentage that will become Crab Lice Sleeper Agents.\\n(Default: 22.5%)"
+  },
+  {
+    "Key": "0xE6FB18A8",
+    "Value": "Cum Settings"
+  },
+  {
+    "Key": "0xB454C935",
+    "Value": "Change cum related settings."
+  },
+  {
+    "Key": "0x95C4607B",
+    "Value": "Cum Body Layers Switch"
+  },
+  {
+    "Key": "0xA2DF81B4",
+    "Value": "Check to enable cum layers showing up on Sims bodies."
+  },
+  {
+    "Key": "0x2CA75A5D",
+    "Value": "Cum Layers Visibility with Condom"
+  },
+  {
+    "Key": "0x1B1AA8E3",
+    "Value": "Check to allow applying of cum layers when using a condom.\\nUncheck to disallow applying of cum layers when using a condom."
+  },
+  {
+    "Key": "0x50E8A35A",
+    "Value": "Cum Auto Apply Switch"
+  },
+  {
+    "Key": "0x7C84AAE5",
+    "Value": "Check to allow automatic applying of cum layers during sex.\\nUncheck to disallow automatic applying of cum layers during sex and require manual usage of cum interactions."
+  },
+  {
+    "Key": "0xD3898C5B",
+    "Value": "Limitless Cum Switch"
+  },
+  {
+    "Key": "0x473688F1",
+    "Value": "Check to allow applying of cum layers during sex no matter the involved Sims.\\nUncheck to disallow applying of cum layers when a Sim capable of producing cum is not present."
+  },
+  {
+    "Key": "0xFF4E8C90",
+    "Value": "Pregnancy Settings"
+  },
+  {
+    "Key": "0xF1EC39AD",
+    "Value": "Change pregnancy settings.\\n\\nThese settings affect only pregnancy related functions that are the outcome of WickedWhims sex interactions."
+  },
+  {
+    "Key": "0xD14FC8FE",
+    "Value": "Pregnancy Mode"
+  },
+  {
+    "Key": "0x02DBE1F7",
+    "Value": "Change Sims pregnancy behavior."
+  },
+  {
+    "Key": "0x598E7E7C",
+    "Value": "Disabled"
+  },
+  {
+    "Key": "0x8E35548D",
+    "Value": "Select to make Sims not get pregnant from sex."
+  },
+  {
+    "Key": "0x705B798C",
+    "Value": "Menstrual Cycle Mode"
+  },
+  {
+    "Key": "0x45396B6C",
+    "Value": "Select to make Sims follow rules of their menstrual cycle for the pregnancy."
+  },
+  {
+    "Key": "0x86CD9185",
+    "Value": "Simple Mode"
+  },
+  {
+    "Key": "0xDFA66E56",
+    "Value": "Select to make Sims get pregnant based on the set percentage chances."
+  },
+  {
+    "Key": "0x9D5DA45C",
+    "Value": "Player Sims Pregnancy Chance"
+  },
+  {
+    "Key": "0x3B87E494",
+    "Value": "Choose percentage chance of Player Sims getting pregnant from sex."
+  },
+  {
+    "Key": "0xDB4B89D2",
+    "Value": "NPC Sims Pregnancy Chance"
+  },
+  {
+    "Key": "0xF6E17392",
+    "Value": "Choose percentage chance of NPC Sims getting pregnant from sex."
+  },
+  {
+    "Key": "0x0AE70696",
+    "Value": "Pregnancy Chance: {0.String}"
+  },
+  {
+    "Key": "0xA2495582",
+    "Value": "Menstrual Cycle Settings"
+  },
+  {
+    "Key": "0x3E45F26B",
+    "Value": "Change menstrual cycle related settings."
+  },
+  {
+    "Key": "0xC675FB77",
+    "Value": "Menstrual Cycle Duration"
+  },
+  {
+    "Key": "0xA0EFCC98",
+    "Value": "Choose Sims menstrual cycle duration."
+  },
+  {
+    "Key": "0xAF63B103",
+    "Value": "Automatic"
+  },
+  {
+    "Key": "0x6C4F4D26",
+    "Value": "Select to use Sims lifespan set in game settings."
+  },
+  {
+    "Key": "0xB172093A",
+    "Value": "Very Long"
+  },
+  {
+    "Key": "0x2F080814",
+    "Value": "Select for life expectancy of: Forever (21-30 days per menstrual cycle)"
+  },
+  {
+    "Key": "0x8E231DC6",
+    "Value": "Long"
+  },
+  {
+    "Key": "0xE49B081A",
+    "Value": "Select for life expectancy of: 324 days (18-24 days per menstrual cycle)"
+  },
+  {
+    "Key": "0x720553B4",
+    "Value": "Normal-To-Long"
+  },
+  {
+    "Key": "0xA1417FD4",
+    "Value": "Select for life expectancy of: 162 days (13-16 days per menstrual cycle)"
+  },
+  {
+    "Key": "0xB6B5C03A",
+    "Value": "Normal"
+  },
+  {
+    "Key": "0xECCA1FA6",
+    "Value": "Select for life expectancy of: 81 days (8-10 days per menstrual cycle)"
+  },
+  {
+    "Key": "0xCC236812",
+    "Value": "Short"
+  },
+  {
+    "Key": "0x0D83B15B",
+    "Value": "Select for life expectancy of: 42 days (6-7 days per menstrual cycle)"
+  },
+  {
+    "Key": "0x6DF5CD9D",
+    "Value": "Menstrual Cycle Fertility Level"
+  },
+  {
+    "Key": "0xFAE3382C",
+    "Value": "Choose Sims menstrual cycle fertility level."
+  },
+  {
+    "Key": "0x1ED735B9",
+    "Value": "Realistic (Low)"
+  },
+  {
+    "Key": "0xCFDF484E",
+    "Value": "Select for realistic menstrual cycle fertility chances.\\n(0%-10%, 16%-27%, 31%-33%)"
+  },
+  {
+    "Key": "0x6D30329C",
+    "Value": "Boosted (Medium)"
+  },
+  {
+    "Key": "0xC32C1AC8",
+    "Value": "Select for boosted from realistic menstrual cycle fertility chances.\\n(0%-10%, 20%-31%, 43%-78%)"
+  },
+  {
+    "Key": "0x505A0763",
+    "Value": "Extreme (High)"
+  },
+  {
+    "Key": "0x1B49EE18",
+    "Value": "Select for extremely high menstrual cycle fertility chances.\\n(0%-10%, 50%-80%, 90%-100%, 100%)"
+  },
+  {
+    "Key": "0x93A1B7AC",
+    "Value": "Menstrual Cycle Tampon/Pad Absorbency"
+  },
+  {
+    "Key": "0xD2B87C9E",
+    "Value": "Choose tampons/pads absorbency level."
+  },
+  {
+    "Key": "0x396D43F5",
+    "Value": "Perfect"
+  },
+  {
+    "Key": "0xBB562864",
+    "Value": "Select for tampons and pads to perfectly prevent any blood leaking."
+  },
+  {
+    "Key": "0x48039E2A",
+    "Value": "Boosted"
+  },
+  {
+    "Key": "0x791C7DA6",
+    "Value": "Select for tampons and pads to be slightly better at preventing blood leaking."
+  },
+  {
+    "Key": "0x5566F86D",
+    "Value": "Normal"
+  },
+  {
+    "Key": "0x7586B5B2",
+    "Value": "Select for tampons and pads to have normal blood leak preventing properties."
+  },
+  {
+    "Key": "0xACEE7810",
+    "Value": "Menstrual Cycle Tampon Auto Use"
+  },
+  {
+    "Key": "0xD93BE70C",
+    "Value": "Choose Sims automatic use of tampons behavior."
+  },
+  {
+    "Key": "0x646DB25F",
+    "Value": "None"
+  },
+  {
+    "Key": "0xCAF970BD",
+    "Value": "Select for Sims to not use tampons automatically."
+  },
+  {
+    "Key": "0x60E5C2D5",
+    "Value": "Realistic"
+  },
+  {
+    "Key": "0x2D2F92A8",
+    "Value": "Select for Sims to use and change tampons right before it becomes overused (every 15 hours)."
+  },
+  {
+    "Key": "0x2EBF493E",
+    "Value": "Cautious"
+  },
+  {
+    "Key": "0x4122A330",
+    "Value": "Select for Sims to use and change tampons right when there is any risk of them leaking (every 8 hours)."
+  },
+  {
+    "Key": "0xA629E840",
+    "Value": "Menstrual Cycle Pad Auto Use"
+  },
+  {
+    "Key": "0x13A24C0E",
+    "Value": "Choose Sims automatic use of pads behavior."
+  },
+  {
+    "Key": "0xCEC1EE65",
+    "Value": "None"
+  },
+  {
+    "Key": "0xE014A35B",
+    "Value": "Select for Sims to not use pads automatically."
+  },
+  {
+    "Key": "0x23F33587",
+    "Value": "Realistic"
+  },
+  {
+    "Key": "0xEE24B68B",
+    "Value": "Select for Sims to use and change pads right before it becomes overused (every 16 hours)."
+  },
+  {
+    "Key": "0x5B484FDE",
+    "Value": "Cautious"
+  },
+  {
+    "Key": "0x33B3FAA4",
+    "Value": "Select for Sims to use and change pads right when there is any risk of them leaking (every 6 hours)."
+  },
+  {
+    "Key": "0xEC8D2600",
+    "Value": "Advanced Menstrual Cycle Settings"
+  },
+  {
+    "Key": "0x6739DB34",
+    "Value": "Advanced settings for the menstrual cycle."
+  },
+  {
+    "Key": "0xB69E7E54",
+    "Value": "Use Toilet to Change Pad/Tampon Switch"
+  },
+  {
+    "Key": "0x48972586",
+    "Value": "Check to make Sims use a nearby toilet when changing their pad/tampon.\\nUncheck to make changing pads/tampons immediate."
+  },
+  {
+    "Key": "0xD280A515",
+    "Value": "Period Effect Moodlets Switch"
+  },
+  {
+    "Key": "0x24822982",
+    "Value": "Check to allow PMS/Period effect moodlets to show up on Sims.\\n(Effect Moodlets like mood swings, cramps, etc.)"
+  },
+  {
+    "Key": "0x0C905129",
+    "Value": "Period Bleeding Switch"
+  },
+  {
+    "Key": "0x85A714BE",
+    "Value": "Check to allow Sims to menstrual bleed during their period."
+  },
+  {
+    "Key": "0x024EFE50",
+    "Value": "Remove Pad on Undressing Switch"
+  },
+  {
+    "Key": "0xB0DB5006",
+    "Value": "Check to make Sims auto remove their pad when undressing outfit bottom.\\nUncheck to make Sims keep their pad with undressed outfit bottom."
+  },
+  {
+    "Key": "0x24E7813C",
+    "Value": "NPC Pregnancy Switch"
+  },
+  {
+    "Key": "0xF36CF065",
+    "Value": "Check to allow NPC Sims get pregnant on their own from sex."
+  },
+  {
+    "Key": "0x6BACA871",
+    "Value": "Birth Control Settings"
+  },
+  {
+    "Key": "0x82329982",
+    "Value": "Change birth control related settings."
+  },
+  {
+    "Key": "0x92B0A9A9",
+    "Value": "Birth Control Accuracy"
+  },
+  {
+    "Key": "0x5D5C5DD5",
+    "Value": "Change birth control accuracy."
+  },
+  {
+    "Key": "0xD817F24C",
+    "Value": "Perfect Mode"
+  },
+  {
+    "Key": "0x7B9383F7",
+    "Value": "Select to make every birth control method prevent pregnancy with 100% success rate."
+  },
+  {
+    "Key": "0x8B82E550",
+    "Value": "Unreliable Mode"
+  },
+  {
+    "Key": "0x6AD4B017",
+    "Value": "Select to make every birth control method be unreliable at preventing pregnancy."
+  },
+  {
+    "Key": "0xAF0221B7",
+    "Value": "Realistic Mode"
+  },
+  {
+    "Key": "0x36A363E3",
+    "Value": "Select to make every birth control method have a realistic chance of failing to prevent pregnancy."
+  },
+  {
+    "Key": "0xADE28984",
+    "Value": "NPC Sims Birth Control Use Behavior"
+  },
+  {
+    "Key": "0xA307A2DB",
+    "Value": "Change NPC Sims use of birth control behavior."
+  },
+  {
+    "Key": "0x562C03C4",
+    "Value": "Safe Mode"
+  },
+  {
+    "Key": "0xC2E43FDE",
+    "Value": "Select to make most of NPC Sims own and use birth control."
+  },
+  {
+    "Key": "0x61462840",
+    "Value": "Moderate Mode"
+  },
+  {
+    "Key": "0x84A439DF",
+    "Value": "Select to make some of NPC Sims own and use birth control."
+  },
+  {
+    "Key": "0xD755627F",
+    "Value": "Rare Mode"
+  },
+  {
+    "Key": "0x72200DDF",
+    "Value": "Select to make NPC Sims rarely own and use birth control."
+  },
+  {
+    "Key": "0xBFF340F9",
+    "Value": "Unsafe Mode"
+  },
+  {
+    "Key": "0xDB5C6F59",
+    "Value": "Select to make NPC Sims not own birth control unless given by the player."
+  },
+  {
+    "Key": "0x566ABE78",
+    "Value": "Condom Automatic Use"
+  },
+  {
+    "Key": "0xD2490390",
+    "Value": "Check to make Sims use condoms automatically during pregnancy sex."
+  },
+  {
+    "Key": "0xFEBD90E0",
+    "Value": "Pills Automatic Use"
+  },
+  {
+    "Key": "0x377DD1EB",
+    "Value": "Check to make Sims use birth control pills automatically once a day."
+  },
+  {
+    "Key": "0x4C781793",
+    "Value": "Condom Auto Remove for Non-Pregnancy Sex"
+  },
+  {
+    "Key": "0xB1DED9B4",
+    "Value": "Check to automatically remove condoms from Sims during sex that cannot cause pregnancy.\\nUncheck to keep Sims condoms on during any sex."
+  },
+  {
+    "Key": "0x212943B1",
+    "Value": "Pregnancy Duration"
+  },
+  {
+    "Key": "0xDAE773C9",
+    "Value": "Native pregnancy duration in Sim days.\\n(Default: 3, Minimum: 1)"
+  },
+  {
+    "Key": "0x853ED1F7",
+    "Value": "Miscarriage Switch"
+  },
+  {
+    "Key": "0xFFC63218",
+    "Value": "Check to allow Sims to experience miscarriage."
+  },
+  {
+    "Key": "0xA3BD2102",
+    "Value": "Miscarriage Add Offspring Switch"
+  },
+  {
+    "Key": "0x872C46F4",
+    "Value": "Check to allow unborn offspring to be added to the family tree."
+  },
+  {
+    "Key": "0xA9E7B26F",
+    "Value": "Pregnancy Notifications"
+  },
+  {
+    "Key": "0xD4553434",
+    "Value": "Check to display extra pregnancy notifications."
+  },
+  {
+    "Key": "0x7386B8EC",
+    "Value": "Native Pregnancy Override"
+  },
+  {
+    "Key": "0x480521E6",
+    "Value": "Check to allow WickedWhims pregnancy functionality override WooHoo and Try For Baby interactions behavior.\\nUncheck to keep WooHoo and Try For Baby interactions behavior unaltered by WickedWhims."
+  },
+  {
+    "Key": "0x4B170F09",
+    "Value": "Transform WooHoo into TFB Switch"
+  },
+  {
+    "Key": "0x4C50479E",
+    "Value": "Check to transform all WooHoo interactions to allow pregnancy and disable all Try for Baby interactions.\\nUncheck to keep all WooHoo interactions unchanged and enable Try for Baby interactions."
+  },
+  {
+    "Key": "0x8CAC249F",
+    "Value": "Other Settings"
+  },
+  {
+    "Key": "0xB6B16360",
+    "Value": "Change all of the unrelated settings."
+  },
+  {
+    "Key": "0xD4E78AE0",
+    "Value": "Vanilla Interactions Switch"
+  },
+  {
+    "Key": "0x41353614",
+    "Value": "Check to allow non-sex interactions to be available during sex.\\nUncheck to disallow non-sex interactions from being available during sex."
+  },
+  {
+    "Key": "0x087F5BE8",
+    "Value": "Default Woohoo Switch"
+  },
+  {
+    "Key": "0x4D92B456",
+    "Value": "Check to allow default 'WooHoo' and 'Try for Baby' interactions.\\n\\n(requires to restart the game)"
+  },
+  {
+    "Key": "0x9B4C5948",
+    "Value": "Cheats"
+  },
+  {
+    "Key": "0xEAF8C778",
+    "Value": "Get rid of the limitations."
+  },
+  {
+    "Key": "0xF8EC2C1F",
+    "Value": "Always Accept Sex"
+  },
+  {
+    "Key": "0x980B6653",
+    "Value": "Sims will always accept sex propositions.\\n<b>Fully Check</b> for Sims to always accept no matter the circumstances.\\n<b>Half Check</b> for Sims to always accept except for gender preference incompatibility, cheating, or fear of pregnancy.\\n<b>Uncheck</b> for Sims to not always accept."
+  },
+  {
+    "Key": "0xCAED6DCB",
+    "Value": "Manual NPC Sims Sex"
+  },
+  {
+    "Key": "0x6492BCE6",
+    "Value": "Check to enable manual control over NPC Sims sex."
+  },
+  {
+    "Key": "0x65FC4A90",
+    "Value": "Change Sex Location Anywhere"
+  },
+  {
+    "Key": "0x70245D58",
+    "Value": "Check to allow Sims to change sex location without limits."
+  },
+  {
+    "Key": "0xA2E0E240",
+    "Value": "Global Instant Undressing Switch"
+  },
+  {
+    "Key": "0x201CC155",
+    "Value": "Check to enable global instant undressing of Sims outside sex interactions."
+  },
+  {
+    "Key": "0x13FEC7F2",
+    "Value": "Advanced Cheats"
+  },
+  {
+    "Key": "0xE8BEBBF1",
+    "Value": "Higher level of understanding is required."
+  },
+  {
+    "Key": "0xF9864DAB",
+    "Value": "Sims Needs/Motives Decay"
+  },
+  {
+    "Key": "0x924158FE",
+    "Value": "Uncheck to prevent Sims Needs/Motives from decaying during sex."
+  },
+  {
+    "Key": "0xB38E4C20",
+    "Value": "Relationship Impact from Sex"
+  },
+  {
+    "Key": "0x5787916B",
+    "Value": "Uncheck to prevent Sims relationship changing from sex."
+  },
+  {
+    "Key": "0xB6954984",
+    "Value": "Sex Privacy Switch"
+  },
+  {
+    "Key": "0x75D90F06",
+    "Value": "Uncheck to prevent Sims from avoiding seeing sex."
+  },
+  {
+    "Key": "0x54414279",
+    "Value": "Sex Reaction Switch"
+  },
+  {
+    "Key": "0xD028E940",
+    "Value": "Uncheck to prevent Sims from reacting to sex."
+  },
+  {
+    "Key": "0x25CA4F1A",
+    "Value": "Cum Reaction Switch"
+  },
+  {
+    "Key": "0x2952BF86",
+    "Value": "Uncheck to prevent Sims from reacting to cum on other Sims bodies."
+  },
+  {
+    "Key": "0x9E6B9916",
+    "Value": "Teen Pregnancy Reaction Switch"
+  },
+  {
+    "Key": "0xB3D396F9",
+    "Value": "Uncheck to prevent parent Sims from reacting to teen Sims pregnancy."
+  },
+  {
+    "Key": "0x27F7727D",
+    "Value": "Add Current Animation to Playlist"
+  },
+  {
+    "Key": "0xBEB17C14",
+    "Value": "Add Current Animation to Favorites"
+  },
+  {
+    "Key": "0x409A7214",
+    "Value": "Play Playlist"
+  },
+  {
+    "Key": "0x74C77E7C",
+    "Value": "Animations Playlists"
+  },
+  {
+    "Key": "0x1283C594",
+    "Value": "Create, Modify & Delete animation playlists."
+  },
+  {
+    "Key": "0x1BE53F40",
+    "Value": "Playlist Controls"
+  },
+  {
+    "Key": "0x646587CB",
+    "Value": "Controls for the '{0.String}' playlist."
+  },
+  {
+    "Key": "0x72456B22",
+    "Value": "Create Playlist"
+  },
+  {
+    "Key": "0x043094EC",
+    "Value": "Create a new animations playlist."
+  },
+  {
+    "Key": "0x4CA19C5C",
+    "Value": "Enter the name of your playlist."
+  },
+  {
+    "Key": "0x6EC6D33E",
+    "Value": "You haven't created any playlists. Do you want to create a playlist now?"
+  },
+  {
+    "Key": "0xE5903CE7",
+    "Value": "Add Animations to Playlist"
+  },
+  {
+    "Key": "0xDDEA83D9",
+    "Value": "Add animations to this playlist."
+  },
+  {
+    "Key": "0x119959E3",
+    "Value": "Select which creator animations you want to add."
+  },
+  {
+    "Key": "0x6F37F395",
+    "Value": "Added Animations"
+  },
+  {
+    "Key": "0x19A3FF2A",
+    "Value": "Not Added Animations"
+  },
+  {
+    "Key": "0x4F645084",
+    "Value": "Add Animations to Playlist\\n{0.String}"
+  },
+  {
+    "Key": "0xD62EE1CC",
+    "Value": "Select All Animations"
+  },
+  {
+    "Key": "0x15FFFD41",
+    "Value": "Select this option and confirm to reopen the list."
+  },
+  {
+    "Key": "0x1BFBAFA9",
+    "Value": "Animations Count: {0.String}"
+  },
+  {
+    "Key": "0x215D193C",
+    "Value": "Animations Count: {0.String}/{1.String}"
+  },
+  {
+    "Key": "0x052F2758",
+    "Value": "Animations Count: {0.String}\\nAuthor: {1.String}"
+  },
+  {
+    "Key": "0x8FA49BB9",
+    "Value": "Remove Animations from Playlist"
+  },
+  {
+    "Key": "0xEA5E6073",
+    "Value": "Remove animations from this playlist."
+  },
+  {
+    "Key": "0x3693AF63",
+    "Value": "Reorder Playlist"
+  },
+  {
+    "Key": "0x1D7F2C39",
+    "Value": "Change order of animations in this playlist."
+  },
+  {
+    "Key": "0x0D709EDB",
+    "Value": "Pick animation to reorder."
+  },
+  {
+    "Key": "0xBABCCD1E",
+    "Value": "Pick an order slot to reorder the selected animation."
+  },
+  {
+    "Key": "0xEBDB9D98",
+    "Value": "Playlist Behavior"
+  },
+  {
+    "Key": "0xC25B21C9",
+    "Value": "Change behavior of this playlist."
+  },
+  {
+    "Key": "0x30F1FC54",
+    "Value": "Looping Behavior"
+  },
+  {
+    "Key": "0xF7CD63FE",
+    "Value": "Playlist will play indefinitely."
+  },
+  {
+    "Key": "0x2CD0674D",
+    "Value": "Shuffle Behavior"
+  },
+  {
+    "Key": "0x22B78B30",
+    "Value": "Order of animations is randomized on every use."
+  },
+  {
+    "Key": "0x1E9A2E94",
+    "Value": "Ends Sex Behavior"
+  },
+  {
+    "Key": "0x2D0CF48B",
+    "Value": "Sex interaction is stopped after the last animation on the playlist finishes playing."
+  },
+  {
+    "Key": "0x6BB3880D",
+    "Value": "Autonomy Available Behavior"
+  },
+  {
+    "Key": "0x76021A18",
+    "Value": "Playlist can be randomly used by autonomously started sex interactions."
+  },
+  {
+    "Key": "0x1FA02F74",
+    "Value": "Rename Playlist"
+  },
+  {
+    "Key": "0x83275439",
+    "Value": "Change the name of this playlist."
+  },
+  {
+    "Key": "0x8E04E179",
+    "Value": "Copy Playlist"
+  },
+  {
+    "Key": "0xEC4FC30D",
+    "Value": "Make a copy of this playlist."
+  },
+  {
+    "Key": "0x5EF8A4D3",
+    "Value": "Delete Playlist"
+  },
+  {
+    "Key": "0x65D150FC",
+    "Value": "Permanently delete this playlist."
+  },
+  {
+    "Key": "0xB179D55B",
+    "Value": "Do you want to delete the '{0.String}' playlist?"
+  },
+  {
+    "Key": "0x635AC630",
+    "Value": "Slot #{0.Number}"
+  },
+  {
+    "Key": "0x38A3A319",
+    "Value": "EMPTY"
+  },
+  {
+    "Key": "0x7BB092CA",
+    "Value": "At least 2 animations are required to do this action."
+  },
+  {
+    "Key": "0xC2E5BEDF",
+    "Value": "Sims Gender or Sex Location is not compatible.\\n\\n{0.String}"
+  },
+  {
+    "Key": "0x2E00C5C1",
+    "Value": "Author: {0.String}\\nCategory: {1.String}\\nLocations: {2.String}"
+  },
+  {
+    "Key": "0x6574AE98",
+    "Value": "Author: {0.String}\\nCategory: {1.String}\\nRoles: {2.String} | Orientation: {3.String}"
+  },
+  {
+    "Key": "0x49A48B7D",
+    "Value": "Name: {0.String}\\nAuthor: {1.String}"
+  },
+  {
+    "Key": "0x248224D8",
+    "Value": "Locations: {0.String}\\nRoles: {1.String} | Orientation: {2.String}\\nDuration: {3.String}s"
+  },
+  {
+    "Key": "0xFE78C7D6",
+    "Value": "Author: {0.String}\\nLocations: {1.String}\\nRoles: {2.String} | Orientation: {3.String}"
+  },
+  {
+    "Key": "0x6E80454F",
+    "Value": "Animations Disabler"
+  },
+  {
+    "Key": "0x8DE185BC",
+    "Value": "Animations Disabler\\n{0.String}"
+  },
+  {
+    "Key": "0x06E5B203",
+    "Value": "Enable/Disable specific animations from being used."
+  },
+  {
+    "Key": "0x9C6846DC",
+    "Value": "Enabled Animations"
+  },
+  {
+    "Key": "0x4FFB02C3",
+    "Value": "Disabled Animations"
+  },
+  {
+    "Key": "0x882DCA05",
+    "Value": "Autonomy Animations Disabler"
+  },
+  {
+    "Key": "0xE0E8D2AE",
+    "Value": "Autonomy Animations Disabler\\n{0.String}"
+  },
+  {
+    "Key": "0x91B964E6",
+    "Value": "Enable/Disable specific animations from being used in autonomy sex."
+  },
+  {
+    "Key": "0xFF6B61A6",
+    "Value": "Select which creator animations you want to disable."
+  },
+  {
+    "Key": "0x1C927766",
+    "Value": "Select All Animations"
+  },
+  {
+    "Key": "0x57D3543F",
+    "Value": "Select this option and confirm to reopen the list."
+  },
+  {
+    "Key": "0x848A4827",
+    "Value": "Animations Count: {0.String}"
+  },
+  {
+    "Key": "0x22CA569A",
+    "Value": "Animations Count: {0.String}\\nAuthor: {1.String}"
+  },
+  {
+    "Key": "0x7781241A",
+    "Value": "Locations: {0.String}\\nRoles: {1.String} | Orientation: {2.String}\\nDuration: {3.String}s"
+  },
+  {
+    "Key": "0x15CBE9BB",
+    "Value": "Sex Animation Tags"
+  },
+  {
+    "Key": "0x73C9A10E",
+    "Value": "Select Tags to add to the '{0.String}' animation."
+  },
+  {
+    "Key": "0xF0BFEC8C",
+    "Value": "Select to add the '{0.String}' tag."
+  },
+  {
+    "Key": "0xA6B3CB40",
+    "Value": "Select a Tag to remove from the '{0.String}' animation."
+  },
+  {
+    "Key": "0xA6CE0212",
+    "Value": "Remove the '{0.String}' tag."
+  },
+  {
+    "Key": "0x87E7D168",
+    "Value": "Add New Sex Animation Tags"
+  },
+  {
+    "Key": "0x2B53785A",
+    "Value": "Do you want to remove the '{0.String}' tag?"
+  },
+  {
+    "Key": "0x77E7E1E9",
+    "Value": "Note that using this during any sex interactions may result in problems!\\nIt is recommended to not use this disabler while any sex interactions are playing!"
+  },
+  {
+    "Key": "0x3C06D868",
+    "Value": "---------- SEX GENERAL ----------"
+  },
+  {
+    "Key": "0x015A0E32",
+    "Value": "New Sex Animations Available"
+  },
+  {
+    "Key": "0x65AFE413",
+    "Value": "Congratulations! You installed new sex animations!\\n\\nA total of {0.Number} new animation{P0.s} has been installed.\\n\\n{1.String}"
+  },
+  {
+    "Key": "0x8C54C33B",
+    "Value": "Failed to Load Personal Overrides"
+  },
+  {
+    "Key": "0xCF1C8893",
+    "Value": "The personal sex animations overrides file failed to load. Any new alterations to sex animations will result in previous data getting deleted."
+  },
+  {
+    "Key": "0xA4CE44F8",
+    "Value": "Sex"
+  },
+  {
+    "Key": "0x56A6B759",
+    "Value": "Actions"
+  },
+  {
+    "Key": "0x4CD0FC21",
+    "Value": "Context"
+  },
+  {
+    "Key": "0x6A3A3959",
+    "Value": "Teasing"
+  },
+  {
+    "Key": "0x795BA55C",
+    "Value": "Handjob"
+  },
+  {
+    "Key": "0x0748F0BB",
+    "Value": "Footjob"
+  },
+  {
+    "Key": "0x438CC4E7",
+    "Value": "Oraljob"
+  },
+  {
+    "Key": "0xAB5B8B84",
+    "Value": "Vaginal"
+  },
+  {
+    "Key": "0xD3CD069A",
+    "Value": "Anal"
+  },
+  {
+    "Key": "0x5E1F3B80",
+    "Value": "Climax"
+  },
+  {
+    "Key": "0x70AAE6BB",
+    "Value": "Random"
+  },
+  {
+    "Key": "0x2B6E2038",
+    "Value": "Playlist..."
+  },
+  {
+    "Key": "0xCA6D3CD6",
+    "Value": "Playlist"
+  },
+  {
+    "Key": "0x6E101573",
+    "Value": "Teasing Context"
+  },
+  {
+    "Key": "0x87EA3C74",
+    "Value": "Handjob Context"
+  },
+  {
+    "Key": "0x0C7B3E0D",
+    "Value": "Footjob Context"
+  },
+  {
+    "Key": "0x464ECA79",
+    "Value": "Oraljob Context"
+  },
+  {
+    "Key": "0x25D22D9C",
+    "Value": "Vaginal Context"
+  },
+  {
+    "Key": "0xC450AF32",
+    "Value": "Anal Context"
+  },
+  {
+    "Key": "0xAFEDB8F8",
+    "Value": "Climax Context"
+  },
+  {
+    "Key": "0x2B0C1096",
+    "Value": "Homoerotic"
+  },
+  {
+    "Key": "0xE4101137",
+    "Value": "Homoerotic Context"
+  },
+  {
+    "Key": "0xF87BE16C",
+    "Value": "Dressed Up"
+  },
+  {
+    "Key": "0xE2053DE9",
+    "Value": "Standing"
+  },
+  {
+    "Key": "0x184F9554",
+    "Value": "Standing Context"
+  },
+  {
+    "Key": "0xFE65BA11",
+    "Value": "Sitting"
+  },
+  {
+    "Key": "0x323B1D8C",
+    "Value": "Sitting Context"
+  },
+  {
+    "Key": "0x106BBF5C",
+    "Value": "Sideways"
+  },
+  {
+    "Key": "0xC246ECF1",
+    "Value": "Sideways Context"
+  },
+  {
+    "Key": "0x7712A923",
+    "Value": "Upside Down"
+  },
+  {
+    "Key": "0x0288EC72",
+    "Value": "Upside Down Context"
+  },
+  {
+    "Key": "0x5584F700",
+    "Value": "Carry"
+  },
+  {
+    "Key": "0xFB20A44D",
+    "Value": "Carry Context"
+  },
+  {
+    "Key": "0x6C0937E8",
+    "Value": "Kneeling"
+  },
+  {
+    "Key": "0x0668EC25",
+    "Value": "Kneeling Context"
+  },
+  {
+    "Key": "0x2CE72B32",
+    "Value": "Masturbation"
+  },
+  {
+    "Key": "0xBD2B732B",
+    "Value": "Masturbation Context"
+  },
+  {
+    "Key": "0x89860048",
+    "Value": "Blowjob"
+  },
+  {
+    "Key": "0x729F9985",
+    "Value": "Blowjob Context"
+  },
+  {
+    "Key": "0x6F89FFF5",
+    "Value": "Deep Throat"
+  },
+  {
+    "Key": "0x9BE63088",
+    "Value": "Deep Throat Context"
+  },
+  {
+    "Key": "0x0686AC94",
+    "Value": "Cunnilingus"
+  },
+  {
+    "Key": "0x2A6EF759",
+    "Value": "Cunnilingus Context"
+  },
+  {
+    "Key": "0xABD024AC",
+    "Value": "Rimjob"
+  },
+  {
+    "Key": "0xFFC7DFE1",
+    "Value": "Rimjob Context"
+  },
+  {
+    "Key": "0xD277E2E0",
+    "Value": "Fingering"
+  },
+  {
+    "Key": "0x92D806AD",
+    "Value": "Fingering Context"
+  },
+  {
+    "Key": "0xC0C13610",
+    "Value": "Sixtynine"
+  },
+  {
+    "Key": "0xD8B10B7D",
+    "Value": "Sixtynine Context"
+  },
+  {
+    "Key": "0x02FF8E16",
+    "Value": "Face Sitting"
+  },
+  {
+    "Key": "0x2385BEB7",
+    "Value": "Face Sitting Context"
+  },
+  {
+    "Key": "0x33EF7B99",
+    "Value": "Titjob"
+  },
+  {
+    "Key": "0x421A8E24",
+    "Value": "Titjob Context"
+  },
+  {
+    "Key": "0x052A706C",
+    "Value": "Thighjob"
+  },
+  {
+    "Key": "0x08E3E721",
+    "Value": "Thighjob Context"
+  },
+  {
+    "Key": "0x9C5DCE13",
+    "Value": "Doggy"
+  },
+  {
+    "Key": "0x2B1C7C02",
+    "Value": "Doggy Context"
+  },
+  {
+    "Key": "0x78DF1A9D",
+    "Value": "Missionary"
+  },
+  {
+    "Key": "0x39F580C0",
+    "Value": "Missionary Context"
+  },
+  {
+    "Key": "0xF448DD46",
+    "Value": "Cowgirl"
+  },
+  {
+    "Key": "0xA88F9787",
+    "Value": "Cowgirl Context"
+  },
+  {
+    "Key": "0xBE1576A4",
+    "Value": "Spooning"
+  },
+  {
+    "Key": "0xBEA10F89",
+    "Value": "Spooning Context"
+  },
+  {
+    "Key": "0x6F7B7069",
+    "Value": "Pronebone"
+  },
+  {
+    "Key": "0xD3C997D4",
+    "Value": "Pronebone Context"
+  },
+  {
+    "Key": "0x08169A27",
+    "Value": "Piledriver"
+  },
+  {
+    "Key": "0x12AC957E",
+    "Value": "Piledriver Context"
+  },
+  {
+    "Key": "0x19859198",
+    "Value": "Spitroast"
+  },
+  {
+    "Key": "0xDA9EA935",
+    "Value": "Spitroast Context"
+  },
+  {
+    "Key": "0x54FB3953",
+    "Value": "Kissing"
+  },
+  {
+    "Key": "0x69ED9FC2",
+    "Value": "Kissing Context"
+  },
+  {
+    "Key": "0x481ABA78",
+    "Value": "Spanking"
+  },
+  {
+    "Key": "0xC5AE6815",
+    "Value": "Spanking Context"
+  },
+  {
+    "Key": "0x5BEB391C",
+    "Value": "Choking"
+  },
+  {
+    "Key": "0x7E00CC31",
+    "Value": "Choking Context"
+  },
+  {
+    "Key": "0x53F13CCF",
+    "Value": "Groping"
+  },
+  {
+    "Key": "0x85A3A8F6",
+    "Value": "Groping Context"
+  },
+  {
+    "Key": "0xDBBE2561",
+    "Value": "Tits Sucking"
+  },
+  {
+    "Key": "0x250E547C",
+    "Value": "Tits Sucking Context"
+  },
+  {
+    "Key": "0x6D0099A8",
+    "Value": "Toes Sucking"
+  },
+  {
+    "Key": "0x01848E65",
+    "Value": "Toes Sucking Context"
+  },
+  {
+    "Key": "0xDA11CE1C",
+    "Value": "Flexible"
+  },
+  {
+    "Key": "0x87450131",
+    "Value": "Flexible Context"
+  },
+  {
+    "Key": "0xE3D29011",
+    "Value": "Double Penetration"
+  },
+  {
+    "Key": "0x3EACB38C",
+    "Value": "Double Penetration Context"
+  },
+  {
+    "Key": "0x9C0F0E3B",
+    "Value": "Peeing"
+  },
+  {
+    "Key": "0x70AB8E9A",
+    "Value": "Peeing Context"
+  },
+  {
+    "Key": "0x9FFFB4B3",
+    "Value": "Fisting"
+  },
+  {
+    "Key": "0x6F9F9E22",
+    "Value": "Fisting Context"
+  },
+  {
+    "Key": "0xAEEB3E95",
+    "Value": "Squirt"
+  },
+  {
+    "Key": "0x2C919BA8",
+    "Value": "Squirt Context"
+  },
+  {
+    "Key": "0xD890F9A4",
+    "Value": "Cumshot"
+  },
+  {
+    "Key": "0xA129F289",
+    "Value": "Cumshot Context"
+  },
+  {
+    "Key": "0x4381C6E5",
+    "Value": "Creampie"
+  },
+  {
+    "Key": "0xC68A5218",
+    "Value": "Creampie Context"
+  },
+  {
+    "Key": "0x7E0028F2",
+    "Value": "Cum In Mouth"
+  },
+  {
+    "Key": "0x5EB83A6B",
+    "Value": "Cum In Mouth Context"
+  },
+  {
+    "Key": "0x70DDE38A",
+    "Value": "Cum Inside"
+  },
+  {
+    "Key": "0x461C1353",
+    "Value": "Cum Inside Context"
+  },
+  {
+    "Key": "0xABC49233",
+    "Value": "Bukkake"
+  },
+  {
+    "Key": "0x6FB2ABA2",
+    "Value": "Bukkake Context"
+  },
+  {
+    "Key": "0xCCADCD61",
+    "Value": "Foreplay"
+  },
+  {
+    "Key": "0xCB4AFC7C",
+    "Value": "Foreplay Context"
+  },
+  {
+    "Key": "0x5E63016E",
+    "Value": "Slow"
+  },
+  {
+    "Key": "0xF2B2DB9F",
+    "Value": "Slow Context"
+  },
+  {
+    "Key": "0x3676B40C",
+    "Value": "Passionate"
+  },
+  {
+    "Key": "0x761329C1",
+    "Value": "Passionate Context"
+  },
+  {
+    "Key": "0x13650EC6",
+    "Value": "Rough"
+  },
+  {
+    "Key": "0x63107907",
+    "Value": "Rough Context"
+  },
+  {
+    "Key": "0xC22D396E",
+    "Value": "Forced"
+  },
+  {
+    "Key": "0x128C139F",
+    "Value": "Forced Context"
+  },
+  {
+    "Key": "0xDCACD9FF",
+    "Value": "BDSM"
+  },
+  {
+    "Key": "0x2DB1FEC6",
+    "Value": "BDSM Context"
+  },
+  {
+    "Key": "0x30803FF5",
+    "Value": "Femdom"
+  },
+  {
+    "Key": "0x1D647088",
+    "Value": "Femdom Context"
+  },
+  {
+    "Key": "0x0C2940AC",
+    "Value": "Maledom"
+  },
+  {
+    "Key": "0x18A87BE1",
+    "Value": "Maledom Context"
+  },
+  {
+    "Key": "0x0B531196",
+    "Value": "Free Use"
+  },
+  {
+    "Key": "0x87963237",
+    "Value": "Free Use Context"
+  },
+  {
+    "Key": "0x039EED57",
+    "Value": "Shy"
+  },
+  {
+    "Key": "0xDFA67C8E",
+    "Value": "Shy Context"
+  },
+  {
+    "Key": "0x50B55B0C",
+    "Value": "Awkward"
+  },
+  {
+    "Key": "0x5F1FB0C1",
+    "Value": "Awkward Context"
+  },
+  {
+    "Key": "0x0498DDAF",
+    "Value": "Futa"
+  },
+  {
+    "Key": "0x57C4C2D6",
+    "Value": "Futa Context"
+  },
+  {
+    "Key": "0x96E72921",
+    "Value": "Threesome"
+  },
+  {
+    "Key": "0x07F0C6BC",
+    "Value": "Threesome Context"
+  },
+  {
+    "Key": "0x2EC09DDD",
+    "Value": "Foursome"
+  },
+  {
+    "Key": "0x58183A80",
+    "Value": "Foursome Context"
+  },
+  {
+    "Key": "0x0B1BD97E",
+    "Value": "Orgy"
+  },
+  {
+    "Key": "0x3CD5C84F",
+    "Value": "Orgy Context"
+  },
+  {
+    "Key": "0x70DCA196",
+    "Value": "Gangbang"
+  },
+  {
+    "Key": "0x3AC1C237",
+    "Value": "Gangbang Context"
+  },
+  {
+    "Key": "0x1155AE9E",
+    "Value": "Harem"
+  },
+  {
+    "Key": "0x485ED76F",
+    "Value": "Harem Context"
+  },
+  {
+    "Key": "0x3BADB5A1",
+    "Value": "Toy"
+  },
+  {
+    "Key": "0xB02C633C",
+    "Value": "Toy Context"
+  },
+  {
+    "Key": "0x006EA249",
+    "Value": "Dildo"
+  },
+  {
+    "Key": "0x45734534",
+    "Value": "Dildo Context"
+  },
+  {
+    "Key": "0x6B0A46C8",
+    "Value": "Camera"
+  },
+  {
+    "Key": "0xD1563005",
+    "Value": "Camera Context"
+  },
+  {
+    "Key": "0xE7B2E5DE",
+    "Value": "Story"
+  },
+  {
+    "Key": "0x4F57492F",
+    "Value": "Story Context"
+  },
+  {
+    "Key": "0x9BDA2E83",
+    "Value": "Cuck"
+  },
+  {
+    "Key": "0x9F9F9952",
+    "Value": "Cuck Context"
+  },
+  {
+    "Key": "0xC91D4E8E",
+    "Value": "Onlooker"
+  },
+  {
+    "Key": "0xCDFD92BF",
+    "Value": "Onlooker Context"
+  },
+  {
+    "Key": "0xC313F646",
+    "Value": "Weird"
+  },
+  {
+    "Key": "0x2804D087",
+    "Value": "Weird Context"
+  },
+  {
+    "Key": "0xBCB26D5E",
+    "Value": "Sleeping"
+  },
+  {
+    "Key": "0x6F1040AF",
+    "Value": "Sleeping Context"
+  },
+  {
+    "Key": "0x8BF279CD",
+    "Value": "Gross"
+  },
+  {
+    "Key": "0x99C11190",
+    "Value": "Gross Context"
+  },
+  {
+    "Key": "0x45C8F6A7",
+    "Value": "Vampire"
+  },
+  {
+    "Key": "0xC37E01FE",
+    "Value": "Vampire Context"
+  },
+  {
+    "Key": "0xDBC03328",
+    "Value": "Alien"
+  },
+  {
+    "Key": "0x0BADD7E5",
+    "Value": "Alien Context"
+  },
+  {
+    "Key": "0x13ED7888",
+    "Value": "Ghost"
+  },
+  {
+    "Key": "0x6E597945",
+    "Value": "Ghost Context"
+  },
+  {
+    "Key": "0x0B9B8272",
+    "Value": "Servo"
+  },
+  {
+    "Key": "0xAF7543EB",
+    "Value": "Servo Context"
+  },
+  {
+    "Key": "0xDEEFB7BC",
+    "Value": "Magic"
+  },
+  {
+    "Key": "0x96CBB851",
+    "Value": "Magic Context"
+  },
+  {
+    "Key": "0xCA9F9EE0",
+    "Value": "Dance"
+  },
+  {
+    "Key": "0x8ABB42AD",
+    "Value": "Dance Context"
+  },
+  {
+    "Key": "0xB3EAB2BF",
+    "Value": "---------- SEX SKILL ----------"
+  },
+  {
+    "Key": "0x9E76EEDC",
+    "Value": "Sexpertise"
+  },
+  {
+    "Key": "0x1E2935FB",
+    "Value": "As one begins their journey through the fields of Sim sexuality, they begin to see the subtle connections between each aspect of intimacy. The more time spent developing this skill, the more one is able to understand and adapt to their partner's sexual desires as well as furthering their proficiency at reading their signs.\\n\\nSexpertise skill is improved by analyzing the intricacies of Sim sexology via books, or more personal 'research'."
+  },
+  {
+    "Key": "0xD4078523",
+    "Value": "Sexpertise Skill Acquired"
+  },
+  {
+    "Key": "0xFD760D5E",
+    "Value": "{0.SimFirstName} has just begun {M0.his}{F0.her} passage into the world of carnal knowledge. As {M0.he}{F0.she} delves deeper inside the rabbit hole, {M0.he}{F0.she} will discover more intimate secrets along the way."
+  },
+  {
+    "Key": "0x0ADF2232",
+    "Value": "Reached Sexpertise Level 2"
+  },
+  {
+    "Key": "0x5908B171",
+    "Value": "{0.SimFirstName}'s knowledge in lovemaking grows rapidly, making satisfying other Sims' desires a piece of cake..."
+  },
+  {
+    "Key": "0x99F584D5",
+    "Value": "Reached Sexpertise Level 3"
+  },
+  {
+    "Key": "0xFFB06B7A",
+    "Value": "After hours spent gaining sexual experience {0.SimFirstName} is becoming more and more knowledgeable in the ability to please others sexually, making {M0.him}{F0.her} a better lover."
+  },
+  {
+    "Key": "0x6BABF474",
+    "Value": "Reached Sexpertise Level 4"
+  },
+  {
+    "Key": "0x4B078CED",
+    "Value": "Almost there! {0.SimFirstName}'s sexual horizons have expanded, making {M0.him}{F0.her} even more adept at all things intimate. Other Sims won't easily forget any sexual adventures they embark on together with {0.SimFirstName}."
+  },
+  {
+    "Key": "0x08347E9F",
+    "Value": "Reached Sexpertise Level 5"
+  },
+  {
+    "Key": "0x37EEC75B",
+    "Value": "{0.SimFirstName} has reached sex mastery. {M0.He}{F0.She} is now able to notice and decipher the most elusive signs of the body language of {M0.his}{F0.her} partner and act accordingly, making each sexual encounter with {0.SimFirstName} almost a guaranteed good time."
+  },
+  {
+    "Key": "0xA88518B3",
+    "Value": "Sexpertise Vol 1: The Love Makers Guide to the Intercourse"
+  },
+  {
+    "Key": "0xC5B5633A",
+    "Value": "By: Bryan Creamer\\n\\nJoin the famous sex star Bryan Creamer as he cautiously and respectfully welcomes you to the adult world of lust, and very inappropriate desires in this acclaimed over 300-page bestseller, which has been used by Sims worldwide as both entertainment and basic 'A to Z' in sex for years."
+  },
+  {
+    "Key": "0x84348580",
+    "Value": "Sexpertise Vol 2: Choose your own Sex Venture"
+  },
+  {
+    "Key": "0x66A1E00D",
+    "Value": "By: Sex Gurus\\n\\nThis nifty book has everything a contemporary, sexually active Sim might need in their intimate life. We've asked sex gurus to share their life experiences and help the reader find a suitable sexual partner, as well as point out most of the red flags you should avoid while looking for a potential mate. All that and more to make sure everyone walks out of every intimate encounter satisfied and without regrets."
+  },
+  {
+    "Key": "0x539973FD",
+    "Value": "Sexpertise Vol 3: Game of Moans"
+  },
+  {
+    "Key": "0xD9730EB1",
+    "Value": "By: Sonny Jeans\\n\\nTraining gloves come off in this professional lovemaking guide. This book is directed at Sims who know what they're doing, what they're looking for, and are comfortable with themselves physically, mentally and - of course - sexually. Everything you need to know about giving and receiving sexual pleasure is contained within these over 400 pages of pure unadulterated knowledge."
+  },
+  {
+    "Key": "0x55E11FF9",
+    "Value": "{0.SimFirstName}'s Sexpertise skill is not on an appropriate level to read this book."
+  },
+  {
+    "Key": "0x8BB9DD8F",
+    "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT\\\\\\</font>"
+  },
+  {
+    "Key": "0x0F8958BF",
+    "Value": "---------- SEX INTERACTIONS ----------"
+  },
+  {
+    "Key": "0x456C0ACB",
+    "Value": " Have Sex"
+  },
+  {
+    "Key": "0xE0C90006",
+    "Value": "Ask for Sex"
+  },
+  {
+    "Key": "0xBA4656AC",
+    "Value": "Ask for Sex (Random)"
+  },
+  {
+    "Key": "0x4218F70A",
+    "Value": "Be Asked for Sex"
+  },
+  {
+    "Key": "0x6D011246",
+    "Value": "Go to Sex Location"
+  },
+  {
+    "Key": "0x9BFED398",
+    "Value": "Wait for Partner"
+  },
+  {
+    "Key": "0x16DEB92B",
+    "Value": "Sex: {0.String} [{1.String}]"
+  },
+  {
+    "Key": "0xBB45C686",
+    "Value": "Sex: {0.String} [{1.String}] (<i>{2.String}</i>)"
+  },
+  {
+    "Key": "0xF30B5CB3",
+    "Value": "Join In"
+  },
+  {
+    "Key": "0x7913A7FD",
+    "Value": "Ask to Join In"
+  },
+  {
+    "Key": "0xA5EEE389",
+    "Value": "Next"
+  },
+  {
+    "Key": "0xBF44E167",
+    "Value": "Next ({0.String})"
+  },
+  {
+    "Key": "0x932E924D",
+    "Value": "Next (End)"
+  },
+  {
+    "Key": "0x08AC137E",
+    "Value": "Change Sex Location to Here"
+  },
+  {
+    "Key": "0xF7508C7E",
+    "Value": "Swap {1.SimFirstName}'s Spot"
+  },
+  {
+    "Key": "0x5879AEF9",
+    "Value": "Progress to {0.String} Sex"
+  },
+  {
+    "Key": "0x2907043C",
+    "Value": "{0.SimName} is attempting progressing to {1.String} sex. Do you allow it?\\n\\nAnimation: {2.String} by {3.String}"
+  },
+  {
+    "Key": "0x6886F72E",
+    "Value": "Allow It"
+  },
+  {
+    "Key": "0xABA0F852",
+    "Value": "Disallow It"
+  },
+  {
+    "Key": "0x7D5724A6",
+    "Value": "Enable Positioning"
+  },
+  {
+    "Key": "0x6876F4A9",
+    "Value": "Disable Positioning"
+  },
+  {
+    "Key": "0x1729A2B9",
+    "Value": "Select Positioning Participants"
+  },
+  {
+    "Key": "0x2A87708D",
+    "Value": "Participants"
+  },
+  {
+    "Key": "0x3A1DAA88",
+    "Value": "Select which elements should be manipulated by the controls."
+  },
+  {
+    "Key": "0x7DA39B4A",
+    "Value": "Position Increment"
+  },
+  {
+    "Key": "0x0F05BC97",
+    "Value": "Rotation Increment"
+  },
+  {
+    "Key": "0xB03AEF87",
+    "Value": "Custom"
+  },
+  {
+    "Key": "0xBBE81022",
+    "Value": "Custom Increment"
+  },
+  {
+    "Key": "0x71CFE92B",
+    "Value": "Input custom increment value."
+  },
+  {
+    "Key": "0x2BCC960B",
+    "Value": "Rotation Axis"
+  },
+  {
+    "Key": "0x6E92AC6E",
+    "Value": "Pitch"
+  },
+  {
+    "Key": "0x67D1CC67",
+    "Value": "Yaw"
+  },
+  {
+    "Key": "0x7ED88397",
+    "Value": "Roll"
+  },
+  {
+    "Key": "0xCE124AB6",
+    "Value": "Reset Positioning"
+  },
+  {
+    "Key": "0x48F53F24",
+    "Value": "Sim is not ready for climax yet."
+  },
+  {
+    "Key": "0x9285BB84",
+    "Value": "Stop That!"
+  },
+  {
+    "Key": "0xB8062F74",
+    "Value": "Go Away"
+  },
+  {
+    "Key": "0xEBCF9844",
+    "Value": "This interaction is not available while in sex."
+  },
+  {
+    "Key": "0xCB7A962B",
+    "Value": "NPC Sex"
+  },
+  {
+    "Key": "0xBCAACF01",
+    "Value": "Change"
+  },
+  {
+    "Key": "0x391DB6E6",
+    "Value": "Invite"
+  },
+  {
+    "Key": "0x8B649A7C",
+    "Value": "Stop"
+  },
+  {
+    "Key": "0x6DA61B52",
+    "Value": "Enable for Sex Autonomy"
+  },
+  {
+    "Key": "0xD469212B",
+    "Value": "Disable for Sex Autonomy"
+  },
+  {
+    "Key": "0x5A30BE2C",
+    "Value": "Enable Floor for Sex Autonomy"
+  },
+  {
+    "Key": "0x638073BD",
+    "Value": "Disable Floor for Sex Autonomy"
+  },
+  {
+    "Key": "0x3858B3E2",
+    "Value": "Enable Undressing in Sex"
+  },
+  {
+    "Key": "0x30E5FB01",
+    "Value": "Disable Undressing in Sex"
+  },
+  {
+    "Key": "0x2B6D4ADE",
+    "Value": "Disable Currently Playing Animation"
+  },
+  {
+    "Key": "0x94D3BEDD",
+    "Value": "Modify Currently Playing Animation Tags"
+  },
+  {
+    "Key": "0x921BDED1",
+    "Value": "STD"
+  },
+  {
+    "Key": "0xD5AA04C1",
+    "Value": "Role Assignment"
+  },
+  {
+    "Key": "0x0C26D46F",
+    "Value": "Gender Role"
+  },
+  {
+    "Key": "0x8590154D",
+    "Value": "Male"
+  },
+  {
+    "Key": "0xF63025C4",
+    "Value": "Female"
+  },
+  {
+    "Key": "0x4809946D",
+    "Value": "Default"
+  },
+  {
+    "Key": "0x748602C5",
+    "Value": "Gender Recognition Setting is currently set to Sex Identity."
+  },
+  {
+    "Key": "0xF09A547A",
+    "Value": "Sexual Role"
+  },
+  {
+    "Key": "0x83877607",
+    "Value": "Top"
+  },
+  {
+    "Key": "0xE00CC04F",
+    "Value": "Bottom"
+  },
+  {
+    "Key": "0x8D72A1A9",
+    "Value": "Dynamic"
+  },
+  {
+    "Key": "0x72FA82AF",
+    "Value": "This is currently selected."
+  },
+  {
+    "Key": "0xD8967BA2",
+    "Value": "---------- SEX BUFFS ----------"
+  },
+  {
+    "Key": "0x8F4BF39D",
+    "Value": "(From High Desire)"
+  },
+  {
+    "Key": "0x1F556228",
+    "Value": "<font color='#340658'>Sexual Desire</font>"
+  },
+  {
+    "Key": "0x78164747",
+    "Value": "Such a lust for love... Who? Who do you desire?"
+  },
+  {
+    "Key": "0x314D01EA",
+    "Value": "<font color='#340658'>Intense Lust</font>"
+  },
+  {
+    "Key": "0x3495394A",
+    "Value": "So much lust makes you uncomfortable! It would be wise to find a way to release this tension."
+  },
+  {
+    "Key": "0x6500B60D",
+    "Value": "---------- SEX INTERFACE ----------"
+  },
+  {
+    "Key": "0x049DEAEC",
+    "Value": "Teasing Animations"
+  },
+  {
+    "Key": "0x54F85123",
+    "Value": "Handjob Animations"
+  },
+  {
+    "Key": "0x0D590CAA",
+    "Value": "Footjob Animations"
+  },
+  {
+    "Key": "0xA3BDCAD6",
+    "Value": "Oraljob Animations"
+  },
+  {
+    "Key": "0x223F891B",
+    "Value": "Vaginal Animations"
+  },
+  {
+    "Key": "0x5FF7F2BD",
+    "Value": "Anal Animations"
+  },
+  {
+    "Key": "0xEDA45727",
+    "Value": "Climax Animations"
+  },
+  {
+    "Key": "0xD04B21FD",
+    "Value": "Random Animation"
+  },
+  {
+    "Key": "0x8933D1B4",
+    "Value": "Sex Categories"
+  },
+  {
+    "Key": "0x58E99F90",
+    "Value": "Sex Contexts"
+  },
+  {
+    "Key": "0x1BB9A6D3",
+    "Value": "Swap {0.SimFirstName}'s Spot"
+  },
+  {
+    "Key": "0xF7507D17",
+    "Value": "Pick a Sim to swap with {0.SimFirstName}."
+  },
+  {
+    "Key": "0x360C3F6A",
+    "Value": "Pick a partner for sex or yourself for a solo interaction."
+  },
+  {
+    "Key": "0x2C915A14",
+    "Value": "Pick partners to invite for group sex."
+  },
+  {
+    "Key": "0x17393B7A",
+    "Value": "Pick Sims for sex."
+  },
+  {
+    "Key": "0xA56CCFC8",
+    "Value": "Code #1\\n\\nCouldn't find appropriate Sims to perform {0.String} Sex at the picked sex location.\\nPossible reasons:\\n - No fitting Sims nearby.\\n - Stuck Sims, try using the 'ww.fix' command."
+  },
+  {
+    "Key": "0x32C1EF1C",
+    "Value": "Code #2\\n\\nCouldn't find appropriate NPC Sims to perform {0.String} Sex at the picked sex location.\\nPossible reasons:\\n - No fitting Sims nearby.\\n - Stuck Sims, try using the 'ww.fix' command."
+  },
+  {
+    "Key": "0xAE62DAF1",
+    "Value": "Code #3\\n\\nCouldn't find appropriate Sims to join {0.String} Sex at the current sex location.\\nPossible reasons:\\n - No fitting Sims nearby."
+  },
+  {
+    "Key": "0xA41E479C",
+    "Value": "Code #8\\n\\nNo compatible Sims to swap with were found in the current sex interaction!"
+  },
+  {
+    "Key": "0x67F8D61C",
+    "Value": "Code #4\\n\\nNo animations were found for the picked sex category and location!"
+  },
+  {
+    "Key": "0x0396E3D3",
+    "Value": "Code #5\\n\\nNo animations were found for the picked sex category, location, and Sims!"
+  },
+  {
+    "Key": "0x7F392A31",
+    "Value": "Code #6\\n\\nNo animations were found for the current location and Sims!"
+  },
+  {
+    "Key": "0xEC895E18",
+    "Value": "Code #7\\n\\nNo animations were found for the selected Sims!"
+  },
+  {
+    "Key": "0xB7B66B9A",
+    "Value": "Code #9\\n\\nNo animations were found for the picked sex category, location, current Sims and joining Sims!"
+  },
+  {
+    "Key": "0xB99AC50D",
+    "Value": "Install Sex Animations!"
+  },
+  {
+    "Key": "0x3F91C4BB",
+    "Value": "Looks like you have not installed any sex animations.\\nCurrently you will only have few default animations that are included with the mod.\\n\\nIf you want more animations, look for them included on the mod page download section."
+  },
+  {
+    "Key": "0xB404E49E",
+    "Value": "Sex Animations Sorting Types"
+  },
+  {
+    "Key": "0xC3E0E8E5",
+    "Value": "Animations Sorting Type"
+  },
+  {
+    "Key": "0x83A1ABC2",
+    "Value": "Choose the type of sorting sex animations.\\nCurrent Sorting Type: {0.String}"
+  },
+  {
+    "Key": "0x169AB3CE",
+    "Value": "Default"
+  },
+  {
+    "Key": "0x5B631FA4",
+    "Value": "Sort animations with original ordering of the authors."
+  },
+  {
+    "Key": "0x0E9C99AA",
+    "Value": "Location"
+  },
+  {
+    "Key": "0x242321EF",
+    "Value": "Sort animations by location."
+  },
+  {
+    "Key": "0x6FC205AF",
+    "Value": "Participants Count"
+  },
+  {
+    "Key": "0x0A146C86",
+    "Value": "Sort animations by number of participants."
+  },
+  {
+    "Key": "0x58329FF1",
+    "Value": "Favorite"
+  },
+  {
+    "Key": "0x79A636D9",
+    "Value": "Sort animations by favorites."
+  },
+  {
+    "Key": "0xCE6F37C1",
+    "Value": "Most Used"
+  },
+  {
+    "Key": "0x20C1C1DA",
+    "Value": "Sort animations by most used."
+  },
+  {
+    "Key": "0xBEE3E2F9",
+    "Value": "Least Used"
+  },
+  {
+    "Key": "0x6F32B6C8",
+    "Value": "Sort animations by least used."
+  },
+  {
+    "Key": "0x56E2B7B6",
+    "Value": "Orientation"
+  },
+  {
+    "Key": "0x42FDBC29",
+    "Value": "Sort animations by intended actors orientation."
+  },
+  {
+    "Key": "0xBFE3E644",
+    "Value": "Roles"
+  },
+  {
+    "Key": "0xA1FC2F50",
+    "Value": "Sort animations by intended actors roles."
+  },
+  {
+    "Key": "0x5071CFE1",
+    "Value": "Duration"
+  },
+  {
+    "Key": "0x1D7AA8E9",
+    "Value": "Sort animations by duration, from shortest to longest."
+  },
+  {
+    "Key": "0x714D1958",
+    "Value": "[<font color='#EC262E'>♥</font>] {0.String}"
+  },
+  {
+    "Key": "0xCD289D78",
+    "Value": "<i>{0.String}</i>"
+  },
+  {
+    "Key": "0x16F32D85",
+    "Value": "Author: {0.String}\\nRoles: {1.String} | Orientation: {2.String}\\nDuration: {3.String}s"
+  },
+  {
+    "Key": "0xBCBE0470",
+    "Value": "Animations Count: {0.String}"
+  },
+  {
+    "Key": "0xE866AA8C",
+    "Value": "Can I join?"
+  },
+  {
+    "Key": "0x4DD61AA2",
+    "Value": "Can I join in on the fun?"
+  },
+  {
+    "Key": "0x4DA573FD",
+    "Value": "Sure, come on in."
+  },
+  {
+    "Key": "0xE6BC9647",
+    "Value": "Sorry, not this time."
+  },
+  {
+    "Key": "0x4D9E91EC",
+    "Value": "No, you cannot join in."
+  },
+  {
+    "Key": "0x61A8D63E",
+    "Value": "Do you want to have sex?"
+  },
+  {
+    "Key": "0xCA90E74C",
+    "Value": "Accept"
+  },
+  {
+    "Key": "0xC8860772",
+    "Value": "Decline"
+  },
+  {
+    "Key": "0xE2582FB4",
+    "Value": "---------- SEX NOTIFICATIONS ----------"
+  },
+  {
+    "Key": "0x81A6F8AD",
+    "Value": "Sex"
+  },
+  {
+    "Key": "0x7CBD049F",
+    "Value": "{0.SimName} hates children! No Vaginal or Climax sex without protection!"
+  },
+  {
+    "Key": "0x773AC079",
+    "Value": "An issue with a running sex interaction was detected!\\nAttempting a reset of the active sex interaction..."
+  },
+  {
+    "Key": "0x2F37456C",
+    "Value": "Stop This Sex"
+  },
+  {
+    "Key": "0x69475FAF",
+    "Value": "Stop All Sex"
+  },
+  {
+    "Key": "0x81CB01DC",
+    "Value": "{1.SimName} refuses to have sex with {0.SimFirstName}.\\n\\n{2.String}"
+  },
+  {
+    "Key": "0xD3242234",
+    "Value": "Age difference between {0.SimFirstName} and {1.SimFirstName}."
+  },
+  {
+    "Key": "0xB0AB3CD9",
+    "Value": "Family relations between {0.SimFirstName} and {1.SimFirstName}."
+  },
+  {
+    "Key": "0x7EAFF3DD",
+    "Value": "Sexual orientation incompatibility between {0.SimFirstName} and {1.SimFirstName}."
+  },
+  {
+    "Key": "0x5E466A04",
+    "Value": "{1.SimFirstName} is not going to cheat on their significant other."
+  },
+  {
+    "Key": "0x8224DF8F",
+    "Value": "Negative friendship."
+  },
+  {
+    "Key": "0x6D758D18",
+    "Value": "Negative romance."
+  },
+  {
+    "Key": "0x6310F76F",
+    "Value": "{1.SimFirstName} has a negative impression of {0.SimFirstName}."
+  },
+  {
+    "Key": "0x2F9CFE81",
+    "Value": "{1.SimFirstName} thinks that {0.SimFirstName} is unattractive."
+  },
+  {
+    "Key": "0x618E87BB",
+    "Value": "{1.SimFirstName} has a significant other."
+  },
+  {
+    "Key": "0x8DAD68E3",
+    "Value": "{1.SimFirstName} is on a date with someone."
+  },
+  {
+    "Key": "0xB0682BB6",
+    "Value": "{1.SimFirstName} is unflirty."
+  },
+  {
+    "Key": "0x9B21FC9E",
+    "Value": "{1.SimFirstName} is sexually abstinent."
+  },
+  {
+    "Key": "0xEA6DA426",
+    "Value": "Conversation feels distasteful."
+  },
+  {
+    "Key": "0x401A8A7D",
+    "Value": "Conversation feels offensive."
+  },
+  {
+    "Key": "0xBD5B184D",
+    "Value": "Conversation feels abhorrent."
+  },
+  {
+    "Key": "0x2BE56438",
+    "Value": "{1.SimFirstName} and {0.SimFirstName} just broke up."
+  },
+  {
+    "Key": "0xA6161687",
+    "Value": "Conversation feels boring."
+  },
+  {
+    "Key": "0x435DCA8F",
+    "Value": "Conversation feels tedious."
+  },
+  {
+    "Key": "0xD70A80E1",
+    "Value": "Conversation feels awkward."
+  },
+  {
+    "Key": "0x6F991168",
+    "Value": "{1.SimFirstName} is feeling angry."
+  },
+  {
+    "Key": "0x3BD10CAA",
+    "Value": "{1.SimFirstName} is feeling stressed."
+  },
+  {
+    "Key": "0x646CF964",
+    "Value": "{1.SimFirstName} is feeling uncomfortable."
+  },
+  {
+    "Key": "0xDB2FBC63",
+    "Value": "{1.SimFirstName} is feeling sad."
+  },
+  {
+    "Key": "0xF433204C",
+    "Value": "{1.SimFirstName} is feeling embarrassed."
+  },
+  {
+    "Key": "0x1FE93A8D",
+    "Value": "{1.SimFirstName} is feeling scared."
+  },
+  {
+    "Key": "0xEDF66FE8",
+    "Value": "{0.SimFirstName} smells."
+  },
+  {
+    "Key": "0xDA3271AA",
+    "Value": "Relationship between {0.SimFirstName} and {1.SimFirstName} is too weak."
+  },
+  {
+    "Key": "0xE2B227A5",
+    "Value": "{0.SimName} is having some fun!"
+  },
+  {
+    "Key": "0xEB4C497E",
+    "Value": "{0.SimName} and {1.SimName} are having sex!"
+  },
+  {
+    "Key": "0x25201370",
+    "Value": "{0.SimName}, {1.SimName} and {2.SimName} are having sex!"
+  },
+  {
+    "Key": "0xFFF027A5",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName} and {3.SimName} are having sex!"
+  },
+  {
+    "Key": "0x9CBCC07F",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName} and {4.SimName} are having sex!"
+  },
+  {
+    "Key": "0xA50EC37E",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName} and {5.SimName} are having sex!"
+  },
+  {
+    "Key": "0x1F6E09F4",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName} and {6.SimName} are having sex!"
+  },
+  {
+    "Key": "0x66D3B45D",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName} and {7.SimName} are having sex!"
+  },
+  {
+    "Key": "0x0DBCB31B",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName} are having sex!"
+  },
+  {
+    "Key": "0xF133DCDE",
+    "Value": "{0.SimName}, {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName} are having sex!"
+  },
+  {
+    "Key": "0xE392734A",
+    "Value": "Sims are having sex!"
+  },
+  {
+    "Key": "0xB74A8CCC",
+    "Value": "Autonomy Configuration"
+  },
+  {
+    "Key": "0x6C32F470",
+    "Value": "This message is meant to inform you about the possibility of adjusting settings related to Sex Autonomy.\\n\\nAn autonomous sex interaction has occurred in your game. These will happen every so often, depending on your settings.\\nYou can change how often, if at all, sex interactions should happen on their own. Use the button below to decide about your preferred Sex Autonomy configuration.\\n\\nIf you already adjusted your Sex Autonomy settings you can safely ignore this message."
+  },
+  {
+    "Key": "0x4C5C9F2A",
+    "Value": "Select Autonomy Intensity Preset"
+  },
+  {
+    "Key": "0xABA62CF3",
+    "Value": "---------- SEX TRAITS ----------"
+  },
+  {
+    "Key": "0xFAD9FBA0",
+    "Value": "Incest"
+  },
+  {
+    "Key": "0xDA9DAA2D",
+    "Value": "Incest"
+  },
+  {
+    "Key": "0xB2F028B8",
+    "Value": "These Sims are open to sexual activities with their family members and close relatives."
+  },
+  {
+    "Key": "0x07501523",
+    "Value": "Sexually Alluring"
+  },
+  {
+    "Key": "0x19747008",
+    "Value": "Sexually Alluring"
+  },
+  {
+    "Key": "0xF825D8BA",
+    "Value": "Sexually Alluring Sims are really successful at convincing other to have sex with them."
+  },
+  {
+    "Key": "0x6A8F4B55",
+    "Value": "Sexually Abstinent"
+  },
+  {
+    "Key": "0x066DF4EE",
+    "Value": "Sexually Abstinent"
+  },
+  {
+    "Key": "0xF0D3FB42",
+    "Value": "Sexually Abstinent Sims have no interest in sexual activities."
+  },
+  {
+    "Key": "0xFF89F6D8",
+    "Value": "Selfish Lover"
+  },
+  {
+    "Key": "0xF251B175",
+    "Value": "Selfish Lover"
+  },
+  {
+    "Key": "0xD336412F",
+    "Value": "Selfish Lovers only care about their own sexual experience and often leave their partners unsatisfied."
+  },
+  {
+    "Key": "0x7E716804",
+    "Value": "---------- SEX LOT TRAITS ----------"
+  },
+  {
+    "Key": "0x30E54B00",
+    "Value": "Hypersexual"
+  },
+  {
+    "Key": "0x4945BA26",
+    "Value": "The extreme vibe of sexual desire makes this an especially great place to have sex."
+  },
+  {
+    "Key": "0xA8A4207C",
+    "Value": "---------- SEX SHOP ----------"
+  },
+  {
+    "Key": "0x99735826",
+    "Value": "Purchase Wicked Items"
+  },
+  {
+    "Key": "0xEA05E1F4",
+    "Value": "Thanks for ordering! The Wicked items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox."
+  },
+  {
+    "Key": "0xA97C2B7E",
+    "Value": "Go to the Wicked Store"
+  },
+  {
+    "Key": "0x5CE2AE4B",
+    "Value": "---------- WATCHING SEX ----------"
+  },
+  {
+    "Key": "0x9AF9827F",
+    "Value": "Watch Sex"
+  },
+  {
+    "Key": "0x66CA9C71",
+    "Value": "Watching Sex"
+  },
+  {
+    "Key": "0xEDB578F0",
+    "Value": "{M0.Cuckold}{F0.Cuckquean}"
+  },
+  {
+    "Key": "0x48A55A2C",
+    "Value": "Cuckold"
+  },
+  {
+    "Key": "0xE584164F",
+    "Value": "{M0.Cuckold}{F0.Cuckquean} Sims desire to see their partner have sex with someone else and don't consider it cheating."
+  },
+  {
+    "Key": "0x617321B6",
+    "Value": "---------- WATCHING PORN ----------"
+  },
+  {
+    "Key": "0x82C7B5B0",
+    "Value": "Watch Porn"
+  },
+  {
+    "Key": "0x991CA9C8",
+    "Value": "Sim just watched porn."
+  },
+  {
+    "Key": "0x1591A89F",
+    "Value": "(From Being Caught Masturbating)"
+  },
+  {
+    "Key": "0xC96F8EDB",
+    "Value": "<font color='#340658'>Some Privacy Please!</font>"
+  },
+  {
+    "Key": "0x0C0FC695",
+    "Value": "{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!"
+  },
+  {
+    "Key": "0x921CF15F",
+    "Value": "Caught Masturbating"
+  },
+  {
+    "Key": "0x29E9BF97",
+    "Value": "Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {0.SimFirstName}, {1.SimFirstName} could not keep control and the dam had to blow letting loose a deluge of satisfaction for {M0.his}{F0.her} eyes to see!"
+  },
+  {
+    "Key": "0x103C7921",
+    "Value": "Uh Oh! {0.SimFirstName} has caught {1.SimFirstName} in the middle of masturbating. This awkward situation could have easily been avoided if one Sim had been that extra bit more careful to not get caught. Unfortunately for {1.SimFirstName}, the sudden appearance of another Sim meant that {M1.he}{F1.she} needed to keep it in {M1.his}{F1.her} pants. {0.SimFirstName} saw something they really didn't need or want to see and {1.SimFirstName} has been left embarrassed and unsatisfied."
+  },
+  {
+    "Key": "0x52EE8454",
+    "Value": "---------- SEX SATISFACTION ----------"
+  },
+  {
+    "Key": "0x3D4FEBAE",
+    "Value": "(From Satisfying Sex)"
+  },
+  {
+    "Key": "0xFA6AF4FB",
+    "Value": "(From Unsatisfying Sex)"
+  },
+  {
+    "Key": "0x7B5AC343",
+    "Value": "(From Satisfying Masturbation)"
+  },
+  {
+    "Key": "0xB611D474",
+    "Value": "(From Unsatisfying Masturbation)"
+  },
+  {
+    "Key": "0x1F8D20BD",
+    "Value": "<font color='#340658'>Oldie, but a Goldie</font>"
+  },
+  {
+    "Key": "0xB1DD492F",
+    "Value": "{0.SimFirstName} just had sex with an older Sim, and {M0.he}{F0.she} has to admit to {M0.him}{F0.her}self that despite their partner's age they seem to have a lot of experience in lovemaking."
+  },
+  {
+    "Key": "0x9C95EFF2",
+    "Value": "<font color='#340658'>The Elder Fiasco</font>"
+  },
+  {
+    "Key": "0x27CB2BFC",
+    "Value": "Such a huge age difference between {0.SimFirstName} and {M0.his}{F0.her} latest partner might've been exciting at first, but turned out to be a huge letdown."
+  },
+  {
+    "Key": "0xA7B5CCB5",
+    "Value": "<font color='#340658'>Juvenile Passion</font>"
+  },
+  {
+    "Key": "0xC80D0A77",
+    "Value": "{0.SimFirstName}'s latest adventure with a much younger partner reminded {M0.him}{F0.her} of the times when {M0.he}{F0.she} was as full of energy as {M0.his}{F0.her} partner."
+  },
+  {
+    "Key": "0xB8ED24FA",
+    "Value": "<font color='#340658'>Junior Discontent</font>"
+  },
+  {
+    "Key": "0xE219C4FF",
+    "Value": "Maybe {0.SimFirstName} should have suspected it, but {M0.his}{F0.her} recent sexual encounter with a younger Sim leaves {M0.him}{F0.her} unsatisfied, as their partner's lack of sexual experience became apparent."
+  },
+  {
+    "Key": "0x1DD469FF",
+    "Value": "<font color='#340658'>Passionate Fling</font>"
+  },
+  {
+    "Key": "0xE844E1E1",
+    "Value": "What a rush! {0.SimFirstName} just had sex with a stranger, and they loved every second of it!"
+  },
+  {
+    "Key": "0x7400BE17",
+    "Value": "<font color='#340658'>Stranger Danger</font>"
+  },
+  {
+    "Key": "0x7845121D",
+    "Value": "What a shameful letdown... {0.SimFirstName} just got down and dirty with a stranger, only to be left unsatisfied."
+  },
+  {
+    "Key": "0x1BB76014",
+    "Value": "<font color='#340658'>Shooting for the Stars</font>"
+  },
+  {
+    "Key": "0x70383B6A",
+    "Value": "OMG! As unbelievable as it is, and as hard it still is for {0.SimFirstName} to believe it, {M0.he}{F0.she} really just made sweet sweet love with an actual celebrity!"
+  },
+  {
+    "Key": "0x022E159D",
+    "Value": "<font color='#340658'>Star-shook</font>"
+  },
+  {
+    "Key": "0x14E3DE2A",
+    "Value": "Really? Were {0.SimFirstName}'s expectations simply too high, or was that encounter with a famous star really THAT bad?"
+  },
+  {
+    "Key": "0x3BD0D5D0",
+    "Value": "<font color='#340658'>Multifunctional</font>"
+  },
+  {
+    "Key": "0x911A76ED",
+    "Value": "Some Sims might not even think about having sex with a Servo. These Sims would be missing out though and {0.SimFirstName} is glad {M0.he}{F0.she}'s not as close-minded as some other individuals. The future is now!"
+  },
+  {
+    "Key": "0x4BC49DCD",
+    "Value": "<font color='#340658'>Malfunctional</font>"
+  },
+  {
+    "Key": "0x42DDE31B",
+    "Value": "That Servo definitely wasn't set to 'Max Satisfaction' setting, as it left {0.SimFirstName} sexually unfulfilled and with second thoughts about {M0.his}{F0.her} decision to think about using Servo for that purpose in the first place."
+  },
+  {
+    "Key": "0x4AF87E60",
+    "Value": "<font color='#340658'>Ghost Buster</font>"
+  },
+  {
+    "Key": "0xCE666F5C",
+    "Value": "Getting freaky with a ghost would scare off some Sims, but {0.SimFirstName} took the opportunity and came... victorious."
+  },
+  {
+    "Key": "0x9750F47A",
+    "Value": "<font color='#340658'>Ghastly Unsatisfying</font>"
+  },
+  {
+    "Key": "0x984DDF2B",
+    "Value": "{0.SimFirstName} not only didn't find sex with a ghost satisfying, but {M0.he}{F0.she} also ended up feeling weird after that encounter."
+  },
+  {
+    "Key": "0x5A19B890",
+    "Value": "<font color='#340658'>Group Activity</font>"
+  },
+  {
+    "Key": "0x535EC225",
+    "Value": "What a thrill... {0.SimFirstName}'s latest sexual experience seems to prove that more Sims does indeed equal more fun."
+  },
+  {
+    "Key": "0xEF3962CA",
+    "Value": "<font color='#340658'>Fifth Wheel</font>"
+  },
+  {
+    "Key": "0x24A761D2",
+    "Value": "Having group sex seemed exciting, but in retrospect, {0.SimFirstName} should have thought of a possibility that the more Sims the harder it is to leave everyone pleased."
+  },
+  {
+    "Key": "0x4652AE0E",
+    "Value": "<font color='#340658'>{F0.Belle of the Ball}{M0.Creme de la Creme}</font>"
+  },
+  {
+    "Key": "0x13FE3776",
+    "Value": "It certainly boosts one's self-esteem when {0.SimFirstName} feels like the center of attention, even when surrounded by other naked Sims."
+  },
+  {
+    "Key": "0xB4AEA470",
+    "Value": "<font color='#340658'>Crowd Fun</font>"
+  },
+  {
+    "Key": "0x2FAAB06A",
+    "Value": "Surrounding yourself with naked Sims whose sole purpose is to give pleasure to one another is a great way to boost one's mood."
+  },
+  {
+    "Key": "0xC5E56385",
+    "Value": "<font color='#340658'>Quickie with a Hottie</font>"
+  },
+  {
+    "Key": "0x02B0FC76",
+    "Value": "Whoa! Not only is {0.SimFirstName}'s latest partner a breathtakingly beautiful Sim, but they also appear to be a sex aficionado, leaving {0.SimFirstName} aching for more, while satisfying all of {M0.his}{F0.her} sexual desires completely."
+  },
+  {
+    "Key": "0x45E3439D",
+    "Value": "<font color='#340658'>Deceptive Appearance</font>"
+  },
+  {
+    "Key": "0x7559FCF0",
+    "Value": "'Looks aren't everything' is the unfortunate lesson {0.SimFirstName} has learned after {M0.his}{F0.her} latest partner left {M0.him}{F0.her} unsatisfied, despite being as pretty as a picture."
+  },
+  {
+    "Key": "0xFE34936D",
+    "Value": "<font color='#340658'>Unfounded Prejudice</font>"
+  },
+  {
+    "Key": "0xC50BD205",
+    "Value": "{0.SimFirstName} is left in awe after {M0.his}{F0.her} latest sexual partner gave {M0.him}{F0.her} so much pleasure despite not quite being {M0.his}{F0.her} type."
+  },
+  {
+    "Key": "0xDA3346B8",
+    "Value": "<font color='#340658'>Against Better Judgement</font>"
+  },
+  {
+    "Key": "0x6928D25E",
+    "Value": "{0.SimFirstName}'s latest partner not only wasn't exactly {M0.his}{F0.her} type, but they also turned out to be pretty awful at sex, leaving {0.SimFirstName} disappointed and unsatisfied."
+  },
+  {
+    "Key": "0x74EC4894",
+    "Value": "<font color='#340658'>Arousing Stares</font>"
+  },
+  {
+    "Key": "0x466203F4",
+    "Value": "Someone walked in on {0.SimFirstName} doing it with another Sim, which would be a buzzkill if {M0.he}{F0.she} was not comfortable with showing off {M0.his}{F0.her} body. In turn, it just made the whole thing much more exciting!"
+  },
+  {
+    "Key": "0xF18DA0C3",
+    "Value": "<font color='#340658'>Piercing Stares</font>"
+  },
+  {
+    "Key": "0x734357C8",
+    "Value": "Oh no... Someone walked in on {0.SimFirstName} having sex and totally killed the mood."
+  },
+  {
+    "Key": "0x0D9FBF2B",
+    "Value": "<font color='#340658'>Do It Yourself Expert</font>"
+  },
+  {
+    "Key": "0x68375022",
+    "Value": "Sometimes, taking matters into your own hands might be just what you need at that moment."
+  },
+  {
+    "Key": "0x28F9FACD",
+    "Value": "<font color='#340658'>Spotless Mind</font>"
+  },
+  {
+    "Key": "0xEA1B0C92",
+    "Value": "{0.SimFirstName} worries not about the physical cravings of a polluted mind. {M0.His}{F0.Her} vision is clear, as {M0.he}{F0.she} rises above such primitive desires."
+  },
+  {
+    "Key": "0x89B675C0",
+    "Value": "<font color='#340658'>DI-Why</font>"
+  },
+  {
+    "Key": "0x01433DC3",
+    "Value": "Self-care should be relaxing, but maybe {0.SimFirstName} should try doing something else, and keep {M0.his}{F0.her} hands NOT to {M0.him}{F0.her}self."
+  },
+  {
+    "Key": "0xB4EA0202",
+    "Value": "<font color='#340658'>Coordinated Handler</font>"
+  },
+  {
+    "Key": "0x816CE8C4",
+    "Value": "With sexual tension out of {M0.his}{F0.her} system, no desires dirtying {M0.his}{F0.her} mind, {0.SimFirstName} is feeling like {M0.he}{F0.she} can move mountains."
+  },
+  {
+    "Key": "0xB842179C",
+    "Value": "<font color='#340658'>Bloodlust</font>"
+  },
+  {
+    "Key": "0xA45F9121",
+    "Value": "The scent and look of blood really made {0.SimFirstName}'s latest sexual adventure worthwhile."
+  },
+  {
+    "Key": "0xD91918F4",
+    "Value": "<font color='#340658'>Sexual Hive Mind</font>"
+  },
+  {
+    "Key": "0x5410BA9C",
+    "Value": "When you surround yourself with like-minded Sims, there's a high chance you'll walk out of every 'encounter' very satisfied."
+  },
+  {
+    "Key": "0x62E310EE",
+    "Value": "<font color='#340658'>Public Service</font>"
+  },
+  {
+    "Key": "0x67ECBAD5",
+    "Value": "Possibility of anyone being able to walk in on {0.SimFirstName} and {M0.his}{F0.her} partner made that intimate encounter in a public place much more exciting."
+  },
+  {
+    "Key": "0xDD0F4CCB",
+    "Value": "<font color='#340658'>Too Close for Comfort</font>"
+  },
+  {
+    "Key": "0x56344812",
+    "Value": "{0.SimFirstName} risked a lot by 'doing it' in a public space, but was left unfulfilled and thinking it was definitely <b>not</b> worth it..."
+  },
+  {
+    "Key": "0x5EF2FC64",
+    "Value": "<font color='#340658'>Carnal Fun</font>"
+  },
+  {
+    "Key": "0x407D863C",
+    "Value": "A little bit of naughty fun with a loved one, who knows and understands {0.SimFirstName}, is sure to lead to great experiences, and even better memories."
+  },
+  {
+    "Key": "0xD4049428",
+    "Value": "<font color='#340658'>Tender Love and Care</font>"
+  },
+  {
+    "Key": "0xB4ADDFDA",
+    "Value": "For some Sims, sex is a purely selfish, physical act. Not for {0.SimFirstName} and {M0.his}{F0.her} partner, who form a deeper emotional connection every time they get intimate with each other, making one appreciate the other even more, as they satiate their desires together."
+  },
+  {
+    "Key": "0x10872760",
+    "Value": "<font color='#340658'>More Than Sex</font>"
+  },
+  {
+    "Key": "0xEC104749",
+    "Value": "When you and your partner know each other bodies so well, you can be sure to walk out of each intimate adventure with a great mood and a pep in your step."
+  },
+  {
+    "Key": "0x89E06726",
+    "Value": "<font color='#340658'>Sexual Equilibrium</font>"
+  },
+  {
+    "Key": "0x8FC76F2B",
+    "Value": "As bodies of {0.SimFirstName} and {M0.his}{F0.her} partner intertwined in a beautiful dance of love, they ceased to be individuals and became as one."
+  },
+  {
+    "Key": "0xCCA00F81",
+    "Value": "<font color='#340658'>Two Hearts, One Body</font>"
+  },
+  {
+    "Key": "0x4F4B593E",
+    "Value": "Some memories are worth cherishing, like the one {0.SimFirstName} just made with their loved one after their intense session of steamy lovemaking full of unbridled lust."
+  },
+  {
+    "Key": "0xAB313671",
+    "Value": "<font color='#340658'>Lover's Bliss</font>"
+  },
+  {
+    "Key": "0x0B17D4A4",
+    "Value": "That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} partner."
+  },
+  {
+    "Key": "0x54792F4B",
+    "Value": "<font color='#340658'>Unsynchronized</font>"
+  },
+  {
+    "Key": "0x9F7ED22A",
+    "Value": "Even the best duos fall out of sync every now and again. Maybe it's an opportunity to talk about it, and make sure next time is going to be better?"
+  },
+  {
+    "Key": "0x1AB6F826",
+    "Value": "<font color='#340658'>Satisfying Encounter</font>"
+  },
+  {
+    "Key": "0x2FBC09FC",
+    "Value": "{0.SimFirstName}'s latest sexual encounter left {M0.him}{F0.her} feeling quite good."
+  },
+  {
+    "Key": "0xA3B0F2FC",
+    "Value": "<font color='#340658'>Enjoyable Time</font>"
+  },
+  {
+    "Key": "0xDAE33238",
+    "Value": "{0.SimFirstName} made love with another Sim and enjoyed it thoroughly."
+  },
+  {
+    "Key": "0x8EA950E6",
+    "Value": "<font color='#340658'>Instant Regret</font>"
+  },
+  {
+    "Key": "0xDAF014DD",
+    "Value": "That sexual encounter was both regrettable and forgettable."
+  },
+  {
+    "Key": "0x9FFE1BBF",
+    "Value": "<font color='#340658'>A Bad Time</font>"
+  },
+  {
+    "Key": "0x890CB1E8",
+    "Value": "That sex left {0.SimFirstName} simply disappointed."
+  },
+  {
+    "Key": "0xB78A0F30",
+    "Value": "---------- SEX REACTIONS ----------"
+  },
+  {
+    "Key": "0xC27C730F",
+    "Value": "Enable Sex Reactions"
+  },
+  {
+    "Key": "0x160AE154",
+    "Value": "Disable Sex Reactions"
+  },
+  {
+    "Key": "0xD0B19A16",
+    "Value": "Reacting to Sex"
+  },
+  {
+    "Key": "0xF6BE775D",
+    "Value": "(From Reacting To Sex)"
+  },
+  {
+    "Key": "0xCF5669AC",
+    "Value": "<font color='#340658'>{M0.Cuckold}{F0.Cuckquean}</font>"
+  },
+  {
+    "Key": "0xE8412F45",
+    "Value": "{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else."
+  },
+  {
+    "Key": "0x01B9823E",
+    "Value": "<font color='#340658'>Scandal In The Family</font>"
+  },
+  {
+    "Key": "0x8E644298",
+    "Value": "They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!"
+  },
+  {
+    "Key": "0xCF524DF2",
+    "Value": "<font color='#340658'>Scandalous Scenery</font>"
+  },
+  {
+    "Key": "0x339FBD6D",
+    "Value": "How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have."
+  },
+  {
+    "Key": "0x73BB4D3B",
+    "Value": "<font color='#340658'>Adult Activities</font>"
+  },
+  {
+    "Key": "0x5776F6AE",
+    "Value": "{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good."
+  },
+  {
+    "Key": "0x71ED770F",
+    "Value": "<font color='#340658'>Growing up too fast!</font>"
+  },
+  {
+    "Key": "0x5D5044B2",
+    "Value": "What do these kids think they're doing? {0.SimFirstName} just saw {M0.his}{F0.her} child in the middle of a dirty deed with another Sim! If they aren't using protection there'll be hell to pay!"
+  },
+  {
+    "Key": "0x61BBB038",
+    "Value": "<font color='#340658'>Parental Nightmare</font>"
+  },
+  {
+    "Key": "0x085F3BED",
+    "Value": "Any Parent would be outraged to see their child going at it with a Sim who is much older than they are. This is disgusting, that Sim is too old and {0.SimFirstName}'s child is too young!"
+  },
+  {
+    "Key": "0x9002C203",
+    "Value": "<font color='#340658'>Knock Next Time!</font>"
+  },
+  {
+    "Key": "0x4B4231CE",
+    "Value": "That was awkward! No parent expects to walk into a room and see their child masturbating. {0.SimFirstName} better make sure to knock next time before they enter the room!"
+  },
+  {
+    "Key": "0x8623A371",
+    "Value": "<font color='#340658'>Learning to Knock</font>"
+  },
+  {
+    "Key": "0x8C875109",
+    "Value": "That'll teach {0.SimFirstName} the importance of knocking! Their child isn't a little kid anymore, perhaps they do need their privacy."
+  },
+  {
+    "Key": "0x4019B302",
+    "Value": "<font color='#340658'>Conception Interception</font>"
+  },
+  {
+    "Key": "0x57808F3A",
+    "Value": "Gross! No {M0.son}{F0.daughter} wants to see their parents getting it on. {0.SimFirstName} is going to be mentally scarred from this experience. {M0.He}{F0.She} did not enjoy this unpleasant lesson on their conception."
+  },
+  {
+    "Key": "0x5A34EA33",
+    "Value": "<font color='#340658'>Way Too Welcome</font>"
+  },
+  {
+    "Key": "0x724FB433",
+    "Value": "Wait... This is {0.SimFirstName}'s house. This isn't their house! {0.SimFirstName} is sure everyone's well aware of the phrase 'My Home Is Your Home', but this is going WAY TOO FAR!"
+  },
+  {
+    "Key": "0x82C57DEC",
+    "Value": "<font color='#340658'>Fanning the Flames</font>"
+  },
+  {
+    "Key": "0x6C20A0C6",
+    "Value": "{0.SimFirstName} is neck deep in stress right now and the last thing they want is to see other Sims enjoying themselves. That's unfair! {M0.He}{F0.She} wishes {M0.he}{F0.she} could be as carefree as those Sims right now!"
+  },
+  {
+    "Key": "0xF56BAD75",
+    "Value": "<font color='#340658'>Just Walk Away</font>"
+  },
+  {
+    "Key": "0x3B6C4EB7",
+    "Value": "{0.SimFirstName} utterly hates that Sim. The sight of them getting off has left a bad taste in {M0.his}{F0.her} mouth. Better move along before {M0.he}{F0.she} decides to do something stupid."
+  },
+  {
+    "Key": "0x9FDF23D0",
+    "Value": "<font color='#340658'>Shattered Heart</font>"
+  },
+  {
+    "Key": "0xA9D7A68C",
+    "Value": "What is this feeling? {0.SimFirstName} cannot comprehend this deep sense of longing and melancholy after watching love that once was but can never be again. So this is what it's like to have a heart shatter."
+  },
+  {
+    "Key": "0xA25F3507",
+    "Value": "<font color='#340658'>A Relieving Sight</font>"
+  },
+  {
+    "Key": "0xC27AD56F",
+    "Value": "That was just what {0.SimFirstName} needed. A rather exciting scene to relieve the stress {M0.he's}{F0.she's} been feeling. Perhaps now {M0.he}{F0.she} wont be so on edge."
+  },
+  {
+    "Key": "0x0DC14EE6",
+    "Value": "<font color='#340658'>Right On!</font>"
+  },
+  {
+    "Key": "0xFB79F7FB",
+    "Value": "Good for them! {0.SimFirstName} fondly remembers a pleasant encounter with that Sim and now seeing them enjoy themselves so vigorously makes {M0.him}{F0.her} just want to cheer them on."
+  },
+  {
+    "Key": "0xF521C79F",
+    "Value": "<font color='#340658'>Lover's Delight</font>"
+  },
+  {
+    "Key": "0xA2349658",
+    "Value": "If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning."
+  },
+  {
+    "Key": "0xAF554E2D",
+    "Value": "<font color='#340658'>Unexpected</font>"
+  },
+  {
+    "Key": "0x523E17FD",
+    "Value": "{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!"
+  },
+  {
+    "Key": "0x29B757D1",
+    "Value": "---------- STATISTICS ----------"
+  },
+  {
+    "Key": "0x898FB649",
+    "Value": "Sex"
+  },
+  {
+    "Key": "0xD37C6367",
+    "Value": "Got Accepted to Have Sex"
+  },
+  {
+    "Key": "0x84C46FD0",
+    "Value": "Got Rejected to Have Sex"
+  },
+  {
+    "Key": "0x1909E5BE",
+    "Value": "Times Had Sex"
+  },
+  {
+    "Key": "0xD0AEC97A",
+    "Value": "Times Had Autonomy Sex"
+  },
+  {
+    "Key": "0x17828F93",
+    "Value": "Times Masturbated"
+  },
+  {
+    "Key": "0x89F09439",
+    "Value": "Times Autonomy Masturbated"
+  },
+  {
+    "Key": "0x78F9861A",
+    "Value": "Times Joined Sex"
+  },
+  {
+    "Key": "0x72E8E55F",
+    "Value": "Sex Animations Played"
+  },
+  {
+    "Key": "0x4132D77A",
+    "Value": "Times Caught Having Sex"
+  },
+  {
+    "Key": "0xA23AAB34",
+    "Value": "Reactions to Sex"
+  },
+  {
+    "Key": "0x950C43D2",
+    "Value": "Times Got Cucked"
+  },
+  {
+    "Key": "0x58E737BF",
+    "Value": "Times Received Cum"
+  },
+  {
+    "Key": "0x1F642293",
+    "Value": "Times Had Satisfying Sex"
+  },
+  {
+    "Key": "0xA6A5E468",
+    "Value": "Times Had Unsatisfying Sex"
+  },
+  {
+    "Key": "0x314EBB87",
+    "Value": "Unique Sex Partners"
+  },
+  {
+    "Key": "0x6BEAA2DA",
+    "Value": "Sex Pregnancy"
+  },
+  {
+    "Key": "0x970DDF24",
+    "Value": "Times Used Condom"
+  },
+  {
+    "Key": "0xA82C5EA5",
+    "Value": "Times Taken Birth Control Pill"
+  },
+  {
+    "Key": "0x7E013F69",
+    "Value": "Times Impregnated"
+  },
+  {
+    "Key": "0xFCE2D450",
+    "Value": "Times Got Pregnant"
+  },
+  {
+    "Key": "0xA3C6D27D",
+    "Value": "Times Terminated Pregnancy"
+  },
+  {
+    "Key": "0x09727660",
+    "Value": "Times Miscarried"
+  },
+  {
+    "Key": "0x4EBA3DA5",
+    "Value": "Times Had Period"
+  },
+  {
+    "Key": "0xD1BC4840",
+    "Value": "Times Used Menstrual Pad"
+  },
+  {
+    "Key": "0x6B876072",
+    "Value": "Times Used Menstrual Tampon"
+  },
+  {
+    "Key": "0xC6CA0209",
+    "Value": "---------- VAMPIRES ----------"
+  },
+  {
+    "Key": "0x349887A8",
+    "Value": "Command to Be Promiscuous"
+  },
+  {
+    "Key": "0x7F0D4785",
+    "Value": "Irresistible Command to Be Promiscuous"
+  },
+  {
+    "Key": "0xD0B13391",
+    "Value": "Dispel Command to Be Promiscuous"
+  },
+  {
+    "Key": "0x2766BBBD",
+    "Value": "Strangely...compelled...to...have...sex."
+  },
+  {
+    "Key": "0x964DE219",
+    "Value": "---------- CRABS ----------"
+  },
+  {
+    "Key": "0xDC8DF765",
+    "Value": "Turn into Crabs Sleeper Agent"
+  },
+  {
+    "Key": "0x93BEA31C",
+    "Value": "Infect with Crabs"
+  },
+  {
+    "Key": "0x482A4B70",
+    "Value": "Crabs Immune"
+  },
+  {
+    "Key": "0x9D259005",
+    "Value": "Crabs Immune"
+  },
+  {
+    "Key": "0x059BEE36",
+    "Value": "Sims immune to Crabs no longer contract Crab Lice."
+  },
+  {
+    "Key": "0x4E52DD81",
+    "Value": "<font color='#340658'>Itching in Pubic Area</font>"
+  },
+  {
+    "Key": "0x05CA1B79",
+    "Value": "{0.SimFirstName} is experiencing an itching sensation around {M0.his}{F0.her} genitals. Could this be something serious?"
+  },
+  {
+    "Key": "0x92F33C0C",
+    "Value": "<font color='#340658'>Intense Itching</font>"
+  },
+  {
+    "Key": "0xDDC1CE94",
+    "Value": "(From Crab Lice)"
+  },
+  {
+    "Key": "0x330AB990",
+    "Value": "Oh no! {0.SimFirstName} contracted Crab Lice! The intense itching caused by the little bugs living around {M0.his}{F0.her} genitalia is not going to clear out without proper treatment."
+  },
+  {
+    "Key": "0x51546A94",
+    "Value": "Acquired Crab Lice!"
+  },
+  {
+    "Key": "0xB12E89B9",
+    "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\nLice Killer Shampoo can be ordered from a computer."
+  },
+  {
+    "Key": "0x1E297E6F",
+    "Value": " Ask about Health"
+  },
+  {
+    "Key": "0xD0DE5909",
+    "Value": "I'm all clean, no need to fear catching anything nasty from me."
+  },
+  {
+    "Key": "0x51A42F8C",
+    "Value": "I.. think I'm fine. Maybe? I might need to get tested to be sure."
+  },
+  {
+    "Key": "0x0AD2B541",
+    "Value": "Oh no, I'm not doing well. I caught something nasty recently."
+  },
+  {
+    "Key": "0x492CB7AF",
+    "Value": "I'm doing well, thank you for asking. That's what you meant, right?"
+  },
+  {
+    "Key": "0x7128AEB2",
+    "Value": "What's it to you? I'm feeling just fine, I don't understand why you would ask that."
+  },
+  {
+    "Key": "0xB27675D1",
+    "Value": "Use Medicine"
+  },
+  {
+    "Key": "0x04A1BE59",
+    "Value": "Lice Killing Shampoo can only be used while taking a shower or a bath."
+  },
+  {
+    "Key": "0xA0A7F9FC",
+    "Value": "<font color='#340658'>Not-So-Wicked Lice Killing Shampoo</font>"
+  },
+  {
+    "Key": "0x4F01AB56",
+    "Value": "This complex formula of corrosive acid, slimy goo, and purple dye will completely remove any crabby bugs from your body and protect it for more than 24 hours. Our product definitely does not contain any chemicals that may cause damage to your health.\\n\\n<i>The Lice Killing Shampoo can only be used from Sim inventory and only during a shower or a bath.</i>"
+  },
+  {
+    "Key": "0x4CA7A611",
+    "Value": "No More Itching!"
+  },
+  {
+    "Key": "0xFDC6BB2D",
+    "Value": "{0.SimName} used the Lice Killing Shampoo and repelled all of the crabby looking bugs living around {M0.his}{F0.her} genitalia. With the powerful effect of the shampoo, {M0.he}{F0.she} doesn't have to fear contracting Crab Lice again for some time."
+  },
+  {
+    "Key": "0xBA28EA39",
+    "Value": "---------- CLUB RULES ----------"
+  },
+  {
+    "Key": "0x26AD768D",
+    "Value": "Have Sex"
+  },
+  {
+    "Key": "0x07F2F64A",
+    "Value": "Have Sex with {0.String}"
+  },
+  {
+    "Key": "0x66FC63E4",
+    "Value": "Don't have Sex with {0.String}"
+  },
+  {
+    "Key": "0x9166FAA6",
+    "Value": "Have Sex (Swinging)"
+  },
+  {
+    "Key": "0x76D23E3D",
+    "Value": "Have Sex (Swinging) with {0.String}"
+  },
+  {
+    "Key": "0x2D0ACBDB",
+    "Value": "Don't Have Sex (Swinging) with {0.String}"
+  },
+  {
+    "Key": "0x8C3CF0F8",
+    "Value": "---------- OUTFIT INTERACTIONS ----------"
+  },
+  {
+    "Key": "0x8E2C00E3",
+    "Value": "Instant Undress"
+  },
+  {
+    "Key": "0x5719812D",
+    "Value": "Undress Top"
+  },
+  {
+    "Key": "0xCD80FE71",
+    "Value": "Undress Bottom"
+  },
+  {
+    "Key": "0xAC82A7B5",
+    "Value": "Undress Outfit"
+  },
+  {
+    "Key": "0x5CDDB40A",
+    "Value": "Undress Completely"
+  },
+  {
+    "Key": "0xC2150D2F",
+    "Value": "Undress Hat"
+  },
+  {
+    "Key": "0x07F818E4",
+    "Value": "Undress Gloves"
+  },
+  {
+    "Key": "0x944EEC02",
+    "Value": "Undress Leggings"
+  },
+  {
+    "Key": "0x5475948F",
+    "Value": "Undress Socks"
+  },
+  {
+    "Key": "0x3356B322",
+    "Value": "Undress Shoes"
+  },
+  {
+    "Key": "0xC5C92792",
+    "Value": "Accessories"
+  },
+  {
+    "Key": "0x5C60DB3E",
+    "Value": "Undress Glasses"
+  },
+  {
+    "Key": "0x8D5F2350",
+    "Value": "Undress Head"
+  },
+  {
+    "Key": "0x51397AF4",
+    "Value": "Undress Left Hand"
+  },
+  {
+    "Key": "0x162E1151",
+    "Value": "Undress Right Hand"
+  },
+  {
+    "Key": "0xDD7C516A",
+    "Value": "Undress Other Accessories"
+  },
+  {
+    "Key": "0xE9FBA083",
+    "Value": "Change Outfit..."
+  },
+  {
+    "Key": "0xF585F22A",
+    "Value": "Change Outfit for {0.SimFirstName}"
+  },
+  {
+    "Key": "0xCEEEC4D8",
+    "Value": "---------- OUTFIT STRAPON ----------"
+  },
+  {
+    "Key": "0x6E589498",
+    "Value": "Change Sim Strapon"
+  },
+  {
+    "Key": "0x620D3840",
+    "Value": "Set mannequin bottom clothing to strapon you want to use only for the first Everyday Outfit Category.\\nChanging strapon for different outfit categories will have no effect.\\nChanging strapon to other clothing will result in problems."
+  },
+  {
+    "Key": "0x237AAA3B",
+    "Value": "Strapon"
+  },
+  {
+    "Key": "0x6E8A080E",
+    "Value": "Allow Strapon"
+  },
+  {
+    "Key": "0xBFD19ECA",
+    "Value": "Disallow Strapon"
+  },
+  {
+    "Key": "0xA83F3428",
+    "Value": "---------- CUM INTERACTIONS ----------"
+  },
+  {
+    "Key": "0xB8C0FAB7",
+    "Value": "Cum"
+  },
+  {
+    "Key": "0xC8F6D759",
+    "Value": "Face"
+  },
+  {
+    "Key": "0xC3633745",
+    "Value": "Chest"
+  },
+  {
+    "Key": "0xB0F32D84",
+    "Value": "Belly"
+  },
+  {
+    "Key": "0xB87094E3",
+    "Value": "Upper Back"
+  },
+  {
+    "Key": "0xCD99203C",
+    "Value": "Lower Back"
+  },
+  {
+    "Key": "0x8D518588",
+    "Value": "Vagina"
+  },
+  {
+    "Key": "0x536140D1",
+    "Value": "Butt"
+  },
+  {
+    "Key": "0xF3D28EC8",
+    "Value": "Feet"
+  },
+  {
+    "Key": "0xE968969F",
+    "Value": "---------- CUM BUFFS ----------"
+  },
+  {
+    "Key": "0xFD679737",
+    "Value": "<font color='#340658'>Cum Lover</font>"
+  },
+  {
+    "Key": "0x61E8935B",
+    "Value": "The feel of cum on {0.SimFirstName}'s skin makes {M0.him}{F0.her} so much more aroused."
+  },
+  {
+    "Key": "0x63AC9959",
+    "Value": "<font color='#340658'>Cum Dump</font>"
+  },
+  {
+    "Key": "0x2A1BFE88",
+    "Value": "Having sticky thick fluid on your body can get pretty uncomfortable."
+  },
+  {
+    "Key": "0xB43273EA",
+    "Value": "<font color='#340658'>Dry Crust</font>"
+  },
+  {
+    "Key": "0xBE47A85F",
+    "Value": "Layer of dry and smelly cum is stuck on {0.SimFirstName}'s body. It's time to take a shower."
+  },
+  {
+    "Key": "0x90246500",
+    "Value": "---------- CUM TRAITS ----------"
+  },
+  {
+    "Key": "0xD189794F",
+    "Value": "Cum Slut"
+  },
+  {
+    "Key": "0xBDEC4A74",
+    "Value": "Cum Slut"
+  },
+  {
+    "Key": "0xA9EA21AC",
+    "Value": "Cum Slut Sims love to receive hot loads of cum all over their body."
+  },
+  {
+    "Key": "0x84347ED1",
+    "Value": "---------- PREGNANCY GENERAL ----------"
+  },
+  {
+    "Key": "0x8CF0F0CF",
+    "Value": "Pregnancy"
+  },
+  {
+    "Key": "0x0D9DD9D5",
+    "Value": "{0.SimName} might now be pregnant!\\nPerforming a pregnancy test or waiting a day will show the result."
+  },
+  {
+    "Key": "0x6B84E486",
+    "Value": "{0.SimName} might now be pregnant!\\nPerforming a pregnancy test or waiting a day will show the result.\\n\\nWait at least 8 hours before attempting conception with the same partner again."
+  },
+  {
+    "Key": "0xD231332B",
+    "Value": "{0.SimName} <b>cannot</b> get pregnant right now.\\n\\n{1.String}"
+  },
+  {
+    "Key": "0x55853127",
+    "Value": "Maximum number of Sims that can fit in a household has been reached."
+  },
+  {
+    "Key": "0x6DA00490",
+    "Value": "---------- PREGNANCY INTERACTIONS ----------"
+  },
+  {
+    "Key": "0x95DD6D27",
+    "Value": "---------- PREGNANCY BUFFS ----------"
+  },
+  {
+    "Key": "0xCE47E2B7",
+    "Value": "<font color='#340658'>Discovered Teen Pregnancy</font>"
+  },
+  {
+    "Key": "0x25324005",
+    "Value": "Amidst all the doubtfulness, sadness and confusion, there is anger. Can {0.SimFirstName} cope with having {M0.his}{F0.her} teen child pregnant?"
+  },
+  {
+    "Key": "0x05CC9195",
+    "Value": "---------- PREGNANCY NOTIFICATIONS ----------"
+  },
+  {
+    "Key": "0x31687893",
+    "Value": "---------- PREGNANCY TERMINATION ----------"
+  },
+  {
+    "Key": "0x16C92A58",
+    "Value": "Terminate Pregnancy"
+  },
+  {
+    "Key": "0x61612C84",
+    "Value": "{0.SimFirstName} is not able to do this while not pregnant."
+  },
+  {
+    "Key": "0x9FAD3609",
+    "Value": "{0.SimFirstName} is not able to do this so late in pregnancy."
+  },
+  {
+    "Key": "0xF4ACC50B",
+    "Value": "<font color='#340658'>Pregnancy Termination</font>"
+  },
+  {
+    "Key": "0xEE68D90B",
+    "Value": "When certain choices leave you with the burden of guilt..."
+  },
+  {
+    "Key": "0xBBBEF0D9",
+    "Value": "<font color='#340658'>Hasta La Vista, Baby</font>"
+  },
+  {
+    "Key": "0x8278FDEA",
+    "Value": "When the stress is gone, the party can go on."
+  },
+  {
+    "Key": "0xCD272010",
+    "Value": "(From Pregnancy Termination)"
+  },
+  {
+    "Key": "0xE7CC1AF7",
+    "Value": "{0.SimName} is not pregnant anymore.\\nIt would be cheaper to think about protection before the next time."
+  },
+  {
+    "Key": "0xEB0E1F5E",
+    "Value": "---------- PREGNANCY MISCARRIAGE ----------"
+  },
+  {
+    "Key": "0x60CAE1B7",
+    "Value": "<font color='#340658'>Miscarriage</font>"
+  },
+  {
+    "Key": "0x37B77221",
+    "Value": "Consequences of not taking care of yourself..."
+  },
+  {
+    "Key": "0xC179D0BC",
+    "Value": "(From Miscarriage)"
+  },
+  {
+    "Key": "0x39EDCAB4",
+    "Value": "Miscarriage"
+  },
+  {
+    "Key": "0x0FC81BB5",
+    "Value": "{0.SimName} just lost a new life that never got a chance to become one."
+  },
+  {
+    "Key": "0xE6F6DD8B",
+    "Value": "---------- PREGNANCY FERTILITY ----------"
+  },
+  {
+    "Key": "0x453FF523",
+    "Value": "Hypofertile"
+  },
+  {
+    "Key": "0x7C86E484",
+    "Value": "Hypofertile"
+  },
+  {
+    "Key": "0x1EA7F9D2",
+    "Value": "Sims with Hypofertility have significant difficulties conceiving a child.{M0.\\n\\nThis is known in the medical community as FBS (Feeble Balls Syndrome).}"
+  },
+  {
+    "Key": "0x1AFE12ED",
+    "Value": "Talk about Fertility"
+  },
+  {
+    "Key": "0x455EAAE0",
+    "Value": "Talk about Fertility with {1.SimFirstName}"
+  },
+  {
+    "Key": "0x8DF8A32A",
+    "Value": "From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} is on {M1.his}{F1.her} period right now."
+  },
+  {
+    "Key": "0x4D7E7488",
+    "Value": "From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just finished {M1.his}{F1.her} period. That means {M1.he}{F1.she} will be ovulating really soon."
+  },
+  {
+    "Key": "0x35E1CC94",
+    "Value": "From what {0.SimFirstName} can understand, it seems like {1.SimFirstName} just passed {M1.his}{F1.her} ovulation day. That means {M1.he}{F1.she} won't be able to get pregnant anytime soon."
+  },
+  {
+    "Key": "0x21CD5B98",
+    "Value": "Take Fertility Awareness Test"
+  },
+  {
+    "Key": "0xA6EF980D",
+    "Value": "Fertility Awareness Test"
+  },
+  {
+    "Key": "0xBFC56519",
+    "Value": "{0.SimFirstName}'s fertility awareness test resulted in {1.Number}% chance of becoming pregnant.\\n\\nCheck {0.SimFirstName}'s fertility information via phone by using the Period Tracker app."
+  },
+  {
+    "Key": "0x573A0391",
+    "Value": "{0.SimFirstName}'s fertility awareness test resulted in {1.Number}% chance of becoming pregnant."
+  },
+  {
+    "Key": "0x1EE0796A",
+    "Value": "Fertility Treatment"
+  },
+  {
+    "Key": "0x4AAC8862",
+    "Value": "{0.SimName} received a temporary fertility treatment.\\n{M0.His}{F0.Her} chances of becoming pregnant will now be higher during the next ovulation.\\n\\nAfter the next ovulation ends, treatment will lose its potential."
+  },
+  {
+    "Key": "0x2B88AD91",
+    "Value": "{0.SimFirstName} is not able to do this while pregnant."
+  },
+  {
+    "Key": "0x50049C7D",
+    "Value": "---------- PREGNANCY BIRTH CONTROL ----------"
+  },
+  {
+    "Key": "0x6FA67438",
+    "Value": "Birth Control"
+  },
+  {
+    "Key": "0x8AE6A796",
+    "Value": "<font color='#340658'>Wearing a Condom</font>"
+  },
+  {
+    "Key": "0x9785A9F2",
+    "Value": "{0.SimFirstName} is wearing a condom."
+  },
+  {
+    "Key": "0xE55F0775",
+    "Value": "<font color='#340658'>Early On Birth Control Pill</font>"
+  },
+  {
+    "Key": "0xC70B7967",
+    "Value": "{0.SimFirstName} is early on {M0.his}{F0.her} birth control. It takes 3 days before birth control pills take full effect."
+  },
+  {
+    "Key": "0x075930E8",
+    "Value": "<font color='#340658'>On Birth Control Pill</font>"
+  },
+  {
+    "Key": "0x519E5BF5",
+    "Value": "{0.SimFirstName} is on {M0.his}{F0.her} birth control."
+  },
+  {
+    "Key": "0x7E84555B",
+    "Value": "Unpack Box"
+  },
+  {
+    "Key": "0xC0D84ED7",
+    "Value": "Use This Condom"
+  },
+  {
+    "Key": "0x6023EDD1",
+    "Value": "Use All Condoms"
+  },
+  {
+    "Key": "0x2B6249AC",
+    "Value": "Condoms can only be used during sex."
+  },
+  {
+    "Key": "0xFC15B814",
+    "Value": "Allow Condoms Auto Use"
+  },
+  {
+    "Key": "0x2F349510",
+    "Value": "Disallow Condoms Auto Use"
+  },
+  {
+    "Key": "0x18E60972",
+    "Value": "Take Off Condom"
+  },
+  {
+    "Key": "0x444A4766",
+    "Value": "{0.SimFirstName} took {M0.his}{F0.her} condom off."
+  },
+  {
+    "Key": "0x90ADDE7E",
+    "Value": "Take Pill"
+  },
+  {
+    "Key": "0x8FC7D951",
+    "Value": "{0.SimFirstName} already took a birth control pill."
+  },
+  {
+    "Key": "0xA0D10F73",
+    "Value": "Allow Birth Control Pills Auto Use"
+  },
+  {
+    "Key": "0xC393D467",
+    "Value": "Disallow Birth Control Pills Auto Use"
+  },
+  {
+    "Key": "0xB0586B51",
+    "Value": "Used a condom owned by {1.SimName}."
+  },
+  {
+    "Key": "0xD6F5DC81",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName} and {2.SimName}."
+  },
+  {
+    "Key": "0xB6311070",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName} and {3.SimName}."
+  },
+  {
+    "Key": "0xFAEB440C",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName} and {4.SimName}."
+  },
+  {
+    "Key": "0xB263381D",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName} and {5.SimName}."
+  },
+  {
+    "Key": "0x9F6E07D1",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName} and {6.SimName}."
+  },
+  {
+    "Key": "0x50EB5D6C",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName} and {7.SimName}."
+  },
+  {
+    "Key": "0xB46AF514",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName} and {8.SimName}."
+  },
+  {
+    "Key": "0x1F432271",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName} and {9.SimName}."
+  },
+  {
+    "Key": "0xBD32DC6A",
+    "Value": "Used {0.Number} condom{P0.s} owned by {1.SimName}, {2.SimName}, {3.SimName}, {4.SimName}, {5.SimName}, {6.SimName}, {7.SimName}, {8.SimName}, {9.SimName} and {10.SimName}."
+  },
+  {
+    "Key": "0xEDDC3975",
+    "Value": "Not enough condoms to use for every partner!"
+  },
+  {
+    "Key": "0x3896FBD9",
+    "Value": "{0.SimFirstName} took a birth control pill."
+  },
+  {
+    "Key": "0xE7D868DF",
+    "Value": "Wicked Condoms Box"
+  },
+  {
+    "Key": "0xB9C9FFA6",
+    "Value": "Box of 21 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 21 usable condoms."
+  },
+  {
+    "Key": "0xC05146E2",
+    "Value": "Wicked Condom (Purple)"
+  },
+  {
+    "Key": "0x2E2B7F71",
+    "Value": "Wicked Condom (Cyan)"
+  },
+  {
+    "Key": "0x8DDCBE38",
+    "Value": "Wicked Condom (Blue)"
+  },
+  {
+    "Key": "0xE99D9433",
+    "Value": "Wicked Condom (Red)"
+  },
+  {
+    "Key": "0xA6DB4703",
+    "Value": "Wicked Condom (Green)"
+  },
+  {
+    "Key": "0x3F9453C4",
+    "Value": "Wicked Condom (Yellow)"
+  },
+  {
+    "Key": "0x7129321D",
+    "Value": "Wicked Condom (White)"
+  },
+  {
+    "Key": "0xAE0C27A1",
+    "Value": "Exactly what you need to avoid unwanted pregnancy. Keep them around, you never know when you would need one.\\n\\nUse it during sex by clicking on it in Sim inventory, don't wait, it can get too late!"
+  },
+  {
+    "Key": "0x617AD88A",
+    "Value": "Wicked Birth Control Pills Box"
+  },
+  {
+    "Key": "0xEF5CBB03",
+    "Value": "Box of 28 birth control pills. Use one every day and don't worry about unwanted pregnancy.\\n\\nUnpack the box and get 28 usable pills."
+  },
+  {
+    "Key": "0xBA4D5BD3",
+    "Value": "Wicked Birth Control Pills"
+  },
+  {
+    "Key": "0x6C5CA582",
+    "Value": "Helps with periods and unwanted pregnancy. Remember to take one once a day!\\n\\nUse it once a day by clicking on it in Sim inventory. With each missed day, you risk becoming pregnant."
+  },
+  {
+    "Key": "0xF02EF784",
+    "Value": "---------- PREGNANCY PERIOD ----------"
+  },
+  {
+    "Key": "0x7218CAB9",
+    "Value": "Period"
+  },
+  {
+    "Key": "0xCFFE42FA",
+    "Value": "<font color='#340658'>Using a Pad</font>"
+  },
+  {
+    "Key": "0x7EEF6B76",
+    "Value": "{0.SimFirstName} is using a pad."
+  },
+  {
+    "Key": "0x5DCAF938",
+    "Value": "Replaces Pad in: {0.Timespan}"
+  },
+  {
+    "Key": "0x7259ABDA",
+    "Value": "<font color='#340658'>Using a Tampon</font>"
+  },
+  {
+    "Key": "0xC645DE56",
+    "Value": "{0.SimFirstName} is using a tampon."
+  },
+  {
+    "Key": "0x6EAACC98",
+    "Value": "Replaces Tampon in: {0.Timespan}"
+  },
+  {
+    "Key": "0xDC99F762",
+    "Value": "(From Used Menstrual Pad)"
+  },
+  {
+    "Key": "0x9239FF2F",
+    "Value": "(From Smelling Used Menstrual Pad)"
+  },
+  {
+    "Key": "0xBACFFBD3",
+    "Value": "(From Light Blood Flow)"
+  },
+  {
+    "Key": "0x6C72515B",
+    "Value": "(From Regular Blood Flow)"
+  },
+  {
+    "Key": "0x5A8F2D90",
+    "Value": "(From Heavy Blood Flow)"
+  },
+  {
+    "Key": "0x271B2F24",
+    "Value": "<font color='#340658'>Periodic Stench</font>"
+  },
+  {
+    "Key": "0x351EB357",
+    "Value": "Oh no! Does that Sim have an itchy nose or can they smell {0.SimFirstName}’s pad? The currently drenched in blood pad is causing a nervous feeling in {M0.him}{F0.her} gut."
+  },
+  {
+    "Key": "0x14B9E074",
+    "Value": "<font color='#340658'>Fishy Stench</font>"
+  },
+  {
+    "Key": "0x76CB66E2",
+    "Value": "Oof! What could possibly be that putrid smell? {0.SimFirstName} can’t escape that fishy smell in the air. Could it possibly be coming from that Sim?"
+  },
+  {
+    "Key": "0x61045649",
+    "Value": "<font color='#340658'>Dripping Blood</font>"
+  },
+  {
+    "Key": "0x46BA1646",
+    "Value": "Oh Dear, blood seems to really be accumulating down in {0.SimFirstName}’s loins, staining {M0.his}{F0.her} clothes. {M0.He}{F0.She} should quickly apply either a tampon or pad. If {0.SimFirstName} doesn’t already have one present perhaps they could ask for help."
+  },
+  {
+    "Key": "0xE2711462",
+    "Value": "<font color='#340658'>Soaked in Blood</font>"
+  },
+  {
+    "Key": "0x622D0162",
+    "Value": "Oh no, what a mess! {0.SimFirstName} didn’t use a pad or tampon when {M0.he}{F0.she} needed to and now the blood has stained {M0.his}{F0.her} clothes. This is a dreadful predicament, hopefully someone nearby can help if {0.SimFirstName} doesn’t already have something on hand."
+  },
+  {
+    "Key": "0x3F49C256",
+    "Value": "<font color='#340658'>Drenched in Blood</font>"
+  },
+  {
+    "Key": "0x4215F985",
+    "Value": "THE BLOOD! IT’S EVERYWHERE! {0.SimFirstName}’s clothes look like those of a victim in a horror movie and {M0.he}{F0.she} desperately needs either a pad or tampon ASAP before the situation gets any worse. Quickly! If there isn’t any protection on hand maybe another Sim can help."
+  },
+  {
+    "Key": "0xED1D3890",
+    "Value": "<font color='#340658'>Leaking Pad</font>"
+  },
+  {
+    "Key": "0xD4A4582C",
+    "Value": "There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} pad has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state."
+  },
+  {
+    "Key": "0x125F14DD",
+    "Value": "<font color='#340658'>Burst Pad</font>"
+  },
+  {
+    "Key": "0xF7747F84",
+    "Value": "The pad did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement."
+  },
+  {
+    "Key": "0x64BAA19B",
+    "Value": "<font color='#340658'>Flooding Pad</font>"
+  },
+  {
+    "Key": "0x8600AC28",
+    "Value": "The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!"
+  },
+  {
+    "Key": "0x9CBE332C",
+    "Value": "<font color='#340658'>Leaking Tampon</font>"
+  },
+  {
+    "Key": "0xDE5A1F3C",
+    "Value": "There’s a light trickling sensation running down {0.SimFirstName}’s leg. It appears that {M0.his}{F0.her} tampon has done it’s duty but in the end could only absorb so much. {0.SimFirstName} should deal with this by applying a replacement immediately, it’d be unhygienic to leave it in such a state."
+  },
+  {
+    "Key": "0xC5511B6F",
+    "Value": "<font color='#340658'>Burst Tampon</font>"
+  },
+  {
+    "Key": "0x45B7C948",
+    "Value": "The tampon did it’s job but it could only absorb so much! Further bleeding has now ruined {0.SimFirstName}’s clothing. The blood has rushed down {M0.his}{F0.her} legs leaving noticeable stains across the material. This is a sorry state to be in, {0.SimFirstName} should make use of a replacement."
+  },
+  {
+    "Key": "0xB80F2EF1",
+    "Value": "<font color='#340658'>Flooding Tampon</font>"
+  },
+  {
+    "Key": "0xB289992C",
+    "Value": "The tampon tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!"
+  },
+  {
+    "Key": "0x7ADBF8FE",
+    "Value": "(From Premenstrual Syndrome)"
+  },
+  {
+    "Key": "0x89B249B4",
+    "Value": "(From Being on Period)"
+  },
+  {
+    "Key": "0xECDF94FA",
+    "Value": "<font color='#340658'>No More Mood Swings</font>"
+  },
+  {
+    "Key": "0x692AC5B7",
+    "Value": "{0.SimFirstName}'s menstrual mood swings have been magically suppressed thanks to the substances {M0.he}{F0.she} took."
+  },
+  {
+    "Key": "0x3E4F78BF",
+    "Value": "<font color='#340658'>Nauseous</font>"
+  },
+  {
+    "Key": "0x00BFB768",
+    "Value": "{0.SimFirstName} can’t shake the queasy feeling going through {M0.his}{F0.her} mind and through {M0.his}{F0.her} gut. It’s like being on a small boat in the midst of rocky waters. {0.SimFirstName} doesn’t have the energy to do anything and no appetite at all."
+  },
+  {
+    "Key": "0xE7491E06",
+    "Value": "<font color='#340658'>Irritated</font>"
+  },
+  {
+    "Key": "0x20F4AC51",
+    "Value": "Right now is not a good time for any Sim to be messing with {0.SimFirstName}. The stress that {M0.his}{F0.her} menstrual cycle can cause just makes the world itself so much more annoying. Any meddling Sim better watch out because {M0.he’s}{F0.she’s} seeing red!"
+  },
+  {
+    "Key": "0xCBF31437",
+    "Value": "<font color='#340658'>Dizziness</font>"
+  },
+  {
+    "Key": "0x82213E88",
+    "Value": "Something doesn’t feel quite right. It may be a side effect from {M0.his}{F0.her} monthly cycle but {0.SimFirstName} can’t shake this dizzying feeling that the world around {M0.him}{F0.her} is spinning uncontrollably."
+  },
+  {
+    "Key": "0x6E5DEF06",
+    "Value": "<font color='#340658'>Oversensitive</font>"
+  },
+  {
+    "Key": "0x00F3F984",
+    "Value": "No one seems to understand or care about what {0.SimFirstName} is going through right now. At the moment, {M0.he}{F0.she} can’t seem to keep {M0.his}{F0.her} emotions in check. The effects of having a monthly cycle has left {M0.him}{F0.her} in a complete wreck."
+  },
+  {
+    "Key": "0xD61738A5",
+    "Value": "<font color='#340658'>Cramping</font>"
+  },
+  {
+    "Key": "0xF3413535",
+    "Value": "{0.SimFirstName} is getting a painful sensation emanating from {M0.his}{F0.her} body that {M0.he}{F0.she} just can't ignore. This aching feeling that comes during one's cycle is never an enjoyable experience but this time it’s especially difficult. Hopefully this distress will subside."
+  },
+  {
+    "Key": "0x12883293",
+    "Value": "<font color='#340658'>Anxious</font>"
+  },
+  {
+    "Key": "0xEB56CB5E",
+    "Value": "{0.SimFirstName} is all nerves right now and can’t seem to focus. {M0.He’s}{F0.She’s} having difficulty keeping still and is stressing {M0.himself}{F0.herself} over minor things. Having a uterus is no fun when you have to go through this."
+  },
+  {
+    "Key": "0xF0146EFF",
+    "Value": "<font color='#340658'>Aroused</font>"
+  },
+  {
+    "Key": "0xDAB73BA8",
+    "Value": "{0.SimFirstName}’s really in the mood for some action. {M0.He}{F0.She} seems to have a sudden urge to get down and dirty. Maybe it’s the blood pumping but {M0.he’s}{F0.she’s} feeling especially titillated right now."
+  },
+  {
+    "Key": "0xBC451E50",
+    "Value": "Extra Absorbency"
+  },
+  {
+    "Key": "0xC7F4881D",
+    "Value": "Extra Absorbency"
+  },
+  {
+    "Key": "0x1216D5ED",
+    "Value": "Sims with Extra Absorbency won't have to change tampons and pads so often."
+  },
+  {
+    "Key": "0x53E48ECE",
+    "Value": "Menstrual Pad"
+  },
+  {
+    "Key": "0x39E3BD54",
+    "Value": "{0.SimFirstName} used a menstrual pad."
+  },
+  {
+    "Key": "0x0133EBD6",
+    "Value": "{0.SimFirstName} replaced {M0.his}{F0.her} menstrual pad."
+  },
+  {
+    "Key": "0x2BF3FB6F",
+    "Value": "Tampon"
+  },
+  {
+    "Key": "0x9FA07323",
+    "Value": "{0.SimFirstName} used a tampon."
+  },
+  {
+    "Key": "0x2898CBE5",
+    "Value": "{0.SimFirstName} replaced {M0.his}{F0.her} tampon."
+  },
+  {
+    "Key": "0xBBFD1296",
+    "Value": "{0.SimFirstName} will soon have {M0.his}{F0.her} period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\\n\\nTampons, Pads, and Birth Control can be ordered from a computer."
+  },
+  {
+    "Key": "0xAC5B7CB4",
+    "Value": "{0.SimFirstName} will soon have {M0.his}{F0.her} first period. It's best to prepare and purchase Tampons and Pads to protect {M0.him}{F0.her} from leaking menstrual blood.\\nOr start using Birth Control Pills to prevent the natural Menstrual Cycle.\\n\\nTampons, Pads, and Birth Control can be ordered from a computer."
+  },
+  {
+    "Key": "0xC5856650",
+    "Value": "Sure, here you go."
+  },
+  {
+    "Key": "0x341154FB",
+    "Value": "{0.SimFirstName} took a Chill Pill."
+  },
+  {
+    "Key": "0x4EB90CA3",
+    "Value": "Kaya Period Tracker"
+  },
+  {
+    "Key": "0x3FF32DB7",
+    "Value": "Hello {0.SimFirstName}!\\nThis is your <b>Kaya Period Tracker</b> Report.\\n\\n<b>Menstrual Cycle</b>\\n • Currently you're at day {1.Number} of your cycle, out of {2.Number} days.\\n<b>PMS</b>\\n • Next PMS is coming up in {3.Number} day{P3.s}.\\n<b>Period</b>\\n • Next Period starts in {4.Number} day{P4.s}.\\n\\n<b>Fertility</b>\\n • The Next Most Fertile Day is coming up in {5.Number} day{P5.s}.\\n • The Next Ovulation Day is coming up in {6.Number} day{P6.s}.\\n\\nThank you for using the <b>Kaya Period Tracker</b>."
+  },
+  {
+    "Key": "0x447151B2",
+    "Value": "Check Period Tracker"
+  },
+  {
+    "Key": "0x86AA8716",
+    "Value": "Open Box"
+  },
+  {
+    "Key": "0x93465008",
+    "Value": "Unpack Box"
+  },
+  {
+    "Key": "0xD421B4A3",
+    "Value": "Tampons & Pads"
+  },
+  {
+    "Key": "0xB413BD71",
+    "Value": "Unwrap Pad"
+  },
+  {
+    "Key": "0x4E1308F1",
+    "Value": "Use Pad"
+  },
+  {
+    "Key": "0x151F1202",
+    "Value": "Replace Pad"
+  },
+  {
+    "Key": "0x8C7FF997",
+    "Value": "{0.SimFirstName} just used a pad."
+  },
+  {
+    "Key": "0x6773DB4F",
+    "Value": "There is no toilet on this lot to use the pad."
+  },
+  {
+    "Key": "0xFAB17C27",
+    "Value": "A Menstrual Pad is needed to perform this action."
+  },
+  {
+    "Key": "0xE1E61495",
+    "Value": "Unwrap Tampon"
+  },
+  {
+    "Key": "0x567BB315",
+    "Value": "Use Tampon"
+  },
+  {
+    "Key": "0x9E609ACC",
+    "Value": "Replace Tampon"
+  },
+  {
+    "Key": "0x48E413FD",
+    "Value": "{0.SimFirstName} just used a tampon."
+  },
+  {
+    "Key": "0x254F4A03",
+    "Value": "There is no toilet on this lot to use the tampon."
+  },
+  {
+    "Key": "0x61AFC600",
+    "Value": "A Tampon is needed to perform this action."
+  },
+  {
+    "Key": "0x05F50650",
+    "Value": "Auto Use"
+  },
+  {
+    "Key": "0xA330D15D",
+    "Value": "No Auto Use"
+  },
+  {
+    "Key": "0xB0B91AE8",
+    "Value": "Realistic Auto Use"
+  },
+  {
+    "Key": "0xDCA61250",
+    "Value": "{0.SimFirstName} will change {M0.his}{F0.her} tampon or pad before it becomes completely overused."
+  },
+  {
+    "Key": "0x6EA88E47",
+    "Value": "Cautious Auto Use"
+  },
+  {
+    "Key": "0xFEAA4FC3",
+    "Value": "{0.SimFirstName} will change {M0.his}{F0.her} tampon or pad before it is at risk of leaking."
+  },
+  {
+    "Key": "0xEAD5F974",
+    "Value": "This is the current Auto Use type."
+  },
+  {
+    "Key": "0xE59C5819",
+    "Value": "Take Pill"
+  },
+  {
+    "Key": "0xF7694D28",
+    "Value": "Ask for a Tampon or Pad"
+  },
+  {
+    "Key": "0x4C52FCC5",
+    "Value": "You've already asked this Sim for a Tampon or Pad."
+  },
+  {
+    "Key": "0x2EDB38D1",
+    "Value": "Wicked Chill Pills"
+  },
+  {
+    "Key": "0x88D3C9CF",
+    "Value": "Designed by the Scientific Pioneers in the Pharmaceutical Industry and produced at the Next Generation Manufacturing Centers, the Wicked Chill Pill is the definitive answer to the unwanted mood swings and pains caused by the Premenstrual Syndrome."
+  },
+  {
+    "Key": "0x322439DF",
+    "Value": "Kaya Tampons & Pads Box"
+  },
+  {
+    "Key": "0x08DB8D18",
+    "Value": "Box of 7 tampons and 7 pads. A mix of both will guarantee the best protection from heavy menstrual bleeding.\\n\\nUnpack the box and get 7 wrapped tampons and 7 wrapped pads."
+  },
+  {
+    "Key": "0xDB423F59",
+    "Value": "Kaya Pads Box"
+  },
+  {
+    "Key": "0xE677DA68",
+    "Value": "Box of 14 menstrual pads. Great choice when you need protection from the light-flow days.\\n\\nUnpack the box and get 14 wrapped pads."
+  },
+  {
+    "Key": "0x7903C62F",
+    "Value": "Kaya Tampons Box"
+  },
+  {
+    "Key": "0x512161B3",
+    "Value": "Box of 14 tampons. A sleek and sophisticated feminine hygiene product to help keep your period private.\\n\\nUnpack the box and get 14 wrapped tampons."
+  },
+  {
+    "Key": "0x3D7381EA",
+    "Value": "Kaya Wrapped Tampon"
+  },
+  {
+    "Key": "0x3F06789F",
+    "Value": "Comfortable organic cotton Kaya Tampons security veil around the absorbent core that prevents fiber shedding and makes for softer extract.\\n\\nUnwrap it to get a tampon with an applicator."
+  },
+  {
+    "Key": "0x40F865C9",
+    "Value": "Kaya Wrapped Menstrual Pad"
+  },
+  {
+    "Key": "0x62F776C9",
+    "Value": "Made with 100% certified organic cotton, Kaya Pads use no chemicals, synthetics, or dyes. Great absorbency for day and night usage.\\n\\nUnwrap it to get a menstrual pad."
+  },
+  {
+    "Key": "0xBD8DE395",
+    "Value": "Kaya Tampon"
+  },
+  {
+    "Key": "0xCF0E6365",
+    "Value": "Comfortable organic cotton Kaya Tampons security veil around the absorbent core that prevents fiber shedding and makes for softer extract.\\n\\nUse it at least once a day by clicking on it in Sim inventory. Replacing it more often decreases the chance of potential issues."
+  },
+  {
+    "Key": "0xDF291A84",
+    "Value": "Kaya Menstrual Pad"
+  },
+  {
+    "Key": "0x8C89BA78",
+    "Value": "Made with 100% certified organic cotton, Kaya Pads use no chemicals, synthetics, or dyes. Great absorbency for day and night usage.\\n\\nUse it at least once a day by clicking on it in Sim inventory. Replacing it more often decreases the chance of potential issues."
+  },
+  {
+    "Key": "0xEC0C4FB8",
+    "Value": "Kaya Wipette"
+  },
+  {
+    "Key": "0x4D835309",
+    "Value": "Individually wrapped pre-moistened towelettes made with organic cotton. Use them anywhere on your body to freshen up."
+  },
+  {
+    "Key": "0x34DFAF8F",
+    "Value": "Kaya Mist"
+  },
+  {
+    "Key": "0x20FF9421",
+    "Value": "Spray the smut away and balance the pH of your skin with the hydrating and refreshing rosewater mist. Avoid spraying it in mouth or eyes!"
+  },
+  {
+    "Key": "0x336DD4EE",
+    "Value": "---------- SEX WHIMS ----------"
+  },
+  {
+    "Key": "0x409C3656",
+    "Value": "Have Sex with {2.SimFirstName}"
+  },
+  {
+    "Key": "0xB7B18A12",
+    "Value": "Click on an object and select Sex from the Wicked category."
+  },
+  {
+    "Key": "0x79801E64",
+    "Value": "Sex with Someone"
+  },
+  {
+    "Key": "0x789293FA",
+    "Value": "Click on an object and select Sex from the Wicked category. Sims need to have a good relationship to be able to have sex."
+  },
+  {
+    "Key": "0x3A6BD6BC",
+    "Value": "Sex with Someone in Public"
+  },
+  {
+    "Key": "0x8244EF70",
+    "Value": "Click on an object and select Sex from the Wicked category. Sims need to have a good relationship to be able to have sex."
+  },
+  {
+    "Key": "0x484985EF",
+    "Value": "Have Sex with Your Date"
+  },
+  {
+    "Key": "0x7B45B5BC",
+    "Value": "---------- SEX OBJECTS ----------"
+  },
+  {
+    "Key": "0x88299D86",
+    "Value": "<font color='#EC262E'>No Sex Permitted On Lot</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0xA806C866",
+    "Value": "The <font color='#EC262E'>No Sex Permitted On Lot</font> sign prevents all Sims from attempting to have sex on the lot. This sign can be placed anywhere on the lot to take effect.\\n\\nThe <font color='#3AAF69'>Sex Permitted In Room</font> sign overrides the effect of this sign for the room it is placed in. Making sex allowed only in that room."
+  },
+  {
+    "Key": "0x95BA7FAF",
+    "Value": "**INVISIBLE** <font color='#EC262E'>No Sex Permitted On Lot</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0x877B0B9E",
+    "Value": "The <font color='#EC262E'>No Sex Permitted On Lot</font> sign prevents all Sims from attempting to have sex on the lot. This sign can be placed anywhere on the lot to take effect. It will disappear when in Live Mode.\\n\\nThe <font color='#3AAF69'>Sex Permitted In Room</font> sign overrides the effect of this sign for the room it is placed in. Making sex allowed only in that room."
+  },
+  {
+    "Key": "0x71B44292",
+    "Value": "<font color='#EC262E'>No Sex Permitted In Room</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0x3360A095",
+    "Value": "The <font color='#EC262E'>No Sex Permitted In Room</font> sign prevents all Sims in a room with this sign from attempting to have sex. This sign has to be placed within a room to take effect, and it only affects Sims within that room."
+  },
+  {
+    "Key": "0x2A02C05D",
+    "Value": "**INVISIBLE** <font color='#EC262E'>No Sex Permitted In Room</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0xB90E68A5",
+    "Value": "The <font color='#EC262E'>No Sex Permitted In Room</font> sign prevents all Sims in a room with this sign from attempting to have sex. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode."
+  },
+  {
+    "Key": "0xDE055C52",
+    "Value": "<font color='#3AAF69'>Sex Permitted In Room</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0xC0524D30",
+    "Value": "The <font color='#3AAF69'>Sex Permitted In Room</font> sign overrides the <font color='#EC262E'>No Sex Permitted On Lot</font> sign for the room it is placed in. Making sex allowed only in that room. This sign has to be placed within a room to take effect, and it only affects Sims within that room."
+  },
+  {
+    "Key": "0x4ADCCA1F",
+    "Value": "**INVISIBLE** <font color='#3AAF69'>Sex Permitted In Room</font> (Autonomy Sign)"
+  },
+  {
+    "Key": "0x25F4532A",
+    "Value": "The <font color='#3AAF69'>Sex Permitted In Room</font> sign overrides the <font color='#EC262E'>No Sex Permitted On Lot</font> sign for the room it is placed in. Making sex allowed only in that room. This sign has to be placed within a room to take effect, and it only affects Sims within that room. It will disappear when in Live Mode."
+  }
+]

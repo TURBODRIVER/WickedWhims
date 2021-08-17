@@ -1,0 +1,530 @@
+"Entries": [
+  {
+    "Key": "0x712B19E6",
+    "Value": "--------------- Main ---------------"
+  },
+  {
+    "Key": "0x4B2214CD",
+    "Value": "WickedWhims"
+  },
+  {
+    "Key": "0xF7694739",
+    "Value": "Wicked"
+  },
+  {
+    "Key": "0x77CEB2C6",
+    "Value": "Advanced"
+  },
+  {
+    "Key": "0x1B8F54A0",
+    "Value": "Personalization"
+  },
+  {
+    "Key": "0xF0ABB689",
+    "Value": "Congratulations!\\nWickedWhims {0.String} has been installed!\\n\\nIf this is not your first time, some data has been set to default. No worries, this is a standard procedure.\\n\\nEverything should be working without any problems."
+  },
+  {
+    "Key": "0x415976A5",
+    "Value": "--------------- Misc ---------------"
+  },
+  {
+    "Key": "0xBA4454C8",
+    "Value": "{0.String}"
+  },
+  {
+    "Key": "0xC9D148AF",
+    "Value": "{0.SimName}"
+  },
+  {
+    "Key": "0x2E5CCFAD",
+    "Value": "{0.ObjectName}"
+  },
+  {
+    "Key": "0x0C8916DC",
+    "Value": "{0.ObjectDescription}"
+  },
+  {
+    "Key": "0x146EE69C",
+    "Value": "--------------- Statistics ---------------"
+  },
+  {
+    "Key": "0x5511433E",
+    "Value": "{0.SimName} Statistics"
+  },
+  {
+    "Key": "0x448E8719",
+    "Value": "Sim Statistics"
+  },
+  {
+    "Key": "0x04645DFD",
+    "Value": "{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}{10.String}{11.String}{12.String}{13.String}{14.String}{15.String}{16.String}{17.String}{18.String}{19.String}{20.String}{21.String}{22.String}{23.String}{24.String}{25.String}{26.String}{27.String}{28.String}{29.String}{30.String}{31.String}{32.String}{33.String}{34.String}{35.String}{36.String}{37.String}{38.String}{39.String}{40.String}{41.String}{42.String}{43.String}{44.String}{45.String}{46.String}{47.String}{48.String}{49.String}{50.String}{51.String}{52.String}{53.String}{54.String}{55.String}{56.String}{57.String}{58.String}{59.String}{60.String}{61.String}{62.String}{63.String}{64.String}{65.String}{66.String}{67.String}{68.String}{69.String}{70.String}{71.String}{72.String}{73.String}{74.String}{75.String}{76.String}{77.String}{78.String}{79.String}{80.String}{81.String}{82.String}{83.String}{84.String}{85.String}{86.String}{87.String}{88.String}{89.String}{90.String}{91.String}{92.String}{93.String}{94.String}{95.String}{96.String}{97.String}{98.String}{99.String}{100.String}{101.String}{102.String}{103.String}{104.String}"
+  },
+  {
+    "Key": "0x14195596",
+    "Value": "--------------- Warnings ---------------"
+  },
+  {
+    "Key": "0x38DA74DA",
+    "Value": "Warning!"
+  },
+  {
+    "Key": "0xC8FC21DE",
+    "Value": "Failed to load parts of WickedWhims save data!\\n\\nDefault data was used instead.\\n\\nSaving the game should override incorrect data and fix the issue.\\nRemoving 'WickedWhimsMod' folder from 'saves' folder can help too."
+  },
+  {
+    "Key": "0x449C1DFF",
+    "Value": "An error has occurred!\\nAn exception file (lastException.txt) has been created!\\n\\nTake a deep breath, create a new save, and exit the game.\\n\\nThe most common reason for errors like these are outdated/broken mods.\\nConsider reviewing your 'Mods' folder and updating/removing old mods.\\nTHIS IS NOT CAUSED BY WICKEDWHIMS. WICKEDWHIMS IS THE MOD THAT INFORMS YOU ABOUT OTHER BROKEN MODS.\\n\\nException files location: {0.String}\\n\\nThis message is brought to you by TURBODRIVER.\\nYou can find more information at:\\nlastexception.com"
+  },
+  {
+    "Key": "0xEF789EE4",
+    "Value": "An error related to WickedWhims has occurred!\\nA report file (WickedWhims_Exception.txt) has been created!\\n\\nIf you're using any mods that require WickedWhims to work, check if they are up-to-date with WickedWhims and with the game.\\n\\nException file location: {0.String}\\n\\nGo to <b>wickedwhimsmod.com/exception</b> to learn how to report this error."
+  },
+  {
+    "Key": "0x5CEA5366",
+    "Value": "Hey! Looks like some kind of error has occurred.\\nIf it looks like it's related to WickedWhims, try using the command below.\\n\\n<b>ww.fix</b>\\n\\nTo use a command, open the Command Console by pressing 'CTRL+SHIFT+C' on your keyboard.\\nThen type in the command."
+  },
+  {
+    "Key": "0xAA523960",
+    "Value": "WickedWhims Censorship (Streamer Mode) is now active!\\n\\nIf correctly installed, censorship covers:\\n • In-game native and WickedWhims nudity is censored.\\n • CAS nudity is censored, with exception to non-WickedWhims content.\\n • Sex interactions are censored.\\n • Sims thumbnails and previews include censorship overlays.\\n\\nBeware that any additional inappropriate content outside of WickedWhims scope cannot be accurately detected and censored.\\nOther modded means of displaying Sims nudity that do not occur through WickedWhims actions might not be censored.\\nMake sure to verify any other means of Sims potential inappropriate behavior. It's your responsibility to be aware of it."
+  },
+  {
+    "Key": "0xFEF8805B",
+    "Value": "You've installed the Non-Legacy version of WickedWhims, but your game is the Legacy Edition (32-bit).\\nUsing the Non-Legacy version of WickedWhims in a Legacy Edition (32-bit) game will result in issues and errors.\\n\\nPlease uninstall this version of WickedWhims and download the Legacy version of WickedWhims.\\nVisit wickedwhimsmod.com/legacy"
+  },
+  {
+    "Key": "0x8D83283A",
+    "Value": "You've installed the Legacy version of WickedWhims, but your game isn't the Legacy Edition.\\nUsing the Legacy version of WickedWhims in a regular game will result in issues and errors.\\n\\nPlease uninstall this version of WickedWhims and download a Non-Legacy version of WickedWhims."
+  },
+  {
+    "Key": "0x59B2DAEC",
+    "Value": "WickedWhims is Sad :("
+  },
+  {
+    "Key": "0x8E7D0F0B",
+    "Value": "FATAL ERROR!\\n\\nWickedWhims and WonderfulWhims have been installed at the same time!\\n\\nOnly one of these mods can be present at one time!\\n\\nRemove WonderfulWhims to resolve this issue!"
+  },
+  {
+    "Key": "0xD3613BE0",
+    "Value": "FATAL ERROR!\\n\\nEssential 'TURBODRIVER_WickedWhims_Tuning.package' file is missing!\\n\\nAll WickedWhims files must be located in one and the same folder!\\n\\nRe-installation is required for WickedWhims to work correctly!\\n\\nAlways keep all of the WickedWhims files in one folder!"
+  },
+  {
+    "Key": "0x788B961F",
+    "Value": "<b>FATAL ERROR!</b>\\n\\nEssential 'TURBODRIVER_WickedWhims_Scripts.ts4script' file is missing.\\n\\nWickedWhims script file is missing or cannot be loaded!\\n\\nNever place script files (TS4SCRIPT) into too many folders! The game fails to find them!\\nScript files can only be placed one-folder deep.\\n\\nMake sure Script Mods are enabled in Game Settings.\\n\\nRe-installation might be required for WickedWhims to work correctly!"
+  },
+  {
+    "Key": "0x324E5AB9",
+    "Value": "FATAL ERROR!\\n\\nMore than one installation of WickedWhims has been detected!\\n\\nOnly one copy of WickedWhims can exist in the 'Mods' folder!\\n\\nRemoval of all WickedWhims files and re-installation is required for WickedWhims to work correctly!"
+  },
+  {
+    "Key": "0xBE84F535",
+    "Value": "FATAL ERROR!\\n\\nConflicting Sim Animating Rig has been detected!\\n\\nConflicting Sim Animating Rigs will cause sex animations to break visually! Expect stretched and mispositioned penises.\\n\\nRemoval of all Sim Animating Rig files is required for WickedWhims to work correctly!\\n\\nRead More: wickedwhimsmod.com/penis-issues"
+  },
+  {
+    "Key": "0x0F6B1DB4",
+    "Value": "FATAL ERROR!\\n\\nWickedWhims didn't load sex animations properly!\\n\\nThe game loading process has been interrupted which caused sex animations to not load. This is most likely due to broken/outdated mods or game/mod incompatibility!\\n\\nRemoval of all broken/outdated mods and updating your game/mod should resolve this issue!\\n\\nRead More: wickedwhimsmod.com/exception"
+  },
+  {
+    "Key": "0xD11E1977",
+    "Value": "Sims have <b>Red and White</b> skin textures?\\n\\nPlease enable the <b>:{0.String}</b> setting and disable the <b>:{1.String}</b> setting in Graphic Options and restart the game to resolve this issue!\\n\\nTo fix broken portrait images of Sims, delete the 'localthumbcache.package' file in The Sims 4 documents folder."
+  },
+  {
+    "Key": "0x4FAFD845",
+    "Value": "Visual Bug Warning"
+  },
+  {
+    "Key": "0x91C1FDD9",
+    "Value": "This Sims Selector Menu will incorrectly display which Sims are selected.\\n\\nSims that do not appear as selected, but should be selected, are actually selected, you just can't see it visually."
+  },
+  {
+    "Key": "0x9AF804FA",
+    "Value": "--------------- Settings ---------------"
+  },
+  {
+    "Key": "0x12E01B2D",
+    "Value": "<font color='#0C4BAC'>{0.String}</font>"
+  },
+  {
+    "Key": "0x7355FD4F",
+    "Value": "<font color='#22A3F9'>{0.String}</font>"
+  },
+  {
+    "Key": "0xA2A9ABF1",
+    "Value": "<font color='#0A618C'>{0.String}</font>"
+  },
+  {
+    "Key": "0xD3E94A30",
+    "Value": "<font color='#1DB5CC'>{0.String}</font>"
+  },
+  {
+    "Key": "0xA917DC98",
+    "Value": "Settings"
+  },
+  {
+    "Key": "0x0838B2BF",
+    "Value": "WickedWhims Settings"
+  },
+  {
+    "Key": "0xC3B7DC2A",
+    "Value": "Headline Effects Settings"
+  },
+  {
+    "Key": "0xE8DDE113",
+    "Value": "Change headline effects visibility."
+  },
+  {
+    "Key": "0x15D398D2",
+    "Value": "Enable Headline Effects"
+  },
+  {
+    "Key": "0xF207EBA7",
+    "Value": "Visible headline effects and plumbob"
+  },
+  {
+    "Key": "0x8F3E7B79",
+    "Value": "Disable Headline Effects"
+  },
+  {
+    "Key": "0x582BF4BE",
+    "Value": "Invisible headline effects and plumbob"
+  },
+  {
+    "Key": "0xE9C3D72A",
+    "Value": "More Information"
+  },
+  {
+    "Key": "0x56CDF362",
+    "Value": "Information about this modification."
+  },
+  {
+    "Key": "0xC7AB2E8F",
+    "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+  },
+  {
+    "Key": "0x8FD8E13C",
+    "Value": "Experimental Mode"
+  },
+  {
+    "Key": "0x391C7C11",
+    "Value": "Check to enable any new experimental features and implementations.\\nUncheck to disable any new experimental features and implementations."
+  },
+  {
+    "Key": "0x0A73EC2E",
+    "Value": "Changing the state of this setting requires restarting the game to take full effect!"
+  },
+  {
+    "Key": "0xFCCDEB04",
+    "Value": "--------------- Version Control ---------------"
+  },
+  {
+    "Key": "0x3EFF34B6",
+    "Value": "Outdated WickedWhims"
+  },
+  {
+    "Key": "0x929C45D3",
+    "Value": "The current version of WickedWhims you are running is outdated and you should consider downloading an updated version.\\n\\nInstalled Version: {0.String}\\nCurrent Version: {1.String}\\n\\nDo you want to do it now?"
+  },
+  {
+    "Key": "0xC7064464",
+    "Value": "Open your web browser to download WickedWhims"
+  },
+  {
+    "Key": "0xE6B32A7A",
+    "Value": "Don't ask me again"
+  },
+  {
+    "Key": "0x29A39B98",
+    "Value": "--------------- Feedback Ticket ---------------"
+  },
+  {
+    "Key": "0xD47D8591",
+    "Value": "Send Anonymous Feedback"
+  },
+  {
+    "Key": "0x3FC3B455",
+    "Value": "Let us know what you think! Having fun? Let us know what is good! Things are bad? Let us know what could be done better! You have a suggestion? Let us know what to improve!\\n\\nThe feedback you send is anonymous, we won't know who send it and we won't try to contact you."
+  },
+  {
+    "Key": "0x64D84F93",
+    "Value": "How are you feeling?"
+  },
+  {
+    "Key": "0x40BE51F6",
+    "Value": "<font size=\"50\">Positive</font>"
+  },
+  {
+    "Key": "0xA09EB6BA",
+    "Value": "<font size=\"50\">Neutral</font>"
+  },
+  {
+    "Key": "0xCC731AAA",
+    "Value": "<font size=\"50\">Negative</font>"
+  },
+  {
+    "Key": "0x62EBEC62",
+    "Value": "<font size=\"50\">Mixed</font>"
+  },
+  {
+    "Key": "0xC686D225",
+    "Value": "In my honest opinion..."
+  },
+  {
+    "Key": "0x9C7B0604",
+    "Value": "Send Feedback"
+  },
+  {
+    "Key": "0x4C0E1F80",
+    "Value": "I don't have anything to say..."
+  },
+  {
+    "Key": "0xAF3C6A5C",
+    "Value": "Thank You For Your Feedback!"
+  },
+  {
+    "Key": "0xCE456AA5",
+    "Value": "Please Wait A While Before Sending More!"
+  },
+  {
+    "Key": "0x77C36462",
+    "Value": "--------------- Settings Import/Export ---------------"
+  },
+  {
+    "Key": "0xD66DB52F",
+    "Value": "Settings Control"
+  },
+  {
+    "Key": "0x156EB873",
+    "Value": "Control WickedWhims settings - Import, Export, Reset, Disable."
+  },
+  {
+    "Key": "0x07AE3B83",
+    "Value": "Export Current Settings"
+  },
+  {
+    "Key": "0x2723C4FA",
+    "Value": "Export current settings for use in different worlds."
+  },
+  {
+    "Key": "0x82608601",
+    "Value": "Enter the name of this save:"
+  },
+  {
+    "Key": "0xDCE3F03B",
+    "Value": "Your settings have been saved under the name '{0.String}'.\\n\\nThey can be loaded using the 'Import Settings' menu."
+  },
+  {
+    "Key": "0xBA590B59",
+    "Value": "Import Settings"
+  },
+  {
+    "Key": "0xA2293A3A",
+    "Value": "Import saved settings."
+  },
+  {
+    "Key": "0x828DBF6D",
+    "Value": "You need to export settings first to import them later!"
+  },
+  {
+    "Key": "0xBCAAC0D6",
+    "Value": "Settings under the name {0.String} have been loaded.\\n\\nMake sure to save and restart the game for the loaded settings to take full effect."
+  },
+  {
+    "Key": "0xFE65717B",
+    "Value": "Delete Settings"
+  },
+  {
+    "Key": "0x4B349AB6",
+    "Value": "Delete exported settings."
+  },
+  {
+    "Key": "0x1193FCF9",
+    "Value": "You need to export settings first to delete them!"
+  },
+  {
+    "Key": "0xCBEFC42C",
+    "Value": "Settings under the name {0.String} have been deleted."
+  },
+  {
+    "Key": "0x84D90447",
+    "Value": "Reset Settings"
+  },
+  {
+    "Key": "0xD5C95124",
+    "Value": "Reset all WickedWhims settings to the default state.\\n(Doesn't affect Animations Disabler)"
+  },
+  {
+    "Key": "0xEE27A81B",
+    "Value": "Do you want to reset all of the WickedWhims settings?\\nThis will bring back all Nudity, Sex, and Relationship settings to their default state."
+  },
+  {
+    "Key": "0x8230751A",
+    "Value": "All settings have been reset.\\n\\n\\nMake sure to save and restart the game for the reset settings to take full effect."
+  },
+  {
+    "Key": "0x47FE747C",
+    "Value": "Disable Settings"
+  },
+  {
+    "Key": "0x427D8F48",
+    "Value": "Disable all WickedWhims settings. Turns off all features.\\n(Doesn't affect Animations Disabler)"
+  },
+  {
+    "Key": "0xF052F45E",
+    "Value": "Do you want to disable all of the WickedWhims settings?\\nThis will disable all Nudity, Sex, and Relationship features."
+  },
+  {
+    "Key": "0x02806B44",
+    "Value": "All settings have been disabled.\\n\\n\\nMake sure to save and restart the game for the disabled settings to take full effect."
+  },
+  {
+    "Key": "0xAB928815",
+    "Value": "Created at: {0.String}"
+  },
+  {
+    "Key": "0xBD914993",
+    "Value": "--------------- Wicked Attributes ---------------"
+  },
+  {
+    "Key": "0x65D33D40",
+    "Value": "Give Wicked Attributes"
+  },
+  {
+    "Key": "0xED40E24E",
+    "Value": "Take Away Wicked Attributes"
+  },
+  {
+    "Key": "0xBC5C9306",
+    "Value": "Randomize Wicked Attributes"
+  },
+  {
+    "Key": "0xE794E4BA",
+    "Value": "{0.SimFirstName} has no Wicked Attributes assigned."
+  },
+  {
+    "Key": "0x0EDF0CFF",
+    "Value": "Wicked Attributes"
+  },
+  {
+    "Key": "0x8E870A36",
+    "Value": "Wicked Attribute"
+  },
+  {
+    "Key": "0x58C75C19",
+    "Value": "Pick an attribute to give {0.SimFirstName}."
+  },
+  {
+    "Key": "0x3A902D79",
+    "Value": "Pick an attribute to take away from {0.SimFirstName}."
+  },
+  {
+    "Key": "0xAC353D97",
+    "Value": "Do you want to give {0.SimFirstName} the {1.String} attribute?"
+  },
+  {
+    "Key": "0xD7E18CBD",
+    "Value": "{0.SimFirstName} now has the {1.String} attribute.\\n\\n{2.String}"
+  },
+  {
+    "Key": "0x2B6F9DDB",
+    "Value": "Do you want to take away the {0.String} attribute from {1.SimFirstName}?"
+  },
+  {
+    "Key": "0x8D97E8D0",
+    "Value": "{0.SimFirstName} no longer has the {1.String} attribute."
+  },
+  {
+    "Key": "0x528FD15C",
+    "Value": "Pick Sims to randomize attributes on."
+  },
+  {
+    "Key": "0x4972152E",
+    "Value": "Pick attributes to randomize on Sims."
+  },
+  {
+    "Key": "0xE2252581",
+    "Value": "The total of {0.Number} attribute{P0.s} has been added to {1.Number} Sim{P1.s}."
+  },
+  {
+    "Key": "0x1A2796D6",
+    "Value": "--------------- Welcome Message ---------------"
+  },
+  {
+    "Key": "0xCB1FDA4E",
+    "Value": "{0.String}\\n\\nYou're running WickedWhims <b>{1.String}</b>\\n\\nLoaded <b>{2.Number}</b> animations by {3.String}.\\n\\nLoaded Custom Content by {4.String}.\\n\\n<b><u>Key Development Contributions</u></b>\\n<b>Noir and Dark Sims</b>\\n   https://patreon.com/noiranddark\\n<b>Mike24</b>\\n   https://patreon.com/mike24\\n<b>Azmodan22</b>\\n   https://patreon.com/azmodan22\\n<b>PhaseLotA</b>\\n   https://twitter.com/PhaseLotA\\n<b>MiniGiles</b>\\n   https://buymeacoffee.com/MiniGiles\\n<b>wild_guy</b>\\n   https://www.patreon.com/wild_guy\\n<b>ooOLaLa World</b>\\n   https://patreon.com/ooOLaLaWorld\\n<b>Lupobianco</b>\\n   https://patreon.com/lupobianco\\n<b>Luumia</b>\\n   https://luumiasims.com\\n<b>Jarl44, Husk, Denton47, autobanned, Redabyss, biondosim, and ZoahcX</b>.\\n\\n<b>WickedWhims by TURBODRIVER.</b>\\n\\nWickedWhims is provided under the terms of <b>CC BY-NC-ND 4.0</b> public license."
+  },
+  {
+    "Key": "0x798AD3D6",
+    "Value": "Hello!"
+  },
+  {
+    "Key": "0x8441AF1A",
+    "Value": "Hallo!"
+  },
+  {
+    "Key": "0xFE9E12ED",
+    "Value": "Olá!"
+  },
+  {
+    "Key": "0x160F99C1",
+    "Value": "¡Hola!"
+  },
+  {
+    "Key": "0x22F011E1",
+    "Value": "Hej!"
+  },
+  {
+    "Key": "0x2F242017",
+    "Value": "Aloha!"
+  },
+  {
+    "Key": "0x48507FE0",
+    "Value": "Saluto!"
+  },
+  {
+    "Key": "0xF4DB20E1",
+    "Value": "今日は"
+  },
+  {
+    "Key": "0xA132A319",
+    "Value": "你好"
+  },
+  {
+    "Key": "0x2D19430B",
+    "Value": "안녕"
+  },
+  {
+    "Key": "0xE434C431",
+    "Value": "Bonjour!"
+  },
+  {
+    "Key": "0x767EEE4F",
+    "Value": "Вітаю!"
+  },
+  {
+    "Key": "0xE448FF2E",
+    "Value": "Ahoj!"
+  },
+  {
+    "Key": "0x266CD790",
+    "Value": "Привет!"
+  },
+  {
+    "Key": "0xDA095FE2",
+    "Value": "Ciao!"
+  },
+  {
+    "Key": "0x55451640",
+    "Value": "Hai!"
+  },
+  {
+    "Key": "0xAAE412D4",
+    "Value": "Hei!"
+  },
+  {
+    "Key": "0x5071CAEA",
+    "Value": "Oi!"
+  },
+  {
+    "Key": "0x6B4D4B8C",
+    "Value": "--------------- End ---------------"
+  }
+]
