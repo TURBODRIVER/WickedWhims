@@ -284,12 +284,12 @@
     "Value": "Check for playable Sims to be included in random nudity occurrences."
   },
   {
-    "Key": "0xA397E916",
-    "Value": "Respect Children's Eyes"
+    "Key": "0x70DC1D19",
+    "Value": "Respect Child Sims Eyes"
   },
   {
-    "Key": "0x1455BD73",
-    "Value": "Check for Sims to never undress around children."
+    "Key": "0xC7241FE8",
+    "Value": "Sims behavior when children are around.\\n<b>Fully Check</b> for Sims to never undress when child Sims are on the lot.\\n<b>Half Check</b> for Sims to never undress when child Sims are nearby.\\n<b>Uncheck</b> for Sims to undress without acknowledgment of child Sims."
   },
   {
     "Key": "0x24E20EC3",
@@ -436,6 +436,38 @@
     "Value": "Check to make dancers dress up after every dance.\\nUncheck to keep dancers undressed after a dance."
   },
   {
+    "Key": "0xF23172A6",
+    "Value": "Click-The-Spot Game Switch"
+  },
+  {
+    "Key": "0x0194C660",
+    "Value": "Check to allow playing the Click-The-Spot game for Player Dancer Sims."
+  },
+  {
+    "Key": "0xC223056D",
+    "Value": "Strip Club Cheats"
+  },
+  {
+    "Key": "0x52B13BFD",
+    "Value": "Cheats for Strip Clubs."
+  },
+  {
+    "Key": "0x0BAB28C4",
+    "Value": "Personal Lap Dance Cheat"
+  },
+  {
+    "Key": "0xDC8525DE",
+    "Value": "Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club."
+  },
+  {
+    "Key": "0x8E1922A9",
+    "Value": "Static Clients Count Cheat"
+  },
+  {
+    "Key": "0xFB55B2B9",
+    "Value": "Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\\n(Default: 0, Maximum: 30)"
+  },
+  {
     "Key": "0xC03EDEB7",
     "Value": "Dancer Profit Share Percentage"
   },
@@ -458,22 +490,6 @@
   {
     "Key": "0x72A4E11D",
     "Value": "Set a number of earnings multiplier, as percentage, for the bar sales.\\n(Default: 100%)"
-  },
-  {
-    "Key": "0x0BAB28C4",
-    "Value": "Personal Lap Dance Cheat"
-  },
-  {
-    "Key": "0xDC8525DE",
-    "Value": "Check to unlock the Lap Dance cheat interaction to get a lap dance at any time as an owner of the Strip Club."
-  },
-  {
-    "Key": "0x8E1922A9",
-    "Value": "Static Clients Count Cheat"
-  },
-  {
-    "Key": "0xFB55B2B9",
-    "Value": "Set a number of clients that will visit the club at the same time. Using the default value will result in clients following the appropriate hours schedule.\\n(Default: 0, Maximum: 30)"
   },
   {
     "Key": "0xDFC944D8",
@@ -780,8 +796,8 @@
     "Value": "Default"
   },
   {
-    "Key": "0x7DD2AEE9",
-    "Value": "Native"
+    "Key": "0x91F92694",
+    "Value": "Native / Override"
   },
   {
     "Key": "0xBB04EB9B",
@@ -934,6 +950,22 @@
   {
     "Key": "0x9E74F187",
     "Value": "(From Being Around Naked Sims)"
+  },
+  {
+    "Key": "0xF954074E",
+    "Value": "<font color='#340658'>Morning Wood</font>"
+  },
+  {
+    "Key": "0xF6A65AA4",
+    "Value": "{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. <i>Knock on wood</i> it gets taken care of soon."
+  },
+  {
+    "Key": "0x7A35453F",
+    "Value": "<font color='#340658'>Morning Dew</font>"
+  },
+  {
+    "Key": "0x7E950972",
+    "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
   },
   {
     "Key": "0x35715025",
@@ -1096,6 +1128,14 @@
     "Value": "{1.SimFirstName} Asks Me to Dress Up"
   },
   {
+    "Key": "0xAAAD4C3E",
+    "Value": "---------- Tanning ----------"
+  },
+  {
+    "Key": "0xC3984F06",
+    "Value": "Go to Tanning Salon"
+  },
+  {
     "Key": "0xB1063430",
     "Value": "---------- Penis Adjustments ----------"
   },
@@ -1220,12 +1260,12 @@
     "Value": "{0.SimName} stripped from {M0.his}{F0.her} outfit."
   },
   {
-    "Key": "0x170E692A",
-    "Value": "{0.SimName} put {M0.his}{F0.her} outfit back on.\\n\\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}"
+    "Key": "0xE680739D",
+    "Value": "{0.SimName} put {M0.his}{F0.her} outfit back on.\\n\\n{1.String}"
   },
   {
-    "Key": "0x98D3F307",
-    "Value": "{0.SimName} doesn't feel like taking off clothes right now is a good idea.\\n\\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}"
+    "Key": "0x688D1158",
+    "Value": "{0.SimName} doesn't feel like taking off clothes right now is a good idea.\\n\\n{1.String}"
   },
   {
     "Key": "0x9119AE4E",
@@ -1290,6 +1330,14 @@
   {
     "Key": "0x18356D38",
     "Value": "{0.SimFirstName} is already naked."
+  },
+  {
+    "Key": "0x088F8E8A",
+    "Value": "---------- Simray ----------"
+  },
+  {
+    "Key": "0xD1C2134E",
+    "Value": "Naked"
   },
   {
     "Key": "0xFBC90FD6",
@@ -1764,6 +1812,10 @@
     "Value": "Disable Growth of Pubic Hair for {0.SimName}"
   },
   {
+    "Key": "0x3A19A398",
+    "Value": "Trim Pubic Hair"
+  },
+  {
     "Key": "0xBAC32260",
     "Value": "Restylize to '{0.String}'"
   },
@@ -2064,12 +2116,12 @@
     "Value": "Strip Club is Closed"
   },
   {
-    "Key": "0x54F1E44B",
-    "Value": "The Strip Club is now closed!\\n\\nClick on your phone to change the opening hours under the Strip Club category."
+    "Key": "0xB764B5B8",
+    "Value": "The Strip Club is now closed!\\n\\nClick on your Sim phone to change the opening hours under the Strip Club category."
   },
   {
-    "Key": "0xF913EEB3",
-    "Value": "The Strip Club is now closed!\\nAnd it will open at {0.String}.\\n\\nClick on your phone to change the opening hours under the Strip Club category."
+    "Key": "0x74C10FE0",
+    "Value": "The Strip Club is now closed!\\nAnd it will open at {0.String}.\\n\\nClick on your Sim phone to change the opening hours under the Strip Club category."
   },
   {
     "Key": "0x1C1A1265",
@@ -2078,6 +2130,114 @@
   {
     "Key": "0xD99DA0E9",
     "Value": "The Strip Club is now open and clients will being showing up at night hours.\\n\\nAny hired dancer will be arriving momentarily; be sure to assign them a task to perform or let them decide what to do on their own.\\n\\nMake sure to place a Dancing Pole/Dancing Spot for Stage Dancing and Assign Lap Dancing Seats for Private Dances.\\n\\nRemember to manage the bar by adjusting the Price Markup for extra profit and Order Bar Supplies to not run out of stock."
+  },
+  {
+    "Key": "0x4CBA660D",
+    "Value": "Manage Business Quirks"
+  },
+  {
+    "Key": "0x4CAF4064",
+    "Value": "Strip Club Quirks"
+  },
+  {
+    "Key": "0x2D740AD9",
+    "Value": "Select which Quirks should take effect.\\n\\n<font color='#0949AB'><b>Quirk Points: {0.Number}★</b></font>"
+  },
+  {
+    "Key": "0x21ADF81E",
+    "Value": "{0.String}\\n{1.String}"
+  },
+  {
+    "Key": "0xA3DEFAB6",
+    "Value": "Required Points: <b>{0.Number}</b>★"
+  },
+  {
+    "Key": "0x5F590114",
+    "Value": "Required Points: <b>Free</b>"
+  },
+  {
+    "Key": "0x89AEA7CE",
+    "Value": "<font color='#EC262E'>Conflicts with '{0.String}'.</font>"
+  },
+  {
+    "Key": "0x25E59948",
+    "Value": "New Strip Club Quirk Available"
+  },
+  {
+    "Key": "0x6E84606A",
+    "Value": "The '{0.String}' Strip Club Quirk is now available.\\n\\nClick on your Sim phone to manage Strip Club Quirks in the Strip Club category."
+  },
+  {
+    "Key": "0xDFC76139",
+    "Value": "Men's Club"
+  },
+  {
+    "Key": "0xF617AD55",
+    "Value": "Only male clients are allowed to enter the establishment."
+  },
+  {
+    "Key": "0xB1E3254B",
+    "Value": "Women's Club"
+  },
+  {
+    "Key": "0x099C2B72",
+    "Value": "Only female clients are allowed to enter the establishment."
+  },
+  {
+    "Key": "0x09A4D106",
+    "Value": "Only Known Faces"
+  },
+  {
+    "Key": "0x3EFBE032",
+    "Value": "Only pre-existing Sims are allowed to enter the establishment.\\n(New Sims are not going to be generated.)"
+  },
+  {
+    "Key": "0xDF500BAC",
+    "Value": "Never Undressed Dancers"
+  },
+  {
+    "Key": "0x4E693FAE",
+    "Value": "Hired dancers are never undressed when dancing."
+  },
+  {
+    "Key": "0x7C8AD21D",
+    "Value": "Always Undressed Dancers"
+  },
+  {
+    "Key": "0x1EAD7E83",
+    "Value": "Hired dancers are always undressed when dancing."
+  },
+  {
+    "Key": "0x89F18FEB",
+    "Value": "Erection Affection"
+  },
+  {
+    "Key": "0xC5962277",
+    "Value": "Hired dancers are erect during dancing."
+  },
+  {
+    "Key": "0xDCEFC11F",
+    "Value": "Cheaper Bar Supplies"
+  },
+  {
+    "Key": "0xE125EAF8",
+    "Value": "Purchasing Bar Supplies costs less, but can come with contaminated ingredients."
+  },
+  {
+    "Key": "0x04CA4AD9",
+    "Value": "Less Trashy"
+  },
+  {
+    "Key": "0x7C381B8F",
+    "Value": "Loiterers no longer drop trash on the floor, but clients become way more annoyed by dirty surroundings."
+  },
+  {
+    "Key": "0x5B791CAB",
+    "Value": "Rhythm Catcher"
+  },
+  {
+    "Key": "0x8890E948",
+    "Value": "Dancers perform better when dancing to music, but get tired from dancing a lot faster."
   },
   {
     "Key": "0x7306C27C",
@@ -2138,6 +2298,10 @@
   {
     "Key": "0x9D7F6267",
     "Value": "I want someone to talk to and get a private dance! Am I to believe that all of the dancers are busy right now? You need to manage this place better."
+  },
+  {
+    "Key": "0x69BE606C",
+    "Value": "Why is this place so smelly? Can't you get someone to clean up all of this mess? Gross. I'm leaving."
   },
   {
     "Key": "0xC5F7A6DF",
@@ -2416,12 +2580,8 @@
     "Value": "Dancer Tip"
   },
   {
-    "Key": "0x4B821084",
-    "Value": "Buy a Bar!"
-  },
-  {
-    "Key": "0x328AC52F",
-    "Value": "Buying a Bar is required for the club to earn any real money. Selling drinks to clients is the main revenue source of a Strip Club.\\n\\nLook for a 'Bar' in Build Mode and place one somewhere in the club. A hired dancer will be assigned the 'Bartender' role and sell drinks to clients.\\n\\n"
+    "Key": "0x4AAC01FE",
+    "Value": "Playable Sims Dancers automatically participate in the \"Click-The-Spot\" game when clients watch them.\\n\\nClick-The-Spot is a simple game where the player needs to actively participate in clicking the glowing orange spot floating in the air around the dancing Sim.\\nClicking the spot increases Sim dancing performance which increases the value of received tips and decreases the tiredness so the Sim can dance longer.\\n\\nThis functionality can be disabled in the Strip Club settings."
   },
   {
     "Key": "0x9CF0FC62",
@@ -2460,12 +2620,20 @@
     "Value": "Freestanding spin dancing poles are an easy and convenient choice for blooming Strip Club businesses. The shiny finish and rotating function enhance dancers performance with additional 'wow factor' that makes customers heads turn.\\nProvided by the Noir and Dark Sims Inc."
   },
   {
+    "Key": "0x4B821084",
+    "Value": "Buy a Bar!"
+  },
+  {
+    "Key": "0x328AC52F",
+    "Value": "Buying a Bar is required for the club to earn any real money. Selling drinks to clients is the main revenue source of a Strip Club.\\n\\nLook for a 'Bar' in Build Mode and place one somewhere in the club. A hired dancer will be assigned the 'Bartender' role and sell drinks to clients.\\n\\n"
+  },
+  {
     "Key": "0x8E4A5AA2",
     "Value": "Supply Carrier"
   },
   {
-    "Key": "0xB57D49E1",
-    "Value": "Your order for {0.Number} Bar Supplies has been placed and will arrive the next day at around noon."
+    "Key": "0x3DAF9B19",
+    "Value": "Your order for {0.Number} Bar Supplies has been placed and will arrive the next day."
   },
   {
     "Key": "0x6B9B1E99",
@@ -2508,8 +2676,8 @@
     "Value": "Order 50"
   },
   {
-    "Key": "0x93D14490",
-    "Value": "Currently you have {0.Number} out of {1.Number} supplies and ordered {2.Number} supplies.\\n\\nDo you want to order {3.Number} supplies for {4.Number} Simoleons?\\n\\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies."
+    "Key": "0xDCA5AAF5",
+    "Value": "Currently you have {0.Number} out of {1.Number} supplies and ordered {2.Number} supplies.\\n\\nDo you want to order {3.Number} supplies for {4.Number} Simoleons?\\n\\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at either noon or midnight depending when the order is made.\\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies."
   },
   {
     "Key": "0xDA22C1B4",
@@ -2560,8 +2728,8 @@
     "Value": "High Price Markup and Low Bar Supplies decrease the likeliness of clients purchasing drinks.\\n\\nShortage of supplies means fewer drinks to offer, and increased price makes them less appealing for purchase. When you can't sell the client's favorite drinks, lower the 'Price Markup' to make other drinks an attractive offer.\\n\\nClick on any Bar to access the Strip Club Price Markup menu."
   },
   {
-    "Key": "0xCA0EEBD9",
-    "Value": "Bar Supplies are required to prepare drinks for clients. Each prepared drink consumes supplies, and when they run out, drinks cannot be prepared anymore.\\n\\nYou can order supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu.\\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at around noon.\\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies."
+    "Key": "0x0B16457E",
+    "Value": "Bar Supplies are required to prepare drinks for clients. Each prepared drink consumes supplies, and when they run out, drinks cannot be prepared anymore.\\n\\nYou can order supplies by clicking on any Bar to access the Strip Club 'Order Supplies' menu.\\nPurchased supplies add up to the total of ordered supplies that will be delivered the next day at either noon or midnight depending when the order is made.\\nThe cost of supplies depends on the base price of the drinks ordered by clients. Selling expensive drinks requires purchasing expensive supplies."
   },
   {
     "Key": "0x1B886719",
@@ -2788,6 +2956,18 @@
     "Value": "In Sex {0.SimName}: {1.Money}"
   },
   {
+    "Key": "0x6CA4751B",
+    "Value": "Window Peeping Configuration"
+  },
+  {
+    "Key": "0x684A205D",
+    "Value": "This message is meant to inform you about the possibility of adjusting settings related to Window Peeping.\\n\\nA Peeping Sim is about to peep through the windows of the house. This will happen from time to time, depending on your settings.\\nAs this can be a shocking encounter to some, you can disable this feature or adjust its behavior. Use the button below to decide about the behavior of Window Peeping Sims.\\n\\nIf you already adjusted your Window Peeping settings you can safely ignore this message."
+  },
+  {
+    "Key": "0xD61A50AB",
+    "Value": "Adjust Window Peeping Settings"
+  },
+  {
     "Key": "0x287A8DC5",
     "Value": "---------- Private Pictures ----------"
   },
@@ -2826,6 +3006,14 @@
   {
     "Key": "0x8D8A7C6E",
     "Value": "SimHub Rating: {0.Number}%"
+  },
+  {
+    "Key": "0x40B252A8",
+    "Value": "Can't use the Picture Slider?"
+  },
+  {
+    "Key": "0x2DDD4C55",
+    "Value": "The picture slider to rotate the scene might not be functional.\\n\\nClick on the camera viewfinder to rotate the view around. Use the WSAD and QE keys to move the camera."
   },
   {
     "Key": "0xD59F9D85",
