@@ -48,6 +48,14 @@
     "Value": "Check to prevent Sims from accepting sex propositions from non-preferred genders.\\nUncheck to allow Sims to accept sex propositions from any gender."
   },
   {
+    "Key": "0x75193B84",
+    "Value": "Multiple Sims Start Switch"
+  },
+  {
+    "Key": "0x526BA592",
+    "Value": "Check to allow starting sex with multiple Sims at once.\\nUncheck to only allow starting sex alone or with one other Sim."
+  },
+  {
     "Key": "0x3981FB4C",
     "Value": "Talk After Sex Switch"
   },
@@ -280,8 +288,8 @@
     "Value": "Sex will start with Sims talking and then walking to the sex location."
   },
   {
-    "Key": "0x22802A73",
-    "Value": "Instant (requires enabling Always Accept)"
+    "Key": "0x28B326E1",
+    "Value": "Instant"
   },
   {
     "Key": "0xE5D7DF3A",
@@ -2912,6 +2920,30 @@
     "Value": "Ask to Join In"
   },
   {
+    "Key": "0x704E80B0",
+    "Value": "Ask to Join..."
+  },
+  {
+    "Key": "0x372C1AB4",
+    "Value": "Select Sims to invite for group sex."
+  },
+  {
+    "Key": "0xDE93B575",
+    "Value": "Ask to Leave..."
+  },
+  {
+    "Key": "0xDA2A8986",
+    "Value": "Select Sims to Stay"
+  },
+  {
+    "Key": "0xAE543E0B",
+    "Value": "Select Sims that will stay in sex."
+  },
+  {
+    "Key": "0x02010045",
+    "Value": "Move Sex Here"
+  },
+  {
     "Key": "0xA5EEE389",
     "Value": "Next"
   },
@@ -3032,8 +3064,12 @@
     "Value": "Change"
   },
   {
-    "Key": "0x391DB6E6",
-    "Value": "Invite"
+    "Key": "0x91439861",
+    "Value": "Invite In"
+  },
+  {
+    "Key": "0xC2B2A238",
+    "Value": "Leave Out"
   },
   {
     "Key": "0x8B649A7C",
@@ -3188,6 +3224,42 @@
     "Value": "Random Animation"
   },
   {
+    "Key": "0xA84D834B",
+    "Value": "Teasing Category"
+  },
+  {
+    "Key": "0x1D8A99C4",
+    "Value": "Handjob Category"
+  },
+  {
+    "Key": "0x57801229",
+    "Value": "Footjob Category"
+  },
+  {
+    "Key": "0x6C89045D",
+    "Value": "Oraljob Category"
+  },
+  {
+    "Key": "0x40C8CF5C",
+    "Value": "Vaginal Category"
+  },
+  {
+    "Key": "0xEDE001FE",
+    "Value": "Anal Category"
+  },
+  {
+    "Key": "0xE3BCE870",
+    "Value": "Climax Category"
+  },
+  {
+    "Key": "0x799635E7",
+    "Value": "Sex Animations"
+  },
+  {
+    "Key": "0x53FBD5C7",
+    "Value": "Select sex animation to play."
+  },
+  {
     "Key": "0x8933D1B4",
     "Value": "Sex Categories"
   },
@@ -3204,8 +3276,8 @@
     "Value": "Pick a Sim to swap with {0.SimFirstName}."
   },
   {
-    "Key": "0x360C3F6A",
-    "Value": "Pick a partner for sex or yourself for a solo interaction."
+    "Key": "0x1B7580BD",
+    "Value": "Pick partners for sex or yourself for solo."
   },
   {
     "Key": "0x2C915A14",
@@ -3216,48 +3288,76 @@
     "Value": "Pick Sims for sex."
   },
   {
-    "Key": "0xA56CCFC8",
-    "Value": "Code #1\\n\\nCouldn't find appropriate Sims to perform {0.String} Sex at the picked sex location.\\nPossible reasons:\\n - No fitting Sims nearby.\\n - Stuck Sims, try using the 'ww.fix' command."
+    "Key": "0x92C0C143",
+    "Value": "Couldn't Prepare Animations!"
   },
   {
-    "Key": "0x32C1EF1C",
-    "Value": "Code #2\\n\\nCouldn't find appropriate NPC Sims to perform {0.String} Sex at the picked sex location.\\nPossible reasons:\\n - No fitting Sims nearby.\\n - Stuck Sims, try using the 'ww.fix' command."
+    "Key": "0xF8B804AA",
+    "Value": "Couldn't Prepare Sims!"
   },
   {
-    "Key": "0xAE62DAF1",
-    "Value": "Code #3\\n\\nCouldn't find appropriate Sims to join {0.String} Sex at the current sex location.\\nPossible reasons:\\n - No fitting Sims nearby."
+    "Key": "0xDE6BEC2F",
+    "Value": "Couldn't Prepare Location!"
   },
   {
-    "Key": "0xA41E479C",
-    "Value": "Code #8\\n\\nNo compatible Sims to swap with were found in the current sex interaction!"
+    "Key": "0x3BB333DE",
+    "Value": "Couldn't Prepare Sims or Location!"
   },
   {
-    "Key": "0x67F8D61C",
-    "Value": "Code #4\\n\\nNo animations were found for the picked sex category and location!"
+    "Key": "0xF565B8BF",
+    "Value": "Couldn't Prepare Sims, Location or Animations!"
   },
   {
-    "Key": "0x0396E3D3",
-    "Value": "Code #5\\n\\nNo animations were found for the picked sex category, location, and Sims!"
+    "Key": "0x0EA0AC40",
+    "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 11</b>\\n{0.String}"
   },
   {
-    "Key": "0x7F392A31",
-    "Value": "Code #6\\n\\nNo animations were found for the current location and Sims!"
+    "Key": "0x462BD613",
+    "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 12</b>\\n{0.String}"
   },
   {
-    "Key": "0xEC895E18",
-    "Value": "Code #7\\n\\nNo animations were found for the selected Sims!"
+    "Key": "0x64ECBBA4",
+    "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 13</b>\\n{0.String}"
   },
   {
-    "Key": "0xB7B66B9A",
-    "Value": "Code #9\\n\\nNo animations were found for the picked sex category, location, current Sims and joining Sims!"
+    "Key": "0x3C48B0AF",
+    "Value": "With the provided criteria of newly involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Issue Code: 14</b>\\n{0.String}"
   },
   {
-    "Key": "0xB99AC50D",
-    "Value": "Install Sex Animations!"
+    "Key": "0xE448C966",
+    "Value": "With the provided criteria of picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 15</b>\\n{0.String}"
   },
   {
-    "Key": "0x3F91C4BB",
-    "Value": "Looks like you have not installed any sex animations.\\nCurrently you will only have few default animations that are included with the mod.\\n\\nIf you want more animations, look for them included on the mod page download section."
+    "Key": "0xCB39337C",
+    "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Issue Code: 16</b>\\n{0.String}"
+  },
+  {
+    "Key": "0x09F2356D",
+    "Value": "With the provided criteria of involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 17</b>\\n{0.String}"
+  },
+  {
+    "Key": "0x8D205C29",
+    "Value": "With the provided criteria of involved Sims and Sex Animation, no fitting Sims could be found to perform the swapping.\\n\\n<b>Issue Code: 18</b>\\n{0.String}"
+  },
+  {
+    "Key": "0x77AA614E",
+    "Value": "With the provided criteria of picked Location/Object, involved Sims, Age Limitations and Gender Settings, no fitting Sims could be found nearby.\\n\\n<b>Issue Code: 19</b>\\n{0.String}"
+  },
+  {
+    "Key": "0x5D6497C7",
+    "Value": "Want More Sex Animations?"
+  },
+  {
+    "Key": "0xEE78F04A",
+    "Value": "Looks like you haven't installed any additional Sex Animations!"
+  },
+  {
+    "Key": "0x37058861",
+    "Value": "Looks like you haven't installed any additional Sex Animations!\\n\\n<b>Currently you only have a few preview animations available to try.</b> There are literally thousands of sex positions out there to acquire, please check them out!\\n\\nVisit the <b><span class='link'><a href='event:https://wickedwhimsmod.com/extra-download'>WickedWhims Extra Downloads</a></span></b> site.\\n\\n"
+  },
+  {
+    "Key": "0xEF5C3F23",
+    "Value": "Visit WickedWhims Extra Downloads"
   },
   {
     "Key": "0xB404E49E",
@@ -4812,6 +4912,10 @@
     "Value": "Relationship between {0.SimFirstName} and {1.SimFirstName} is too weak."
   },
   {
+    "Key": "0xD72B74D6",
+    "Value": "The current situation {0.SimFirstName} or {1.SimFirstName} are in doesn't allow to initiate sex."
+  },
+  {
     "Key": "0xE2B227A5",
     "Value": "{0.SimName} is having some fun!"
   },
@@ -4920,6 +5024,18 @@
     "Value": "Selfish Lovers only care about their own sexual experience and often leave their partners unsatisfied."
   },
   {
+    "Key": "0x9F11096C",
+    "Value": "Generous Lover"
+  },
+  {
+    "Key": "0x856A56F9",
+    "Value": "Generous Lover"
+  },
+  {
+    "Key": "0xEDA0C2F4",
+    "Value": "Generous Lovers above all focus on their partner's sexual experience to ensure they are satisfied but sometimes at the cost of their own sexual satisfaction."
+  },
+  {
     "Key": "0x0F7507C2",
     "Value": "---------- SENTIMENTS ----------"
   },
@@ -4994,6 +5110,102 @@
   {
     "Key": "0xA97C2B7E",
     "Value": "Go to the Wicked Store"
+  },
+  {
+    "Key": "0x960B30AD",
+    "Value": "---------- SEX SOCIAL EVENT ----------"
+  },
+  {
+    "Key": "0xA31B9BB4",
+    "Value": "Sex Party"
+  },
+  {
+    "Key": "0x39F9182B",
+    "Value": "Host a wicked evening of delightful sexual experiences to remember for a long time.. or at least until the next Sex Party. Choose the party flavor once it begins to make it a Sex Swingers party, Sex Watchers party, Impregnation party, Masturbation party, or the regular fun."
+  },
+  {
+    "Key": "0xDBA09510",
+    "Value": "Sex Guest"
+  },
+  {
+    "Key": "0x7AEAD827",
+    "Value": "Change Sex Party Behavior to"
+  },
+  {
+    "Key": "0xEB319A72",
+    "Value": "This is the currently selected Sex Party Behavior."
+  },
+  {
+    "Key": "0x463EDF88",
+    "Value": "Regular"
+  },
+  {
+    "Key": "0x678F9392",
+    "Value": "Regular Sex Party Behavior makes Sims focus on just having sex like usual."
+  },
+  {
+    "Key": "0x9F3F28AE",
+    "Value": "Swingers"
+  },
+  {
+    "Key": "0xFD1911F3",
+    "Value": "Swingers Sex Party Behavior makes Sims focus on having sex with Sims that aren't their established partner."
+  },
+  {
+    "Key": "0x6D2B5409",
+    "Value": "Watchers"
+  },
+  {
+    "Key": "0xF4C6E5D1",
+    "Value": "Watchers Sex Party Behavior makes Sims focus on watching others having sex and doesn't allow engaging in sex."
+  },
+  {
+    "Key": "0x01911CB3",
+    "Value": "Impregnation"
+  },
+  {
+    "Key": "0x76DBA5AB",
+    "Value": "Impregnation Sex Party Behavior makes Sims focus on impregnating Sims by not using any form of birth control."
+  },
+  {
+    "Key": "0x53059D31",
+    "Value": "Masturbation"
+  },
+  {
+    "Key": "0x3EEE6452",
+    "Value": "Masturbation Sex Party Behavior makes Sims focus on masturbating and doesn't allow engaging in sex with others."
+  },
+  {
+    "Key": "0x2EAECA22",
+    "Value": "Allow Joining to Sex"
+  },
+  {
+    "Key": "0x78B2BD66",
+    "Value": "Disallow Joining to Sex"
+  },
+  {
+    "Key": "0x5BE8528D",
+    "Value": "Allow or Disallow Sex Party participants joining to ongoing sex."
+  },
+  {
+    "Key": "0xF1BB78C7",
+    "Value": "(From Sex Party Event)"
+  },
+  {
+    "Key": "0x8E7C26FF",
+    "Value": "Wicked Delights"
+  },
+  {
+    "Key": "0x9DBE9BD2",
+    "Value": "They came, they had wicked fun, and they came."
+  },
+  {
+    "Key": "0x6B260CD3",
+    "Value": "Sex... Party?"
+  },
+  {
+    "Key": "0xB04CEBC9",
+    "Value": "This sex party could have had more.. oh I don't know.. sex?"
   },
   {
     "Key": "0x5CE2AE4B",

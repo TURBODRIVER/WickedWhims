@@ -116,8 +116,8 @@
     "Value": "FATAL ERROR!\\n\\nMore than one installation of WickedWhims has been detected!\\n\\nOnly one copy of WickedWhims can exist in the 'Mods' folder!\\n\\nRemoval of all WickedWhims files and re-installation is required for WickedWhims to work correctly!"
   },
   {
-    "Key": "0xBE84F535",
-    "Value": "FATAL ERROR!\\n\\nConflicting Sim Animating Rig has been detected!\\n\\nConflicting Sim Animating Rigs will cause sex animations to break visually! Expect stretched and mispositioned penises.\\n\\nRemoval of all Sim Animating Rig files is required for WickedWhims to work correctly!\\n\\nRead More: wickedwhimsmod.com/penis-issues"
+    "Key": "0x6AC212FC",
+    "Value": "FATAL ERROR!\\n\\nConflicting Sim \"Animating Rig\" has been detected!\\n\\nConflicting Sim \"Animating Rigs\" will cause sex animations to break visually! Expect stretched and mispositioned penises.\\n\\nRemoval of all Sim \"Animating Rig\" files is required for WickedWhims to work correctly!\\n\"Animating Rigs\" are not animations! Don't delete animations!\\n\\nRead More: wickedwhimsmod.com/penis-issues"
   },
   {
     "Key": "0x0F6B1DB4",
@@ -384,16 +384,20 @@
     "Value": "--------------- Wicked Attributes ---------------"
   },
   {
-    "Key": "0x65D33D40",
-    "Value": "Give Wicked Attributes"
+    "Key": "0xAE144D45",
+    "Value": "Give <b>{0.SimFirstName}</b> Wicked Attributes"
   },
   {
-    "Key": "0xED40E24E",
-    "Value": "Take Away Wicked Attributes"
+    "Key": "0xDEE441AD",
+    "Value": "Take Away <b>{0.SimFirstName}</b>'s Wicked Attributes"
   },
   {
-    "Key": "0xBC5C9306",
-    "Value": "Randomize Wicked Attributes"
+    "Key": "0x3B39AE27",
+    "Value": "Randomize All Sims Wicked Attributes"
+  },
+  {
+    "Key": "0x26300DAD",
+    "Value": "Give All Sims Wicked Attributes"
   },
   {
     "Key": "0xE794E4BA",
@@ -436,12 +440,100 @@
     "Value": "Pick Sims to randomize attributes on."
   },
   {
-    "Key": "0x4972152E",
-    "Value": "Pick attributes to randomize on Sims."
+    "Key": "0x9C695D07",
+    "Value": "Pick attributes to randomize on selected Sims."
+  },
+  {
+    "Key": "0xA0FA05F6",
+    "Value": "Pick Sims to give attributes to."
+  },
+  {
+    "Key": "0x048AD98E",
+    "Value": "Pick attributes to give selected Sims."
   },
   {
     "Key": "0xE2252581",
     "Value": "The total of {0.Number} attribute{P0.s} has been added to {1.Number} Sim{P1.s}."
+  },
+  {
+    "Key": "0x24656CCB",
+    "Value": "--------------- Universal Sims Selector ---------------"
+  },
+  {
+    "Key": "0xED1E52AA",
+    "Value": "Sims to Pre-Select"
+  },
+  {
+    "Key": "0x7A22E1BD",
+    "Value": "Choose types of Sims to pre-select."
+  },
+  {
+    "Key": "0xDD5A636A",
+    "Value": "Sims to Select"
+  },
+  {
+    "Key": "0xBDF107B8",
+    "Value": "No Sims to select!"
+  },
+  {
+    "Key": "0xCDF927C5",
+    "Value": "No Sims to select were found!"
+  },
+  {
+    "Key": "0xEECE38F8",
+    "Value": "Select No Sims"
+  },
+  {
+    "Key": "0xEA6FB8D4",
+    "Value": "Select All Sims"
+  },
+  {
+    "Key": "0x0A3FAA55",
+    "Value": "Select Female Sims"
+  },
+  {
+    "Key": "0x65377FCA",
+    "Value": "Select Male Sims"
+  },
+  {
+    "Key": "0xE2C1EBF0",
+    "Value": "Select Teen Age Sims"
+  },
+  {
+    "Key": "0xFFE546A4",
+    "Value": "Select Young Adult Age Sims"
+  },
+  {
+    "Key": "0xB3E34F5C",
+    "Value": "Select Adult Age Sims"
+  },
+  {
+    "Key": "0x1E1E7960",
+    "Value": "Select Elder Age Sims"
+  },
+  {
+    "Key": "0xFB8B40AC",
+    "Value": "Select Alien Occult Sims"
+  },
+  {
+    "Key": "0xF24C54A5",
+    "Value": "Select Vampire Occult Sims"
+  },
+  {
+    "Key": "0xDCCC09D8",
+    "Value": "Select Mermaid Occult Sims"
+  },
+  {
+    "Key": "0xBAF19D79",
+    "Value": "Select Spellcaster Occult Sims"
+  },
+  {
+    "Key": "0x22F57C13",
+    "Value": "Select Homeless Sims"
+  },
+  {
+    "Key": "0xF2CA93D0",
+    "Value": "Select Random Sims"
   },
   {
     "Key": "0x1A2796D6",

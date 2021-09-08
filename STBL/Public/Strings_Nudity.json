@@ -32,6 +32,14 @@
     "Value": "Check to make Sims gradually gain pressure from being naked and experience embarrassment.\\nUncheck to make Sims ignore pressure and not get embarrassed from nudity.\\n(both settings respect Sims nudity skills limitations)"
   },
   {
+    "Key": "0x1BA04D0C",
+    "Value": "All Sims Nudity Enthusiasts"
+  },
+  {
+    "Key": "0x864E61B3",
+    "Value": "Check to make all Sims Nudity Enthusiasts and ignore the 'Nudity Enthusiast' Wicked Attribute.\\nUncheck to only allow Sims with the 'Nudity Enthusiast' Wicked Attribute to participate in nudity activities."
+  },
+  {
     "Key": "0x2BBCDED7",
     "Value": "Outfit Undressing Settings"
   },
@@ -668,6 +676,18 @@
     "Value": "Set a number of earnings multiplier, as percentage, for the SimHub daily earnings.\\n(Default: 100%)"
   },
   {
+    "Key": "0x7547A6F8",
+    "Value": "Unlock Camera Movement (Experimental)"
+  },
+  {
+    "Key": "0x2C7EEFB1",
+    "Value": "Check to unlock camera movement and use WASD keys to fly with the camera around the space.\\n(Enabling this setting requires to restart the game.)"
+  },
+  {
+    "Key": "0xD66C6E90",
+    "Value": "Warning! This setting is EXPERIMENTAL!\\nChanging this setting requires restarting the game to take effect!\\n\\n\\nSave and restart for this setting to work."
+  },
+  {
     "Key": "0xC5B01D8B",
     "Value": "Cheats"
   },
@@ -876,6 +896,30 @@
     "Value": "---------- Traits ----------"
   },
   {
+    "Key": "0xC651FE35",
+    "Value": "Nudity Enthusiast"
+  },
+  {
+    "Key": "0xCED7904E",
+    "Value": "Nudity Enthusiast"
+  },
+  {
+    "Key": "0x9FD73271",
+    "Value": "Nudity Enthusiasts like nudity, gain nudity-related skills, and undress to perform various activities naked."
+  },
+  {
+    "Key": "0x4313E56E",
+    "Value": "Fears Nudity"
+  },
+  {
+    "Key": "0x4293376F",
+    "Value": "Fears Nudity"
+  },
+  {
+    "Key": "0x1229FE1C",
+    "Value": "Sims that Fear Nudity don't like to undress or be around Sims that are naked."
+  },
+  {
     "Key": "0xF7B00D90",
     "Value": "No Underwear"
   },
@@ -892,32 +936,48 @@
     "Value": "---------- Lot Traits ----------"
   },
   {
-    "Key": "0x5B2AF2C9",
-    "Value": "Nudist"
+    "Key": "0xD68CBAF6",
+    "Value": "Casual Nudity"
   },
   {
     "Key": "0x87146729",
     "Value": "The thought of nudity could be scary, but this place pushes anyone's comfort level beyond what is considered appropriate."
   },
   {
+    "Key": "0xDDDCFEA1",
+    "Value": "Nudist Hangout"
+  },
+  {
+    "Key": "0x7B5BCEAD",
+    "Value": "Sims interested in exploring the world of nudism will visit this lot to become a true Nudity Enthusiast."
+  },
+  {
     "Key": "0x66AC60E9",
     "Value": "---------- Buffs ----------"
   },
   {
-    "Key": "0xF48B094F",
-    "Value": "<font color='#340658'>Being Naked</font>"
+    "Key": "0xC26EAB52",
+    "Value": "(From Being Naked)"
+  },
+  {
+    "Key": "0x4932A6CB",
+    "Value": "<font color='#340658'>Stripped Naked</font>"
   },
   {
     "Key": "0x32E7A30B",
     "Value": "When you shed your clothes you also shed just a few of the burdens of everyday life."
   },
   {
-    "Key": "0x65745556",
-    "Value": "<font color='#340658'>Under Pressure</font>"
+    "Key": "0x4246355F",
+    "Value": "<font color='#340658'>Anxiously Nude</font>"
   },
   {
-    "Key": "0xC26EAB52",
-    "Value": "(From Being Naked)"
+    "Key": "0x8F1E4C94",
+    "Value": "{0.SimFirstName} is not feeling comfortable undressed, maybe {M0.he}{F0.she} should put something on."
+  },
+  {
+    "Key": "0x65745556",
+    "Value": "<font color='#340658'>Under Pressure</font>"
   },
   {
     "Key": "0xD3F60337",
@@ -1072,44 +1132,44 @@
     "Value": "Go Streaking!"
   },
   {
-    "Key": "0xB6C4C717",
-    "Value": "Compliment Body"
+    "Key": "0x583E5D8C",
+    "Value": "Compliment {1.SimFirstName}'s Body"
   },
   {
-    "Key": "0x06789200",
-    "Value": "Compliment Sexy Body"
+    "Key": "0x03819689",
+    "Value": "Compliment {1.SimFirstName}'s Incredible Body"
   },
   {
-    "Key": "0x75AE1979",
-    "Value": "{1.SimFirstName} Compliments My Body"
+    "Key": "0xC87B60D0",
+    "Value": "{1.SimFirstName} Is Complimenting My Body"
   },
   {
-    "Key": "0xB575760F",
-    "Value": "Talk About Nudity"
+    "Key": "0x544B44CB",
+    "Value": "Express Joy of Nudity"
   },
   {
-    "Key": "0x58D5FE17",
-    "Value": "{1.SimFirstName} talks about nudity"
+    "Key": "0xA908A544",
+    "Value": "{1.SimFirstName} Is Expressing Joy Of Nudity"
   },
   {
-    "Key": "0xF3C39818",
-    "Value": "Convince to Naturism"
+    "Key": "0x23C8B1CD",
+    "Value": "Convince to Practice Naturism"
   },
   {
-    "Key": "0x3F1AFEFD",
-    "Value": "Convince to Exhibitionism"
+    "Key": "0x64422ED6",
+    "Value": "Convince to Practice Exhibitionism"
   },
   {
-    "Key": "0x9F7EF920",
-    "Value": "{1.SimFirstName} Convinces Me to Nudity"
+    "Key": "0x20B61951",
+    "Value": "{1.SimFirstName} Convinces Me to Practice Nudity"
   },
   {
-    "Key": "0xCE62863C",
-    "Value": "Ask to Get Naked"
+    "Key": "0x70303D14",
+    "Value": "Ask to Get Undressed"
   },
   {
-    "Key": "0x6839AFEC",
-    "Value": "{1.SimFirstName} Asks Me to Get Naked"
+    "Key": "0x1F807C6B",
+    "Value": "{1.SimFirstName} Asks Me To Undress"
   },
   {
     "Key": "0xB4F6170B",
@@ -1128,6 +1188,22 @@
     "Value": "{1.SimFirstName} Asks Me to Dress Up"
   },
   {
+    "Key": "0xA6B882D7",
+    "Value": "Everyone But Nudity Enthusiasts"
+  },
+  {
+    "Key": "0xBF19388E",
+    "Value": "---------- Selfies ----------"
+  },
+  {
+    "Key": "0x4C6148B3",
+    "Value": "Take & Send a Nude Selfie"
+  },
+  {
+    "Key": "0x9450E239",
+    "Value": "{0.SimFirstName} doesn't feel like undressing right now is appropriate."
+  },
+  {
     "Key": "0xAAAD4C3E",
     "Value": "---------- Tanning ----------"
   },
@@ -1138,6 +1214,14 @@
   {
     "Key": "0xB1063430",
     "Value": "---------- Penis Adjustments ----------"
+  },
+  {
+    "Key": "0x865B8B03",
+    "Value": "Change {0.SimFirstName}'s Penis Size"
+  },
+  {
+    "Key": "0xFB4CD6BE",
+    "Value": "Change All Sims Penis Size"
   },
   {
     "Key": "0x8E04BCC6",
@@ -1288,6 +1372,10 @@
     "Value": "- Underage Sims are present on the current lot and their eyes must be respected.\\n\\n"
   },
   {
+    "Key": "0xA708A6F3",
+    "Value": "- {0.SimFirstName} is afraid of nudity.\\n\\n"
+  },
+  {
     "Key": "0x5241B4C1",
     "Value": "{0.SimName} stripped from {M0.his}{F0.her} bra."
   },
@@ -1310,6 +1398,18 @@
   {
     "Key": "0x672B7B80",
     "Value": "{0.SimName} lost {M0.his}{F0.her} swimsuit when jumping to water."
+  },
+  {
+    "Key": "0xC4529198",
+    "Value": "Nudity Enthusiast Attribute"
+  },
+  {
+    "Key": "0x559D20B8",
+    "Value": "This message is meant to inform you about the 'Nudity Enthusiast' trait that {0.SimFirstName} can acquire.\\n\\n{0.SimFirstName} has undressed but {M0.he}{F0.she} is not a Nudity Enthusiast. This means that {0.SimFirstName} will not gain any progress towards the Naturism skill and not participate in certain activities naked.\\nYou can assign {0.SimFirstName} the Nudity Enthusiast Wicked Attribute (trait) to enable the additional skill and activity behavior. Use the button below to assign Wicked Attributes to {0.SimFirstName}.\\n\\nIf you already decided that {0.SimFirstName} is not a Nudity Enthusiast, you ignore this message."
+  },
+  {
+    "Key": "0x22B6725A",
+    "Value": "Adjust {0.SimFirstName} Wicked Attributes"
   },
   {
     "Key": "0xAB741058",
@@ -3006,14 +3106,6 @@
   {
     "Key": "0x8D8A7C6E",
     "Value": "SimHub Rating: {0.Number}%"
-  },
-  {
-    "Key": "0x40B252A8",
-    "Value": "Can't use the Picture Slider?"
-  },
-  {
-    "Key": "0x2DDD4C55",
-    "Value": "The picture slider to rotate the scene might not be functional.\\n\\nClick on the camera viewfinder to rotate the view around. Use the WSAD and QE keys to move the camera."
   },
   {
     "Key": "0xD59F9D85",

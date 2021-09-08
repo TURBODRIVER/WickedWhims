@@ -284,6 +284,10 @@
     "Value": "Sure, I'm coming to pick <b>it</b> up ;)"
   },
   {
+    "Key": "0x9D98AE69",
+    "Value": "How about you bring <b>it</b> over to my place?"
+  },
+  {
     "Key": "0x32C6600C",
     "Value": "I will pick it up some other day."
   },
@@ -292,20 +296,28 @@
     "Value": "I’m not feeling myself today. Can I feel you instead?"
   },
   {
-    "Key": "0x7162F02B",
-    "Value": "I have something for you to feel ;) I'm coming over!"
+    "Key": "0xBBFD9332",
+    "Value": "I have something for you to feel :wink: I'm coming over!"
+  },
+  {
+    "Key": "0x88C822BE",
+    "Value": "Come over and have a feel ;)"
   },
   {
     "Key": "0xEB18C51F",
     "Value": "I'm not feeling like myself today either."
   },
   {
-    "Key": "0x1F71DC2B",
-    "Value": "I'm feeling very off today, could you come over and turn me on?"
+    "Key": "0xB73A7D18",
+    "Value": "I'm feeling very off today, wanna meet up so you can turn me on?"
   },
   {
-    "Key": "0x55D5B1AD",
-    "Value": "Oh! I'm good at pressing these kind of buttons ;) I'm on my way!"
+    "Key": "0x2FBE3280",
+    "Value": "Oh! I'm good at pressing these kind of buttons :wink: I'm on my way!"
+  },
+  {
+    "Key": "0x31C1117C",
+    "Value": "Great idea, wanna come over?"
   },
   {
     "Key": "0x9AAA2CDB",
@@ -320,6 +332,10 @@
     "Value": "I'm on my way, don't start without me!"
   },
   {
+    "Key": "0xB52D0A28",
+    "Value": "How about you come over and we have sex together?"
+  },
+  {
     "Key": "0x81AA4F97",
     "Value": "Sorry, I will be late."
   },
@@ -330,6 +346,10 @@
   {
     "Key": "0x0F93121E",
     "Value": "Say no more, I'm coming over!"
+  },
+  {
+    "Key": "0x8030E770",
+    "Value": "Come over and share these thoughts with me, hmm?"
   },
   {
     "Key": "0xBCE6BCB0",
@@ -344,6 +364,10 @@
     "Value": "What if <i>someone</i> sneaks into your house? ;)"
   },
   {
+    "Key": "0x9CA7AB21",
+    "Value": "Why don't you come over and take a shower at my place?"
+  },
+  {
     "Key": "0x79977AC4",
     "Value": "That's very irresponsible, please always lock your doors."
   },
@@ -352,20 +376,28 @@
     "Value": "I'm <i>thirsty</i> for you right now..."
   },
   {
-    "Key": "0x50CE4DB2",
-    "Value": "Oh, I've got <i>something</i> that can quench your thirst!"
+    "Key": "0xAA5D5472",
+    "Value": "Oh, I'm coming over to quench your thirst!"
+  },
+  {
+    "Key": "0x1C835900",
+    "Value": "Come over. I've got <i>something</i> that can quench your thirst."
   },
   {
     "Key": "0x8345411A",
     "Value": "Stay hydrated, I can't make it today."
   },
   {
-    "Key": "0xDB75D35D",
-    "Value": "I wanted to ask you for a nude pic, but I might as well invite you over and get the real thing!"
+    "Key": "0xF1E4B42F",
+    "Value": "I wanted to ask you for a nude pic, but we might as well just meet and get the real thing!"
   },
   {
     "Key": "0xDCBB67F6",
     "Value": "I like the way you think, on my way!"
+  },
+  {
+    "Key": "0x1F9A5993",
+    "Value": "Well I'm at home and the doors are unlocked."
   },
   {
     "Key": "0x1FED4AB5",
@@ -380,6 +412,10 @@
     "Value": "On my way, but I get to touch you too!"
   },
   {
+    "Key": "0xCFA1656F",
+    "Value": "Come to my place, my body is ready..."
+  },
+  {
     "Key": "0x3F34B745",
     "Value": "It's a shame that I'm busy right now."
   },
@@ -390,6 +426,10 @@
   {
     "Key": "0x26DE0E3B",
     "Value": "Let's see how faithful these mods are. I'm on my way!"
+  },
+  {
+    "Key": "0xBDCECD82",
+    "Value": "Why don't you come over and show me what these mods are all about?"
   },
   {
     "Key": "0x2D448FFF",
@@ -404,12 +444,48 @@
     "Value": "Sounds exciting! I'm coming!"
   },
   {
+    "Key": "0x1AF1FAD2",
+    "Value": "Fun! Wanna come over... right now?"
+  },
+  {
     "Key": "0xE1E4FFAD",
     "Value": "Maybe another time?"
   },
   {
     "Key": "0xA61EA8B9",
     "Value": "Booty Call"
+  },
+  {
+    "Key": "0x9C7E3D3A",
+    "Value": "---------- Shower Together ----------"
+  },
+  {
+    "Key": "0xE330998E",
+    "Value": "Shower Together"
+  },
+  {
+    "Key": "0xCE33BA60",
+    "Value": "Be Asked To Shower Together"
+  },
+  {
+    "Key": "0x0CF94120",
+    "Value": "Shower With"
+  },
+  {
+    "Key": "0x92FEB500",
+    "Value": "Shower with {2.SimFirstName}"
+  },
+  {
+    "Key": "0xA232CBB9",
+    "Value": "Saving Water"
+  },
+  {
+    "Key": "0x3BE6BE2C",
+    "Value": "(From Taking a Shower Together)"
+  },
+  {
+    "Key": "0x1B2CF24F",
+    "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
   },
   {
     "Key": "0x94C8C365",
