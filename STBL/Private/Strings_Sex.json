@@ -2089,6 +2089,74 @@
       "Value": "Note that using this during any sex interactions may result in problems!\\nIt is recommended to not use this disabler while any sex interactions are playing!"
     },
     {
+      "Key": "0xE404F3A7",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xE901F1BD",
+      "Value": "Disallow Sex Autonomy"
+    },
+    {
+      "Key": "0xF1C281C0",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy."
+    },
+    {
+      "Key": "0xB5DE836B",
+      "Value": "Disallow Sex Autonomy Among Sims Inside Protocol"
+    },
+    {
+      "Key": "0x84FAFEFA",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy with other Sims inside of this group."
+    },
+    {
+      "Key": "0x99853258",
+      "Value": "Disallow Sex Autonomy Among Sims Outside Protocol"
+    },
+    {
+      "Key": "0x584C5AA7",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy with other Sims outside of this group."
+    },
+    {
+      "Key": "0x9841D367",
+      "Value": "Disallow Sex Autonomy Joining Among Sims Inside Protocol"
+    },
+    {
+      "Key": "0x657DBA7B",
+      "Value": "Sims within this group are disallowed to autonomously join sex of other Sims inside of this group."
+    },
+    {
+      "Key": "0xF084AE7C",
+      "Value": "Disallow Sex Autonomy Joining Among Sims Outside Protocol"
+    },
+    {
+      "Key": "0x67E2EC7C",
+      "Value": "Sims within this group are disallowed to autonomously join sex of other Sims outside of this group."
+    },
+    {
+      "Key": "0xEB7F3E63",
+      "Value": "Always Accept Sex With Sims Inside Protocol"
+    },
+    {
+      "Key": "0x6B7F2919",
+      "Value": "Sims within this group Always Accept Sex with other Sims inside of this group."
+    },
+    {
+      "Key": "0x400B01D1",
+      "Value": "Disallow Reaction to Sex Inside Protocol"
+    },
+    {
+      "Key": "0x91F05744",
+      "Value": "Sims within this group are prevented from reacting to sex of other Sims inside of this group."
+    },
+    {
+      "Key": "0x6B80900A",
+      "Value": "Disallow Reaction to Sex Outside Protocol"
+    },
+    {
+      "Key": "0xB2848CF5",
+      "Value": "Sims within this group are prevented from reacting to sex of other Sims outside of this group."
+    },
+    {
       "Key": "0x3C06D868",
       "Value": "---------- SEX GENERAL ----------"
     },
@@ -2165,8 +2233,12 @@
       "Value": "Heterosexual Orientation"
     },
     {
-      "Key": "0x5DE95F0D",
-      "Value": "Homosexual Orientation"
+      "Key": "0x7506B4EF",
+      "Value": "Homosexual (Male) Orientation"
+    },
+    {
+      "Key": "0xF0E90CC8",
+      "Value": "Homosexual (Female) Orientation"
     },
     {
       "Key": "0xEE716A05",
@@ -2791,6 +2863,42 @@
     {
       "Key": "0x8ABB42AD",
       "Value": "Dance Context"
+    },
+    {
+      "Key": "0x1F526AA1",
+      "Value": "---------- SEX MOOD ----------"
+    },
+    {
+      "Key": "0x7706C821",
+      "Value": "Sex"
+    },
+    {
+      "Key": "0x3DC31248",
+      "Value": "Sims in the Sex state are above all emotions."
+    },
+    {
+      "Key": "0x2E5D0292",
+      "Value": "<font color='#340658'>Scrumptious Rump</font>"
+    },
+    {
+      "Key": "0x7E4090E7",
+      "Value": "There are Sims who appreciate their sex partners' behind a fair amount. Then there's {0.SimFirstName} who literally cannot get enough of it."
+    },
+    {
+      "Key": "0x3F28C185",
+      "Value": "<font color='#340658'>Try Holding with Both Hands</font>"
+    },
+    {
+      "Key": "0xB7203E8D",
+      "Value": "{0.SimFirstName} should probably focus more on what {M0.he}{F0.she}'s doing but {M0.he}{F0.she} can't stop looking at {M0.his}{F0.her} partners exquisite pair of breasts moving so sensually in front of {M0.him}{F0.her}."
+    },
+    {
+      "Key": "0x692FE294",
+      "Value": "<font color='#340658'>Sculpted Lover</font>"
+    },
+    {
+      "Key": "0xF896D25F",
+      "Value": "{0.SimFirstName} cannot get {M0.his}{F0.her} eyes off of {M0.his}{F0.her} partner's incredibly chiseled body. Every move highlights a different muscle and it's all so very hipnotizing and arousing for {0.SimFirstName}."
     },
     {
       "Key": "0xB3EAB2BF",
@@ -3507,6 +3615,10 @@
     {
       "Key": "0x5102FB59",
       "Value": "No, nobody can join in."
+    },
+    {
+      "Key": "0x3B5C8D82",
+      "Value": "No, but you can watch."
     },
     {
       "Key": "0x9A0B7AB2",
@@ -4821,6 +4933,10 @@
       "Value": "{1.SimFirstName} is not going to cheat on their significant other."
     },
     {
+      "Key": "0x90F5DB10",
+      "Value": "Sims are in a Protocol that prevents initiating sex."
+    },
+    {
       "Key": "0x8224DF8F",
       "Value": "Negative friendship."
     },
@@ -5217,8 +5333,20 @@
       "Value": "Watch Sex"
     },
     {
-      "Key": "0x66CA9C71",
-      "Value": "Watching Sex"
+      "Key": "0x1BB5F96D",
+      "Value": "Invite to Watch Sex"
+    },
+    {
+      "Key": "0x5F6B1800",
+      "Value": "{0.SimFirstName} has been asked to leave."
+    },
+    {
+      "Key": "0x8B3187D4",
+      "Value": "{0.SimFirstName} isn't interested in watching this."
+    },
+    {
+      "Key": "0x723FB79A",
+      "Value": "{0.SimFirstName} can't watch this."
     },
     {
       "Key": "0xEDB578F0",
@@ -5241,12 +5369,64 @@
       "Value": "Watch Porn"
     },
     {
-      "Key": "0x991CA9C8",
-      "Value": "Sim just watched porn."
+      "Key": "0x534F245E",
+      "Value": "Masturbate to TV Porn"
+    },
+    {
+      "Key": "0xC98D3271",
+      "Value": "{0.SimFirstName} is already masturbating."
+    },
+    {
+      "Key": "0xE36C5DE2",
+      "Value": "{0.SimFirstName} just masturbated."
+    },
+    {
+      "Key": "0xCFEC535F",
+      "Value": "Select a video for {0.SimFirstName} to watch."
+    },
+    {
+      "Key": "0xEFD1EB5D",
+      "Value": "<b>Duration:</b> {0.String} | <b>Author:</b> {1.String}\\n{2.String}"
+    },
+    {
+      "Key": "0x0393A5FB",
+      "Value": "Bedroom Naughtiness"
+    },
+    {
+      "Key": "0xBC6487CE",
+      "Value": "Take a peek inside a steamy bedroom, where your wildest lesbian fantasies come true!"
+    },
+    {
+      "Key": "0x1F5E2087",
+      "Value": "Two Girls One Cock"
+    },
+    {
+      "Key": "0x9147038F",
+      "Value": "The hottest threesome action on the market right now!\\n\\nNO CUPS WERE INVOLVED IN MAKING OF THIS VIDEO."
+    },
+    {
+      "Key": "0xB4090E54",
+      "Value": "Nerdy Girl Gets A Warm Welcome at the Gym"
+    },
+    {
+      "Key": "0x2CB87708",
+      "Value": "A pink-haired nymph encounters a new face in the locker room and cannot control her urges."
+    },
+    {
+      "Key": "0x0307B646",
+      "Value": "Bareback Mountain"
+    },
+    {
+      "Key": "0x7C59511A",
+      "Value": "Join these two manly men, as they engage in the manliest form of sex known to man!"
     },
     {
       "Key": "0x1591A89F",
       "Value": "(From Being Caught Masturbating)"
+    },
+    {
+      "Key": "0x9E4585E6",
+      "Value": "(From Being Caught Watching Porn)"
     },
     {
       "Key": "0xC96F8EDB",
@@ -5255,6 +5435,14 @@
     {
       "Key": "0x0C0FC695",
       "Value": "{0.SimFirstName} just needs a few more minutes to get some relief. What {M0.he}{F0.she} didn't want was another Sim barging in and interrupting while they were trying to finish off!"
+    },
+    {
+      "Key": "0xFA180990",
+      "Value": "<font color='#340658'>Some Quiet Time Please!</font>"
+    },
+    {
+      "Key": "0x5CDB2189",
+      "Value": "{0.SimFirstName} just wants some quiet time to enjoy watching adult entertainment... not another Sim barging in and catching {M0.him}{F0.her} looking at pornography!"
     },
     {
       "Key": "0x921CF15F",

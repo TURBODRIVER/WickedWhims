@@ -309,6 +309,30 @@
       "Value": "Check for Sims to first undress to underwear when performing an autonomous interaction before getting naked.\\nUncheck for Sims to undress directly to nudity when performing an autonomous interaction and skip showing underwear."
     },
     {
+      "Key": "0x63829F9A",
+      "Value": "Creep NPC Settings"
+    },
+    {
+      "Key": "0xF96664EF",
+      "Value": "Creep NPC related settings."
+    },
+    {
+      "Key": "0x8042E83D",
+      "Value": "Creep NPC Sims Switch"
+    },
+    {
+      "Key": "0xB17688DF",
+      "Value": "Check to allow spawning of Creep NPC Sims that show up at public lots when naked Sims are around.\\nUncheck to disallow spawning of Creep NPC Sims."
+    },
+    {
+      "Key": "0xE970AFE1",
+      "Value": "Creep NPC Sims Spawn Probability"
+    },
+    {
+      "Key": "0xE8D44BFA",
+      "Value": "Set a unit interval value for chance of Creep NPC Sims showing up. Value 1.0 is 100% chance.\\n(Default: 0.30, Minimum: 0.01)"
+    },
+    {
       "Key": "0x5918AF2F",
       "Value": "Occurrence Specifics"
     },
@@ -363,6 +387,14 @@
     {
       "Key": "0x052B99BA",
       "Value": "Sims will get naked when getting into water*.\\n<b>Fully Check</b> for Sims to always get naked in water.\\n<b>Half Check</b> for Sims to sometimes get naked in water.\\n<b>Uncheck</b> for Sims to never get naked in water.\\n*(with the exception of gym, spa, and pool venues)"
+    },
+    {
+      "Key": "0x547210C1",
+      "Value": "Naked in Onsen Hot Springs"
+    },
+    {
+      "Key": "0x71F0865D",
+      "Value": "Sims will get naked when getting into Onsen Hot Springs.\\n<b>Fully Check</b> for Sims to always get naked in hot springs.\\n<b>Half Check</b> for Sims to sometimes get naked hot springs.\\n<b>Uncheck</b> for Sims to never get naked hot springs."
     },
     {
       "Key": "0xE3916F48",
@@ -711,6 +743,50 @@
     {
       "Key": "0xE5BEAC46",
       "Value": "Check for Sims to react to nudity."
+    },
+    {
+      "Key": "0x93278462",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xE4885F93",
+      "Value": "Disallow Nudity Autonomy"
+    },
+    {
+      "Key": "0xF01B90B0",
+      "Value": "Sims within this group are disallowed to participate in Nudity Autonomy."
+    },
+    {
+      "Key": "0x44868034",
+      "Value": "Disallow Nudity Around Sims Inside Protocol"
+    },
+    {
+      "Key": "0x5FBFBDE9",
+      "Value": "Sims within this group are disallowed to be naked around other Sims inside of this group."
+    },
+    {
+      "Key": "0xC564BC39",
+      "Value": "Disallow Nudity Around Sims Outside Protocol"
+    },
+    {
+      "Key": "0x8DF8E8CE",
+      "Value": "Sims within this group are disallowed to be naked around other Sims outside of this group."
+    },
+    {
+      "Key": "0x9E756005",
+      "Value": "Disallow Reaction to Nudity Inside Protocol"
+    },
+    {
+      "Key": "0x5507A1C6",
+      "Value": "Sims within this group are prevented from reacting to nudity of other Sims inside of this group."
+    },
+    {
+      "Key": "0x0F712ABE",
+      "Value": "Disallow Reaction to Nudity Outside Protocol"
+    },
+    {
+      "Key": "0x99F38ABB",
+      "Value": "Sims within this group are prevented from reacting to nudity of other Sims outside of this group."
     },
     {
       "Key": "0x14F7CDC6",
@@ -1377,6 +1453,10 @@
       "Value": "- {0.SimFirstName} is afraid of nudity.\\n\\n"
     },
     {
+      "Key": "0x1253AED6",
+      "Value": "- {0.SimFirstName} is in a Sims Protocol that prevents nudity in the current circumstances.\\n\\n"
+    },
+    {
       "Key": "0x5241B4C1",
       "Value": "{0.SimName} stripped from {M0.his}{F0.her} bra."
     },
@@ -1733,6 +1813,26 @@
       "Value": "{0.SimName} doesn't feel like flashing Sims right now is a good idea.\\n\\n{0.String}{1.String}{2.String}{3.String}{4.String}{5.String}{6.String}{7.String}{8.String}{9.String}"
     },
     {
+      "Key": "0x6D1FF5A5",
+      "Value": "---------- Creep NPC ----------"
+    },
+    {
+      "Key": "0x40248908",
+      "Value": "Creep"
+    },
+    {
+      "Key": "0xFC05E961",
+      "Value": "Ask Creep to Leave"
+    },
+    {
+      "Key": "0xFA8B363D",
+      "Value": "Threaten Creep"
+    },
+    {
+      "Key": "0xB74BB19B",
+      "Value": "Show Off to Creep"
+    },
+    {
       "Key": "0x4A34F036",
       "Value": "---------- Pee On Spot ----------"
     },
@@ -1963,6 +2063,18 @@
     {
       "Key": "0xD669CA38",
       "Value": "Female"
+    },
+    {
+      "Key": "0xD21A6103",
+      "Value": "Get Bikini Wax"
+    },
+    {
+      "Key": "0xB11DB0A0",
+      "Value": "Bikini Wax will permanently apply the current pubic hair style and prevent further growth of pubic hair unless the style is changed."
+    },
+    {
+      "Key": "0xBC556231",
+      "Value": "{0.SimFirstName} has already waxed {M0.his}{F0.her} bikini area."
     },
     {
       "Key": "0x2852ED15",

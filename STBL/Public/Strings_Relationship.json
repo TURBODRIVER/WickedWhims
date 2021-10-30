@@ -109,22 +109,6 @@
       "Value": "Changing this setting will irreversibly alter the state of Attractiveness!\\n\\nMake sure to save the game before applying changes."
     },
     {
-      "Key": "0x80C270BF",
-      "Value": "Romance Age Restrictions Switch"
-    },
-    {
-      "Key": "0xD1771538",
-      "Value": "Check to unlock romance interactions between teen-age and adult-age Sims.\\nUncheck to keep romance interactions locked between teen-age and adult-age Sims."
-    },
-    {
-      "Key": "0x342BA695",
-      "Value": "Open Relationships Switch"
-    },
-    {
-      "Key": "0xE5E593A7",
-      "Value": "Check to unlock romance interactions for multiple partners and marriages.\\nUncheck to keep romance interactions locked from multiple partners and marriages."
-    },
-    {
       "Key": "0x70A69160",
       "Value": "Persistent Social Boredom Switch"
     },
@@ -141,14 +125,6 @@
       "Value": "Check to allow Sims to have lewd dreams about Sims they know."
     },
     {
-      "Key": "0x1CF2A53E",
-      "Value": "Cheats"
-    },
-    {
-      "Key": "0xBABFC4D5",
-      "Value": "Change things that you find annoying."
-    },
-    {
       "Key": "0x71EA565C",
       "Value": "Desire Switch"
     },
@@ -157,20 +133,44 @@
       "Value": "Check to enable Sims gaining desire from romance interactions.\\nUncheck to disable Sims gaining desire and desire moodlets."
     },
     {
-      "Key": "0xB0B71347",
-      "Value": "Global Jealousy Switch"
+      "Key": "0x0FD93394",
+      "Value": "Relationship Utilities"
     },
     {
-      "Key": "0x20BE35FD",
-      "Value": "Check to keep the default jealousy from cheating behavior of Sims.\\nUncheck to disable any jealousy from cheating behavior of Sims.\\n\\nUse the Polyamorous reward trait for individual Sims."
+      "Key": "0x0240337E",
+      "Value": "Adjust things in the game that you find annoying or limiting."
     },
     {
-      "Key": "0xEFC850D3",
-      "Value": "Global Incest Switch"
+      "Key": "0x342BA695",
+      "Value": "Open Relationships Switch"
     },
     {
-      "Key": "0x5DAF1625",
-      "Value": "Check to enable incestuous relationships.\\nUncheck to disable incestuous relationships.\\n\\nUse the Incest reward trait for individual Sims."
+      "Key": "0xE5E593A7",
+      "Value": "Check to unlock romance interactions for multiple partners and marriages.\\nUncheck to keep romance interactions locked from multiple partners and marriages."
+    },
+    {
+      "Key": "0x43E32B36",
+      "Value": "Adult-Teen Relationships Switch"
+    },
+    {
+      "Key": "0xD1771538",
+      "Value": "Check to unlock romance interactions between teen-age and adult-age Sims.\\nUncheck to keep romance interactions locked between teen-age and adult-age Sims."
+    },
+    {
+      "Key": "0x6E77229D",
+      "Value": "Family Relationships Switch"
+    },
+    {
+      "Key": "0x43CBCA37",
+      "Value": "Check to enable family/incestuous relationships for all Sims.\\nUncheck to disable family/incestuous relationships for all Sims.\\n\\nUse the 'Incestuous' Wicked Attribute for individual Sims."
+    },
+    {
+      "Key": "0x72685E9C",
+      "Value": "Relationship Jealousy Switch"
+    },
+    {
+      "Key": "0x52DE9579",
+      "Value": "Check to keep the default jealousy from cheating behavior of Sims.\\nUncheck to disable any jealousy from cheating behavior of Sims.\\n\\nUse the 'Polyamorous' Wicked Attribute trait for individual Sims."
     },
     {
       "Key": "0xEAB5E6C9",

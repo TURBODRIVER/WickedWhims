@@ -281,6 +281,10 @@
       "Value": "Thank You For Your Feedback!"
     },
     {
+      "Key": "0x8A66088D",
+      "Value": "Thank You for your hopefully <b>constructive</b> opinion!\\n\\nIf your feedback is about an issue, an error, or something not being correct, this is the worst way to share it. Vast majority of problems are on the user-end and without a way to contact you, your problem will never get solved. Please contact us instead!"
+    },
+    {
       "Key": "0xCE456AA5",
       "Value": "Please Wait A While Before Sending More!"
     },
@@ -541,8 +545,8 @@
       "Value": "--------------- Welcome Message ---------------"
     },
     {
-      "Key": "0xCB1FDA4E",
-      "Value": "{0.String}\\n\\nYou're running WickedWhims <b>{1.String}</b>\\n\\nLoaded <b>{2.Number}</b> animations by {3.String}.\\n\\nLoaded Custom Content by {4.String}.\\n\\n<b><u>Key Development Contributions</u></b>\\n<b>Noir and Dark Sims</b>\\n   https://patreon.com/noiranddark\\n<b>Mike24</b>\\n   https://patreon.com/mike24\\n<b>Azmodan22</b>\\n   https://patreon.com/azmodan22\\n<b>PhaseLotA</b>\\n   https://twitter.com/PhaseLotA\\n<b>MiniGiles</b>\\n   https://buymeacoffee.com/MiniGiles\\n<b>wild_guy</b>\\n   https://www.patreon.com/wild_guy\\n<b>ooOLaLa World</b>\\n   https://patreon.com/ooOLaLaWorld\\n<b>Lupobianco</b>\\n   https://patreon.com/lupobianco\\n<b>Luumia</b>\\n   https://luumiasims.com\\n<b>Jarl44, Husk, Denton47, autobanned, Redabyss, biondosim, and ZoahcX</b>.\\n\\n<b>WickedWhims by TURBODRIVER.</b>\\n\\nWickedWhims is provided under the terms of <b>CC BY-NC-ND 4.0</b> public license."
+      "Key": "0x895B325D",
+      "Value": "{0.String}\\n\\nYou're running WickedWhims <b>{1.String}</b>\\n\\nLoaded <b>{2.Number}/{3.Number}</b> animations by {4.String}.\\n\\nLoaded Custom Content by {5.String}.\\n\\n<b><u>Key Development Contributions</u></b>\\n<b>Noir and Dark Sims</b>\\n   https://patreon.com/noiranddark\\n<b>Mike24</b>\\n   https://patreon.com/mike24\\n<b>Azmodan22</b>\\n   https://patreon.com/azmodan22\\n<b>PhaseLotA</b>\\n   https://twitter.com/PhaseLotA\\n<b>MiniGiles</b>\\n   https://buymeacoffee.com/MiniGiles\\n<b>wild_guy</b>\\n   https://www.patreon.com/wild_guy\\n<b>ooOLaLa World</b>\\n   https://patreon.com/ooOLaLaWorld\\n<b>Lupobianco</b>\\n   https://patreon.com/lupobianco\\n<b>Luumia</b>\\n   https://luumiasims.com\\n<b>Jarl44, Husk, Denton47, autobanned, Redabyss, biondosim, and ZoahcX</b>.\\n\\n<b>WickedWhims by TURBODRIVER.</b>\\n\\nWickedWhims is provided under the terms of <b>CC BY-NC-ND 4.0</b> public license."
     },
     {
       "Key": "0x798AD3D6",

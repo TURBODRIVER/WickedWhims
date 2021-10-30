@@ -2165,8 +2165,12 @@
       "Value": "Heterosexual Orientation"
     },
     {
-      "Key": "0x5DE95F0D",
-      "Value": "Homosexual Orientation"
+      "Key": "0x7506B4EF",
+      "Value": "Homosexual (Male) Orientation"
+    },
+    {
+      "Key": "0xF0E90CC8",
+      "Value": "Homosexual (Female) Orientation"
     },
     {
       "Key": "0xEE716A05",

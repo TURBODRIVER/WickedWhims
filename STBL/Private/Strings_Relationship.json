@@ -9,8 +9,8 @@
       "Value": "Relationship Settings"
     },
     {
-      "Key": "0x892E6F69",
-      "Value": "Change relationship settings.\\n\\nThese settings affect the base game mechanics like age restrictions, gender preferences, incest, polygamy, and jealousy)."
+      "Key": "0xF6F706D7",
+      "Value": "Change relationship settings.\\n\\nThese settings affect relationship mechanics like Attractiveness, Impressions, and relationship limitations)."
     },
     {
       "Key": "0xB2A5D15E",
@@ -97,6 +97,14 @@
       "Value": "Set a unit interval value for chance of Suggestive Look occurring. Value 1.0 is 100% chance.\\n(Default: 0.85, Minimum: 0.0)"
     },
     {
+      "Key": "0x004FA984",
+      "Value": "Attractiveness Social Attraction Switch"
+    },
+    {
+      "Key": "0xD1B7A17D",
+      "Value": "Check to allow Sims to receive body and outfit attraction moodlets during conversations.\\nUncheck to disallow Sims from receiving body and outfit attraction moodlets during conversations."
+    },
+    {
       "Key": "0x99C4B68E",
       "Value": "Attractiveness Dynamic World View Switch"
     },
@@ -107,22 +115,6 @@
     {
       "Key": "0x4767E2E5",
       "Value": "Changing this setting will irreversibly alter the state of Attractiveness!\\n\\nMake sure to save the game before applying changes."
-    },
-    {
-      "Key": "0x80C270BF",
-      "Value": "Romance Age Restrictions Switch"
-    },
-    {
-      "Key": "0xD1771538",
-      "Value": "Check to unlock romance interactions between teen-age and adult-age Sims.\\nUncheck to keep romance interactions locked between teen-age and adult-age Sims."
-    },
-    {
-      "Key": "0x342BA695",
-      "Value": "Open Relationships Switch"
-    },
-    {
-      "Key": "0xE5E593A7",
-      "Value": "Check to unlock romance interactions for multiple partners and marriages.\\nUncheck to keep romance interactions locked from multiple partners and marriages."
     },
     {
       "Key": "0x70A69160",
@@ -141,14 +133,6 @@
       "Value": "Check to allow Sims to have lewd dreams about Sims they know."
     },
     {
-      "Key": "0x1CF2A53E",
-      "Value": "Cheats"
-    },
-    {
-      "Key": "0xBABFC4D5",
-      "Value": "Change things that you find annoying."
-    },
-    {
       "Key": "0x71EA565C",
       "Value": "Desire Switch"
     },
@@ -157,20 +141,44 @@
       "Value": "Check to enable Sims gaining desire from romance interactions.\\nUncheck to disable Sims gaining desire and desire moodlets."
     },
     {
-      "Key": "0xB0B71347",
-      "Value": "Global Jealousy Switch"
+      "Key": "0x0FD93394",
+      "Value": "Relationship Utilities"
     },
     {
-      "Key": "0x20BE35FD",
-      "Value": "Check to keep the default jealousy from cheating behavior of Sims.\\nUncheck to disable any jealousy from cheating behavior of Sims.\\n\\nUse the Polyamorous reward trait for individual Sims."
+      "Key": "0x0240337E",
+      "Value": "Adjust things in the game that you find annoying or limiting."
     },
     {
-      "Key": "0xEFC850D3",
-      "Value": "Global Incest Switch"
+      "Key": "0x342BA695",
+      "Value": "Open Relationships Switch"
     },
     {
-      "Key": "0x5DAF1625",
-      "Value": "Check to enable incestuous relationships.\\nUncheck to disable incestuous relationships.\\n\\nUse the Incest reward trait for individual Sims."
+      "Key": "0xE5E593A7",
+      "Value": "Check to unlock romance interactions for multiple partners and marriages.\\nUncheck to keep romance interactions locked from multiple partners and marriages."
+    },
+    {
+      "Key": "0x43E32B36",
+      "Value": "Adult-Teen Relationships Switch"
+    },
+    {
+      "Key": "0xD1771538",
+      "Value": "Check to unlock romance interactions between teen-age and adult-age Sims.\\nUncheck to keep romance interactions locked between teen-age and adult-age Sims."
+    },
+    {
+      "Key": "0x6E77229D",
+      "Value": "Family Relationships Switch"
+    },
+    {
+      "Key": "0x43CBCA37",
+      "Value": "Check to enable family/incestuous relationships for all Sims.\\nUncheck to disable family/incestuous relationships for all Sims.\\n\\nUse the 'Incestuous' Wicked Attribute for individual Sims."
+    },
+    {
+      "Key": "0x72685E9C",
+      "Value": "Relationship Jealousy Switch"
+    },
+    {
+      "Key": "0x52DE9579",
+      "Value": "Check to keep the default jealousy from cheating behavior of Sims.\\nUncheck to disable any jealousy from cheating behavior of Sims.\\n\\nUse the 'Polyamorous' Wicked Attribute trait for individual Sims."
     },
     {
       "Key": "0xEAB5E6C9",
@@ -1067,6 +1075,46 @@
     {
       "Key": "0x668CEF72",
       "Value": "It's a little too late to respond now."
+    },
+    {
+      "Key": "0xD3B21821",
+      "Value": "--------- Attractiveness Conversation ---------"
+    },
+    {
+      "Key": "0x2CB701C8",
+      "Value": "(From Talking To Attractive Sim)"
+    },
+    {
+      "Key": "0xC106875E",
+      "Value": "<font color='#340658'>But... Butt</font>"
+    },
+    {
+      "Key": "0x92A49B9E",
+      "Value": "It's a shame that society decided that when you talk to someone you should be facing each other. At least that's what {0.SimFirstName} thinks after {M0.he}{F0.she} noticed the very attractive butt shape of {M0.his}{F0.her} conversation partner."
+    },
+    {
+      "Key": "0x9A820898",
+      "Value": "<font color='#340658'>Magnetic Bosom</font>"
+    },
+    {
+      "Key": "0xEC80753A",
+      "Value": "Why must {0.SimFirstName}'s converser have such eye-catching breasts, and why can't {0.SimFirstName} stop {M0.himself}{F0.herself} from trying to catch a glimpse of them?!"
+    },
+    {
+      "Key": "0xF679E0F6",
+      "Value": "<font color='#340658'>Do You Work Out?</font>"
+    },
+    {
+      "Key": "0xAB395446",
+      "Value": "That Sim has some really nice muscles... so nice in fact that {0.SimFirstName} can't stop trying to look at them."
+    },
+    {
+      "Key": "0x48720061",
+      "Value": "<font color='#340658'>Where Do These End?</font>"
+    },
+    {
+      "Key": "0xDFF19896",
+      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she}'s talking to."
     },
     {
       "Key": "0xB77322D0",
