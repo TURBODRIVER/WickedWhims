@@ -533,6 +533,14 @@
       "Value": "Select Spellcaster Occult Sims"
     },
     {
+      "Key": "0xDA0A4DF2",
+      "Value": "Select Servo Occult Sims"
+    },
+    {
+      "Key": "0x2E41221C",
+      "Value": "Select Ghost Occult Sims"
+    },
+    {
       "Key": "0x22F57C13",
       "Value": "Select Homeless Sims"
     },
@@ -545,8 +553,8 @@
       "Value": "--------------- Welcome Message ---------------"
     },
     {
-      "Key": "0x895B325D",
-      "Value": "{0.String}\\n\\nYou're running WickedWhims <b>{1.String}</b>\\n\\nLoaded <b>{2.Number}/{3.Number}</b> animations by {4.String}.\\n\\nLoaded Custom Content by {5.String}.\\n\\n<b><u>Key Development Contributions</u></b>\\n<b>Noir and Dark Sims</b>\\n   https://patreon.com/noiranddark\\n<b>Mike24</b>\\n   https://patreon.com/mike24\\n<b>Azmodan22</b>\\n   https://patreon.com/azmodan22\\n<b>PhaseLotA</b>\\n   https://twitter.com/PhaseLotA\\n<b>MiniGiles</b>\\n   https://buymeacoffee.com/MiniGiles\\n<b>wild_guy</b>\\n   https://www.patreon.com/wild_guy\\n<b>ooOLaLa World</b>\\n   https://patreon.com/ooOLaLaWorld\\n<b>Lupobianco</b>\\n   https://patreon.com/lupobianco\\n<b>Luumia</b>\\n   https://luumiasims.com\\n<b>Jarl44, Husk, Denton47, autobanned, Redabyss, biondosim, and ZoahcX</b>.\\n\\n<b>WickedWhims by TURBODRIVER.</b>\\n\\nWickedWhims is provided under the terms of <b>CC BY-NC-ND 4.0</b> public license."
+      "Key": "0x3AEC5EFB",
+      "Value": "{0.String}\\n\\nYou're running WickedWhims <b>{1.String}</b>\\n\\nLoaded <b>{2.Number}/{3.Number}</b> animations by {4.String}.\\n\\nLoaded Custom Content by {5.String}.\\n\\nWickedWhims is provided under the terms of <b>CC BY-NC-ND 4.0</b> public license."
     },
     {
       "Key": "0x798AD3D6",
@@ -619,6 +627,30 @@
     {
       "Key": "0x5071CAEA",
       "Value": "Oi!"
+    },
+    {
+      "Key": "0xC27EFEE0",
+      "Value": "WickedWhims Credits"
+    },
+    {
+      "Key": "0x49907401",
+      "Value": "Credits"
+    },
+    {
+      "Key": "0x396BB418",
+      "Value": "<p align=\"center\"><font size=\"15\"><b>Tools Creators</b></font></p><br><font size=\"10\"><p><b>andrew</b> and <b>orangemittens</b> for Sims4Studio</p><p><a href='event:http://www.sims4studio.com'>http://sims4studio.com</a></p></font><br><font size=\"10\"><p><b>Fogity</b> for ModdingToolbox and PY37DEC</p><p><a href='event:https://www.patreon.com/fogity'>https://patreon.com/fogity</a></p></font><br><font size=\"10\"><p><b>CmarNYC</b> for TS4 Package Searcher and S4 CAS Tools</p><p><a href='event:https://www.modthesims.info/d/573139'>https://modthesims.info/d/573139</a></p><p><a href='event:https://www.modthesims.info/d/582348'>https://modthesims.info/d/582348</a></p></font><br><font size=\"10\"><p><b>Denton47</b> for TS4 Sound Tool</p><p><a href='event:https://modthesims.info/d/639090'>https://modthesims.info/d/639090</a></p></font><br><font size=\"10\"><p><b>Gregory Smith</b> for Aorta</p><p><a href='event:https://sourceforge.net/projects/aorta'>https://sourceforge.net/projects/aorta</a></p></font><br><font size=\"10\"><p><b>Deaderpool</b> for DP STBL Editor</p><p><a href='event:https://deaderpool-mccc.com'>https://deaderpool-mccc.com</a></p></font><br><font size=\"10\"><p><b>Peter Jones, ChaosMageX, andrewtavera, granthes, snaitf, IngeJones, Kuree, pboxx, CmarNYC</b> and <b>Buzzler</b> for S4PE</p><p><a href='event:https://github.com/s4ptacle/Sims4Tools'>https://github.com/s4ptacle/Sims4Tools</a></p></font><br><font size=\"10\"><p><b>Scumbumbo</b> for Tuning Description Browser and XML Extractor</p><p><a href='event:https://modthesims.info/t/555233'>https://modthesims.info/t/555233</a></p><p><a href='event:https://modthesims.info/d/563256'>https://modthesims.info/d/563256</a></p></font><br><font size=\"10\"><p><b>mgomez</b> for Python Decompiler Script</p><p><a href='event:https://modthesims.info/t/540664'>https://modthesims.info/t/540664</a></p></font><br>"
+    },
+    {
+      "Key": "0x521094B1",
+      "Value": "<p align=\"center\"><font size=\"15\"><b>Animation Creators</b></font></p><br><font size=\"10\"><p><b>Mike24</b> for providing specific and preview animations</p><p><a href='event:https://www.patreon.com/mike24'>https://www.patreon.com/mike24</a></p></font><br><font size=\"10\"><p><b>ooOLaLa World</b> for providing specific animations</p><p><a href='event:https://www.patreon.com/ooOLaLaWorld'>https://www.patreon.com/ooOLaLaWorld</a></p></font><br><font size=\"10\"><p><b>Azmodan22</b> for providing specific and preview animations</p><p><a href='event:https://www.patreon.com/azmodan22'>https://www.patreon.com/azmodan22</a></p></font><br><font size=\"10\"><p><b>MOTHERLODE</b> for providing preview animations</p><p><a href='event:https://www.patreon.com/motherlodesims'>https://www.patreon.com/motherlodesims</a></p></font><br><font size=\"10\"><p><b>Lupobianco</b> for providing specific and preview animations</p><p><a href='event:https://www.patreon.com/lupobianco'>https://www.patreon.com/lupobianco</a></p></font><br><font size=\"10\"><p><b>wild_guy</b> for providing specific animations</p><p><a href='event:https://www.patreon.com/wild_guy'>https://www.patreon.com/wild_guy</a></p></font><br><font size=\"10\"><p><b>GreyNaya</b> for providing specific preview animations</p><p><a href='event:https://www.patreon.com/GreyNaya'>https://www.patreon.com/GreyNaya</a></p></font><br><font size=\"10\"><p><b>Atrois</b> for providing preview animations</p><p><a href='event:https://www.patreon.com/ATrois'>https://www.patreon.com/ATrois</a></p></font><br>"
+    },
+    {
+      "Key": "0xD40511A3",
+      "Value": "<p align=\"center\"><font size=\"15\"><b>Content Makers</b></font></p><br><font size=\"10\"><p><b>MiniGiles</b> for various models and textures</p><p><a href='event:https://www.buymeacoffee.com/MiniGiles'>https://www.buymeacoffee.com/MiniGiles</a></p></font><br><font size=\"10\"><p><b>Noir and Dark Sims</b> for birth control objects and body models</p><p><a href='event:https://noiranddarksims-adultworld.blogspot.com'>https://noiranddarksims-adultworld.blogspot.com</a></p></font><br><font size=\"10\"><p><b>Wyatt</b> for special in-game menu logo</p><p><a href='event:https://wyattssims.tumblr.com'>https://wyattssims.tumblr.com</a></p></font><br><font size=\"10\"><p><b>Luumia</b> for logo and wrapped condom object</p><p><a href='event:https://luumiasims.com'>https://luumiasims.com</a></p></font><br><font size=\"10\"><p><b>Nolan-Sims</b> for sweat overlays and various icons</p><p><a href='event:https://nolan-sims.tumblr.com'>https://nolan-sims.tumblr.com</a></p></font><br><font size=\"10\"><p><b>Kritical</b> for lube bottle model</p><p><a href='event:https://patreon.com/KrNC'>https://patreon.com/KrNC</a></p></font><br><font size=\"10\"><p><b>Peco</b> for dedicated in-game porn videos</p><p><a href='event:https://patreon.com/peco328'>https://patreon.com/peco328</a></p></font><br><font size=\"10\"><p><b>mrrakkonn</b> for in-game porn videos</p><p><a href='event:https://patreon.com/mrrakkonn'>https://patreon.com/mrrakkonn</a></p></font><br><font size=\"10\"><p><b>PhaseLotA</b> for various icons</p></font><font size=\"10\"><p><b>Jarl44</b> for flavor writing</p></font><font size=\"10\"><p><b>thesimsxxx</b> for The Sims 3 in-game video footage</p></font><font size=\"10\"><p><b>Husk</b> for flavor writing</p></font><font size=\"10\"><p><b>EllaNoir</b> for flavor wiring</p></font><font size=\"10\"><p><b>CmarNYC, biondosim, ZoahcX</b>, and <b>Kirirhyn</b> for the deprecated classic penis model</p></font><br><font size=\"10\"><p><b>Scumbumbo, thepancake1, Basemental</b>, and <b>Nisa K.</b> for modding help</p></font>"
+    },
+    {
+      "Key": "0xE8F67F35",
+      "Value": "<p align=\"center\"><font size=\"15\"><b>Technical Creators</b></font></p><br><font size=\"10\"><p><b>Azmodan22</b> for animated penis rig support</p><p><a href='event:https://www.patreon.com/azmodan22'>https://www.patreon.com/azmodan22</a></p></font><br><font size=\"10\"><p><b>Denton47</b> for animated breasts rig support</p></font><br><font size=\"10\"><p><b>Autobanned</b> for animated tongue rig support and tongue model</p></font><br>"
     },
     {
       "Key": "0x6B4D4B8C",
