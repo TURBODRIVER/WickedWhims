@@ -201,6 +201,14 @@
       "Value": "Check to allow sex animations progression to continue after playing a climax animation."
     },
     {
+      "Key": "0xFBDE5ECA",
+      "Value": "Dynamic Sex Duration Padding"
+    },
+    {
+      "Key": "0x68DC4430",
+      "Value": "Check to allow sex duration to extend when actively interacting with involved in sex Sims."
+    },
+    {
       "Key": "0xFF489E48",
       "Value": "Outfit Settings"
     },
@@ -327,6 +335,14 @@
     {
       "Key": "0x13C41CDD",
       "Value": "Check to slow down time when a player-controlled sex interaction is ongoing."
+    },
+    {
+      "Key": "0xA54F38E1",
+      "Value": "Sex Mood Switch"
+    },
+    {
+      "Key": "0x5FB244C6",
+      "Value": "Check to change Sims mood into Sex Mood during sex\\nUncheck to keep Sims natural mood during sex."
     },
     {
       "Key": "0xD7F4F85B",
@@ -2141,6 +2157,22 @@
       "Value": "Sims within this group Always Accept Sex with other Sims inside of this group."
     },
     {
+      "Key": "0xE6FF46A4",
+      "Value": "Disallow Birth Control in Sex Inside Protocol"
+    },
+    {
+      "Key": "0xF76F90C0",
+      "Value": "Sims within this group are prevented from using birth control methods during sex with other Sims inside of this group."
+    },
+    {
+      "Key": "0xEB865EC9",
+      "Value": "Disallow Birth Control in Sex Outside Protocol"
+    },
+    {
+      "Key": "0xAF701C29",
+      "Value": "Sims within this group are prevented from using birth control methods during sex with other Sims outside of this group."
+    },
+    {
       "Key": "0x400B01D1",
       "Value": "Disallow Reaction to Sex Inside Protocol"
     },
@@ -2375,6 +2407,14 @@
     {
       "Key": "0xFFC7DFE1",
       "Value": "Rimjob Context"
+    },
+    {
+      "Key": "0x25E93544",
+      "Value": "Licking"
+    },
+    {
+      "Key": "0x6960FEA9",
+      "Value": "Licking Context"
     },
     {
       "Key": "0xD277E2E0",
@@ -2991,6 +3031,10 @@
     {
       "Key": "0x36D522ED",
       "Value": " Make a Move"
+    },
+    {
+      "Key": "0x617334E4",
+      "Value": "There doesn't seem to be a good spot for sex around here."
     },
     {
       "Key": "0xE0C90006",

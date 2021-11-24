@@ -9,8 +9,8 @@
       "Value": "Relationship Settings"
     },
     {
-      "Key": "0xF6F706D7",
-      "Value": "Change relationship settings.\\n\\nThese settings affect relationship mechanics like Attractiveness, Impressions, and relationship limitations)."
+      "Key": "0x5C6804A0",
+      "Value": "Change relationship settings.\\n\\nThese settings affect relationship mechanics like Attractiveness, Impressions, and relationship limitations."
     },
     {
       "Key": "0xB2A5D15E",
@@ -495,6 +495,26 @@
     {
       "Key": "0x1B2CF24F",
       "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
+    },
+    {
+      "Key": "0x6DF9B78B",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xCF336CF3",
+      "Value": "Disallow Jealousy Inside Protocol"
+    },
+    {
+      "Key": "0x259BC569",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims inside of this group."
+    },
+    {
+      "Key": "0xB301DAFE",
+      "Value": "Disallow Jealousy Outside Protocol"
+    },
+    {
+      "Key": "0xF00BF39C",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
     },
     {
       "Key": "0x94C8C365",
