@@ -33,6 +33,10 @@
       "Value": "{0.String}"
     },
     {
+      "Key": "0x58665A31",
+      "Value": "{0.String} ({1.String})"
+    },
+    {
       "Key": "0xC9D148AF",
       "Value": "{0.SimName}"
     },
