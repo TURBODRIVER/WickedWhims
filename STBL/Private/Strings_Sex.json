@@ -3497,6 +3497,42 @@
       "Value": "With the provided criteria of picked Location/Object, involved Sims, Age Limitations and Gender Settings, no fitting Sims could be found nearby.\\n\\n<b>Issue Code: 19</b>\\n{0.String}"
     },
     {
+      "Key": "0x64A9FF4C",
+      "Value": "Oh, that's interesting..."
+    },
+    {
+      "Key": "0xE1C97186",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available Sim{P1.s} nearby {0.SimName}, but none of them are capable of performing {2.String} sex.</b>\\nThis can be caused by lack of adequate animations for the '{5.String}' ({6.String}) object or because the nearby Sims gender/age is not appropriate.\\n\\n<font size=\"11\"><i>Sims might not be <u>available</u> due to already having sex, sleeping, leaving the area, or being extraordinarily busy.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0x1AE7AF56",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available Sim{P1.s} nearby {0.SimName}, performing {2.String} sex is not possible.</b>\\n\\n<font size=\"11\"><i>If there are any Sims nearby, they are not considered an appropriate choice for a sexual interaction.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0xC4F3794E",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available NPC Sim{P1.s} nearby the '{5.String}' ({6.String}), but none of them are capable of performing {2.String} sex.</b>\\nThis can be caused by lack of adequate animations for the '{5.String}' ({6.String}) object or because the nearby Sims gender/age is not appropriate.\\n\\n<font size=\"11\"><i>Sims might not be <u>available</u> due to already having sex, sleeping, leaving the area, or being extraordinarily busy.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0x00D05924",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available NPC Sim{P1.s} nearby '{5.String}' ({6.String}), performing {2.String} sex is not possible.</b>\\n\\n<font size=\"11\"><i>If there are any NPC Sims nearby, they are not considered an appropriate choice for a sexual interaction.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0xCCDF5D59",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available Sim{P1.s} nearby the '{5.String}' ({6.String}), but none of them are capable of performing {2.String} sex in a group.</b>\\nThis can be caused by lack of adequate animations for the '{5.String}' ({6.String}) object or because the nearby Sims gender/age is not appropriate in a group.\\n\\n<font size=\"11\"><i>Sims might not be <u>available</u> due to already having sex, sleeping, leaving the area, or being extraordinarily busy.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0xFC358CBA",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available Sim{P1.s} nearby '{5.String}' ({6.String}), performing {2.String} group sex is not possible.</b>\\n\\n<font size=\"11\"><i>If there are any Sims nearby, they are not considered an appropriate choice for a group sexual interaction.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0x9A992D3C",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available NPC Sim{P1.s} nearby the '{5.String}' ({6.String}), but none of them are capable of performing {2.String} sex in a group.</b>\\nThis can be caused by lack of adequate animations for the '{5.String}' ({6.String}) object or because the nearby Sims gender/age is not appropriate in a group.\\n\\n<font size=\"11\"><i>Sims might not be <u>available</u> due to already having sex, sleeping, leaving the area, or being extraordinarily busy.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
+      "Key": "0xF0624EDE",
+      "Value": "<b>There {S1.is}{P1.are} {1.Number} available NPC Sim{P1.s} nearby '{5.String}' ({6.String}), performing {2.String} group sex is not possible.</b>\\n\\n<font size=\"11\"><i>If there are any NPC Sims nearby, they are not considered an appropriate choice for a group sexual interaction.</i></font>\\n\\n<font size=\"8\">Message Code: {10.Number}\\nTask: {11.String}</font>"
+    },
+    {
       "Key": "0x5D6497C7",
       "Value": "Want More Sex Animations?"
     },

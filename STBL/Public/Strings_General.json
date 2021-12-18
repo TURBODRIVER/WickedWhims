@@ -33,6 +33,10 @@
       "Value": "{0.String}"
     },
     {
+      "Key": "0x58665A31",
+      "Value": "{0.String} ({1.String})"
+    },
+    {
       "Key": "0xC9D148AF",
       "Value": "{0.SimName}"
     },
@@ -101,32 +105,32 @@
       "Value": "WickedWhims is Sad :("
     },
     {
-      "Key": "0x8E7D0F0B",
-      "Value": "FATAL ERROR!\\n\\nWickedWhims and WonderfulWhims have been installed at the same time!\\n\\nOnly one of these mods can be present at one time!\\n\\nRemove WonderfulWhims to resolve this issue!"
+      "Key": "0xFED2FE25",
+      "Value": "Open WickedWhims Contact Website"
     },
     {
-      "Key": "0xD3613BE0",
-      "Value": "FATAL ERROR!\\n\\nEssential 'TURBODRIVER_WickedWhims_Tuning.package' file is missing!\\n\\nAll WickedWhims files must be located in one and the same folder!\\n\\nRe-installation is required for WickedWhims to work correctly!\\n\\nAlways keep all of the WickedWhims files in one folder!"
+      "Key": "0x6935BAF5",
+      "Value": "Open WickedWhims Visual Issues Website"
     },
     {
       "Key": "0x788B961F",
       "Value": "<b>FATAL ERROR!</b>\\n\\nEssential 'TURBODRIVER_WickedWhims_Scripts.ts4script' file is missing.\\n\\nWickedWhims script file is missing or cannot be loaded!\\n\\nNever place script files (TS4SCRIPT) into too many folders! The game fails to find them!\\nScript files can only be placed one-folder deep.\\n\\nMake sure Script Mods are enabled in Game Settings.\\n\\nRe-installation might be required for WickedWhims to work correctly!"
     },
     {
-      "Key": "0x324E5AB9",
-      "Value": "FATAL ERROR!\\n\\nMore than one installation of WickedWhims has been detected!\\n\\nOnly one copy of WickedWhims can exist in the 'Mods' folder!\\n\\nRemoval of all WickedWhims files and re-installation is required for WickedWhims to work correctly!"
+      "Key": "0x64FC48C1",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done."
     },
     {
-      "Key": "0x6AC212FC",
-      "Value": "FATAL ERROR!\\n\\nConflicting Sim \"Animating Rig\" has been detected!\\n\\nConflicting Sim \"Animating Rigs\" will cause sex animations to break visually! Expect stretched and mispositioned penises.\\n\\nRemoval of all Sim \"Animating Rig\" files is required for WickedWhims to work correctly!\\n\"Animating Rigs\" are not animations! Don't delete animations!\\n\\nRead More: wickedwhimsmod.com/penis-issues"
+      "Key": "0xD2A661E7",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - FILES MISMATCH</b></p>\\n\\nEssential files are mismatched:\\n<ul><li>TURBODRIVER_WickedWhims_Tuning.package (PACKAGE)</li><li>TURBODRIVER_WickedWhims_Script.ts4script (TS4SCRIPT)</li></ul>\\n\\nThe script file (TS4SCRIPT) and package file (PACKAGE) are from two different releases of WickedWhims!\\nThe WickedWhims package file has been potentially edited or it is not matching the script file!\\n\\n<b>Script and Package files have to match or you will encounter errors and missing content.</b>\\n\\nHow to fix:\\n  1. Find and delete all WickedWhims files from the Mods folder.\\n  2. Download WickedWhims again.\\n  3. Install WickedWhims to the Mods folder."
     },
     {
-      "Key": "0x0F6B1DB4",
-      "Value": "FATAL ERROR!\\n\\nWickedWhims didn't load sex animations properly!\\n\\nThe game loading process has been interrupted which caused sex animations to not load. This is most likely due to broken/outdated mods or game/mod incompatibility!\\n\\nRemoval of all broken/outdated mods and updating your game/mod should resolve this issue!\\n\\nRead More: wickedwhimsmod.com/exception"
+      "Key": "0xA37BE26A",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - DUPLICATE INSTALL</b></p>\\n\\nYou have more than one installation of WickedWhims in the 'Mods' folder.\\n\\n<b>Only one copy of WickedWhims can be installed at one time or you will encounter errors and missing content.</b>\\n\\nHow to fix:\\n  1. Find and delete all WickedWhims files from the Mods folder.\\n  2. Download WickedWhims again.\\n  3. Install WickedWhims to the Mods folder."
     },
     {
-      "Key": "0xD11E1977",
-      "Value": "Sims have <b>Red and White</b> skin textures?\\n\\nPlease enable the <b>:{0.String}</b> setting and disable the <b>:{1.String}</b> setting in Graphic Options and restart the game to resolve this issue!\\n\\nTo fix broken portrait images of Sims, delete the 'localthumbcache.package' file in The Sims 4 documents folder."
+      "Key": "0xE667FC34",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - RIG CONFLICT</b></p>\\n\\nYou have a conflicting mod containing the \"Sim Animating Rig\" file.\\n\\n<b>Only one \"Sim Animating Rig\" file can be loaded at the same time or sex animations will appear stretched and misaligned.</b>\\n\\nHow to fix:\\n  1. Find and delete all mods containing the \"Sim Animating Rig\" file from the Mods folder.\\n  2. Be confused about what is the \"Sim Animating Rig\" file. \\n  3. Visit the website below for details."
     },
     {
       "Key": "0x4FAFD845",
@@ -547,6 +551,398 @@
     {
       "Key": "0xF2CA93D0",
       "Value": "Select Random Sims"
+    },
+    {
+      "Key": "0x703AC0FC",
+      "Value": "--------------- Protocols / Circles ---------------"
+    },
+    {
+      "Key": "0xB9299DD8",
+      "Value": "Sims Protocols"
+    },
+    {
+      "Key": "0x424B9584",
+      "Value": "Create and manage Sims Protocols."
+    },
+    {
+      "Key": "0x2AC0227E",
+      "Value": "<b>Sims Protocols</b> is a feature that allows you to alter Sims behavior by defining their privileges and restrictions.\\n\\nHow to use Sims Protocols?\\n<b>1.</b> Create a Protocol and select which Sims are supposed to be affected by it.\\n<b>2.</b> Set the rules that the selected Sims are required to obey.\\n<b>3.</b> Consider changing the name and icon for easier recognition of the newly created Protocol.\\nAnd you're done. Now watch Sims in the game obey the rules of the newly created Protocol.\\n\\nTake your time and read all of the descriptions to better understand what each function and rule does. <b>Using Protocols is completely optional and not required to enjoy playing with WickedWhims.</b>"
+    },
+    {
+      "Key": "0x6F1A441E",
+      "Value": "Protocol: {0.String}"
+    },
+    {
+      "Key": "0x1517EE27",
+      "Value": "Creating a New Protocol..."
+    },
+    {
+      "Key": "0x278D8418",
+      "Value": "Protocols Controls"
+    },
+    {
+      "Key": "0xD45AD672",
+      "Value": "Create, Modify, Merge, or Remove existing Protocols."
+    },
+    {
+      "Key": "0x9D869822",
+      "Value": "Create a New Protocol"
+    },
+    {
+      "Key": "0x3F7F9803",
+      "Value": "Create a group of Sims and set their privileges, restrictions, or alter their behavior."
+    },
+    {
+      "Key": "0x6993D12D",
+      "Value": "Modify an Existing Protocol"
+    },
+    {
+      "Key": "0x1D42E28B",
+      "Value": "Modify an existing group of Sims."
+    },
+    {
+      "Key": "0xACAE054F",
+      "Value": "Merge Existing Protocols"
+    },
+    {
+      "Key": "0x96E0D5D7",
+      "Value": "Merge existing groups into one new group."
+    },
+    {
+      "Key": "0x0687ED03",
+      "Value": "Remove Existing Protocols"
+    },
+    {
+      "Key": "0x3EFF433D",
+      "Value": "Remove existing groups of Sims."
+    },
+    {
+      "Key": "0x7ED9F299",
+      "Value": "Select a Protocol to modify."
+    },
+    {
+      "Key": "0x07BC1D47",
+      "Value": "Sims in this Protocol: {0.Number}\\nRules in this Protocol: {1.Number}"
+    },
+    {
+      "Key": "0x36D9EE1D",
+      "Value": "Sims in this Protocol: {0.Number}\\nRules in this Protocol: {1.Number}\\n<font color='#EC262E'>This Protocol has conflicting Rules or Restrictions.</font>"
+    },
+    {
+      "Key": "0xECA9B96B",
+      "Value": "Add Sims, set rules, rename, change icon, or remove this protocol."
+    },
+    {
+      "Key": "0xA5AEFE04",
+      "Value": "Add/Remove Sims in Protocol"
+    },
+    {
+      "Key": "0x8C10CE60",
+      "Value": "Add Sims to this group or Remove Sims from this group."
+    },
+    {
+      "Key": "0x2C4C418F",
+      "Value": "Set/Unset Categories of Sims in Protocol"
+    },
+    {
+      "Key": "0x9CEB8B70",
+      "Value": "Set categories of Sims to be included in this group."
+    },
+    {
+      "Key": "0x309CE777",
+      "Value": "Set/Unset Rules in Protocol"
+    },
+    {
+      "Key": "0x02B38474",
+      "Value": "Set rules that Sims need to obey or alter Sims behavior in this group."
+    },
+    {
+      "Key": "0xAA13F8AF",
+      "Value": "Set/Unset Restrictions in Protocol"
+    },
+    {
+      "Key": "0x909ADE24",
+      "Value": "Set restrictions in this group."
+    },
+    {
+      "Key": "0xC28895AD",
+      "Value": "Rename Protocol"
+    },
+    {
+      "Key": "0x05D52F07",
+      "Value": "Change the name of this group."
+    },
+    {
+      "Key": "0x76C124BC",
+      "Value": "Change Protocol Icon"
+    },
+    {
+      "Key": "0x01F1FCD5",
+      "Value": "Change the icon of this group."
+    },
+    {
+      "Key": "0x7F1DE5F7",
+      "Value": "Remove Protocol"
+    },
+    {
+      "Key": "0x1A962620",
+      "Value": "Remove this group from existence."
+    },
+    {
+      "Key": "0xB5A7D970",
+      "Value": "Sims Outside Protocol"
+    },
+    {
+      "Key": "0x243944FF",
+      "Value": "Sims Inside Protocol"
+    },
+    {
+      "Key": "0xA4A7FEC2",
+      "Value": "Select Sims on left to add them to this Protocol.\\nSelect Sims on right to remove them from this Protocol."
+    },
+    {
+      "Key": "0x4FE375EE",
+      "Value": "Select categories of Sims for this group."
+    },
+    {
+      "Key": "0x10487890",
+      "Value": "All Sims"
+    },
+    {
+      "Key": "0xD5C9B225",
+      "Value": "Include All Sims in this Protocol."
+    },
+    {
+      "Key": "0xF993CAE4",
+      "Value": "Toddler Age Sims"
+    },
+    {
+      "Key": "0xA356C21D",
+      "Value": "Include All Sims of Toddler age in this Protocol."
+    },
+    {
+      "Key": "0x3038A0BA",
+      "Value": "Child Age Sims"
+    },
+    {
+      "Key": "0x3EF12C93",
+      "Value": "Include All Sims of Child age in this Protocol."
+    },
+    {
+      "Key": "0x70F1915C",
+      "Value": "Teen Age Sims"
+    },
+    {
+      "Key": "0xD0C06CD5",
+      "Value": "Include All Sims of Teen age in this Protocol."
+    },
+    {
+      "Key": "0x84558E40",
+      "Value": "Young Adult Age Sims"
+    },
+    {
+      "Key": "0x0758F115",
+      "Value": "Include All Sims of Young Adult age in this Protocol."
+    },
+    {
+      "Key": "0xAD4A90E8",
+      "Value": "Adult Age Sims"
+    },
+    {
+      "Key": "0x0CFA6899",
+      "Value": "Include All Sims of Adult age in this Protocol."
+    },
+    {
+      "Key": "0x747A70BC",
+      "Value": "Elder Age Sims"
+    },
+    {
+      "Key": "0x2C2FBD99",
+      "Value": "Include All Sims of Elder age in this Protocol."
+    },
+    {
+      "Key": "0xE9B7B9FD",
+      "Value": "Male Gender Sims"
+    },
+    {
+      "Key": "0xB53CC0EA",
+      "Value": "Include All Sims of Male gender in this Protocol."
+    },
+    {
+      "Key": "0x81F3084A",
+      "Value": "Female Gender Sims"
+    },
+    {
+      "Key": "0xF7E7CD73",
+      "Value": "Include All Sims of Female gender in this Protocol."
+    },
+    {
+      "Key": "0x3005984C",
+      "Value": "Penis Genitalia Sims"
+    },
+    {
+      "Key": "0x5CEA9D66",
+      "Value": "Include All Sims with Penis genitalia in this Protocol."
+    },
+    {
+      "Key": "0x9018BB1B",
+      "Value": "Vagina Genitalia Sims"
+    },
+    {
+      "Key": "0x65151FC5",
+      "Value": "Include All Sims with Vagina genitalia in this Protocol."
+    },
+    {
+      "Key": "0x1F7AC3A8",
+      "Value": "Alien Occult Sims"
+    },
+    {
+      "Key": "0x2E011B20",
+      "Value": "Include All Sims with Alien occult in this Protocol."
+    },
+    {
+      "Key": "0xFF9E4067",
+      "Value": "Vampire Occult Sims"
+    },
+    {
+      "Key": "0x04875B29",
+      "Value": "Include All Sims with Vampire occult in this Protocol."
+    },
+    {
+      "Key": "0x0D0DC264",
+      "Value": "Mermaid Occult Sims"
+    },
+    {
+      "Key": "0x2ABDA934",
+      "Value": "Include All Sims with Mermaid occult in this Protocol."
+    },
+    {
+      "Key": "0x863B4B1B",
+      "Value": "Spellcaster Occult Sims"
+    },
+    {
+      "Key": "0xA31248B9",
+      "Value": "Include All Sims with Spellcaster occult in this Protocol."
+    },
+    {
+      "Key": "0x4AD537D4",
+      "Value": "Ghost Sims"
+    },
+    {
+      "Key": "0x97F66AA6",
+      "Value": "Include All Sims that are a Ghost in this Protocol."
+    },
+    {
+      "Key": "0x5420465E",
+      "Value": "Servo Sims"
+    },
+    {
+      "Key": "0x8AEB7B44",
+      "Value": "Include All Sims that are a Servo in this Protocol."
+    },
+    {
+      "Key": "0x72D7B5BB",
+      "Value": "Select rules to set for this group."
+    },
+    {
+      "Key": "0x7EF67281",
+      "Value": "Rename This Protocol"
+    },
+    {
+      "Key": "0x1F46DC57",
+      "Value": "Type in the new name of this Protocol."
+    },
+    {
+      "Key": "0x291DCBF4",
+      "Value": "Select the new icon for this Protocol."
+    },
+    {
+      "Key": "0xE8AE8DB4",
+      "Value": "Remove This Protocol?"
+    },
+    {
+      "Key": "0x449819AF",
+      "Value": "Do you want to remove the \"{0.String}\"?"
+    },
+    {
+      "Key": "0x66402116",
+      "Value": "Merge These Protocols?"
+    },
+    {
+      "Key": "0xA4D5589F",
+      "Value": "Select Protocols to merge into one new Protocol."
+    },
+    {
+      "Key": "0x5E824D4A",
+      "Value": "Remove These Protocols?"
+    },
+    {
+      "Key": "0xB939951F",
+      "Value": "Select Protocols to remove."
+    },
+    {
+      "Key": "0xA41BCCEC",
+      "Value": "Time: During Daytime"
+    },
+    {
+      "Key": "0x333EB48E",
+      "Value": "This Protocol is only relevant during daytime."
+    },
+    {
+      "Key": "0xED3D9A80",
+      "Value": "Time: During Nighttime"
+    },
+    {
+      "Key": "0xF02666FA",
+      "Value": "This Protocol is only relevant during nighttime."
+    },
+    {
+      "Key": "0x8EA61DA6",
+      "Value": "Location: Indoors"
+    },
+    {
+      "Key": "0x8E3FA056",
+      "Value": "This Protocol is only relevant when a Sim is indoors."
+    },
+    {
+      "Key": "0xEFD47237",
+      "Value": "Location: Outdoors"
+    },
+    {
+      "Key": "0xD02727B1",
+      "Value": "This Protocol is only relevant when a Sim is outdoors."
+    },
+    {
+      "Key": "0x8AB8296A",
+      "Value": "Location: At Home"
+    },
+    {
+      "Key": "0x748F55BD",
+      "Value": "This Protocol is only relevant when a Sim is at home lot."
+    },
+    {
+      "Key": "0x8D83FC59",
+      "Value": "Location: Not At Home"
+    },
+    {
+      "Key": "0xE09D7434",
+      "Value": "This Protocol is only relevant when a Sim is not at home lot."
+    },
+    {
+      "Key": "0x67E0ACD3",
+      "Value": "Place: {0.String}"
+    },
+    {
+      "Key": "0x5C9700AE",
+      "Value": "This Protocol is only relevant when a Sim is at this lot.\\nWorld: {0.String}\\nHousehold: {1.String}"
+    },
+    {
+      "Key": "0xF1FF91AB",
+      "Value": "Venue: {0.String}"
+    },
+    {
+      "Key": "0x75203EF2",
+      "Value": "This Protocol is only relevant when a Sim is at this venue."
     },
     {
       "Key": "0x1A2796D6",

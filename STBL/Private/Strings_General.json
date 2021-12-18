@@ -105,32 +105,32 @@
       "Value": "WickedWhims is Sad :("
     },
     {
-      "Key": "0x8E7D0F0B",
-      "Value": "FATAL ERROR!\\n\\nWickedWhims and WonderfulWhims have been installed at the same time!\\n\\nOnly one of these mods can be present at one time!\\n\\nRemove WonderfulWhims to resolve this issue!"
+      "Key": "0xFED2FE25",
+      "Value": "Open WickedWhims Contact Website"
     },
     {
-      "Key": "0xD3613BE0",
-      "Value": "FATAL ERROR!\\n\\nEssential 'TURBODRIVER_WickedWhims_Tuning.package' file is missing!\\n\\nAll WickedWhims files must be located in one and the same folder!\\n\\nRe-installation is required for WickedWhims to work correctly!\\n\\nAlways keep all of the WickedWhims files in one folder!"
+      "Key": "0x6935BAF5",
+      "Value": "Open WickedWhims Visual Issues Website"
     },
     {
       "Key": "0x788B961F",
       "Value": "<b>FATAL ERROR!</b>\\n\\nEssential 'TURBODRIVER_WickedWhims_Scripts.ts4script' file is missing.\\n\\nWickedWhims script file is missing or cannot be loaded!\\n\\nNever place script files (TS4SCRIPT) into too many folders! The game fails to find them!\\nScript files can only be placed one-folder deep.\\n\\nMake sure Script Mods are enabled in Game Settings.\\n\\nRe-installation might be required for WickedWhims to work correctly!"
     },
     {
-      "Key": "0x324E5AB9",
-      "Value": "FATAL ERROR!\\n\\nMore than one installation of WickedWhims has been detected!\\n\\nOnly one copy of WickedWhims can exist in the 'Mods' folder!\\n\\nRemoval of all WickedWhims files and re-installation is required for WickedWhims to work correctly!"
+      "Key": "0x64FC48C1",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done."
     },
     {
-      "Key": "0x6AC212FC",
-      "Value": "FATAL ERROR!\\n\\nConflicting Sim \"Animating Rig\" has been detected!\\n\\nConflicting Sim \"Animating Rigs\" will cause sex animations to break visually! Expect stretched and mispositioned penises.\\n\\nRemoval of all Sim \"Animating Rig\" files is required for WickedWhims to work correctly!\\n\"Animating Rigs\" are not animations! Don't delete animations!\\n\\nRead More: wickedwhimsmod.com/penis-issues"
+      "Key": "0xD2A661E7",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - FILES MISMATCH</b></p>\\n\\nEssential files are mismatched:\\n<ul><li>TURBODRIVER_WickedWhims_Tuning.package (PACKAGE)</li><li>TURBODRIVER_WickedWhims_Script.ts4script (TS4SCRIPT)</li></ul>\\n\\nThe script file (TS4SCRIPT) and package file (PACKAGE) are from two different releases of WickedWhims!\\nThe WickedWhims package file has been potentially edited or it is not matching the script file!\\n\\n<b>Script and Package files have to match or you will encounter errors and missing content.</b>\\n\\nHow to fix:\\n  1. Find and delete all WickedWhims files from the Mods folder.\\n  2. Download WickedWhims again.\\n  3. Install WickedWhims to the Mods folder."
     },
     {
-      "Key": "0x0F6B1DB4",
-      "Value": "FATAL ERROR!\\n\\nWickedWhims didn't load sex animations properly!\\n\\nThe game loading process has been interrupted which caused sex animations to not load. This is most likely due to broken/outdated mods or game/mod incompatibility!\\n\\nRemoval of all broken/outdated mods and updating your game/mod should resolve this issue!\\n\\nRead More: wickedwhimsmod.com/exception"
+      "Key": "0xA37BE26A",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - DUPLICATE INSTALL</b></p>\\n\\nYou have more than one installation of WickedWhims in the 'Mods' folder.\\n\\n<b>Only one copy of WickedWhims can be installed at one time or you will encounter errors and missing content.</b>\\n\\nHow to fix:\\n  1. Find and delete all WickedWhims files from the Mods folder.\\n  2. Download WickedWhims again.\\n  3. Install WickedWhims to the Mods folder."
     },
     {
-      "Key": "0xD11E1977",
-      "Value": "Sims have <b>Red and White</b> skin textures?\\n\\nPlease enable the <b>:{0.String}</b> setting and disable the <b>:{1.String}</b> setting in Graphic Options and restart the game to resolve this issue!\\n\\nTo fix broken portrait images of Sims, delete the 'localthumbcache.package' file in The Sims 4 documents folder."
+      "Key": "0xE667FC34",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - RIG CONFLICT</b></p>\\n\\nYou have a conflicting mod containing the \"Sim Animating Rig\" file.\\n\\n<b>Only one \"Sim Animating Rig\" file can be loaded at the same time or sex animations will appear stretched and misaligned.</b>\\n\\nHow to fix:\\n  1. Find and delete all mods containing the \"Sim Animating Rig\" file from the Mods folder.\\n  2. Be confused about what is the \"Sim Animating Rig\" file. \\n  3. Visit the website below for details."
     },
     {
       "Key": "0x4FAFD845",

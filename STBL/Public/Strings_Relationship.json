@@ -97,6 +97,14 @@
       "Value": "Set a unit interval value for chance of Suggestive Look occurring. Value 1.0 is 100% chance.\\n(Default: 0.85, Minimum: 0.0)"
     },
     {
+      "Key": "0x004FA984",
+      "Value": "Attractiveness Social Attraction Switch"
+    },
+    {
+      "Key": "0xD1B7A17D",
+      "Value": "Check to allow Sims to receive body and outfit attraction moodlets during conversations.\\nUncheck to disallow Sims from receiving body and outfit attraction moodlets during conversations."
+    },
+    {
       "Key": "0x99C4B68E",
       "Value": "Attractiveness Dynamic World View Switch"
     },
@@ -487,6 +495,26 @@
     {
       "Key": "0x1B2CF24F",
       "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
+    },
+    {
+      "Key": "0x6DF9B78B",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xCF336CF3",
+      "Value": "Disallow Jealousy Inside Protocol"
+    },
+    {
+      "Key": "0x259BC569",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims inside of this group."
+    },
+    {
+      "Key": "0xB301DAFE",
+      "Value": "Disallow Jealousy Outside Protocol"
+    },
+    {
+      "Key": "0xF00BF39C",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
     },
     {
       "Key": "0x94C8C365",
@@ -1067,6 +1095,46 @@
     {
       "Key": "0x668CEF72",
       "Value": "It's a little too late to respond now."
+    },
+    {
+      "Key": "0xD3B21821",
+      "Value": "--------- Attractiveness Conversation ---------"
+    },
+    {
+      "Key": "0x2CB701C8",
+      "Value": "(From Talking To Attractive Sim)"
+    },
+    {
+      "Key": "0xC106875E",
+      "Value": "<font color='#340658'>But... Butt</font>"
+    },
+    {
+      "Key": "0x92A49B9E",
+      "Value": "It's a shame that society decided that when you talk to someone you should be facing each other. At least that's what {0.SimFirstName} thinks after {M0.he}{F0.she} noticed the very attractive butt shape of {M0.his}{F0.her} conversation partner."
+    },
+    {
+      "Key": "0x9A820898",
+      "Value": "<font color='#340658'>Magnetic Bosom</font>"
+    },
+    {
+      "Key": "0xEC80753A",
+      "Value": "Why must {0.SimFirstName}'s converser have such eye-catching breasts, and why can't {0.SimFirstName} stop {M0.himself}{F0.herself} from trying to catch a glimpse of them?!"
+    },
+    {
+      "Key": "0xF679E0F6",
+      "Value": "<font color='#340658'>Do You Work Out?</font>"
+    },
+    {
+      "Key": "0xAB395446",
+      "Value": "That Sim has some really nice muscles... so nice in fact that {0.SimFirstName} can't stop trying to look at them."
+    },
+    {
+      "Key": "0x48720061",
+      "Value": "<font color='#340658'>Where Do These End?</font>"
+    },
+    {
+      "Key": "0xDFF19896",
+      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she}'s talking to."
     },
     {
       "Key": "0xB77322D0",
