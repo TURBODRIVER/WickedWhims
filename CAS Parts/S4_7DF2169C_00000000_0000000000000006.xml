@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:Cum_CAS_Parts" s="000000000000000006">
+  <T n="wickedwhims_cas_parts">1</T>
+  <L n="cas_parts_list">
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T><!-- Raw Text for displayed package name. Remove this field if using the "cas_part_display_name" field. -->
+      <T n="cas_part_author">YourName</T><!-- Raw Text for author name of package. -->
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T><!-- Resource Key for displayed package icon. -->
+      <T n="cas_part_type">CUM</T><!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, TONGUE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE, PUBIC_HAIR_MALE, PUBIC_HAIR_FEMALE, CUM) -->
+      <T n="cas_part_subtype">FACE</T><!--Secondary Type of the CAS part for cum. (FACE, CHEST, BELLY, UPPER_BACK, LOWER_BACK, VAGINA, BUTT, FEET)-->
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T><!-- Numerical IDs of the CAS parts. If more than one is provided, they progress with each application to body. -->
+      <T n="is_randomized">False</T><!-- Flags if part is randomized instead of progressive. For cum, set as 'True' when 'cas_part_ids' are to be used randomly. -->
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">CHEST</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">BELLY</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">UPPER_BACK</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">LOWER_BACK</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">VAGINA</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">BUTT</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Fancy Name Of The Cum Package</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B</T>
+      <T n="cas_part_type">CUM</T>
+      <T n="cas_part_subtype">FEET</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+      <T n="is_randomized">False</T>
+    </U>
+
+  </L>
+</I>
