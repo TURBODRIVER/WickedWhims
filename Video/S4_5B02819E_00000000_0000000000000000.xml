@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="WickedVideoChannel" i="object_state" m="wickedwhims.sex.features.porn_watching.tv._ts4_channel_video" n="YourName:WickedPornVideo" s="000000000000000000">
+  <T n="video_raw_display_name">Name Of Your Video<!--Raw text title of the video displayed in the porn video selector. Remove this field if using the "video_display_name" field.--></T>
+  <T n="video_raw_display_description">Description Of Your Video<!--Raw text description of the video displayed in the porn video selector. Remove this field if using the "video_display_description" field.--></T>
+  <T n="video_author">AutorName<!-- Raw text author name displayed in the porn video selector.--></T>
+  <T n="video_display_icon">2F7D0004:00000000:D19DE7E9C0FA296B<!-- Resource Key of the icon displayed in the porn video selector. --></T>
+  <T n="video_orientations">BISEXUAL<!--List of sexual orientations used to determine if watching Sim is interested in the video. (HETEROSEXUAL, HOMOSEXUAL_MALE, HOMOSEXUAL_FEMALE, BISEXUAL)--></T>
+  <T n="video_duration">0<!--Duration of the porn video in seconds displayed in the porn video selector.--></T>
+  <U n="new_client_state">
+    <V n="video_playlist" t="apply_new_value">
+      <V n="apply_new_value" t="start_video">
+        <U n="start_video">
+          <L n="clip_list">
+            <T p="">376840d7:00000000:0000000000000000<!--Resource Key of the VP6 AVI video file.--></T>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V n="autonomy_modifiers" t="apply_new_value">
+      <V n="apply_new_value" t="apply_statistic_modifiers">
+        <U n="apply_statistic_modifiers">
+          <U n="periodic_statistic_change">
+            <T n="interval">60</T>
+            <L n="operations">
+              <U>
+                <T n="amount">-1</T>
+                <T n="stat">16633<!--commodity_Object_Brokenness--></T>
+              </U>
+            </L>
+          </U>
+        </U>
+      </V>
+    </V>
+    <V n="broadcaster" t="apply_new_value">
+      <V n="apply_new_value" t="start_broadcaster">
+        <U n="start_broadcaster">
+          <L n="broadcaster_types">
+            <U>
+              <T n="item">74334<!--broadcaster_Reaction_LoudNoises_TVStereo--></T>
+            </U>
+          </L>
+        </U>
+      </V>
+    </V>
+  </U>
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_description" t="enabled">
+        <T n="enabled">0x82C7B5B0<!--Watch XXX--></T>
+      </V>
+      <V n="instance_display_icon" t="disabled" />
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x82C7B5B0<!--XXX--></T>
+      </V>
+    </U>
+  </V>
+  <T n="affordance">13310387700104523747<!--WickedWhims_AffSuper_PornWatching_TV_Watch--></T>
+  <L n="buff_weight_multipliers">
+    <U>
+      <T n="key">34527<!--Buff_Trait_Elder--></T>
+      <T n="value">1</T>
+    </U>
+    <U>
+      <T n="key">34526<!--Buff_Trait_Adult--></T>
+      <T n="value">1</T>
+    </U>
+    <U>
+      <T n="key">34525<!--Buff_Trait_YoungAdult--></T>
+      <T n="value">1</T>
+    </U>
+    <U>
+      <T n="key">34524<!--Buff_Trait_Teen--></T>
+      <T n="value">1</T>
+    </U>
+    <U>
+      <T n="key">34523<!--Buff_Trait_Child--></T>
+      <T n="value">0.0</T>
+    </U>
+  </L>
+  <V n="value" t="integral">
+    <T n="integral">700</T>
+  </V>
+</I>
