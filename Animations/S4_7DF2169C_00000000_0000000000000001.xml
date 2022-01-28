@@ -129,6 +129,7 @@
           <T n="event_start_timecode">1.23456</T>
           <T n="event_target">a1</T>
           <T n="cum_layer_type">FACE</T>
+          <T n="cum_layer_level">1</T>
         </U> <!-- [END OF EVENT ENTRY] -->
 
       </L>
