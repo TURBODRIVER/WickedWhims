@@ -73,8 +73,8 @@
       "Value": "Warning!"
     },
     {
-      "Key": "0xC8FC21DE",
-      "Value": "Failed to load parts of WickedWhims save data!\\n\\nDefault data was used instead.\\n\\nSaving the game should override incorrect data and fix the issue.\\nRemoving 'WickedWhimsMod' folder from 'saves' folder can help too."
+      "Key": "0x154A0659",
+      "Value": "Failed to properly load WickedWhims save data!\\n\\nThis is most likely due to an error during the loading process of the game caused by another modification.\\n\\nBe careful as saving the game will result in loss of save data!\\nIdentify the source of the error and make sure the game loads without this warning message."
     },
     {
       "Key": "0x449C1DFF",
@@ -161,6 +161,10 @@
       "Value": "<font color='#1DB5CC'>{0.String}</font>"
     },
     {
+      "Key": "0x0A1D278B",
+      "Value": "<font color='#199C2C'>{0.String}</font>"
+    },
+    {
       "Key": "0xA917DC98",
       "Value": "Settings"
     },
@@ -203,6 +207,18 @@
     {
       "Key": "0xC7AB2E8F",
       "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+    },
+    {
+      "Key": "0x50095834",
+      "Value": "Animation Creation Information"
+    },
+    {
+      "Key": "0x0841148C",
+      "Value": "Information about creating animations for WickedWhims."
+    },
+    {
+      "Key": "0x08943B7A",
+      "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/tutorials)\\n\\nThis will open your web browser!"
     },
     {
       "Key": "0x8FD8E13C",
@@ -285,12 +301,24 @@
       "Value": "Thank You For Your Feedback!"
     },
     {
-      "Key": "0x8A66088D",
-      "Value": "Thank You for your hopefully <b>constructive</b> opinion!\\n\\nIf your feedback is about an issue, an error, or something not being correct, this is the worst way to share it. Vast majority of problems are on the user-end and without a way to contact you, your problem will never get solved. Please contact us instead!"
+      "Key": "0x60EAC984",
+      "Value": "Thank You for your hopefully <b>constructive</b> opinion!\\n\\nIf your feedback is about an issue, an error, or something not being correct, this is NOT the way to share it. Vast majority of problems are on the user-end and without a way to contact you, your problem will never get solved. Please contact us instead\\n\\nVisit <b>https://wickedwhimsmod.com/contact</b> for contact information!"
     },
     {
       "Key": "0xCE456AA5",
       "Value": "Please Wait A While Before Sending More!"
+    },
+    {
+      "Key": "0x8BBC535A",
+      "Value": "--------------- Master Settings ---------------"
+    },
+    {
+      "Key": "0xFAB008AA",
+      "Value": "Master Settings"
+    },
+    {
+      "Key": "0x1F2218DF",
+      "Value": "Enable or Disable main features of WickedWhims."
     },
     {
       "Key": "0x77C36462",
@@ -413,6 +441,10 @@
       "Value": "{0.SimFirstName} has no Wicked Attributes assigned."
     },
     {
+      "Key": "0xA4C7F35F",
+      "Value": "Take Away All Sims Wicked Attributes"
+    },
+    {
       "Key": "0x0EDF0CFF",
       "Value": "Wicked Attributes"
     },
@@ -461,8 +493,16 @@
       "Value": "Pick attributes to give selected Sims."
     },
     {
+      "Key": "0xA28734C4",
+      "Value": "No selected Sims have any Wicked Attributes assigned to them."
+    },
+    {
       "Key": "0xE2252581",
       "Value": "The total of {0.Number} attribute{P0.s} has been added to {1.Number} Sim{P1.s}."
+    },
+    {
+      "Key": "0xECF035D6",
+      "Value": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}."
     },
     {
       "Key": "0x24656CCB",
@@ -647,6 +687,14 @@
     {
       "Key": "0x9CEB8B70",
       "Value": "Set categories of Sims to be included in this group."
+    },
+    {
+      "Key": "0x300B0BA1",
+      "Value": "Exclude Category Sims from Protocol"
+    },
+    {
+      "Key": "0xD8BDAA33",
+      "Value": "Exclude individual Sims included with Set Categories of Sims."
     },
     {
       "Key": "0x309CE777",
@@ -839,6 +887,18 @@
     {
       "Key": "0x8AEB7B44",
       "Value": "Include All Sims that are a Servo in this Protocol."
+    },
+    {
+      "Key": "0x169D0B50",
+      "Value": "Sims Included in Protocol"
+    },
+    {
+      "Key": "0xECC1F241",
+      "Value": "Sims Excluded from Protocol"
+    },
+    {
+      "Key": "0xD7A6942F",
+      "Value": "Select Sims on left to exclude them from this Protocol.\\nSelect Sims on right to include them again in this Protocol."
     },
     {
       "Key": "0x72D7B5BB",

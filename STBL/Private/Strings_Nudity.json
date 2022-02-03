@@ -137,20 +137,20 @@
       "Value": "Choose the type of how 'Undress Completely' interaction should undress Sims."
     },
     {
-      "Key": "0x48CC49FC",
-      "Value": "Default"
-    },
-    {
-      "Key": "0x6A756FA5",
-      "Value": "Select to use Sim native bathing outfit with auto fixing when undressing."
-    },
-    {
-      "Key": "0xA39B7152",
-      "Value": "Special"
+      "Key": "0x0CFBA89E",
+      "Value": "Specialized (Recommended)"
     },
     {
       "Key": "0x7AF3EAFC",
       "Value": "Select to use Sim current outfit as the base when undressing."
+    },
+    {
+      "Key": "0xED938BE2",
+      "Value": "Bathing Outfit (Not Recommended)"
+    },
+    {
+      "Key": "0x6A756FA5",
+      "Value": "Select to use Sim native bathing outfit with auto fixing when undressing."
     },
     {
       "Key": "0x07CEF1D2",
@@ -613,6 +613,14 @@
       "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.40, Minimum: 0.01)"
     },
     {
+      "Key": "0xF31897EE",
+      "Value": "Create Window Peeping Premade NPC Sims"
+    },
+    {
+      "Key": "0x1DD732AA",
+      "Value": "Check to allow creation of premade NPC Sims.\\nUncheck to disallow creation of premade NPC Sims and only let manually flagged Sims to show up."
+    },
+    {
       "Key": "0xE2D8D064",
       "Value": "Sweating Settings"
     },
@@ -793,16 +801,32 @@
       "Value": "---------- Body Selector ----------"
     },
     {
-      "Key": "0x62D0E1EB",
-      "Value": "This Sim ({0.SimName})"
+      "Key": "0xF956ED5E",
+      "Value": "Modify <b>{0.SimFirstName}</b>'s Body Parts"
     },
     {
-      "Key": "0xF2AC9584",
-      "Value": "Random Sims (like {0.SimName})"
+      "Key": "0xBF2E395E",
+      "Value": "Random Sims ({0.String})"
     },
     {
-      "Key": "0x44252BA0",
-      "Value": "All Sims (like {0.SimName})"
+      "Key": "0x35D9B282",
+      "Value": "All Sims ({0.String})"
+    },
+    {
+      "Key": "0xAF2164B4",
+      "Value": "Penis/Masculine"
+    },
+    {
+      "Key": "0xB8E175DA",
+      "Value": "Penis/Feminine"
+    },
+    {
+      "Key": "0xBDA0C081",
+      "Value": "Vagina/Masculine"
+    },
+    {
+      "Key": "0x71698E39",
+      "Value": "Vagina/Feminine"
     },
     {
       "Key": "0x15059417",
@@ -923,6 +947,38 @@
     {
       "Key": "0x0FED2090",
       "Value": "Anatomy & Clothing"
+    },
+    {
+      "Key": "0x91541CD2",
+      "Value": "Genitals"
+    },
+    {
+      "Key": "0xD5FA34AE",
+      "Value": "Has Penis"
+    },
+    {
+      "Key": "0x063A6943",
+      "Value": "Has Vagina"
+    },
+    {
+      "Key": "0x8AAE6069",
+      "Value": "Has Both Genitals"
+    },
+    {
+      "Key": "0x9821D615",
+      "Value": "Set to Have Penis"
+    },
+    {
+      "Key": "0x9A20C71A",
+      "Value": "Set to Have Vagina"
+    },
+    {
+      "Key": "0xF505F5EB",
+      "Value": "Set to Have Both"
+    },
+    {
+      "Key": "0x587409AD",
+      "Value": "This is {0.SimFirstName}'s current state."
     },
     {
       "Key": "0x315341E9",
@@ -1281,6 +1337,82 @@
       "Value": "{0.SimFirstName} doesn't feel like undressing right now is appropriate."
     },
     {
+      "Key": "0x59889692",
+      "Value": "Receiving a Nude Selfie"
+    },
+    {
+      "Key": "0x96FC988D",
+      "Value": "{0.SimFirstName} just received a picture of {1.SimFirstName}. Fully nude. Cool!"
+    },
+    {
+      "Key": "0xF5119487",
+      "Value": "{0.SimFirstName} just received a picture of {1.SimFirstName}. Fully nude. Okay."
+    },
+    {
+      "Key": "0x340CB6EC",
+      "Value": "{0.SimFirstName} just received a picture of {1.SimFirstName}. Fully nude. Yuck!"
+    },
+    {
+      "Key": "0x35C41E70",
+      "Value": "<i><b>bzzt bzzt</b></i> Oh, {0.SimFirstName} just got a naked picture of {1.SimFirstName} delivered to {M0.his}{F0.her} phone. Ah, that's hot... that's hot..."
+    },
+    {
+      "Key": "0x4B139007",
+      "Value": "<i><b>bzzt bzzt</b></i> Oh, {0.SimFirstName} just got a naked picture of {1.SimFirstName} delivered to {M0.his}{F0.her} phone. Alright...?"
+    },
+    {
+      "Key": "0x5F0D9E96",
+      "Value": "<i><b>bzzt bzzt</b></i> Oh, {0.SimFirstName} just got a naked picture of {1.SimFirstName} delivered to {M0.his}{F0.her} phone. Ah, that's not a pleasant sight..."
+    },
+    {
+      "Key": "0x6B82868A",
+      "Value": "Look at that. Seems like {1.SimFirstName} liked {0.SimFirstName}'s nude so much {M1.he}{F1.she} decided to send one back. And it's very sexy."
+    },
+    {
+      "Key": "0x827B8B93",
+      "Value": "Look at that. Seems like {1.SimFirstName} liked {0.SimFirstName}'s nude so much {M1.he}{F1.she} decided to send one back."
+    },
+    {
+      "Key": "0x355D6F67",
+      "Value": "Look at that. Seems like {1.SimFirstName} liked {0.SimFirstName}'s nude so much {M1.he}{F1.she} decided to send one back. And it's appalling."
+    },
+    {
+      "Key": "0xA87676CD",
+      "Value": "Good thing no one noticed what {0.SimFirstName} just received on {M0.his}{F0.her} phone, because that naked picture {1.SimFirstName} just sent {0.SimFirstName} would've gone appreciated by more Sims then just the recipient."
+    },
+    {
+      "Key": "0x4973F74B",
+      "Value": "Good thing no one noticed what {0.SimFirstName} just received on {M0.his}{F0.her} phone, because {1.SimFirstName} just sent {0.SimFirstName} a nude photo."
+    },
+    {
+      "Key": "0x443355D7",
+      "Value": "Good thing no one noticed what {0.SimFirstName} just received on {M0.his}{F0.her} phone, because that naked picture {1.SimFirstName} just sent {0.SimFirstName} would've scarred more Sims then just the recipient."
+    },
+    {
+      "Key": "0x8606C89C",
+      "Value": "'Give and ye shall receive!', well {0.SimFirstName} doubts that the original author of that phrase meant naked pictures, but this is the thing that comes to {M0.his}{F0.her} mind after receiving that spicy photo of {1.SimFirstName}."
+    },
+    {
+      "Key": "0xB61AB8B0",
+      "Value": "{0.SimFirstName} just received a naked picture of {1.SimFirstName} on {M0.his}{F0.her} phone. No clever phrase comes to {M0.his}{F0.her} mind."
+    },
+    {
+      "Key": "0x10B1420D",
+      "Value": "\"<i>This has been the worst trade deal in the history of trade deals</i>\" is what {0.SimFirstName} is thinking after receiving the terrible nude photo {M0.he}{F0.she} just got from {1.SimFirstName} after sending {M1.him}{F1.her} one of {M0.his}{F0.hers}."
+    },
+    {
+      "Key": "0xF9B8B72D",
+      "Value": "Holy smokes! {0.SimFirstName} didn't really expect to get one in return when {M0.he}{F0.she} send that nude photo to {1.SimFirstName}. It's a surprise to be sure, but a welcome one."
+    },
+    {
+      "Key": "0x3B99ED38",
+      "Value": "{0.SimFirstName} didn't really expect to get one in return when {M0.he}{F0.she} send that nude photo to {1.SimFirstName}. It's a surprise to be sure."
+    },
+    {
+      "Key": "0xC679B093",
+      "Value": "Oof. {0.SimFirstName} didn't really expect to get one in return when {M0.he}{F0.she} send that nude photo to {1.SimFirstName}. It's unpleasant to look at."
+    },
+    {
       "Key": "0xAAAD4C3E",
       "Value": "---------- Tanning ----------"
     },
@@ -1309,72 +1441,104 @@
       "Value": "Change Penis Size"
     },
     {
+      "Key": "0x9100186A",
+      "Value": "Select penis adjustment method."
+    },
+    {
       "Key": "0xA530B333",
       "Value": "Pick Sims for adjusting of penis size."
     },
     {
-      "Key": "0x15CFA939",
-      "Value": "Select penis size to be applied on picked Sims."
+      "Key": "0x31C95287",
+      "Value": "Select the size that will be applied on picked Sims."
     },
     {
-      "Key": "0xB06EC994",
-      "Value": "Random"
+      "Key": "0xC7CBF64B",
+      "Value": "Adjust Penis Length"
     },
     {
-      "Key": "0x6047E819",
-      "Value": "Randomize Length and Girth values."
+      "Key": "0x31012E2D",
+      "Value": "Select penis length value."
     },
     {
-      "Key": "0x935205A1",
-      "Value": "Short and Thin"
+      "Key": "0xEB236F05",
+      "Value": "Adjust Penis Girth"
     },
     {
-      "Key": "0x4E3E3953",
-      "Value": "Short and Average"
+      "Key": "0xA4F09CF9",
+      "Value": "Select penis girth value."
     },
     {
-      "Key": "0x786360D5",
-      "Value": "Short and Thick"
+      "Key": "0xF6CB0C86",
+      "Value": "Adjust Testicle Size"
     },
     {
-      "Key": "0xD7F19952",
-      "Value": "Average and Thin"
+      "Key": "0x04D357CD",
+      "Value": "Select testicles size value."
     },
     {
-      "Key": "0xCB561174",
-      "Value": "Average"
+      "Key": "0x60EAF8E8",
+      "Value": "Randomize Penis Size"
     },
     {
-      "Key": "0x5D60B380",
-      "Value": "Average and Thick"
+      "Key": "0xC06C1A35",
+      "Value": "Randomize penis length, girth, and testicles size."
     },
     {
-      "Key": "0x3B272BFD",
-      "Value": "Long and Thin"
+      "Key": "0x1313CF9C",
+      "Value": "Custom Penis Size"
     },
     {
-      "Key": "0x7AC41EE7",
-      "Value": "Long and Average"
+      "Key": "0x1D457FB6",
+      "Value": "Input penis length, girth, and testicles precise values."
     },
     {
-      "Key": "0x9178B811",
-      "Value": "Long and Thick"
+      "Key": "0x918B17A8",
+      "Value": "{0.Number}% Penis Length"
     },
     {
-      "Key": "0xF4642690",
-      "Value": "Length: {0.Number}%\\nGirth: {1.Number}%"
+      "Key": "0xE684D60D",
+      "Value": "Select to set penis length {0.Number}% above regular size."
     },
     {
-      "Key": "0x6D8FEC50",
-      "Value": "Custom"
+      "Key": "0xD6D52521",
+      "Value": "Select to set penis length at regular size."
     },
     {
-      "Key": "0xFBFB6555",
-      "Value": "Custom Length and Girth values."
+      "Key": "0xE19DDE19",
+      "Value": "Select to set penis length {0.Number}% below regular size."
     },
     {
-      "Key": "0xE3AF9136",
-      "Value": "Custom Length and Girth values.\\nCurrent Length: {0.Number}%\\nCurrent Girth: {1.Number}%"
+      "Key": "0x41912C24",
+      "Value": "{0.Number}% Penis Girth"
+    },
+    {
+      "Key": "0x9CBCAD6B",
+      "Value": "Select to set penis girth {0.Number}% above regular size."
+    },
+    {
+      "Key": "0x6B06C203",
+      "Value": "Select to set penis girth at regular size."
+    },
+    {
+      "Key": "0x89A01097",
+      "Value": "Select to set penis girth {0.Number}% below regular size."
+    },
+    {
+      "Key": "0x4177CB20",
+      "Value": "{0.Number}% Testicles Size"
+    },
+    {
+      "Key": "0x12E6A955",
+      "Value": "Select to set testicles size {0.Number}% above regular size."
+    },
+    {
+      "Key": "0xBBA51F59",
+      "Value": "Select to set testicles size at regular size."
+    },
+    {
+      "Key": "0x681B99F1",
+      "Value": "Select to set testicles size {0.Number}% below regular size."
     },
     {
       "Key": "0xA327C796",
@@ -1391,6 +1555,10 @@
     {
       "Key": "0xC1A3D81B",
       "Value": "Penis Girth Value"
+    },
+    {
+      "Key": "0x726B941F",
+      "Value": "Testicles Size Value"
     },
     {
       "Key": "0xB361B051",
@@ -3067,6 +3235,10 @@
     {
       "Key": "0xE659C948",
       "Value": "Invite In to Have Sex"
+    },
+    {
+      "Key": "0xB34A3F13",
+      "Value": "Show Off to Peeping Sim"
     },
     {
       "Key": "0x16BDAE0C",

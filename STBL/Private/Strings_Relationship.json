@@ -217,6 +217,14 @@
       "Value": "Talk about Fantasies with {1.SimFirstName}"
     },
     {
+      "Key": "0xFB6216A8",
+      "Value": "You do not have high enough Romance to ask this."
+    },
+    {
+      "Key": "0xC70FC2F1",
+      "Value": "You do not have high enough Friendship to ask this."
+    },
+    {
       "Key": "0xCD865ABF",
       "Value": "--------- Traits ---------"
     },

@@ -33,6 +33,14 @@
       "Value": "Change sex interaction related settings."
     },
     {
+      "Key": "0xF1534AEC",
+      "Value": "Sex Switch"
+    },
+    {
+      "Key": "0x34689221",
+      "Value": "Check to allow Sims to participate in sex interactions."
+    },
+    {
       "Key": "0x124D4B77",
       "Value": "Teens Sex Switch"
     },
@@ -417,8 +425,8 @@
       "Value": "Change Sex Autonomy related settings."
     },
     {
-      "Key": "0x3EE0D7D2",
-      "Value": "Autonomy Switch"
+      "Key": "0x2C432F6E",
+      "Value": "Sex Autonomy Switch"
     },
     {
       "Key": "0xB20413C0",
@@ -1139,6 +1147,14 @@
     {
       "Key": "0x473688F1",
       "Value": "Check to allow applying of cum layers during sex no matter the involved Sims.\\nUncheck to disallow applying of cum layers when a Sim capable of producing cum is not present."
+    },
+    {
+      "Key": "0x4403C111",
+      "Value": "Cum Levels Selector Switch"
+    },
+    {
+      "Key": "0x91035713",
+      "Value": "Check to use a selector menu for applying cum layer levels."
     },
     {
       "Key": "0xFF4E8C90",
@@ -2101,6 +2117,30 @@
       "Value": "Do you want to remove the '{0.String}' tag?"
     },
     {
+      "Key": "0x1C4E2153",
+      "Value": "Sex Animation Roles"
+    },
+    {
+      "Key": "0x2DA844DF",
+      "Value": "Select Actor to modify in the '{0.String}' animation."
+    },
+    {
+      "Key": "0xE174E906",
+      "Value": "Actor Identifier: {0.Number}\\nActor Role: {1.String}"
+    },
+    {
+      "Key": "0xE5DC717D",
+      "Value": "Occupied by: {0.SimName}"
+    },
+    {
+      "Key": "0xD42CF5A8",
+      "Value": "Choose the role for the selected actor."
+    },
+    {
+      "Key": "0xFB838FA3",
+      "Value": "{0.String} ({1.String})"
+    },
+    {
       "Key": "0x77E7E1E9",
       "Value": "Note that using this during any sex interactions may result in problems!\\nIt is recommended to not use this disabler while any sex interactions are playing!"
     },
@@ -2319,6 +2359,318 @@
     {
       "Key": "0xF87BE16C",
       "Value": "Dressed Up"
+    },
+    {
+      "Key": "0x3D78EBED",
+      "Value": "None"
+    },
+    {
+      "Key": "0x82CB7566",
+      "Value": "Male"
+    },
+    {
+      "Key": "0x8918FB2C",
+      "Value": "Vampire Male"
+    },
+    {
+      "Key": "0xF4604C47",
+      "Value": "Ghost Male"
+    },
+    {
+      "Key": "0x22D3D867",
+      "Value": "Alien Male"
+    },
+    {
+      "Key": "0xB740C99B",
+      "Value": "Mermaid Male"
+    },
+    {
+      "Key": "0xA9B01D03",
+      "Value": "Witch Male"
+    },
+    {
+      "Key": "0xDB27F3D1",
+      "Value": "Servo Male"
+    },
+    {
+      "Key": "0x418B86CF",
+      "Value": "Female"
+    },
+    {
+      "Key": "0x1039EE39",
+      "Value": "Vampire Female"
+    },
+    {
+      "Key": "0x30FAEBB2",
+      "Value": "Ghost Female"
+    },
+    {
+      "Key": "0x8550CF52",
+      "Value": "Alien Female"
+    },
+    {
+      "Key": "0xEDAC99E6",
+      "Value": "Mermaid Female"
+    },
+    {
+      "Key": "0x89E276CE",
+      "Value": "Witch Female"
+    },
+    {
+      "Key": "0xB9C9C598",
+      "Value": "Servo Female"
+    },
+    {
+      "Key": "0x30F547CC",
+      "Value": "Both"
+    },
+    {
+      "Key": "0x861D08C2",
+      "Value": "Vampire Both"
+    },
+    {
+      "Key": "0xB27FEE15",
+      "Value": "Ghost Both"
+    },
+    {
+      "Key": "0x2E6A0535",
+      "Value": "Alien Both"
+    },
+    {
+      "Key": "0xED79E251",
+      "Value": "Mermaid Both"
+    },
+    {
+      "Key": "0xF1A4F8B9",
+      "Value": "Witch Both"
+    },
+    {
+      "Key": "0x89078CDF",
+      "Value": "Servo Both"
+    },
+    {
+      "Key": "0x478A67FF",
+      "Value": "None"
+    },
+    {
+      "Key": "0x365BF0FB",
+      "Value": "Floor"
+    },
+    {
+      "Key": "0x0645E210",
+      "Value": "Underwater"
+    },
+    {
+      "Key": "0xDAAEF1BE",
+      "Value": "Short Dining Table"
+    },
+    {
+      "Key": "0x8FDCBF32",
+      "Value": "Long Dining Table"
+    },
+    {
+      "Key": "0xAECBEAD3",
+      "Value": "TV Stand"
+    },
+    {
+      "Key": "0xFDAC6F65",
+      "Value": "Coffee Table"
+    },
+    {
+      "Key": "0x4F0F3883",
+      "Value": "Accent Table"
+    },
+    {
+      "Key": "0x6AFA1FEB",
+      "Value": "Picnic Table"
+    },
+    {
+      "Key": "0xB64CDF55",
+      "Value": "Outdoor Table"
+    },
+    {
+      "Key": "0xD034ED19",
+      "Value": "Outdoor Umbrella Table"
+    },
+    {
+      "Key": "0x5E34C438",
+      "Value": "Desk"
+    },
+    {
+      "Key": "0xD23A121C",
+      "Value": "Bar"
+    },
+    {
+      "Key": "0xD6D68BB9",
+      "Value": "Counter"
+    },
+    {
+      "Key": "0x5D92F8F8",
+      "Value": "Island Counter"
+    },
+    {
+      "Key": "0xC2BACD68",
+      "Value": "Corner Counter"
+    },
+    {
+      "Key": "0x4D591C76",
+      "Value": "Sofa"
+    },
+    {
+      "Key": "0x7CB5F1F0",
+      "Value": "Loveseat"
+    },
+    {
+      "Key": "0xC5FB44C3",
+      "Value": "Bench"
+    },
+    {
+      "Key": "0x79FBC1F7",
+      "Value": "Corner Loveseat"
+    },
+    {
+      "Key": "0xEAED07DC",
+      "Value": "Murphy Bed Loveseat"
+    },
+    {
+      "Key": "0x44E07F20",
+      "Value": "Sectional Sofa"
+    },
+    {
+      "Key": "0xBC8ECDC3",
+      "Value": "Workout Machine"
+    },
+    {
+      "Key": "0x77609304",
+      "Value": "Stove"
+    },
+    {
+      "Key": "0x6E48D62C",
+      "Value": "Living Room Chair"
+    },
+    {
+      "Key": "0x75B4231C",
+      "Value": "Dining Room Chair"
+    },
+    {
+      "Key": "0x09EBAEC2",
+      "Value": "Stool"
+    },
+    {
+      "Key": "0x45EFA169",
+      "Value": "Desk Chair"
+    },
+    {
+      "Key": "0xD23C3076",
+      "Value": "Lounge Chair"
+    },
+    {
+      "Key": "0xAEA67064",
+      "Value": "Floating Lounge Chair"
+    },
+    {
+      "Key": "0x81A081BB",
+      "Value": "Lounge Chaise Chair"
+    },
+    {
+      "Key": "0xC054982C",
+      "Value": "Toilet"
+    },
+    {
+      "Key": "0x9417E26A",
+      "Value": "Toilet Stall"
+    },
+    {
+      "Key": "0x7876FC08",
+      "Value": "Public Bathroom"
+    },
+    {
+      "Key": "0xEC96B9A3",
+      "Value": "Double Bed"
+    },
+    {
+      "Key": "0x0095666A",
+      "Value": "Single Bed"
+    },
+    {
+      "Key": "0x8CFE6CF7",
+      "Value": "Ottoman"
+    },
+    {
+      "Key": "0x92732731",
+      "Value": "Murphy Bed"
+    },
+    {
+      "Key": "0x63220FF0",
+      "Value": "Coffin"
+    },
+    {
+      "Key": "0x353C109C",
+      "Value": "Bunk Bed"
+    },
+    {
+      "Key": "0x54AB6321",
+      "Value": "Hot Tub"
+    },
+    {
+      "Key": "0x54B609B0",
+      "Value": "Shower Tub"
+    },
+    {
+      "Key": "0x1EB53E2F",
+      "Value": "Shower"
+    },
+    {
+      "Key": "0xF72D6519",
+      "Value": "Bathtub"
+    },
+    {
+      "Key": "0xF204E247",
+      "Value": "Open Shower"
+    },
+    {
+      "Key": "0x587045C0",
+      "Value": "Corner Bathtub"
+    },
+    {
+      "Key": "0xFC8152A2",
+      "Value": "Steam Room"
+    },
+    {
+      "Key": "0x675291AF",
+      "Value": "Yoga Mat"
+    },
+    {
+      "Key": "0xD85FBE22",
+      "Value": "Massage Table"
+    },
+    {
+      "Key": "0x61DD9019",
+      "Value": "Beach Towel"
+    },
+    {
+      "Key": "0x22A42844",
+      "Value": "Dance Floor"
+    },
+    {
+      "Key": "0x7638DE41",
+      "Value": "Closed Murphy Bed"
+    },
+    {
+      "Key": "0x54DEC061",
+      "Value": "Window"
+    },
+    {
+      "Key": "0x3D3E04ED",
+      "Value": "Door"
+    },
+    {
+      "Key": "0x11AADC0A",
+      "Value": "Mirror"
+    },
+    {
+      "Key": "0x8354C142",
+      "Value": "Custom Locations"
     },
     {
       "Key": "0xE2053DE9",
@@ -3261,6 +3613,10 @@
       "Value": "Modify Currently Playing Animation Tags"
     },
     {
+      "Key": "0x925EA96D",
+      "Value": "Modify Currently Playing Animation Roles"
+    },
+    {
       "Key": "0x921BDED1",
       "Value": "STD"
     },
@@ -3461,40 +3817,40 @@
       "Value": "Couldn't Prepare Sims, Location or Animations!"
     },
     {
-      "Key": "0x0EA0AC40",
-      "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 11</b>\\n{0.String}"
+      "Key": "0x78428CF8",
+      "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting Sex Animations could be found.\\n\\n<b>Message Code: 11</b>\\n{0.String}"
     },
     {
-      "Key": "0x462BD613",
-      "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 12</b>\\n{0.String}"
+      "Key": "0x4E1441C7",
+      "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Message Code: 12</b>\\n{0.String}"
     },
     {
-      "Key": "0x64ECBBA4",
-      "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 13</b>\\n{0.String}"
+      "Key": "0xB32D4298",
+      "Value": "With the provided criteria of newly involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Message Code: 13</b>\\n{0.String}"
     },
     {
-      "Key": "0x3C48B0AF",
-      "Value": "With the provided criteria of newly involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Issue Code: 14</b>\\n{0.String}"
+      "Key": "0xD8466AB7",
+      "Value": "With the provided criteria of newly involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Message Code: 14</b>\\n{0.String}"
     },
     {
-      "Key": "0xE448C966",
-      "Value": "With the provided criteria of picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 15</b>\\n{0.String}"
+      "Key": "0x56EA36C2",
+      "Value": "With the provided criteria of picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Message Code: 15</b>\\n{0.String}"
     },
     {
-      "Key": "0xCB39337C",
-      "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Issue Code: 16</b>\\n{0.String}"
+      "Key": "0x43BCBD6C",
+      "Value": "With the provided criteria of involved Sims and picked Location/Object, no fitting random Sex Animations could be found.\\n\\n<b>Message Code: 16</b>\\n{0.String}"
     },
     {
-      "Key": "0x09F2356D",
-      "Value": "With the provided criteria of involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Issue Code: 17</b>\\n{0.String}"
+      "Key": "0x517820C1",
+      "Value": "With the provided criteria of involved Sims, picked Location/Object and selected sex category/context, no fitting Sex Animations could be found.\\n\\n<b>Message Code: 17</b>\\n{0.String}"
     },
     {
-      "Key": "0x8D205C29",
-      "Value": "With the provided criteria of involved Sims and Sex Animation, no fitting Sims could be found to perform the swapping.\\n\\n<b>Issue Code: 18</b>\\n{0.String}"
+      "Key": "0xC32BCA7D",
+      "Value": "With the provided criteria of involved Sims and Sex Animation, no fitting Sims could be found to perform the swapping.\\n\\n<b>Message Code: 18</b>\\n{0.String}"
     },
     {
-      "Key": "0x77AA614E",
-      "Value": "With the provided criteria of picked Location/Object, involved Sims, Age Limitations and Gender Settings, no fitting Sims could be found nearby.\\n\\n<b>Issue Code: 19</b>\\n{0.String}"
+      "Key": "0x1C4CF0A2",
+      "Value": "With the provided criteria of picked Location/Object, involved Sims, Age Limitations and Gender Settings, no fitting Sims could be found nearby.\\n\\n<b>Message Code: 19</b>\\n{0.String}"
     },
     {
       "Key": "0x64A9FF4C",
@@ -3645,8 +4001,8 @@
       "Value": "Author: {0.String}\\nRoles: {1.String} | Orientation: {2.String}\\nDuration: {3.String}s"
     },
     {
-      "Key": "0x4DC2C085",
-      "Value": "Category: {0.String} | Author: {1.String}\\nRoles: {2.String} | Orientation: {3.String}\\nDuration: {3.String}s"
+      "Key": "0x1359DE5E",
+      "Value": "Category: {0.String} | Author: {1.String}\\nRoles: {2.String} | Orientation: {3.String}\\nDuration: {4.String}s"
     },
     {
       "Key": "0xBCBE0470",
@@ -5169,6 +5525,18 @@
       "Value": "Select Autonomy Intensity Preset"
     },
     {
+      "Key": "0x4F7A651D",
+      "Value": "Solo Autonomy Configuration"
+    },
+    {
+      "Key": "0xDD5AAD8C",
+      "Value": "This message is meant to inform you about the possibility of adjusting settings related to Solo Sex Autonomy.\\n\\nAn autonomous solo sex interaction has occurred in your game. These will happen every so often, depending on your settings.\\nYou can change how often, if at all, solo sex interactions should happen on their own. Use the button below to decide if you want Solo Sex Autonomy to occur.\\n\\nIf you already adjusted your Sex Autonomy settings you can safely ignore this message."
+    },
+    {
+      "Key": "0x66B86D28",
+      "Value": "Adjust Sex Autonomy Triggers"
+    },
+    {
       "Key": "0xABA62CF3",
       "Value": "---------- SEX TRAITS ----------"
     },
@@ -6389,6 +6757,10 @@
       "Value": "Accessories"
     },
     {
+      "Key": "0x457F05D7",
+      "Value": "Undress All Accessories"
+    },
+    {
       "Key": "0x5C60DB3E",
       "Value": "Undress Glasses"
     },
@@ -6453,6 +6825,14 @@
       "Value": "Author: {0.String}"
     },
     {
+      "Key": "0x87891169",
+      "Value": "Select Cum Level"
+    },
+    {
+      "Key": "0xB316AF9D",
+      "Value": "Level: {0.Number}"
+    },
+    {
       "Key": "0x3E8E2F24",
       "Value": "{0.String} (x{1.String})"
     },
@@ -6487,6 +6867,18 @@
     {
       "Key": "0xF3D28EC8",
       "Value": "Feet"
+    },
+    {
+      "Key": "0xC2681B2D",
+      "Value": "Wipe Off Cum"
+    },
+    {
+      "Key": "0x4DB8591E",
+      "Value": "{0.SimFirstName} can't do this while having sex. That would be a waste."
+    },
+    {
+      "Key": "0xC9C8890C",
+      "Value": "There is no cum on {0.SimFirstName}'s body to wipe off."
     },
     {
       "Key": "0xE968969F",
@@ -6717,6 +7109,14 @@
       "Value": "Birth Control"
     },
     {
+      "Key": "0x2F57B23A",
+      "Value": "<font color='#340658'>No Protection</font>"
+    },
+    {
+      "Key": "0xB5B33FEB",
+      "Value": "{0.SimFirstName} agreed to not use any birth control."
+    },
+    {
       "Key": "0x8AE6A796",
       "Value": "<font color='#340658'>Wearing a Condom</font>"
     },
@@ -6787,6 +7187,18 @@
     {
       "Key": "0xC393D467",
       "Value": "Disallow Birth Control Pills Auto Use"
+    },
+    {
+      "Key": "0x4311B212",
+      "Value": "Ask to Stop Using Birth Control"
+    },
+    {
+      "Key": "0x65CD1B7D",
+      "Value": "Ask to Resume Using Birth Control"
+    },
+    {
+      "Key": "0x41B90C0A",
+      "Value": "{0.SimFirstName} will no longer use protection when having sex with {1.SimFirstName}."
     },
     {
       "Key": "0xB0586B51",
@@ -7243,6 +7655,10 @@
     {
       "Key": "0x61AFC600",
       "Value": "A Tampon is needed to perform this action."
+    },
+    {
+      "Key": "0xE8B6F09A",
+      "Value": "Use Tampon & Pad"
     },
     {
       "Key": "0x05F50650",
