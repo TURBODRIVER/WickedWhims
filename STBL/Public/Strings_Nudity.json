@@ -613,6 +613,14 @@
       "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.40, Minimum: 0.01)"
     },
     {
+      "Key": "0xF31897EE",
+      "Value": "Create Window Peeping Premade NPC Sims"
+    },
+    {
+      "Key": "0x1DD732AA",
+      "Value": "Check to allow creation of premade NPC Sims.\\nUncheck to disallow creation of premade NPC Sims and only let manually flagged Sims to show up."
+    },
+    {
       "Key": "0xE2D8D064",
       "Value": "Sweating Settings"
     },

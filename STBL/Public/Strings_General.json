@@ -73,8 +73,8 @@
       "Value": "Warning!"
     },
     {
-      "Key": "0xC8FC21DE",
-      "Value": "Failed to load parts of WickedWhims save data!\\n\\nDefault data was used instead.\\n\\nSaving the game should override incorrect data and fix the issue.\\nRemoving 'WickedWhimsMod' folder from 'saves' folder can help too."
+      "Key": "0x154A0659",
+      "Value": "Failed to properly load WickedWhims save data!\\n\\nThis is most likely due to an error during the loading process of the game caused by another modification.\\n\\nBe careful as saving the game will result in loss of save data!\\nIdentify the source of the error and make sure the game loads without this warning message."
     },
     {
       "Key": "0x449C1DFF",
@@ -89,8 +89,8 @@
       "Value": "Hey! Looks like some kind of error has occurred.\\nIf it looks like it's related to WickedWhims, try using the command below.\\n\\n<b>ww.fix</b>\\n\\nTo use a command, open the Command Console by pressing 'CTRL+SHIFT+C' on your keyboard.\\nThen type in the command."
     },
     {
-      "Key": "0xAA523960",
-      "Value": "WickedWhims Censorship (Streamer Mode) is now active!\\n\\nIf correctly installed, censorship covers:\\n • In-game native and WickedWhims nudity is censored.\\n • CAS nudity is censored, with exception to non-WickedWhims content.\\n • Sex interactions are censored.\\n • Sims thumbnails and previews include censorship overlays.\\n\\nBeware that any additional inappropriate content outside of WickedWhims scope cannot be accurately detected and censored.\\nOther modded means of displaying Sims nudity that do not occur through WickedWhims actions might not be censored.\\nMake sure to verify any other means of Sims potential inappropriate behavior. It's your responsibility to be aware of it."
+      "Key": "0x7A8D21A8",
+      "Value": "You have installed the WickedWhims Censorship Mod (Streamer Mode)!\\n\\nIf correctly installed, censorship covers:\\n • In-game native and WickedWhims nudity is censored.\\n • CAS nudity is censored, with exception to non-WickedWhims content.\\n • Sex interactions are censored.\\n • Sims thumbnails and previews include censorship overlays.\\n\\nBeware that any additional inappropriate content outside of WickedWhims scope cannot be accurately detected and censored.\\nOther modded means of displaying Sims nudity that do not occur through WickedWhims actions might not be censored.\\nMake sure to verify any other means of Sims potential inappropriate behavior. It's your responsibility to be aware of it."
     },
     {
       "Key": "0xFEF8805B",
@@ -169,6 +169,14 @@
       "Value": "WickedWhims Settings"
     },
     {
+      "Key": "0xCBB1F8A9",
+      "Value": "Hey, just so you know..."
+    },
+    {
+      "Key": "0x4C06359D",
+      "Value": "WickedWhims is meant to work out-of-the-box without a need to adjust any settings. You are supposed to be able to access all content without having to do any extra work.\\n\\nIf you are having trouble doing something, you believe that something is missing, or something is clearly not working, contact us for help!\\nClick the 'More Information' button in the next menu."
+    },
+    {
       "Key": "0xC3B7DC2A",
       "Value": "Headline Effects Settings"
     },
@@ -235,6 +243,14 @@
     {
       "Key": "0xE6B32A7A",
       "Value": "Don't ask me again"
+    },
+    {
+      "Key": "0xC291D1F2",
+      "Value": "Unsupported Game Version for WickedWhims"
+    },
+    {
+      "Key": "0xFEC37B67",
+      "Value": "The current version of the game ({0.String}) is not supported by the currently installed version of <b>WickedWhims</b> ({1.String}).\\n\\nAttempting to play with this version of the game will most likely result in issues, errors, and potential loss of save data.\\n\\nYou should consider updating the game before playing with the currently installed version of <b>WickedWhims</b>\\n\\n<i>If your game is fully updated, delete the 'GameVersion.txt' file in 'Documents->Electronic Arts->The Sims 4' folder.</i>."
     },
     {
       "Key": "0x29A39B98",
