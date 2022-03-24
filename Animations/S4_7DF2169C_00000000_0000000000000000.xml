@@ -111,7 +111,7 @@
       <L n="animation_events_list"> <!-- List of events in this animation (add more for more events, remove any that are not needed) -->
 
         <U> <!-- [START OF EVENT ENTRY] -->
-          <T n="event_type">EFFECT</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM) -->
+          <T n="event_type">EFFECT</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_end_timecode">9.87654</T> <!-- Decimal Number in animation duration of when this event stops (use high number, like 999, to avoid stopping the event) -->
 
@@ -126,11 +126,18 @@
         </U> <!-- [END OF EVENT ENTRY] -->
 
         <U> <!-- [START OF EVENT ENTRY] -->
-          <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM) -->
+          <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="cum_layer_type">FACE</T> <!-- Cum Layer Type to apply on the Event Target (FACE, CHEST, BACK, VAGINA, BUTT, FEET) -->
           <T n="cum_layer_level">1</T> <!-- Cum Layer Level by which the Cum Layer Type is increased (Default: 1) -->
+        </U> <!-- [END OF EVENT ENTRY] -->
+
+        <U> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">UNDRESS</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS) -->
+          <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
+          <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
+          <T n="naked_type">BOTTOM</T> <!-- Naked Type the Event Target will undress to (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
         </U> <!-- [END OF EVENT ENTRY] -->
 
       </L>
