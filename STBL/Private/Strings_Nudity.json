@@ -1161,6 +1161,14 @@
       "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
     },
     {
+      "Key": "0x7E2A95E8",
+      "Value": "<font color='#340658'>Uncomfortable Clothing</font>"
+    },
+    {
+      "Key": "0xA1D6550E",
+      "Value": "{0.SimFirstName} is feeling uncomfortable wearing clothing. {M0.He}{F0.She} must be naked. Now."
+    },
+    {
       "Key": "0x35715025",
       "Value": "---------- Whims ----------"
     },
@@ -1687,6 +1695,50 @@
     {
       "Key": "0xD1C2134E",
       "Value": "Naked"
+    },
+    {
+      "Key": "0x2BBDADC4",
+      "Value": "---------- Spellcasters ----------"
+    },
+    {
+      "Key": "0x817C4781",
+      "Value": "Nudellio"
+    },
+    {
+      "Key": "0x8B6FA2AA",
+      "Value": "Changes the Sim into an overjoyed Naturist."
+    },
+    {
+      "Key": "0xA415D609",
+      "Value": "(From Failed Nudellio Spell)"
+    },
+    {
+      "Key": "0x0890333D",
+      "Value": "Tome of Nudellio"
+    },
+    {
+      "Key": "0x2AD49E90",
+      "Value": "<b>Requires:</b> Rank Master\\nTeaches the reader a Spell to change Sims into Naturists."
+    },
+    {
+      "Key": "0xB11F0EAE",
+      "Value": "---------- Traditions ----------"
+    },
+    {
+      "Key": "0x05102765",
+      "Value": "Embrace Nudity"
+    },
+    {
+      "Key": "0x2260D30E",
+      "Value": "A perfect chance to get naked whenever you want and not feel embarrassed about it.\\n\\nTo participate, select a Sim and stay naked for a few hours."
+    },
+    {
+      "Key": "0xF69CC3F3",
+      "Value": "(From Being a Nudity Enthusiast)"
+    },
+    {
+      "Key": "0xB6E74625",
+      "Value": "(From Fearing Nudity)"
     },
     {
       "Key": "0xFBC90FD6",
@@ -2999,6 +3051,14 @@
     {
       "Key": "0x0CBAF2BA",
       "Value": "Freestanding spin dancing poles are an easy and convenient choice for blooming Strip Club businesses. The shiny finish and rotating function enhance dancers performance with additional 'wow factor' that makes customers heads turn.\\nProvided by the Noir and Dark Sims Inc."
+    },
+    {
+      "Key": "0x0316D256",
+      "Value": "Enable Nude Dancing"
+    },
+    {
+      "Key": "0x746D17CD",
+      "Value": "Disable Nude Dancing"
     },
     {
       "Key": "0x4B821084",

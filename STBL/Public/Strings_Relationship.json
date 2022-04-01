@@ -497,62 +497,6 @@
       "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
     },
     {
-      "Key": "0x6DF9B78B",
-      "Value": "---------- Protocols ----------"
-    },
-    {
-      "Key": "0xCF336CF3",
-      "Value": "Disallow Jealousy Inside Protocol"
-    },
-    {
-      "Key": "0x259BC569",
-      "Value": "Sims within this group are prevented from jealousy towards other Sims inside of this group."
-    },
-    {
-      "Key": "0xB301DAFE",
-      "Value": "Disallow Jealousy Outside Protocol"
-    },
-    {
-      "Key": "0xF00BF39C",
-      "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
-    },
-    {
-      "Key": "0x94C8C365",
-      "Value": "--------- Reputation ---------"
-    },
-    {
-      "Key": "0x5090D01D",
-      "Value": "{0.String}\\n\\n\\n{1.String}"
-    },
-    {
-      "Key": "0x66744FDC",
-      "Value": "{1.SimName} <b>liked</b> that."
-    },
-    {
-      "Key": "0x71D126A3",
-      "Value": "{1.SimName} <b>really liked</b> that."
-    },
-    {
-      "Key": "0xC787295A",
-      "Value": "{1.SimName} <b>disliked</b> that."
-    },
-    {
-      "Key": "0xB9400107",
-      "Value": "{1.SimName} <b>really disliked</b> that."
-    },
-    {
-      "Key": "0x0957A986",
-      "Value": "Increased Wicked Reputation."
-    },
-    {
-      "Key": "0x78E11AEA",
-      "Value": "Decreased Wicked Reputation."
-    },
-    {
-      "Key": "0x94302047",
-      "Value": "Sent a Nude Selfie."
-    },
-    {
       "Key": "0xCEC4A53C",
       "Value": "--------- Impressions ---------"
     },
@@ -4095,70 +4039,6 @@
     {
       "Key": "0x05CDFF7F",
       "Value": "{0.SimFirstName} dislikes big butts."
-    },
-    {
-      "Key": "0xBE70877B",
-      "Value": "I like short dicks."
-    },
-    {
-      "Key": "0x87ADCF11",
-      "Value": "I dislike short dicks."
-    },
-    {
-      "Key": "0xAD6873DF",
-      "Value": "{0.SimFirstName} likes short dicks."
-    },
-    {
-      "Key": "0xD0B34043",
-      "Value": "{0.SimFirstName} dislikes short dicks."
-    },
-    {
-      "Key": "0xBB74C61C",
-      "Value": "I like long dicks."
-    },
-    {
-      "Key": "0x90A637D2",
-      "Value": "I dislike long dicks."
-    },
-    {
-      "Key": "0x72CA9D08",
-      "Value": "{0.SimFirstName} likes long dicks."
-    },
-    {
-      "Key": "0x7BF47124",
-      "Value": "{0.SimFirstName} dislikes long dicks."
-    },
-    {
-      "Key": "0xF8DF0260",
-      "Value": "I like thin dicks."
-    },
-    {
-      "Key": "0xDE99CD92",
-      "Value": "I dislike thin dicks."
-    },
-    {
-      "Key": "0x6320F06C",
-      "Value": "{0.SimFirstName} likes thin dicks."
-    },
-    {
-      "Key": "0xFAFD0528",
-      "Value": "{0.SimFirstName} dislikes thin dicks."
-    },
-    {
-      "Key": "0xB1F3D7A9",
-      "Value": "I like thick dicks."
-    },
-    {
-      "Key": "0x2A90D187",
-      "Value": "I dislike thick dicks."
-    },
-    {
-      "Key": "0x5FF55785",
-      "Value": "{0.SimFirstName} likes thick dicks."
-    },
-    {
-      "Key": "0x36EE0541",
-      "Value": "{0.SimFirstName} dislikes thick dicks."
     },
     {
       "Key": "0xE9F859A6",

@@ -161,6 +161,10 @@
       "Value": "<font color='#1DB5CC'>{0.String}</font>"
     },
     {
+      "Key": "0x0A1D278B",
+      "Value": "<font color='#199C2C'>{0.String}</font>"
+    },
+    {
       "Key": "0xA917DC98",
       "Value": "Settings"
     },
@@ -211,6 +215,18 @@
     {
       "Key": "0xC7AB2E8F",
       "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+    },
+    {
+      "Key": "0x50095834",
+      "Value": "Animation Creation Information"
+    },
+    {
+      "Key": "0x0841148C",
+      "Value": "Information about creating animations for WickedWhims."
+    },
+    {
+      "Key": "0x08943B7A",
+      "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/tutorials)\\n\\nThis will open your web browser!"
     },
     {
       "Key": "0x8FD8E13C",
@@ -301,12 +317,24 @@
       "Value": "Thank You For Your Feedback!"
     },
     {
-      "Key": "0x8A66088D",
-      "Value": "Thank You for your hopefully <b>constructive</b> opinion!\\n\\nIf your feedback is about an issue, an error, or something not being correct, this is the worst way to share it. Vast majority of problems are on the user-end and without a way to contact you, your problem will never get solved. Please contact us instead!"
+      "Key": "0x60EAC984",
+      "Value": "Thank You for your hopefully <b>constructive</b> opinion!\\n\\nIf your feedback is about an issue, an error, or something not being correct, this is NOT the way to share it. Vast majority of problems are on the user-end and without a way to contact you, your problem will never get solved. Please contact us instead\\n\\nVisit <b>https://wickedwhimsmod.com/contact</b> for contact information!"
     },
     {
       "Key": "0xCE456AA5",
       "Value": "Please Wait A While Before Sending More!"
+    },
+    {
+      "Key": "0x8BBC535A",
+      "Value": "--------------- Master Settings ---------------"
+    },
+    {
+      "Key": "0xFAB008AA",
+      "Value": "Master Settings"
+    },
+    {
+      "Key": "0x1F2218DF",
+      "Value": "Enable or Disable main features of WickedWhims."
     },
     {
       "Key": "0x77C36462",
@@ -429,6 +457,10 @@
       "Value": "{0.SimFirstName} has no Wicked Attributes assigned."
     },
     {
+      "Key": "0xA4C7F35F",
+      "Value": "Take Away All Sims Wicked Attributes"
+    },
+    {
       "Key": "0x0EDF0CFF",
       "Value": "Wicked Attributes"
     },
@@ -477,8 +509,20 @@
       "Value": "Pick attributes to give selected Sims."
     },
     {
+      "Key": "0xB7D862EA",
+      "Value": "Pick attributes to take away from selected Sims."
+    },
+    {
+      "Key": "0xA28734C4",
+      "Value": "No selected Sims have any Wicked Attributes assigned to them."
+    },
+    {
       "Key": "0xE2252581",
       "Value": "The total of {0.Number} attribute{P0.s} has been added to {1.Number} Sim{P1.s}."
+    },
+    {
+      "Key": "0xECF035D6",
+      "Value": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}."
     },
     {
       "Key": "0x24656CCB",
@@ -567,398 +611,6 @@
     {
       "Key": "0xF2CA93D0",
       "Value": "Select Random Sims"
-    },
-    {
-      "Key": "0x703AC0FC",
-      "Value": "--------------- Protocols / Circles ---------------"
-    },
-    {
-      "Key": "0xB9299DD8",
-      "Value": "Sims Protocols"
-    },
-    {
-      "Key": "0x424B9584",
-      "Value": "Create and manage Sims Protocols."
-    },
-    {
-      "Key": "0x2AC0227E",
-      "Value": "<b>Sims Protocols</b> is a feature that allows you to alter Sims behavior by defining their privileges and restrictions.\\n\\nHow to use Sims Protocols?\\n<b>1.</b> Create a Protocol and select which Sims are supposed to be affected by it.\\n<b>2.</b> Set the rules that the selected Sims are required to obey.\\n<b>3.</b> Consider changing the name and icon for easier recognition of the newly created Protocol.\\nAnd you're done. Now watch Sims in the game obey the rules of the newly created Protocol.\\n\\nTake your time and read all of the descriptions to better understand what each function and rule does. <b>Using Protocols is completely optional and not required to enjoy playing with WickedWhims.</b>"
-    },
-    {
-      "Key": "0x6F1A441E",
-      "Value": "Protocol: {0.String}"
-    },
-    {
-      "Key": "0x1517EE27",
-      "Value": "Creating a New Protocol..."
-    },
-    {
-      "Key": "0x278D8418",
-      "Value": "Protocols Controls"
-    },
-    {
-      "Key": "0xD45AD672",
-      "Value": "Create, Modify, Merge, or Remove existing Protocols."
-    },
-    {
-      "Key": "0x9D869822",
-      "Value": "Create a New Protocol"
-    },
-    {
-      "Key": "0x3F7F9803",
-      "Value": "Create a group of Sims and set their privileges, restrictions, or alter their behavior."
-    },
-    {
-      "Key": "0x6993D12D",
-      "Value": "Modify an Existing Protocol"
-    },
-    {
-      "Key": "0x1D42E28B",
-      "Value": "Modify an existing group of Sims."
-    },
-    {
-      "Key": "0xACAE054F",
-      "Value": "Merge Existing Protocols"
-    },
-    {
-      "Key": "0x96E0D5D7",
-      "Value": "Merge existing groups into one new group."
-    },
-    {
-      "Key": "0x0687ED03",
-      "Value": "Remove Existing Protocols"
-    },
-    {
-      "Key": "0x3EFF433D",
-      "Value": "Remove existing groups of Sims."
-    },
-    {
-      "Key": "0x7ED9F299",
-      "Value": "Select a Protocol to modify."
-    },
-    {
-      "Key": "0x07BC1D47",
-      "Value": "Sims in this Protocol: {0.Number}\\nRules in this Protocol: {1.Number}"
-    },
-    {
-      "Key": "0x36D9EE1D",
-      "Value": "Sims in this Protocol: {0.Number}\\nRules in this Protocol: {1.Number}\\n<font color='#EC262E'>This Protocol has conflicting Rules or Restrictions.</font>"
-    },
-    {
-      "Key": "0xECA9B96B",
-      "Value": "Add Sims, set rules, rename, change icon, or remove this protocol."
-    },
-    {
-      "Key": "0xA5AEFE04",
-      "Value": "Add/Remove Sims in Protocol"
-    },
-    {
-      "Key": "0x8C10CE60",
-      "Value": "Add Sims to this group or Remove Sims from this group."
-    },
-    {
-      "Key": "0x2C4C418F",
-      "Value": "Set/Unset Categories of Sims in Protocol"
-    },
-    {
-      "Key": "0x9CEB8B70",
-      "Value": "Set categories of Sims to be included in this group."
-    },
-    {
-      "Key": "0x309CE777",
-      "Value": "Set/Unset Rules in Protocol"
-    },
-    {
-      "Key": "0x02B38474",
-      "Value": "Set rules that Sims need to obey or alter Sims behavior in this group."
-    },
-    {
-      "Key": "0xAA13F8AF",
-      "Value": "Set/Unset Restrictions in Protocol"
-    },
-    {
-      "Key": "0x909ADE24",
-      "Value": "Set restrictions in this group."
-    },
-    {
-      "Key": "0xC28895AD",
-      "Value": "Rename Protocol"
-    },
-    {
-      "Key": "0x05D52F07",
-      "Value": "Change the name of this group."
-    },
-    {
-      "Key": "0x76C124BC",
-      "Value": "Change Protocol Icon"
-    },
-    {
-      "Key": "0x01F1FCD5",
-      "Value": "Change the icon of this group."
-    },
-    {
-      "Key": "0x7F1DE5F7",
-      "Value": "Remove Protocol"
-    },
-    {
-      "Key": "0x1A962620",
-      "Value": "Remove this group from existence."
-    },
-    {
-      "Key": "0xB5A7D970",
-      "Value": "Sims Outside Protocol"
-    },
-    {
-      "Key": "0x243944FF",
-      "Value": "Sims Inside Protocol"
-    },
-    {
-      "Key": "0xA4A7FEC2",
-      "Value": "Select Sims on left to add them to this Protocol.\\nSelect Sims on right to remove them from this Protocol."
-    },
-    {
-      "Key": "0x4FE375EE",
-      "Value": "Select categories of Sims for this group."
-    },
-    {
-      "Key": "0x10487890",
-      "Value": "All Sims"
-    },
-    {
-      "Key": "0xD5C9B225",
-      "Value": "Include All Sims in this Protocol."
-    },
-    {
-      "Key": "0xF993CAE4",
-      "Value": "Toddler Age Sims"
-    },
-    {
-      "Key": "0xA356C21D",
-      "Value": "Include All Sims of Toddler age in this Protocol."
-    },
-    {
-      "Key": "0x3038A0BA",
-      "Value": "Child Age Sims"
-    },
-    {
-      "Key": "0x3EF12C93",
-      "Value": "Include All Sims of Child age in this Protocol."
-    },
-    {
-      "Key": "0x70F1915C",
-      "Value": "Teen Age Sims"
-    },
-    {
-      "Key": "0xD0C06CD5",
-      "Value": "Include All Sims of Teen age in this Protocol."
-    },
-    {
-      "Key": "0x84558E40",
-      "Value": "Young Adult Age Sims"
-    },
-    {
-      "Key": "0x0758F115",
-      "Value": "Include All Sims of Young Adult age in this Protocol."
-    },
-    {
-      "Key": "0xAD4A90E8",
-      "Value": "Adult Age Sims"
-    },
-    {
-      "Key": "0x0CFA6899",
-      "Value": "Include All Sims of Adult age in this Protocol."
-    },
-    {
-      "Key": "0x747A70BC",
-      "Value": "Elder Age Sims"
-    },
-    {
-      "Key": "0x2C2FBD99",
-      "Value": "Include All Sims of Elder age in this Protocol."
-    },
-    {
-      "Key": "0xE9B7B9FD",
-      "Value": "Male Gender Sims"
-    },
-    {
-      "Key": "0xB53CC0EA",
-      "Value": "Include All Sims of Male gender in this Protocol."
-    },
-    {
-      "Key": "0x81F3084A",
-      "Value": "Female Gender Sims"
-    },
-    {
-      "Key": "0xF7E7CD73",
-      "Value": "Include All Sims of Female gender in this Protocol."
-    },
-    {
-      "Key": "0x3005984C",
-      "Value": "Penis Genitalia Sims"
-    },
-    {
-      "Key": "0x5CEA9D66",
-      "Value": "Include All Sims with Penis genitalia in this Protocol."
-    },
-    {
-      "Key": "0x9018BB1B",
-      "Value": "Vagina Genitalia Sims"
-    },
-    {
-      "Key": "0x65151FC5",
-      "Value": "Include All Sims with Vagina genitalia in this Protocol."
-    },
-    {
-      "Key": "0x1F7AC3A8",
-      "Value": "Alien Occult Sims"
-    },
-    {
-      "Key": "0x2E011B20",
-      "Value": "Include All Sims with Alien occult in this Protocol."
-    },
-    {
-      "Key": "0xFF9E4067",
-      "Value": "Vampire Occult Sims"
-    },
-    {
-      "Key": "0x04875B29",
-      "Value": "Include All Sims with Vampire occult in this Protocol."
-    },
-    {
-      "Key": "0x0D0DC264",
-      "Value": "Mermaid Occult Sims"
-    },
-    {
-      "Key": "0x2ABDA934",
-      "Value": "Include All Sims with Mermaid occult in this Protocol."
-    },
-    {
-      "Key": "0x863B4B1B",
-      "Value": "Spellcaster Occult Sims"
-    },
-    {
-      "Key": "0xA31248B9",
-      "Value": "Include All Sims with Spellcaster occult in this Protocol."
-    },
-    {
-      "Key": "0x4AD537D4",
-      "Value": "Ghost Sims"
-    },
-    {
-      "Key": "0x97F66AA6",
-      "Value": "Include All Sims that are a Ghost in this Protocol."
-    },
-    {
-      "Key": "0x5420465E",
-      "Value": "Servo Sims"
-    },
-    {
-      "Key": "0x8AEB7B44",
-      "Value": "Include All Sims that are a Servo in this Protocol."
-    },
-    {
-      "Key": "0x72D7B5BB",
-      "Value": "Select rules to set for this group."
-    },
-    {
-      "Key": "0x7EF67281",
-      "Value": "Rename This Protocol"
-    },
-    {
-      "Key": "0x1F46DC57",
-      "Value": "Type in the new name of this Protocol."
-    },
-    {
-      "Key": "0x291DCBF4",
-      "Value": "Select the new icon for this Protocol."
-    },
-    {
-      "Key": "0xE8AE8DB4",
-      "Value": "Remove This Protocol?"
-    },
-    {
-      "Key": "0x449819AF",
-      "Value": "Do you want to remove the \"{0.String}\"?"
-    },
-    {
-      "Key": "0x66402116",
-      "Value": "Merge These Protocols?"
-    },
-    {
-      "Key": "0xA4D5589F",
-      "Value": "Select Protocols to merge into one new Protocol."
-    },
-    {
-      "Key": "0x5E824D4A",
-      "Value": "Remove These Protocols?"
-    },
-    {
-      "Key": "0xB939951F",
-      "Value": "Select Protocols to remove."
-    },
-    {
-      "Key": "0xA41BCCEC",
-      "Value": "Time: During Daytime"
-    },
-    {
-      "Key": "0x333EB48E",
-      "Value": "This Protocol is only relevant during daytime."
-    },
-    {
-      "Key": "0xED3D9A80",
-      "Value": "Time: During Nighttime"
-    },
-    {
-      "Key": "0xF02666FA",
-      "Value": "This Protocol is only relevant during nighttime."
-    },
-    {
-      "Key": "0x8EA61DA6",
-      "Value": "Location: Indoors"
-    },
-    {
-      "Key": "0x8E3FA056",
-      "Value": "This Protocol is only relevant when a Sim is indoors."
-    },
-    {
-      "Key": "0xEFD47237",
-      "Value": "Location: Outdoors"
-    },
-    {
-      "Key": "0xD02727B1",
-      "Value": "This Protocol is only relevant when a Sim is outdoors."
-    },
-    {
-      "Key": "0x8AB8296A",
-      "Value": "Location: At Home"
-    },
-    {
-      "Key": "0x748F55BD",
-      "Value": "This Protocol is only relevant when a Sim is at home lot."
-    },
-    {
-      "Key": "0x8D83FC59",
-      "Value": "Location: Not At Home"
-    },
-    {
-      "Key": "0xE09D7434",
-      "Value": "This Protocol is only relevant when a Sim is not at home lot."
-    },
-    {
-      "Key": "0x67E0ACD3",
-      "Value": "Place: {0.String}"
-    },
-    {
-      "Key": "0x5C9700AE",
-      "Value": "This Protocol is only relevant when a Sim is at this lot.\\nWorld: {0.String}\\nHousehold: {1.String}"
-    },
-    {
-      "Key": "0xF1FF91AB",
-      "Value": "Venue: {0.String}"
-    },
-    {
-      "Key": "0x75203EF2",
-      "Value": "This Protocol is only relevant when a Sim is at this venue."
     },
     {
       "Key": "0x1A2796D6",

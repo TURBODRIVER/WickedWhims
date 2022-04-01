@@ -597,6 +597,22 @@
       "Value": "Check to allow Player Sims to join to existing sex interactions."
     },
     {
+      "Key": "0x276E6B7A",
+      "Value": "Active Player Sim Autonomy"
+    },
+    {
+      "Key": "0x857E7EC1",
+      "Value": "Check to allow currently played Player Sim to participate in Sex Autonomy."
+    },
+    {
+      "Key": "0x7E1609BB",
+      "Value": "Active Player Sim Solo Autonomy"
+    },
+    {
+      "Key": "0xA466E6F8",
+      "Value": "Check to allow currently played Player Sim to participate in Solo Sex Autonomy."
+    },
+    {
       "Key": "0x74BB4DB9",
       "Value": "Relationship Awareness Switch"
     },
@@ -2197,6 +2213,14 @@
       "Value": "Sims within this group Always Accept Sex with other Sims inside of this group."
     },
     {
+      "Key": "0xAC5FB990",
+      "Value": "Always Accept Sex With Sims Outside Protocol"
+    },
+    {
+      "Key": "0x3C8E5EBE",
+      "Value": "Sims within this group Always Accept Sex with other Sims outside of this group."
+    },
+    {
       "Key": "0xE6FF46A4",
       "Value": "Disallow Birth Control in Sex Inside Protocol"
     },
@@ -3385,8 +3409,8 @@
       "Value": " Make a Move"
     },
     {
-      "Key": "0x617334E4",
-      "Value": "There doesn't seem to be a good spot for sex around here."
+      "Key": "0xBF664B40",
+      "Value": "There doesn't seem to be a good spot for sex around here.\\n\\n • You have installed {0.Number} sex animations and disabled {1.Number}% of them.\\n • And you have disabled {2.Number}% of sex animations from being used by sex autonomy.\\n • There are {3.Number} sex locations available nearby.\\n • And there are {4.Number} sex animations available for your Sims on all nearby sex locations.\\n"
     },
     {
       "Key": "0xE0C90006",
@@ -5753,6 +5777,10 @@
       "Value": "Allow or Disallow Sex Party participants joining to ongoing sex."
     },
     {
+      "Key": "0x497E6CF4",
+      "Value": "Extend Sex Party Duration"
+    },
+    {
       "Key": "0xF1BB78C7",
       "Value": "(From Sex Party Event)"
     },
@@ -6579,6 +6607,110 @@
     {
       "Key": "0x2766BBBD",
       "Value": "Strangely...compelled...to...have...sex."
+    },
+    {
+      "Key": "0x3225EFE5",
+      "Value": "---------- Spellcasters ----------"
+    },
+    {
+      "Key": "0x5003578D",
+      "Value": "Promiscuoso"
+    },
+    {
+      "Key": "0x07603DC8",
+      "Value": "Makes the Sim urgently chase their sexual desires."
+    },
+    {
+      "Key": "0xFA0B3C45",
+      "Value": "(From Failed Promiscuoso Spell)"
+    },
+    {
+      "Key": "0xC9951C01",
+      "Value": "Tome of Promiscuoso"
+    },
+    {
+      "Key": "0xE9E2E6DC",
+      "Value": "<b>Requires:</b> Rank Master\\nTeaches the reader a Spell to make Sims desire sex."
+    },
+    {
+      "Key": "0x26FB6A82",
+      "Value": "<font color='#340658'>Mysterious Lust</font>"
+    },
+    {
+      "Key": "0x0B8A352E",
+      "Value": "Some mysterious power is making {0.SimFirstName} feel exceptionally lustful, as if under a spell."
+    },
+    {
+      "Key": "0x0FC8BC73",
+      "Value": "---------- Traditions ----------"
+    },
+    {
+      "Key": "0xE02AD581",
+      "Value": "Sexual Openness"
+    },
+    {
+      "Key": "0x2AAE7A67",
+      "Value": "The mood is right and the day is special - waste no time, pick up a cutie and fool around.\\n\\nTo participate, have satisfying sex with a Sim."
+    },
+    {
+      "Key": "0x01A42DD6",
+      "Value": "(From Being a Cum Slut)"
+    },
+    {
+      "Key": "0xC462EBC3",
+      "Value": "(From Being a Generous Lover)"
+    },
+    {
+      "Key": "0xD42A84E1",
+      "Value": "(From Being an Adulterer)"
+    },
+    {
+      "Key": "0xEEDBD39B",
+      "Value": "(From Being Sexually Abstinent)"
+    },
+    {
+      "Key": "0xDB5477FF",
+      "Value": "---------- Simray ----------"
+    },
+    {
+      "Key": "0x86CEB9DF",
+      "Value": "Promiscuous"
+    },
+    {
+      "Key": "0x01A6007E",
+      "Value": "Upgrade Mind Control: Promiscuous"
+    },
+    {
+      "Key": "0x100D9704",
+      "Value": "Continue Upgrading Mind Control: Promiscuous"
+    },
+    {
+      "Key": "0xFE60B016",
+      "Value": "{0.SimFirstName} has upgraded the SimRay so it can Mind Control Sims to be \"Promiscuous.\" Ready to get freaky?"
+    },
+    {
+      "Key": "0xEB167787",
+      "Value": "Mind Controlled: Promiscuous"
+    },
+    {
+      "Key": "0xF0DEDB04",
+      "Value": "Sex. Sex. Sex. Sex."
+    },
+    {
+      "Key": "0xDFF84960",
+      "Value": "---------- UNIVERSITY ----------"
+    },
+    {
+      "Key": "0x118AE879",
+      "Value": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone."
+    },
+    {
+      "Key": "0xED254280",
+      "Value": "Extra Credits"
+    },
+    {
+      "Key": "0xC85E9E1D",
+      "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom."
     },
     {
       "Key": "0x964DE219",
