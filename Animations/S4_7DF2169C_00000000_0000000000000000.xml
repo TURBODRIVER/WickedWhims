@@ -10,6 +10,7 @@
 
       <T n="animation_locations">SINGLE_BED, DOUBLE_BED</T> <!-- List of Location Categories for where this animation can be used at -->
       <T n="animation_custom_locations">123456789, 987654321</T> <!-- [REMOVE IF UNUSED] List of Object WWIDs for where this animation can be used at -->
+      <T n="animation_location_constraints"></T> <!-- [REMOVE IF UNUSED] List of constraints the location has to fit into  -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] Object animation ClipName -->
       <T n="object_geometry_state"></T> <!-- [REMOVE IF UNUSED] Object geometry state -->
 
@@ -34,6 +35,7 @@
           <T n="animation_genders">MALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH, WITCH_MALE, WITCH_FEMALE, WITCH_BOTH) -->
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
+          <T n="animation_has_animated_vagina">0</T> <!-- Flag to use the animated vagina model if appropriate (0=Non-Animated, 1=Animated) -->
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
@@ -66,6 +68,7 @@
           <T n="animation_genders">FEMALE</T> <!-- Gender Type of this actor (MALE, FEMALE, BOTH, ALIEN_MALE, ALIEN_FEMALE, ALIEN_BOTH, GHOST_MALE, GHOST_FEMALE, GHOST_BOTH, VAMPIRE_MALE, VAMPIRE_FEMALE, VAMPIRE_BOTH, MERMAID_MALE, MERMAID_FEMALE, MERMAID_BOTH, WITCH_MALE, WITCH_FEMALE, WITCH_BOTH) -->
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
+          <T n="animation_has_animated_vagina">1</T> <!-- Flag to use the animated vagina model if appropriate (0=Non-Animated, 1=Animated) -->
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->

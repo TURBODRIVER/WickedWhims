@@ -16,7 +16,14 @@
         <T n="girth_slider_high">0</T> <!-- Numerical ID of the High Girth Slider resource. -->
         <T n="testicles_slider_low">0</T> <!-- Numerical ID of the Low Testicles Slider resource. -->
         <T n="testicles_slider_high">0</T> <!-- Numerical ID of the High Testicles Slider resource. -->
+        <T n="testicles_asymmetry_slider_low">0</T> <!-- Numerical ID of the Low Testicles Asymmetry Slider resource. -->
+        <T n="testicles_asymmetry_slider_high">0</T> <!-- Numerical ID of the High Testicles Asymmetry Slider resource. -->
+        <T n="tilt_vertical_slider_low">0</T> <!-- Numerical ID of the Low Vertical Tilt Slider resource. -->
+        <T n="tilt_vertical_slider_high">0</T> <!-- Numerical ID of the High Vertical Tilt Slider resource. -->
       </U> <!-- REMOVE IF NOT A 'PENIS_HARD' PART TYPE VARIANT -->
+      <U n="special_case_cas_parts"> <!-- REMOVE IF NOT A 'BODY_BOTTOM_FEMALE' PART TYPE VARIANT -->
+        <T n="non_animated_vagina_cas_part_id"></T> <!-- Numerical ID of the non animated vagina CAS part.  -->
+      </U> <!-- REMOVE IF NOT A 'BODY_BOTTOM_FEMALE' PART TYPE VARIANT -->
     </U>
 
   </L>
