@@ -397,8 +397,8 @@
       "Value": "Settings under the name {0.String} have been deleted."
     },
     {
-      "Key": "0x84D90447",
-      "Value": "Reset Settings"
+      "Key": "0xA6EE1B1C",
+      "Value": "Reset All Settings"
     },
     {
       "Key": "0xD5C95124",
@@ -413,12 +413,12 @@
       "Value": "All settings have been reset.\\n\\n\\nMake sure to save and restart the game for the reset settings to take full effect."
     },
     {
-      "Key": "0x47FE747C",
-      "Value": "Disable Settings"
+      "Key": "0x8BD7C461",
+      "Value": "Disable All Features"
     },
     {
-      "Key": "0x427D8F48",
-      "Value": "Disable all WickedWhims settings. Turns off all features.\\n(Doesn't affect Animations Disabler)"
+      "Key": "0x503B50C6",
+      "Value": "Disable all WickedWhims features."
     },
     {
       "Key": "0xF052F45E",
@@ -597,6 +597,10 @@
       "Value": "Select Spellcaster Occult Sims"
     },
     {
+      "Key": "0xCA387D46",
+      "Value": "Select Werewolf Occult Sims"
+    },
+    {
       "Key": "0xDA0A4DF2",
       "Value": "Select Servo Occult Sims"
     },
@@ -611,6 +615,62 @@
     {
       "Key": "0xF2CA93D0",
       "Value": "Select Random Sims"
+    },
+    {
+      "Key": "0xF395B256",
+      "Value": "--------------- Tutorials ---------------"
+    },
+    {
+      "Key": "0xF579B36E",
+      "Value": "Tutorials"
+    },
+    {
+      "Key": "0xE3F2C9FD",
+      "Value": "WickedWhims Secrets"
+    },
+    {
+      "Key": "0x6B749DD8",
+      "Value": "Getting Started"
+    },
+    {
+      "Key": "0xF05178FC",
+      "Value": "WickedWhims Secrets should help you get familiar with some of the non-obvious or hidden features of the mod.\\n\\nMake sure to click the arrow on the right to see more information!"
+    },
+    {
+      "Key": "0xDACD129F",
+      "Value": "Looking for sex animations or additional content?\\n\\nVisit the WickedWhims Download page linked below which lists reputable creators of sex animations, body details, sex devices, content expansions, and many other things you might enjoy.\\n\\nWickedWhims Download Page:\\nwickedwhimsmod.com/content"
+    },
+    {
+      "Key": "0x70C90F26",
+      "Value": "Managing Sex Animations"
+    },
+    {
+      "Key": "0x11E23A54",
+      "Value": "A sex animation is playing that you don't like? Here's how to quickly disable it.\\n\\nWhile Sims are having sex, hold the Shift key on your keyboard and click with your mouse (Shift+Click) on a Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Disable Currently Playing Animation' interaction which will disable the currently playing sex animation. This sex animation will remain disabled until manually enabled in the 'Specific Animations Disabler' menu."
+    },
+    {
+      "Key": "0xC485E531",
+      "Value": "A sex animation is missing appropriate context tags? Here's how to fix that.\\n\\nWhile Sims are having sex, hold the Shift key on your keyboard and click with your mouse (Shift+Click) on a Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Modify Currently Playing Animation Tags' interaction which will display a menu with all available context tags.\\nWithin this menu select the tags you find appropriate for the sex animation and confirm your selections."
+    },
+    {
+      "Key": "0xDA6A0931",
+      "Value": "A sex animation is making Sims do the wrong actions? Here's how to fix that.\\n\\nWhile Sims are having sex, hold the Shift key on your keyboard and click with your mouse (Shift+Click) on a Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Modify Currently Playing Animation Roles' interaction which will display a menu with present Sims as actors performing roles.\\nSelect the actor role that you believe is incorrect and change its gender role to one that seems correct. Next time you use this sex animation it will assign roles the way you configured it."
+    },
+    {
+      "Key": "0x9141E039",
+      "Value": "Want to build a playlist of animations efficiently? Here's an easy way to do it.\\n\\nBegin a sex interaction and play animations you might like. If you like the sex animation that's currently playing, click with your mouse on a Sim and go into 'Sex -> Playlist -> Add Current Animation to Playlist' which will display a menu with playlists.\\nWithin the playlists menu you can either create a new playlist or add the sex animation to an existing playlist."
+    },
+    {
+      "Key": "0xD9759339",
+      "Value": "Sex Autonomy"
+    },
+    {
+      "Key": "0x126FDBE9",
+      "Value": "Sims are using a location for sex but you don't like it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the object to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that object from being used by Sex Autonomy. Repeat this process to enable back the sex autonomy on this object."
+    },
+    {
+      "Key": "0xC39B3B16",
+      "Value": "A Sim is having sex but you don't want them to do it? Here's how to solve it.\\n\\nFirst name sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that Sim from participating in Sex Autonomy. Repeat this process to enable back the sex autonomy on this Sim."
     },
     {
       "Key": "0x1A2796D6",
@@ -713,8 +773,8 @@
       "Value": "<p align=\"center\"><font size=\"15\"><b>Content Makers</b></font></p><br><font size=\"10\"><p><b>MiniGiles</b> for various models and textures</p><p><a href='event:https://www.buymeacoffee.com/MiniGiles'>https://www.buymeacoffee.com/MiniGiles</a></p></font><br><font size=\"10\"><p><b>Noir and Dark Sims</b> for birth control objects and body models</p><p><a href='event:https://noiranddarksims-adultworld.blogspot.com'>https://noiranddarksims-adultworld.blogspot.com</a></p></font><br><font size=\"10\"><p><b>Wyatt</b> for special in-game menu logo</p><p><a href='event:https://wyattssims.tumblr.com'>https://wyattssims.tumblr.com</a></p></font><br><font size=\"10\"><p><b>Luumia</b> for logo and wrapped condom object</p><p><a href='event:https://luumiasims.com'>https://luumiasims.com</a></p></font><br><font size=\"10\"><p><b>Nolan-Sims</b> for sweat overlays and various icons</p><p><a href='event:https://nolan-sims.tumblr.com'>https://nolan-sims.tumblr.com</a></p></font><br><font size=\"10\"><p><b>Kritical</b> for lube bottle model</p><p><a href='event:https://patreon.com/KrNC'>https://patreon.com/KrNC</a></p></font><br><font size=\"10\"><p><b>Peco</b> for dedicated in-game porn videos</p><p><a href='event:https://patreon.com/peco328'>https://patreon.com/peco328</a></p></font><br><font size=\"10\"><p><b>mrrakkonn</b> for in-game porn videos</p><p><a href='event:https://patreon.com/mrrakkonn'>https://patreon.com/mrrakkonn</a></p></font><br><font size=\"10\"><p><b>PhaseLotA</b> for various icons</p></font><font size=\"10\"><p><b>Jarl44</b> for flavor writing</p></font><font size=\"10\"><p><b>thesimsxxx</b> for The Sims 3 in-game video footage</p></font><font size=\"10\"><p><b>Husk</b> for flavor writing</p></font><font size=\"10\"><p><b>EllaNoir</b> for flavor wiring</p></font><font size=\"10\"><p><b>CmarNYC, biondosim, ZoahcX</b>, and <b>Kirirhyn</b> for the deprecated classic penis model</p></font><br><font size=\"10\"><p><b>Scumbumbo, thepancake1, Basemental</b>, and <b>Nisa K.</b> for modding help</p></font>"
     },
     {
-      "Key": "0xE8F67F35",
-      "Value": "<p align=\"center\"><font size=\"15\"><b>Technical Creators</b></font></p><br><font size=\"10\"><p><b>Azmodan22</b> for animated penis rig support</p><p><a href='event:https://www.patreon.com/azmodan22'>https://www.patreon.com/azmodan22</a></p></font><br><font size=\"10\"><p><b>Denton47</b> for animated breasts rig support</p></font><br><font size=\"10\"><p><b>Autobanned</b> for animated tongue rig support and tongue model</p></font><br>"
+      "Key": "0xC8095A99",
+      "Value": "<p align=\"center\"><font size=\"15\"><b>Technical Creators</b></font></p><br><font size=\"10\"><p><b>Azmodan22</b> for animated penis rig support</p><p><a href='event:https://www.patreon.com/azmodan22'>https://www.patreon.com/azmodan22</a></p></font><br><font size=\"10\"><p><b>Denton47</b> for animated breasts rig support</p></font><br><font size=\"10\"><p><b>Khlas</b> for animated tongue, butt, vagina, and anus rig support</p></font><br><font size=\"10\"><p><b>Autobanned</b> for legacy animated tongue rig support and tongue model</p></font><br>"
     },
     {
       "Key": "0x6B4D4B8C",

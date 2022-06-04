@@ -9,8 +9,8 @@
       "Value": "Relationship Settings"
     },
     {
-      "Key": "0x5C6804A0",
-      "Value": "Change relationship settings.\\n\\nThese settings affect relationship mechanics like Attractiveness, Impressions, and relationship limitations."
+      "Key": "0x2AC085AB",
+      "Value": "Adjust settings related to relationships."
     },
     {
       "Key": "0xB2A5D15E",
@@ -117,20 +117,20 @@
       "Value": "Changing this setting will irreversibly alter the state of Attractiveness!\\n\\nMake sure to save the game before applying changes."
     },
     {
+      "Key": "0xDFE186CD",
+      "Value": "Romance Gender Preference Outcome Switch"
+    },
+    {
+      "Key": "0x54C1DA56",
+      "Value": "Check to alter romance social interactions outcome based on gender preference."
+    },
+    {
       "Key": "0x70A69160",
       "Value": "Persistent Social Boredom Switch"
     },
     {
       "Key": "0xEE6E5033",
       "Value": "Check to enable Sims remembering boring conversations for a few hours.\\nUncheck to keep the base game behavior of boring conversations.\\n\\nRepeating social interactions leads to boredom, which in the base game is forgotten immediately after the conversation ends."
-    },
-    {
-      "Key": "0x0834BB4F",
-      "Value": "Lewd Dreaming Switch"
-    },
-    {
-      "Key": "0x5175D905",
-      "Value": "Check to allow Sims to have lewd dreams about Sims they know."
     },
     {
       "Key": "0x71EA565C",
@@ -217,6 +217,14 @@
       "Value": "Talk about Fantasies with {1.SimFirstName}"
     },
     {
+      "Key": "0xFB6216A8",
+      "Value": "You do not have high enough Romance to ask this."
+    },
+    {
+      "Key": "0xC70FC2F1",
+      "Value": "You do not have high enough Friendship to ask this."
+    },
+    {
       "Key": "0xCD865ABF",
       "Value": "--------- Traits ---------"
     },
@@ -253,312 +261,20 @@
       "Value": "Relationships"
     },
     {
-      "Key": "0x2E654FAE",
-      "Value": "---------- Casual Sex Partners ----------"
-    },
-    {
-      "Key": "0x270E9AC1",
-      "Value": "Become Casual Sex Partners"
-    },
-    {
-      "Key": "0xC09F1323",
-      "Value": "Becoming Casual Sex Partners with {1.SimFirstName}"
-    },
-    {
-      "Key": "0x58C35B51",
-      "Value": "{0.SimFirstName} and {1.SimFirstName} just became casual sex partners! Whether friends or foes, it is all about pure physical pleasure."
-    },
-    {
-      "Key": "0x22047524",
-      "Value": "End Casual Sex Partnership"
-    },
-    {
-      "Key": "0xD5153C01",
-      "Value": "Ending Casual Sex Partnership with {1.SimFirstName}"
-    },
-    {
-      "Key": "0x53B7AF63",
-      "Value": "{0.SimFirstName} and {1.SimFirstName} have ended their casual sex partnership."
-    },
-    {
-      "Key": "0x7F8A1362",
-      "Value": "Casual Sex Partners"
-    },
-    {
-      "Key": "0xD4C1F357",
-      "Value": "You left something at my place, could you come pick it up and stay for a while?"
-    },
-    {
-      "Key": "0xDD75820C",
-      "Value": "Sure, I'm coming to pick <b>it</b> up ;)"
-    },
-    {
-      "Key": "0x9D98AE69",
-      "Value": "How about you bring <b>it</b> over to my place?"
-    },
-    {
-      "Key": "0x32C6600C",
-      "Value": "I will pick it up some other day."
-    },
-    {
-      "Key": "0x1ED0276E",
-      "Value": "I’m not feeling myself today. Can I feel you instead?"
-    },
-    {
-      "Key": "0xBBFD9332",
-      "Value": "I have something for you to feel :wink: I'm coming over!"
-    },
-    {
-      "Key": "0x88C822BE",
-      "Value": "Come over and have a feel ;)"
-    },
-    {
-      "Key": "0xEB18C51F",
-      "Value": "I'm not feeling like myself today either."
-    },
-    {
-      "Key": "0xB73A7D18",
-      "Value": "I'm feeling very off today, wanna meet up so you can turn me on?"
-    },
-    {
-      "Key": "0x2FBE3280",
-      "Value": "Oh! I'm good at pressing these kind of buttons :wink: I'm on my way!"
-    },
-    {
-      "Key": "0x31C1117C",
-      "Value": "Great idea, wanna come over?"
-    },
-    {
-      "Key": "0x9AAA2CDB",
-      "Value": "Sometimes you need some time off."
-    },
-    {
-      "Key": "0x0675B0B7",
-      "Value": "I’m about to have sex with you so you might as well be here for it."
-    },
-    {
-      "Key": "0x3DB5A41E",
-      "Value": "I'm on my way, don't start without me!"
-    },
-    {
-      "Key": "0xB52D0A28",
-      "Value": "How about you come over and we have sex together?"
-    },
-    {
-      "Key": "0x81AA4F97",
-      "Value": "Sorry, I will be late."
-    },
-    {
-      "Key": "0x4DDE6353",
-      "Value": "I've been thinking about you a lot today... and these were some dirty thoughts."
-    },
-    {
-      "Key": "0x0F93121E",
-      "Value": "Say no more, I'm coming over!"
-    },
-    {
-      "Key": "0x8030E770",
-      "Value": "Come over and share these thoughts with me, hmm?"
-    },
-    {
-      "Key": "0xBCE6BCB0",
-      "Value": "I'd love to come, but I'm busy right now."
-    },
-    {
-      "Key": "0x59989024",
-      "Value": "I think I'm gonna go take a shower, but I don't feel like locking my doors..."
-    },
-    {
-      "Key": "0xFDA1A943",
-      "Value": "What if <i>someone</i> sneaks into your house? ;)"
-    },
-    {
-      "Key": "0x9CA7AB21",
-      "Value": "Why don't you come over and take a shower at my place?"
-    },
-    {
-      "Key": "0x79977AC4",
-      "Value": "That's very irresponsible, please always lock your doors."
-    },
-    {
-      "Key": "0x48F1B043",
-      "Value": "I'm <i>thirsty</i> for you right now..."
-    },
-    {
-      "Key": "0xAA5D5472",
-      "Value": "Oh, I'm coming over to quench your thirst!"
-    },
-    {
-      "Key": "0x1C835900",
-      "Value": "Come over. I've got <i>something</i> that can quench your thirst."
-    },
-    {
-      "Key": "0x8345411A",
-      "Value": "Stay hydrated, I can't make it today."
-    },
-    {
-      "Key": "0xF1E4B42F",
-      "Value": "I wanted to ask you for a nude pic, but we might as well just meet and get the real thing!"
-    },
-    {
-      "Key": "0xDCBB67F6",
-      "Value": "I like the way you think, on my way!"
-    },
-    {
-      "Key": "0x1F9A5993",
-      "Value": "Well I'm at home and the doors are unlocked."
-    },
-    {
-      "Key": "0x1FED4AB5",
-      "Value": "Looks like a nude pic is all you can get today, sorry!"
-    },
-    {
-      "Key": "0xF5C3AC8F",
-      "Value": "I would love to touch you in some inappropriate places... but you would need to be here..."
-    },
-    {
-      "Key": "0xA3B92222",
-      "Value": "On my way, but I get to touch you too!"
-    },
-    {
-      "Key": "0xCFA1656F",
-      "Value": "Come to my place, my body is ready..."
-    },
-    {
-      "Key": "0x3F34B745",
-      "Value": "It's a shame that I'm busy right now."
-    },
-    {
-      "Key": "0x95712481",
-      "Value": "I've installed some <i><b>naughty</b></i> mods for my video games and now I'm kinda turned on..."
-    },
-    {
-      "Key": "0x26DE0E3B",
-      "Value": "Let's see how faithful these mods are. I'm on my way!"
-    },
-    {
-      "Key": "0xBDCECD82",
-      "Value": "Why don't you come over and show me what these mods are all about?"
-    },
-    {
-      "Key": "0x2D448FFF",
-      "Value": "Sorry, I can't make it today."
-    },
-    {
-      "Key": "0x5C2E3865",
-      "Value": "I just went on SimHub and saw some new sex techniques we should try together."
-    },
-    {
-      "Key": "0xE73BB3B5",
-      "Value": "Sounds exciting! I'm coming!"
-    },
-    {
-      "Key": "0x1AF1FAD2",
-      "Value": "Fun! Wanna come over... right now?"
-    },
-    {
-      "Key": "0xE1E4FFAD",
-      "Value": "Maybe another time?"
-    },
-    {
-      "Key": "0xA61EA8B9",
-      "Value": "Booty Call"
-    },
-    {
-      "Key": "0x9C7E3D3A",
-      "Value": "---------- Shower Together ----------"
-    },
-    {
-      "Key": "0xE330998E",
-      "Value": "Shower Together"
-    },
-    {
-      "Key": "0xCE33BA60",
-      "Value": "Be Asked To Shower Together"
-    },
-    {
-      "Key": "0x0CF94120",
-      "Value": "Shower With"
-    },
-    {
-      "Key": "0x92FEB500",
-      "Value": "Shower with {2.SimFirstName}"
-    },
-    {
-      "Key": "0xA232CBB9",
-      "Value": "Saving Water"
-    },
-    {
-      "Key": "0x3BE6BE2C",
-      "Value": "(From Taking a Shower Together)"
-    },
-    {
-      "Key": "0x1B2CF24F",
-      "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
-    },
-    {
       "Key": "0xCEC4A53C",
       "Value": "--------- Impressions ---------"
     },
     {
-      "Key": "0x3C9C45EC",
-      "Value": "--------- Impressions Skills ---------"
-    },
-    {
-      "Key": "0x5450A823",
-      "Value": "Persuasion"
-    },
-    {
-      "Key": "0x143ED128",
-      "Value": "Show your personality and make a good impression towards a Sim."
-    },
-    {
-      "Key": "0x52A4FCB8",
-      "Value": "Persuasion helps immensely when trying to influence Sims beliefs and behavior against their mind.\\n\\nStart by trying to impress Sims with your real or fake personality."
-    },
-    {
-      "Key": "0xD4B0554F",
-      "Value": "Acquired the Persuasion Skill"
-    },
-    {
-      "Key": "0x5A278B5F",
-      "Value": "{0.SimFirstName}'s new Persuasion skill will help {M0.him}{F0.her} to influence other Sims beliefs and behavior against their mind."
-    },
-    {
-      "Key": "0xB29CAE41",
-      "Value": "Reached Persuasion Level 2"
-    },
-    {
-      "Key": "0xBF2B6429",
-      "Value": "{0.SimFirstName} is now somewhat better at persuading Sims!\\n\\n{M0.He}{F0.She} is starting to learn about the amazing opportunities that persuasion gives.\\n\\nFaking personalities should be easier as well!"
-    },
-    {
-      "Key": "0xFFFF7830",
-      "Value": "Reached Persuasion Level 3"
-    },
-    {
-      "Key": "0x2F1551D6",
-      "Value": "{0.SimFirstName} is now better at persuading Sims!\\n\\n{M0.He}{F0.She} understands that most conversations do not require trying to get someone to do or accept something. Aggressive pushers are a turn-off and will put most people on the defensive.\\n\\nFaking personalities should be easier as well!"
-    },
-    {
-      "Key": "0xF305F053",
-      "Value": "Reached Persuasion Level 4"
-    },
-    {
-      "Key": "0x117C6C4F",
-      "Value": "{0.SimFirstName} is now much better at persuading Sims!\\n\\nTruly persuasive Sims understand their power and use it sparingly and knowingly. They are actively listening when in persuasion mode, looking for common ground to help establish a meaningful relationship.\\n\\nFaking personalities should be easier as well!"
-    },
-    {
-      "Key": "0x49541E62",
-      "Value": "Reached Persuasion Level 5"
-    },
-    {
-      "Key": "0x45C85D20",
-      "Value": "{0.SimFirstName} is now very good at persuading Sims!\\n\\nInfluence is power, and {0.SimFirstName} is now the master of influence with {M0.his}{F0.her} persuasion skill.\\n\\nFaking personalities should be much easier as well!"
-    },
-    {
       "Key": "0x157522E5",
       "Value": "--------- Impressions Traits ---------"
+    },
+    {
+      "Key": "0x564B1889",
+      "Value": "(From Major Impression Personality)"
+    },
+    {
+      "Key": "0x73E9466D",
+      "Value": "(From Minor Impression Personality)"
     },
     {
       "Key": "0x4B2E6B29",
@@ -653,48 +369,20 @@
       "Value": "Lover Sims crave intimacy, live to experience pleasure, and are very passionate. Nonetheless, with their desire to evoke love in others, they risk losing their own identity and appear shallow."
     },
     {
-      "Key": "0xDB979EDA",
-      "Value": "Greedy"
+      "Key": "0xAFA93995",
+      "Value": "Sinister"
     },
     {
-      "Key": "0x9985D764",
-      "Value": "<font color='#199C2C'><b>Greedy</b></font>"
+      "Key": "0xE9980FB1",
+      "Value": "<font color='#199C2C'><b>Sinister</b></font>"
     },
     {
-      "Key": "0x0725F691",
-      "Value": "Greedy Sims focus on generating as much revenue as possible and saving as much capital as possible, no matter the consequences. But their stingy approach to reality makes them appear selfish, envious, and villainous."
-    },
-    {
-      "Key": "0x4EB5CC7F",
-      "Value": "Personality Reader"
-    },
-    {
-      "Key": "0x59E4F0E8",
-      "Value": "Personality Reader"
-    },
-    {
-      "Key": "0x015C70CE",
-      "Value": "Personality Readers need just a few words to determine the personality of another Sim."
+      "Key": "0x3F9D5FBA",
+      "Value": "Sinister Sims are always up to no good, trying to achieve their goals no matter the consequences."
     },
     {
       "Key": "0xB6E343F6",
       "Value": "--------- Impressions Buffs ---------"
-    },
-    {
-      "Key": "0x6E867FB7",
-      "Value": "<font color='#340658'>Poser</font>"
-    },
-    {
-      "Key": "0x17A09C4E",
-      "Value": "Bummer, looks like {0.SimFirstName} wasn't being honest and was found faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now."
-    },
-    {
-      "Key": "0x214E9974",
-      "Value": "<font color='#340658'>Deceitful Sim</font>"
-    },
-    {
-      "Key": "0xEBD6F06C",
-      "Value": "{0.SimFirstName} has been deceived by a Sim pretending to be someone they're not! You can't trust them anymore, not when they are being dishonest."
     },
     {
       "Key": "0xCDE5E44C",
@@ -709,20 +397,8 @@
       "Value": "--------- Impressions Interactions ---------"
     },
     {
-      "Key": "0x231C3E23",
-      "Value": "Fake Personality Archetypes"
-    },
-    {
       "Key": "0x41435C2E",
       "Value": "Personality"
-    },
-    {
-      "Key": "0x72DE385E",
-      "Value": "Fake Major Personality"
-    },
-    {
-      "Key": "0x44E45482",
-      "Value": "Fake Minor Personality"
     },
     {
       "Key": "0xDF10A1E3",
@@ -809,40 +485,28 @@
       "Value": "Talk about Latest Inventions"
     },
     {
-      "Key": "0x7069DD5B",
-      "Value": "Talk about Money"
+      "Key": "0xDD601A0F",
+      "Value": "Mention Recent Disheartening News"
     },
     {
       "Key": "0x2088B443",
       "Value": "Express Materialistic Thoughts"
     },
     {
-      "Key": "0x9A3F56BE",
-      "Value": "Flaunt about Wealth"
+      "Key": "0x8BAA5AEF",
+      "Value": "Share Depressing Thoughts"
     },
     {
       "Key": "0x3FAF7BB2",
       "Value": "--------- Notifications ---------"
     },
     {
-      "Key": "0x997DCCAE",
-      "Value": "Personality Archetype Hint"
+      "Key": "0xC42728EF",
+      "Value": "{0.String} Personality Archetype Hint"
     },
     {
-      "Key": "0x87FA5B94",
-      "Value": "{0.SimName} shows signs of the <b>{1.String}</b> personality archetype.\\nTalk about topic related to the {1.String} personality to make a positive impression.\\n\\n{2.String}\\n\\n<b>Looks like this Sim has only one personality archetype.</b>"
-    },
-    {
-      "Key": "0x3C2B628F",
-      "Value": "{0.SimName} shows signs of the <b>{1.String}</b> personality archetype.\\nTalk about topic related to the {1.String} personality to make a positive impression.\\n\\n{2.String}\\n\\n<b>It seems like this Sim has one more personality archetype to discover.</b>\\n\\nKnowing both Sim personality archetypes is the key to making a positive impression."
-    },
-    {
-      "Key": "0x580BB0C6",
-      "Value": "{0.SimName} shows signs of the <b>{1.String}</b> personality archetype.\\nTalk about topic related to the {1.String} personality to make a positive impression.\\n\\n{2.String}\\n\\n<b>Looks like this Sim has only one personality archetype.</b>\\n\\nSelect the {1.String} personality archetype in the Personality Pie Menu to fake it."
-    },
-    {
-      "Key": "0x5EC45B9E",
-      "Value": "{0.SimName} shows signs of the {1.String} personality archetype.\\nTalk about topic related to the {1.String} personality to make a positive impression.\\n\\n{2.String}\\n\\n<b>It seems like this Sim has one more personality archetype to discover.</b>\\n\\nKnowing both Sim personality archetypes is the key to making a positive impression.\\n\\nSelect the {1.String} personality archetype in the Personality Pie Menu to fake it."
+      "Key": "0x537878E7",
+      "Value": "{0.SimName} shows signs of the <b>{1.String}</b> personality archetype.\\n\\n{2.String}"
     },
     {
       "Key": "0x9CE8A373",
@@ -853,36 +517,12 @@
       "Value": "{0.SimName} shows signs of the {1.String} and {2.String} personality archetypes.\\n\\n{3.String}\\n\\n{4.String}"
     },
     {
-      "Key": "0x0CA6F7D0",
-      "Value": "Fake Personality Archetype"
-    },
-    {
-      "Key": "0xCF781192",
-      "Value": "{0.SimName} is now faking the {2.String} personality archetype.\\nSocial interactions specific to this personality are now available in the Friendly Pie Menu.\\n\\n{3.String}\\n\\nBe careful, faking a personality archetype that is not compatible with {1.SimName} risks appearing as a poser."
-    },
-    {
-      "Key": "0x651D234E",
-      "Value": "{0.SimName} is now faking {M0.his}{F0.her} personality towards {1.SimName}.\\n\\nWhile talking with {1.SimName}, certain topics that are related to {M1.his}{F1.her} personality will show hints that help to determine it.\\nMake sure to first learn {1.SimName} personality before trying to fake it.\\n\\nTo make a positive impression, a compatible personality has to be selected from the Personality Pie Menu."
-    },
-    {
-      "Key": "0x73BA72CC",
-      "Value": "Poser"
-    },
-    {
-      "Key": "0x2176986E",
-      "Value": "Bummer, looks like {0.SimFirstName} wasn't being honest and {1.SimFirstName} realized that {M0.he}{F0.she} was faking {M0.his}{F0.her} personality. The relationship is ruined... at least for now."
-    },
-    {
       "Key": "0x00ADE3F1",
       "Value": "Personality Impression"
     },
     {
-      "Key": "0x8C6A41A6",
-      "Value": "Looks like {0.SimName} formed a positive impression towards {1.SimName}. This should help to shape a good relationship and build more trust."
-    },
-    {
-      "Key": "0xCA17AA57",
-      "Value": "Oof! {1.SimName} seems to be very unimpressed with {0.SimName} behavior and personality. This makes shaping their relationship harder and hinders the trust between them."
+      "Key": "0xA205A9BE",
+      "Value": "Thanks to their compatible personalities, {0.SimName} formed a positive impression towards {1.SimName}. This will help build a harmonious relationship between them."
     },
     {
       "Key": "0x0BC50E12",
@@ -949,8 +589,8 @@
       "Value": "(From Thinking About Spouse)"
     },
     {
-      "Key": "0x26EAF0FE",
-      "Value": "{0.SimFirstName} suddenly finds {M0.himself}{F0.herself} craving a certain someone, their beloved Spouse. {M0.He}{F0.She} hit the jackpot in the field of love, there isn't anyone who suits {M0.his}{F0.her} desires more than their loving partner in life. Just thinking of them has {0.SimFirstName} yearning for their presence. A burning desire to hold and to love this Sim that has captured {M0.his}{F0.her} heart."
+      "Key": "0xA2CEB3DA",
+      "Value": "{0.SimFirstName} suddenly finds {0.SimPronounReflexive} craving a certain someone, their beloved Spouse. {M0.He}{F0.She} hit the jackpot in the field of love, there isn't anyone who suits {M0.his}{F0.her} desires more than their loving partner in life. Just thinking of them has {0.SimFirstName} yearning for their presence. A burning desire to hold and to love this Sim that has captured {M0.his}{F0.her} heart."
     },
     {
       "Key": "0xBBD6E60D",
@@ -965,32 +605,32 @@
       "Value": "Attractiveness Alert!"
     },
     {
-      "Key": "0xDB2A3127",
-      "Value": "Wow, what a Sim! {0.SimName} just stopped what they were thinking about for a moment and found themselves staring at {1.SimName}. That {M1.man}{F1.woman} has so many of the qualities that make {0.SimFirstName}'s heart race, as if it were on a cross country marathon. Their {M1.handsome}{F1.beautiful} features meet {0.SimFirstName}'s desires so readily that it's almost as if whatever created such a Sim sculpted {M1.him}{F1.her} specifically for them.\\n\\nNow the only thing left is to pick up their jaw and work up the courage to speak to such an {M1.Adonis}{F1.Aphrodite}. Hopefully, {1.SimFirstName} will be kind enough to reciprocate {0.SimFirstName}'s feelings."
+      "Key": "0x0ABFD515",
+      "Value": "Wow, what a Sim! {0.SimName} just stopped what they were thinking about for a moment and found themselves staring at {1.SimName}. That {M1.man}{F1.woman} has so many of the qualities that make {0.SimFirstName}'s heart race, as if it were on a cross country marathon. Their {M1.handsome}{F1.beautiful} features meet {0.SimFirstName}'s desires so readily that it's almost as if whatever created such a Sim sculpted {1.SimPronounObjective} specifically for {0.SimFirstName}.\\n\\nNow the only thing left is to pick up their jaw and work up the courage to speak to such an {M1.Adonis}{F1.Aphrodite}. Hopefully, {1.SimFirstName} will be kind enough to reciprocate {0.SimFirstName}'s feelings."
     },
     {
       "Key": "0x06E2FDF2",
       "Value": "Hot Daydreaming"
     },
     {
-      "Key": "0x6FB0C8A7",
-      "Value": "{0.SimFirstName}'s head remembers {1.SimName} fondly as memories of {M1.him}{F1.her} begin to populate their mind. The task at hand is just an afterthought as qualities of {1.SimFirstName} manifest themselves as strong echoes that bring {0.SimFirstName} intense amounts of joy. Their encounter last time was too brief and now {0.SimFirstName} is thirsty for more. When the chance to meet with {1.SimFirstName} arrives, it will not have come soon enough.\\n\\nSims like these should be cherished, there aren't that many of them out there and it was a stroke of good luck or even a miracle that allowed {0.SimFirstName} to meet one that ticked off so many of {M0.his}{F0.her} wishes and desires."
+      "Key": "0xBD3AD724",
+      "Value": "{0.SimFirstName}'s head remembers {1.SimName} fondly as memories of {1.SimPronounObjective} begin to populate {0.SimPronounPossessiveDependent} mind. The task at hand is just an afterthought as qualities of {1.SimFirstName} manifest themselves as strong echoes that bring {0.SimFirstName} intense amounts of joy. Their encounter last time was too brief and now {0.SimFirstName} is thirsty for more. When the chance to meet with {1.SimFirstName} arrives, it will not have come soon enough.\\n\\nSims like these should be cherished, there aren't that many of them out there and it was a stroke of good luck or even a miracle that allowed {0.SimFirstName} to meet one that ticked off so many of {M0.his}{F0.her} wishes and desires."
     },
     {
       "Key": "0x3C65B0E3",
       "Value": "Hot 'n' Heavy Dreaming"
     },
     {
-      "Key": "0xABB463D5",
-      "Value": "{0.SimFirstName}'s dreams bring {M0.him}{F0.her} to a state of nirvana as they recollect their cherished moments with {1.SimName}. It's almost surreal, this ravishing creature that stalks {M0.him}{F0.her} as {M0.he}{F0.she} slumbers. How could someone so perfect for them actually exist?\\n\\nThough still unsure there is one proof that soon sheds light to the truth for {0.SimFirstName}, the manifestation of {1.SimFirstName} that {M1.strides confidently}{F1.dances gracefully} within {M0.his}{F0.her} mind is still but a pale comparison to the true thing. The happiness from seeing and even touching the corporeal {1.SimName} dwarfs the joy that this dream can ever provide."
+      "Key": "0xC37C341D",
+      "Value": "{0.SimFirstName}'s dreams bring {0.SimPronounObjective} to a state of nirvana as they recollect their cherished moments with {1.SimName}. It's almost surreal, this ravishing creature that stalks {0.SimPronounObjective} as {M0.he}{F0.she} slumbers. How could someone so perfect for them actually exist?\\n\\nThough still unsure there is one proof that soon sheds light to the truth for {0.SimFirstName}, the manifestation of {1.SimFirstName} that {M1.strides confidently}{F1.dances gracefully} within {M0.his}{F0.her} mind is still but a pale comparison to the true thing. The happiness from seeing and even touching the corporeal {1.SimName} dwarfs the joy that this dream can ever provide."
     },
     {
       "Key": "0xD5D5CCB9",
       "Value": "Undying Adoration"
     },
     {
-      "Key": "0x78A2AF16",
-      "Value": "They say lightning never strikes the same place twice. Well tell that to {0.SimFirstName}, {M0.he}{F0.she} found the Sim of {M0.his}{F0.her} dreams and by some miracle, got to marry {M1.him}{F1.her} too.\\n\\nThere are times like this when {0.SimFirstName} likes to remind {M0.himself}{F0.herself} just how lucky they are to be married to a ravishing {M1.hunk}{F1.goddess} like {1.SimName}. To be able to love and be loved by such a captivating creature brings incomprehensible joy to {M0.his}{F0.her} heart and the attraction they have for their beloved partner still endures like an undying blaze even now."
+      "Key": "0x9E0A17F0",
+      "Value": "They say lightning never strikes the same place twice. Well tell that to {0.SimFirstName}, {M0.he}{F0.she} found the Sim of {M0.his}{F0.her} dreams and by some miracle, got to marry {1.SimPronounObjective} too.\\n\\nThere are times like this when {0.SimFirstName} likes to remind {0.SimPronounReflexive} just how lucky they are to be married to a ravishing {M1.hunk}{F1.goddess} like {1.SimName}. To be able to love and be loved by such a captivating creature brings incomprehensible joy to {M0.his}{F0.her} heart and the attraction they have for their beloved partner still endures like an undying blaze even now."
     },
     {
       "Key": "0x3FD5954C",
@@ -1009,8 +649,8 @@
       "Value": "Accept {M0.His}{F0.Her} Advances"
     },
     {
-      "Key": "0x5989C57E",
-      "Value": "Ignore {M0.Him}{F0.Her}"
+      "Key": "0xAE0DAB81",
+      "Value": "Ignore {0.SimPronounObjective|xxUpper}"
     },
     {
       "Key": "0x114B7787",
@@ -1021,20 +661,20 @@
       "Value": "Suggestive Look"
     },
     {
-      "Key": "0x6719AB51",
-      "Value": "{0.SimFirstName} has noticed that {1.SimFirstName}'s eyes are lingering on them more and more. There's an intensity to their stare and with their attention fixed squarely upon them this may be the chance to move things into a more intimate direction.\\n\\nIs {0.SimFirstName} going to <b>accept</b> {1.SimFirstName}'s advances or <b>ignore</b> {M1.him}{F1.her}?"
+      "Key": "0xC5BFD631",
+      "Value": "{0.SimFirstName} has noticed that {1.SimFirstName}'s eyes are lingering on them more and more. There's an intensity to their stare and with their attention fixed squarely upon them this may be the chance to move things into a more intimate direction.\\n\\nIs {0.SimFirstName} going to <b>accept</b> {1.SimFirstName}'s advances or <b>ignore</b> {1.SimPronounObjective}?"
     },
     {
-      "Key": "0xAF12863C",
-      "Value": "{0.SimFirstName} is under the impression that another Sim has their gaze fixed directly upon {M0.him}{F0.her}. With a glimmer in their eyes it's plain to see that {1.SimFirstName} has an intense interest in {0.SimFirstName}.\\n\\nIf {0.SimFirstName} tries to push things to a more intimate level they may have a good chance at success.\\n\\nIs {0.SimFirstName} going to <b>accept</b> {1.SimFirstName}'s advances or <b>ignore</b> {M1.him}{F1.her}?"
+      "Key": "0x7CF252ED",
+      "Value": "{0.SimFirstName} is under the impression that another Sim has their gaze fixed directly upon {0.SimPronounObjective}. With a glimmer in their eyes it's plain to see that {1.SimFirstName} has an intense interest in {0.SimFirstName}.\\n\\nIf {0.SimFirstName} tries to push things to a more intimate level they may have a good chance at success.\\n\\nIs {0.SimFirstName} going to <b>accept</b> {1.SimFirstName}'s advances or <b>ignore</b> {1.SimPronounObjective}?"
     },
     {
-      "Key": "0xFD6F1B2A",
-      "Value": "{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {M1.He}{F1.She} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {M1.him}{F1.her} for the next few hours."
+      "Key": "0x2EA54D7A",
+      "Value": "{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {M1.He}{F1.She} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {1.SimPronounObjective} for the next few hours."
     },
     {
-      "Key": "0x2D68ECEB",
-      "Value": "{0.SimFirstName} ignored {1.SimFirstName}'s advances. {M1.He}{F1.She} shouldn't bother {M0.him}{F0.her} with {M1.his}{F1.her} antics anymore."
+      "Key": "0x5D2DCF98",
+      "Value": "{0.SimFirstName} ignored {1.SimFirstName}'s advances. {M1.He}{F1.She} shouldn't bother {0.SimPronounObjective} with {M1.his}{F1.her} antics anymore."
     },
     {
       "Key": "0x668CEF72",
@@ -1061,8 +701,8 @@
       "Value": "<font color='#340658'>Magnetic Bosom</font>"
     },
     {
-      "Key": "0xEC80753A",
-      "Value": "Why must {0.SimFirstName}'s converser have such eye-catching breasts, and why can't {0.SimFirstName} stop {M0.himself}{F0.herself} from trying to catch a glimpse of them?!"
+      "Key": "0xD7AE1A4E",
+      "Value": "Why must {0.SimFirstName}'s converser have such eye-catching breasts, and why can't {0.SimFirstName} stop {0.SimPronounReflexive} from trying to catch a glimpse of them?!"
     },
     {
       "Key": "0xF679E0F6",
@@ -1077,8 +717,8 @@
       "Value": "<font color='#340658'>Where Do These End?</font>"
     },
     {
-      "Key": "0xDFF19896",
-      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she}'s talking to."
+      "Key": "0xD601E302",
+      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she} is talking to."
     },
     {
       "Key": "0xB77322D0",
@@ -1121,40 +761,40 @@
       "Value": "After {0.SimFirstName} finished scoping the room for attractive faces, {M0.he}{F0.she} hasn't noticed anybody interesting."
     },
     {
-      "Key": "0x8413E2AF",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking <b>Very Unattractive</b>, and so thinks the majority of the world."
+      "Key": "0x5ADDDCDE",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks <b>Very Unattractive</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0xD8E9FA2D",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking quite <b>Unattractive</b>, and so thinks the majority of the world."
+      "Key": "0x23BE8232",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks quite <b>Unattractive</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0x5F38B1EC",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s really <b>Basic Looking</b>, and so thinks the majority of the world."
+      "Key": "0x0D320C87",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks really <b>Basic</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0x68A47FF4",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking quite <b>Attractive</b>, and so thinks the majority of the world."
+      "Key": "0x8CC0867B",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks quite <b>Attractive</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0x982CB932",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking <b>Very Attractive</b>, and so thinks the majority of the world."
+      "Key": "0x4AE90A67",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks <b>Very Attractive</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0xB48A244D",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {M0.himself}{F0.herself} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she}'s looking <b>Extremely Attractive</b>, and so thinks the majority of the world."
+      "Key": "0xCD89626A",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\nAfter {0.SimFirstName} finished checking {0.SimPronounReflexive} out in the mirror, {M0.he}{F0.she} thinks {M0.he}{F0.she} looks <b>Extremely Attractive</b>, and so thinks the majority of the world."
     },
     {
-      "Key": "0xACFFF7ED",
-      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\n{0.SimFirstName} looks into the mirror and it's... just {M0.him}{F0.her} looking back."
+      "Key": "0x76357504",
+      "Value": "<i>Mirror, Mirror on the Wall, Who’s the Prettiest of Them All?</i>\\n\\n{0.SimFirstName} looks into the mirror and it's... just {0.SimPronounObjective} looking back."
     },
     {
-      "Key": "0x24150691",
-      "Value": "Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {M0.him}{F0.her} quite attractive, making {M0.him}{F0.her} wonder if {M0.he}{F0.she} has the right idea."
+      "Key": "0x403D85C3",
+      "Value": "Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {0.SimPronounObjective} quite attractive, making {0.SimPronounObjective} wonder if {M0.he}{F0.she} has the right idea."
     },
     {
-      "Key": "0xFC03A449",
-      "Value": "Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {M0.him}{F0.her} unattractive, making {M0.him}{F0.her} feel a little discouraged."
+      "Key": "0x9BEE1FA1",
+      "Value": "Throughout the conversation, {0.SimFirstName} got the impression that {1.SimFirstName} finds {0.SimPronounObjective} unattractive, making {0.SimPronounObjective} feel a little discouraged."
     },
     {
       "Key": "0xD47B3999",
@@ -2005,6 +1645,10 @@
       "Value": "Spellcaster Occult"
     },
     {
+      "Key": "0xE9BABF4B",
+      "Value": "Werewolf Occult"
+    },
+    {
       "Key": "0xBAD74812",
       "Value": "Sweet Voice"
     },
@@ -2039,42 +1683,6 @@
     {
       "Key": "0x798024AA",
       "Value": "High Voice"
-    },
-    {
-      "Key": "0xF765D3F6",
-      "Value": "Everyman Archetype"
-    },
-    {
-      "Key": "0x61E597DA",
-      "Value": "Jester Archetype"
-    },
-    {
-      "Key": "0xB3AEFA15",
-      "Value": "Sage Archetype"
-    },
-    {
-      "Key": "0x1870330D",
-      "Value": "Hero Archetype"
-    },
-    {
-      "Key": "0xFE6D5037",
-      "Value": "Lover Archetype"
-    },
-    {
-      "Key": "0x3D6B8DE7",
-      "Value": "Caregiver Archetype"
-    },
-    {
-      "Key": "0x210DC1C0",
-      "Value": "Artist Archetype"
-    },
-    {
-      "Key": "0x6EDF659B",
-      "Value": "Innocent Archetype"
-    },
-    {
-      "Key": "0xE9512765",
-      "Value": "Greedy Archetype"
     },
     {
       "Key": "0xEABFF419",
@@ -2703,6 +2311,14 @@
     {
       "Key": "0x8B0D05D0",
       "Value": "{0.SimFirstName} dislikes Spellcasters."
+    },
+    {
+      "Key": "0x6E32B134",
+      "Value": "I dislike Werewolves."
+    },
+    {
+      "Key": "0x5A711A66",
+      "Value": "{0.SimFirstName} dislikes Werewolves."
     },
     {
       "Key": "0x80F9D171",
@@ -4041,6 +3657,70 @@
       "Value": "{0.SimFirstName} dislikes big butts."
     },
     {
+      "Key": "0xBE70877B",
+      "Value": "I like short dicks."
+    },
+    {
+      "Key": "0x87ADCF11",
+      "Value": "I dislike short dicks."
+    },
+    {
+      "Key": "0xAD6873DF",
+      "Value": "{0.SimFirstName} likes short dicks."
+    },
+    {
+      "Key": "0xD0B34043",
+      "Value": "{0.SimFirstName} dislikes short dicks."
+    },
+    {
+      "Key": "0xBB74C61C",
+      "Value": "I like long dicks."
+    },
+    {
+      "Key": "0x90A637D2",
+      "Value": "I dislike long dicks."
+    },
+    {
+      "Key": "0x72CA9D08",
+      "Value": "{0.SimFirstName} likes long dicks."
+    },
+    {
+      "Key": "0x7BF47124",
+      "Value": "{0.SimFirstName} dislikes long dicks."
+    },
+    {
+      "Key": "0xF8DF0260",
+      "Value": "I like thin dicks."
+    },
+    {
+      "Key": "0xDE99CD92",
+      "Value": "I dislike thin dicks."
+    },
+    {
+      "Key": "0x6320F06C",
+      "Value": "{0.SimFirstName} likes thin dicks."
+    },
+    {
+      "Key": "0xFAFD0528",
+      "Value": "{0.SimFirstName} dislikes thin dicks."
+    },
+    {
+      "Key": "0xB1F3D7A9",
+      "Value": "I like thick dicks."
+    },
+    {
+      "Key": "0x2A90D187",
+      "Value": "I dislike thick dicks."
+    },
+    {
+      "Key": "0x5FF55785",
+      "Value": "{0.SimFirstName} likes thick dicks."
+    },
+    {
+      "Key": "0x36EE0541",
+      "Value": "{0.SimFirstName} dislikes thick dicks."
+    },
+    {
       "Key": "0xE9F859A6",
       "Value": "I like thin thighs."
     },
@@ -4155,6 +3835,10 @@
     {
       "Key": "0xDEB59510",
       "Value": "Select Spellcaster Occult Sims"
+    },
+    {
+      "Key": "0x74F4B6A1",
+      "Value": "Select Werewolf Occult Sims"
     },
     {
       "Key": "0x73DDF9DE",

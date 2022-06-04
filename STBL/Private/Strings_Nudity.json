@@ -9,8 +9,8 @@
       "Value": "Nudity Settings"
     },
     {
-      "Key": "0x73639F09",
-      "Value": "Change nudity settings.\\n\\nThese settings affect most of nudity/undressing functions."
+      "Key": "0x42DE49A0",
+      "Value": "Adjust settings related to nudity."
     },
     {
       "Key": "0x49E0C5AB",
@@ -273,8 +273,8 @@
       "Value": "Reset Penis Size During Sex"
     },
     {
-      "Key": "0x24D51B52",
-      "Value": "Check to reset Sims penis size to default size for the duration of the sex interaction.\\nUncheck to keep Sims altered penis size at all times."
+      "Key": "0x9DD749EE",
+      "Value": "Check to reset Sims penis length and girth to default size for the duration of the sex interaction.\\nUncheck to keep Sims altered penis length and girth at all times."
     },
     {
       "Key": "0x18054B4F",
@@ -905,6 +905,10 @@
       "Value": "Mermaid Female Hard Penis"
     },
     {
+      "Key": "0x1F237F48",
+      "Value": "Werewolf Hard Penis"
+    },
+    {
       "Key": "0x5A86D77C",
       "Value": "Male Body Feet"
     },
@@ -1405,8 +1409,8 @@
       "Value": "{0.SimFirstName} just received a naked picture of {1.SimFirstName} on {M0.his}{F0.her} phone. No clever phrase comes to {M0.his}{F0.her} mind."
     },
     {
-      "Key": "0x10B1420D",
-      "Value": "\"<i>This has been the worst trade deal in the history of trade deals</i>\" is what {0.SimFirstName} is thinking after receiving the terrible nude photo {M0.he}{F0.she} just got from {1.SimFirstName} after sending {M1.him}{F1.her} one of {M0.his}{F0.hers}."
+      "Key": "0xAA82619E",
+      "Value": "\"<i>This has been the worst trade deal in the history of trade deals</i>\" is what {0.SimFirstName} is thinking after receiving the terrible nude photo {M0.he}{F0.she} just got from {1.SimFirstName} after sending {1.SimPronounObjective} one of {0.SimPronounPossessiveIndependent}."
     },
     {
       "Key": "0xF9B8B72D",
@@ -1429,6 +1433,18 @@
       "Value": "Go to Tanning Salon"
     },
     {
+      "Key": "0x94C24BFB",
+      "Value": "---------- Yoga ----------"
+    },
+    {
+      "Key": "0xE9C3FA68",
+      "Value": "Enable Nude Yoga"
+    },
+    {
+      "Key": "0x51F69A09",
+      "Value": "Disable Nude Yoga"
+    },
+    {
       "Key": "0xB1063430",
       "Value": "---------- Penis Adjustments ----------"
     },
@@ -1439,6 +1455,10 @@
     {
       "Key": "0xFB4CD6BE",
       "Value": "Change All Sims Penis Size"
+    },
+    {
+      "Key": "0x02420EF3",
+      "Value": "Penis Size Manipulation Setting has to be enabled to adjust penis size."
     },
     {
       "Key": "0x8E04BCC6",
@@ -1485,20 +1505,28 @@
       "Value": "Select testicles size value."
     },
     {
-      "Key": "0x60EAF8E8",
-      "Value": "Randomize Penis Size"
-    },
-    {
-      "Key": "0xC06C1A35",
-      "Value": "Randomize penis length, girth, and testicles size."
-    },
-    {
       "Key": "0x1313CF9C",
       "Value": "Custom Penis Size"
     },
     {
       "Key": "0x1D457FB6",
       "Value": "Input penis length, girth, and testicles precise values."
+    },
+    {
+      "Key": "0xF0FA8583",
+      "Value": "Adjust Penis Cosmetics"
+    },
+    {
+      "Key": "0x23F1F77D",
+      "Value": "Input penis cosmetic values."
+    },
+    {
+      "Key": "0x60EAF8E8",
+      "Value": "Randomize Penis Size"
+    },
+    {
+      "Key": "0xC06C1A35",
+      "Value": "Randomize penis length, girth, and testicles size."
     },
     {
       "Key": "0x918B17A8",
@@ -1567,6 +1595,18 @@
     {
       "Key": "0x726B941F",
       "Value": "Testicles Size Value"
+    },
+    {
+      "Key": "0xB27BE07C",
+      "Value": "Penis Cosmetics"
+    },
+    {
+      "Key": "0x80CC77CF",
+      "Value": "Testicles Asymmetry Value"
+    },
+    {
+      "Key": "0xDBC4E92C",
+      "Value": "Penis Vertical Tilt Value"
     },
     {
       "Key": "0xB361B051",
@@ -1793,8 +1833,8 @@
       "Value": "Acquired the Naturism Skill"
     },
     {
-      "Key": "0xE4130CA3",
-      "Value": "{0.SimFirstName}'s new Naturism skill will allow {M0.him}{F0.her} to perform various nudity related activities. As the skill level increases, more will be possible.\\nUndress in different situations and try to get more comfortable around others."
+      "Key": "0xD6B00470",
+      "Value": "{0.SimFirstName}'s new Naturism skill will allow {0.SimPronounObjective} to perform various nudity related activities. As the skill level increases, more will be possible.\\nUndress in different situations and try to get more comfortable around others."
     },
     {
       "Key": "0xB9DBFD9C",
@@ -2069,8 +2109,8 @@
       "Value": "<font color='#340658'>Seen with Pants Down</font>"
     },
     {
-      "Key": "0x67B5C798",
-      "Value": "How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {M0.him}{F0.her} urinating. Whether urgent or not, this just wasn't worth it."
+      "Key": "0x94D5DBFF",
+      "Value": "How humiliating! Nothing will let {0.SimFirstName} live up the shame from those piercing eyes of other Sims after having seen {0.SimPronounObjective} urinating. Whether urgent or not, this just wasn't worth it."
     },
     {
       "Key": "0xC772384C",
@@ -2781,8 +2821,8 @@
       "Value": "Dancer"
     },
     {
-      "Key": "0x79644FF5",
-      "Value": "{1.SimFirstName} is way too tired to dance on stage. Give {M1.him}{F1.her} a few minutes."
+      "Key": "0xEB7909F5",
+      "Value": "{1.SimFirstName} is way too tired to dance on stage. Give {1.SimPronounObjective} a few minutes."
     },
     {
       "Key": "0x4DDF7FB3",
@@ -2829,8 +2869,8 @@
       "Value": "Strip Club Dancer"
     },
     {
-      "Key": "0xB629A07E",
-      "Value": "{0.SimFirstName} has hired a new employee. {1.SimName} will arrive for {M1.his}{F1.her} first shift the next time the club is opened.\n\nBe sure to track {1.SimFirstName}'s skills in the Employee Management window and assign {M1.him}{F1.her} an appropriate work task when {M1.he}{F1.she} arrives."
+      "Key": "0xBD93DD60",
+      "Value": "{0.SimFirstName} has hired a new employee. {1.SimName} will arrive for {M1.his}{F1.her} first shift the next time the club is opened.\n\nBe sure to track {1.SimFirstName}'s skills in the Employee Management window and assign {1.SimPronounObjective} an appropriate work task when {M1.he}{F1.she} arrives."
     },
     {
       "Key": "0xD6A9A9F4",
@@ -3369,12 +3409,12 @@
       "Value": "Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}! Time to escape!\\n\\nRunning away might save {0.SimFirstName}'s butt from getting beat up, but {M0.his}{F0.her} reputation was severely affected with every member of {1.SimFirstName}'s household.\\nBetter be careful next time... this could have ended a lot worse."
     },
     {
-      "Key": "0x1866B3A6",
-      "Value": "Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}!\\n\\n{1.SimFirstName} is looking quite upset, and without any hesitation, {M1.he}{F1.she} begins approaching {0.SimFirstName} to beat {M0.him}{F0.her} up and show {M0.him}{F0.her} where {M0.his}{F0.her} place is.\\nMaybe if {M0.his}{F0.her} Fitness skill were better, {0.SimFirstName} would be able to avoid getting beat up in the future."
+      "Key": "0xEB3DA8C8",
+      "Value": "Uh oh! {0.SimName} has been caught peeping through the window by {1.SimName}!\\n\\n{1.SimFirstName} is looking quite upset, and without any hesitation, {M1.he}{F1.she} begins approaching {0.SimFirstName} to beat {0.SimPronounObjective} up and show {0.SimPronounObjective} where {M0.his}{F0.her} place is.\\nMaybe if {M0.his}{F0.her} Fitness skill were better, {0.SimFirstName} would be able to avoid getting beat up in the future."
     },
     {
-      "Key": "0x3F91CDC5",
-      "Value": "Uh oh! {1.SimName} noticed {0.SimName} taking a picture through the window! Time to escape!\\n\\nRunning away might just save {0.SimFirstName} from being recognized, but {M0.he}{F0.she} can't be sure that {1.SimFirstName} doesn't know who was peeping on {M1.him}{F1.her}.\\nBetter be careful next time... this could have ended a lot worse. At least {0.SimFirstName} got a picture as a souvenir."
+      "Key": "0xCA3B5D03",
+      "Value": "Uh oh! {1.SimName} noticed {0.SimName} taking a picture through the window! Time to escape!\\n\\nRunning away might just save {0.SimFirstName} from being recognized, but {M0.he}{F0.she} can't be sure that {1.SimFirstName} doesn't know who was peeping on {1.SimPronounObjective}.\\nBetter be careful next time... this could have ended a lot worse. At least {0.SimFirstName} got a picture as a souvenir."
     },
     {
       "Key": "0x8E72C87D",
@@ -3513,8 +3553,8 @@
       "Value": "<font color='#340658'>Angered the Fanbase</font>"
     },
     {
-      "Key": "0xF98B54D8",
-      "Value": "Oops! Looks like the new photo upload by {0.SimFirstName} was a disaster, and made both {M0.him}{F0.her} and some of {M0.his}{F0.her} fans pretty upset."
+      "Key": "0xB2F45403",
+      "Value": "Oops! Looks like the new photo upload by {0.SimFirstName} was a disaster, and made both {0.SimPronounObjective} and some of {M0.his}{F0.her} fans pretty upset."
     },
     {
       "Key": "0x1F348116",
@@ -4121,8 +4161,8 @@
       "Value": "# SEX_HANDJOB"
     },
     {
-      "Key": "0xEA0BF643",
-      "Value": "Looks like {M0.he}{F0.she}'s pretty handy with these hands."
+      "Key": "0x55C7D0F1",
+      "Value": "Looks like {1.String} is pretty handy with these hands."
     },
     {
       "Key": "0x00E846DA",
@@ -4445,8 +4485,8 @@
       "Value": "# SPECIAL_ON_DRUGS_WEED"
     },
     {
-      "Key": "0x2EDB09D6",
-      "Value": "Hahah, {M0.he}{F0.she}'s so fucking baked!"
+      "Key": "0xED09238C",
+      "Value": "Hahah, {1.String} is so fucking baked!"
     },
     {
       "Key": "0xB4450DA7",
@@ -7085,8 +7125,8 @@
       "Value": "Turned Into Porcelain"
     },
     {
-      "Key": "0x91C3ACD0",
-      "Value": "Through her breathtakingly spellbinding kiss, the summoned doll Gzhel captured {0.SimFirstName}'s humanity into the form of a Porcelain Doll.\\nAlthough {0.SimFirstName} is now a Doll made out of Porcelain on the outside, on the inside {M0.he}{F0.she} is still a living person, bound by the constraints of being a toy for humans, seeking attention and pleasures from others to avoid feeling neglected and useless.\\n\\nHave fun and socialize with others, keep away the filth, and enjoy existence without the need to eat or drink.\\nFind an owner to be claimed by and take pleasure in playing together. As a doll, {0.SimFirstName}'s purpose is to be used and make others happy which makes {M0.him}{F0.her} happy as well."
+      "Key": "0x0AE5CF8F",
+      "Value": "Through her breathtakingly spellbinding kiss, the summoned doll Gzhel captured {0.SimFirstName}'s humanity into the form of a Porcelain Doll.\\nAlthough {0.SimFirstName} is now a Doll made out of Porcelain on the outside, on the inside {M0.he}{F0.she} is still a living person, bound by the constraints of being a toy for humans, seeking attention and pleasures from others to avoid feeling neglected and useless.\\n\\nHave fun and socialize with others, keep away the filth, and enjoy existence without the need to eat or drink.\\nFind an owner to be claimed by and take pleasure in playing together. As a doll, {0.SimFirstName}'s purpose is to be used and make others happy which makes {0.SimPronounObjective} happy as well."
     },
     {
       "Key": "0xA1086E79",
@@ -7133,8 +7173,8 @@
       "Value": "Even Porcelain Dolls need to freshen up from time to time. A quick shower or bath will keep the dust away."
     },
     {
-      "Key": "0x5E448DFC",
-      "Value": "{0.SimFirstName} is feeling sad from lack of attention and pleasures. Play with {M0.him}{F0.her}."
+      "Key": "0xBE19EB0F",
+      "Value": "{0.SimFirstName} is feeling sad from lack of attention and pleasures. Play with {0.SimPronounObjective}."
     },
     {
       "Key": "0x447D1D68",
