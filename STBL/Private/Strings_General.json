@@ -133,6 +133,10 @@
       "Value": "<p align=\"center\"><b>FATAL ERROR - RIG CONFLICT</b></p>\\n\\nYou have a conflicting mod containing the \"Sim Animating Rig\" file.\\n\\n<b>Only one \"Sim Animating Rig\" file can be loaded at the same time or sex animations will appear stretched and misaligned.</b>\\n\\nHow to fix:\\n  1. Find and delete all mods containing the \"Sim Animating Rig\" file from the Mods folder.\\n  2. Be confused about what is the \"Sim Animating Rig\" file. \\n  3. Visit the website below for details."
     },
     {
+      "Key": "0x6E70DDF8",
+      "Value": "<p align=\"center\"><b>FATAL ERROR - UNSUPPORTED TONGUE MODS</b></p>\\n\\nYou have unsupported tongue mods installed in the 'Mods' folder.\\n\\n<b>Mods that provide a CAS tongue can appear floating around the Sim. You are required to delete these mods.</b>\\n\\nHow to fix:\\n  1. Find and delete all old tongue mods from the Mods folder."
+    },
+    {
       "Key": "0x4FAFD845",
       "Value": "Visual Bug Warning"
     },
@@ -1089,8 +1093,8 @@
       "Value": "Sims are using a location for sex but you don't like it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the object to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that object from being used by Sex Autonomy. Repeat this process to enable back the sex autonomy on this object."
     },
     {
-      "Key": "0xC39B3B16",
-      "Value": "A Sim is having sex but you don't want them to do it? Here's how to solve it.\\n\\nFirst name sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that Sim from participating in Sex Autonomy. Repeat this process to enable back the sex autonomy on this Sim."
+      "Key": "0x4AEBF937",
+      "Value": "A Sim is having sex but you don't want them to do it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that Sim from participating in Sex Autonomy. Repeat this process to enable back the sex autonomy on this Sim."
     },
     {
       "Key": "0x1A2796D6",
