@@ -473,8 +473,8 @@
       "Value": "Display Sex Context Interactions"
     },
     {
-      "Key": "0xC0409FA2",
-      "Value": "Check to display the Context pie menu category during sex.\\nUncheck to not disable the Context pie menu category during sex."
+      "Key": "0xE8306034",
+      "Value": "Check to display the Context pie menu category during sex.\\nUncheck to not display the Context pie menu category during sex."
     },
     {
       "Key": "0x8B400D49",
@@ -3387,6 +3387,14 @@
     {
       "Key": "0x9BFED398",
       "Value": "Wait for Partner"
+    },
+    {
+      "Key": "0xAAA30B0A",
+      "Value": "Prepubescent Sims cannot participate in sex."
+    },
+    {
+      "Key": "0x061787D0",
+      "Value": "Pre-Teen Sims cannot participate in sex."
     },
     {
       "Key": "0x16DEB92B",
