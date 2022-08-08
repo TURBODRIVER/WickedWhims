@@ -36,6 +36,7 @@
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] -->
 
           <T n="animation_has_animated_vagina">0</T>
+          <T n="animation_has_visible_tongue">0</T>
           <T n="animation_outfit_category">CURRENT_OUTFIT</T>
           <T n="animation_naked_type">BOTTOM</T>
           <T n="animation_force_nude_hands">0</T>
@@ -69,6 +70,7 @@
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] -->
 
           <T n="animation_has_animated_vagina">1</T>
+          <T n="animation_has_visible_tongue">0</T>
           <T n="animation_outfit_category">CURRENT_OUTFIT</T>
           <T n="animation_naked_type">ALL</T>
           <T n="animation_force_nude_hands">0</T>

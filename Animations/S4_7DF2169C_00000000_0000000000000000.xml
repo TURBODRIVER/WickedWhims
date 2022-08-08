@@ -36,6 +36,7 @@
           <T n="animation_pref_gender">MALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
           <T n="animation_has_animated_vagina">0</T> <!-- Flag to use the animated vagina model if appropriate (0=Non-Animated, 1=Animated) -->
+          <T n="animation_has_visible_tongue">0</T> <!-- Flag to display the tongue model when used (0=Invisible, 1=Visible) -->
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">BOTTOM</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
@@ -69,6 +70,7 @@
           <T n="animation_pref_gender">FEMALE</T> <!-- [REMOVE IF UNUSED] Preferred gender type of this actor if actor gender is set to BOTH (MALE, FEMALE, ALIEN_MALE, ALIEN_FEMALE, GHOST_MALE, GHOST_FEMALE, VAMPIRE_MALE, VAMPIRE_FEMALE, MERMAID_MALE, MERMAID_FEMALE, WITCH_MALE, WITCH_FEMALE) -->
 
           <T n="animation_has_animated_vagina">1</T> <!-- Flag to use the animated vagina model if appropriate (0=Non-Animated, 1=Animated) -->
+          <T n="animation_has_visible_tongue">0</T> <!-- Flag to display the tongue model when used (0=Invisible, 1=Visible) -->
           <T n="animation_outfit_category">CURRENT_OUTFIT</T> <!-- [REMOVE IF UNUSED] Outfit Category this actor will change into when sex begins (CURRENT_OUTFIT, EVERYDAY, FORMAL, ATHLETIC, SLEEP, PARTY, CAREER, SWIMWEAR, HOT_WEATHER, COLD_WEATHER) -->
           <T n="animation_naked_type">ALL</T> <!-- Naked Type this actor will undress to when performing (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
           <T n="animation_force_nude_hands">0</T> <!-- Flag to force undress gloves if needed (0=Ignore, 1=Force) -->
