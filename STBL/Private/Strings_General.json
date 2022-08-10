@@ -85,6 +85,10 @@
       "Value": "An error related to WickedWhims has occurred!\\nA report file (WickedWhims_Exception.txt) has been created!\\n\\nIf you're using any mods that require WickedWhims to work, check if they are up-to-date with WickedWhims and with the game.\\n\\nException file location: {0.String}\\n\\nGo to <b>wickedwhimsmod.com/exception</b> to learn how to report this error."
     },
     {
+      "Key": "0xAD5929EB",
+      "Value": "Open WickedWhims Exception File"
+    },
+    {
       "Key": "0x5CEA5366",
       "Value": "Hey! Looks like some kind of error has occurred.\\nIf it looks like it's related to WickedWhims, try using the command below.\\n\\n<b>ww.fix</b>\\n\\nTo use a command, open the Command Console by pressing 'CTRL+SHIFT+C' on your keyboard.\\nThen type in the command."
     },

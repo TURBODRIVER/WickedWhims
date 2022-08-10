@@ -369,6 +369,14 @@
       "Value": "Check to change Sims mood into Sex Mood during sex\\nUncheck to keep Sims natural mood during sex."
     },
     {
+      "Key": "0x19A5158D",
+      "Value": "Sexual Stamina Motive Switch"
+    },
+    {
+      "Key": "0xD3F80222",
+      "Value": "Check to display Sexual Stamina motive bar in place of the Fun motive bar during sex.\\nUncheck to keep the Fun motive bar unchanged during sex."
+    },
+    {
       "Key": "0xD7F4F85B",
       "Value": "Climax Sex Animations"
     },
@@ -3453,8 +3461,8 @@
       "Value": "{0.SimFirstName}'s Sexpertise skill is not on an appropriate level to read this book."
     },
     {
-      "Key": "0x8BB9DD8F",
-      "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT\\\\\\</font>"
+      "Key": "0x697E31B1",
+      "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT \\\\\\</font>"
     },
     {
       "Key": "0x0F8958BF",
@@ -3903,6 +3911,14 @@
     {
       "Key": "0x17393B7A",
       "Value": "Pick Sims for sex."
+    },
+    {
+      "Key": "0xF5CA46E7",
+      "Value": "Sexual Stamina"
+    },
+    {
+      "Key": "0xAB6920E2",
+      "Value": "Sims usually can't last forever and will stop having sex once their sexual stamina is depleted."
     },
     {
       "Key": "0x92C0C143",
@@ -5649,6 +5665,18 @@
       "Value": "---------- SEX TRAITS ----------"
     },
     {
+      "Key": "0x43368528",
+      "Value": "Post-Puberty"
+    },
+    {
+      "Key": "0xF78AD885",
+      "Value": "Post-Puberty"
+    },
+    {
+      "Key": "0xB0B80A04",
+      "Value": "Post-Puberty Teen Sims no longer experience the effects of going through puberty."
+    },
+    {
       "Key": "0xFAD9FBA0",
       "Value": "Incest"
     },
@@ -5721,8 +5749,8 @@
       "Value": "Transcendental Sexual Experience"
     },
     {
-      "Key": "0x180573FA",
-      "Value": "{0.SimFirstName} will find it hard to forget the amazing session of lovemaking that they had with {1.SimFirstName}. They hit it out of the ballpark leaving them both sweaty and satisfied. When {1.SimFirstName} is around, {0.SimFirstName} can't help but feel invigorated and ready for their next roll in the hay."
+      "Key": "0x2EE080CF",
+      "Value": "{0.SimFirstName} will find it hard to forget the amazing session of lovemaking that {M0.he}{F0.she} had with {1.SimFirstName}. They hit it out of the ballpark leaving them both sweaty and satisfied. When {1.SimFirstName} is around, {0.SimFirstName} can't help but feel invigorated and ready for {0.SimPronounPossessiveDependent} next roll in the hay."
     },
     {
       "Key": "0xC170CC1F",

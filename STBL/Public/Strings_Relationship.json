@@ -117,14 +117,6 @@
       "Value": "Changing this setting will irreversibly alter the state of Attractiveness!\\n\\nMake sure to save the game before applying changes."
     },
     {
-      "Key": "0xDFE186CD",
-      "Value": "Romance Gender Preference Outcome Switch"
-    },
-    {
-      "Key": "0x54C1DA56",
-      "Value": "Check to alter romance social interactions outcome based on gender preference."
-    },
-    {
       "Key": "0x70A69160",
       "Value": "Persistent Social Boredom Switch"
     },
