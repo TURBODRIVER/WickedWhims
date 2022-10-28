@@ -13,6 +13,7 @@
       <T n="animation_location_constraints"></T> <!-- [REMOVE IF UNUSED] -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] -->
       <T n="object_geometry_state"></T> <!-- [REMOVE IF UNUSED] -->
+      <T n="object_material_state"></T> <!-- [REMOVE IF UNUSED] -->
 
       <T n="animation_category">VAGINAL</T>
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] -->
@@ -103,6 +104,7 @@
           <T n="prop_guids">123456789, 987654321</T>
           <T n="prop_animation_clip_name">PropAnimationClipName</T>
           <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] -->
+          <T n="prop_material_state"></T> <!-- [REMOVE IF UNUSED] -->
 
           <T n="prop_x_offset">0</T> <!-- [REMOVE IF UNUSED] -->
           <T n="prop_y_offset">0</T> <!-- [REMOVE IF UNUSED] -->
@@ -142,6 +144,20 @@
           <T n="event_start_timecode">1.23456</T>
           <T n="event_target">a1</T>
           <T n="naked_type">BOTTOM</T>
+        </U> <!-- [END OF EVENT ENTRY] -->
+
+        <U> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">GEOMETRY_STATE</T>
+          <T n="event_start_timecode">1.23456</T>
+          <T n="event_target">o</T>
+          <T n="geometry_state">GeometryStateName</T>
+        </U> <!-- [END OF EVENT ENTRY] -->
+
+        <U> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">MATERIAL_STATE</T>
+          <T n="event_start_timecode">1.23456</T>
+          <T n="event_target">o</T>
+          <T n="material_state">MaterialStateName</T>
         </U> <!-- [END OF EVENT ENTRY] -->
 
       </L>

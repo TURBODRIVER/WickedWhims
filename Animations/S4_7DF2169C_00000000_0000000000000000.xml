@@ -13,6 +13,7 @@
       <T n="animation_location_constraints"></T> <!-- [REMOVE IF UNUSED] List of constraints the location has to fit into  -->
       <T n="object_animation_clip_name">ObjectAnimationClipName</T> <!-- [REMOVE IF UNUSED] Object animation ClipName -->
       <T n="object_geometry_state"></T> <!-- [REMOVE IF UNUSED] Object geometry state -->
+      <T n="object_material_state"></T> <!-- [REMOVE IF UNUSED] Object material state -->
 
       <T n="animation_category">VAGINAL</T> <!-- Sex Category of the animation (TEASING, HANDJOB, FOOTJOB, ORALJOB, VAGINAL, ANAL, CLIMAX) -->
       <T n="animation_tags"></T> <!-- [REMOVE IF UNUSED] List of Sex Tags that give the animation context (PLEASE FOLLOW THE GUIDELINES FOR ADDING TAGS) -->
@@ -104,6 +105,7 @@
           <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
           <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
           <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] Prop geometry state -->
+          <T n="prop_material_state"></T> <!-- [REMOVE IF UNUSED] Prop material state -->
 
           <T n="prop_x_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop position in x axis -->
           <T n="prop_y_offset">0</T> <!-- [REMOVE IF UNUSED] Offset of prop position in y axis -->
@@ -131,7 +133,7 @@
         </U> <!-- [END OF EVENT ENTRY] -->
 
         <U> <!-- [START OF EVENT ENTRY] -->
-          <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS) -->
+          <T n="event_type">CUM</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS, GEOMETRY_STATE, MATERIAL_STATE) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="cum_layer_type">FACE</T> <!-- Cum Layer Type to apply on the Event Target (FACE, CHEST, BACK, VAGINA, BUTT, FEET) -->
@@ -139,10 +141,24 @@
         </U> <!-- [END OF EVENT ENTRY] -->
 
         <U> <!-- [START OF EVENT ENTRY] -->
-          <T n="event_type">UNDRESS</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS) -->
+          <T n="event_type">UNDRESS</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS, GEOMETRY_STATE, MATERIAL_STATE) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
           <T n="naked_type">BOTTOM</T> <!-- Naked Type the Event Target will undress to (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
+        </U> <!-- [END OF EVENT ENTRY] -->
+
+        <U> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">GEOMETRY_STATE</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRES, GEOMETRY_STATE, MATERIAL_STATE) -->
+          <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
+          <T n="event_target">o</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
+          <T n="geometry_state">GeometryStateName</T> <!-- Geometry State name the Event Target will change to -->
+        </U> <!-- [END OF EVENT ENTRY] -->
+
+        <U> <!-- [START OF EVENT ENTRY] -->
+          <T n="event_type">MATERIAL_STATE</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRES, GEOMETRY_STATE, MATERIAL_STATE) -->
+          <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
+          <T n="event_target">o</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
+          <T n="material_state">MaterialStateName</T> <!-- Material State name the Event Target will change to -->
         </U> <!-- [END OF EVENT ENTRY] -->
 
       </L>
