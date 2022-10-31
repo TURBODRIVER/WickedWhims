@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I c="WickedWhimsCASPartsPackage" i="snippet" m="wickedwhims.main.cas_parts.cas_parts_tuning" n="YOURNAME:Undressable_CAS_Parts" s="000000000000000006">
+  <T n="wickedwhims_cas_parts">1</T>
+  <L n="cas_parts_list">
+
+    <U>
+      <T n="cas_part_raw_display_name">Unique Name Of The Swatch Part</T><!-- Raw Text used for identification. -->
+      <T n="cas_part_author">YourName</T><!-- Raw Text for author name of package. -->
+      <T n="cas_part_type">UNDRESSABLE_TOP</T><!-- Type of the CAS part (STRAPON, CONDOM, UNDERWEAR_MALE, UNDERWEAR_FEMALE, TONGUE, BODY_TOP_MALE, BODY_TOP_FEMALE, BODY_BOTTOM_MALE, BODY_BOTTOM_FEMALE, BODY_FEET_MALE, BODY_FEET_FEMALE, PENIS_SOFT_MALE, PENIS_SOFT_FEMALE, PENIS_HARD_MALE, PENIS_HARD_FEMALE, PUBIC_HAIR_MALE, PUBIC_HAIR_FEMALE, CUM, UNDRESSABLE_TOP, UNDRESSABLE_BOTTOM, UNDRESSABLE_FULLBODY) -->
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T><!-- Numerical IDs of the CAS parts. Multiple have to be provided, they progress with each action of undressing. -->
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Unique Name Of The Swatch Part</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_type">UNDRESSABLE_BOTTOM</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+    </U>
+
+    <U>
+      <T n="cas_part_raw_display_name">Unique Name Of The Swatch Part</T>
+      <T n="cas_part_author">YourName</T>
+      <T n="cas_part_type">UNDRESSABLE_FULLBODY</T>
+      <T n="cas_part_ids">1111111111111111111,2222222222222222222,3333333333333333333</T>
+    </U>
+
+  </L>
+</I>
