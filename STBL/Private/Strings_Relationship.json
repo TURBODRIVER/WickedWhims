@@ -217,6 +217,18 @@
       "Value": "You do not have high enough Friendship to ask this."
     },
     {
+      "Key": "0xFAF3B626",
+      "Value": "Casual Romance"
+    },
+    {
+      "Key": "0x6D2BEDC2",
+      "Value": "Become Romantically Attached to {1.SimFirstName}"
+    },
+    {
+      "Key": "0x30379E84",
+      "Value": "Stop Being Romantically Attached to {1.SimFirstName}"
+    },
+    {
       "Key": "0xCD865ABF",
       "Value": "--------- Traits ---------"
     },
@@ -255,6 +267,58 @@
     {
       "Key": "0x81AA4B1D",
       "Value": "Socially Avoidant Sims are simply not interested in talking to anybody unless they have to."
+    },
+    {
+      "Key": "0x165FA249",
+      "Value": "Eternally Faithful"
+    },
+    {
+      "Key": "0xCC909282",
+      "Value": "Eternally Faithful"
+    },
+    {
+      "Key": "0x37FDC5FF",
+      "Value": "These are Sims who have met their True Love. A Sim they've married and want to spend the rest of their life with. Eternally Faithful Sims feel better when their beloved spouse is around and shun any romantic interaction with other Sims."
+    },
+    {
+      "Key": "0xD0BC8793",
+      "Value": "Eternally Faithful Sims can only romance with their spouse."
+    },
+    {
+      "Key": "0x9819F145",
+      "Value": "<font color='#340658'>Bound by Love</font>"
+    },
+    {
+      "Key": "0x8CCBA016",
+      "Value": "(From Eternally Faithful)"
+    },
+    {
+      "Key": "0x97C1919D",
+      "Value": "{0.SimFirstName} can't help but realize how madly in love {M0.he}{F0.she} is whenever their beloved spouse is in the same room. Their mere presence seems to give this Sim the strength and confidence to run marathons and move mountains, as they know they'll have someone who truly loves them cheering them on."
+    },
+    {
+      "Key": "0x9BA7C00F",
+      "Value": "There's no one in the world that {0.SimFirstName} adores more than {M0.his}{F0.her} beloved spouse.\\n\\nHard work and care have built a rock-solid relationship based around trust, companionship and love. After all that they've been through together, {0.SimFirstName}'s love is now at a stage where they are unable to even think about romance with any other Sim than their partner in life.\\n\\nAlso, the very presence of {M0.his}{F0.her} spouse in the same room will invigorate and strengthen {0.SimFirstName} as they know they have someone who has their back."
+    },
+    {
+      "Key": "0xE44E5896",
+      "Value": "Casual Romantic"
+    },
+    {
+      "Key": "0x724F6369",
+      "Value": "Casual Romantic"
+    },
+    {
+      "Key": "0x7EE5AB51",
+      "Value": "Casual Romantics are usually not interested in serious romantic relationships and instead are capable of building casual romantic connections. All of the romance in the world with no strings attached."
+    },
+    {
+      "Key": "0x5501DCA4",
+      "Value": "Casual Romantic Tutorial"
+    },
+    {
+      "Key": "0xDB1A4D60",
+      "Value": "Sims with the Casual Romantic Wicked Attribute are not able to increase the romance bar with other Sims by default. That's because they aren't interested in serious romantic relationships.\\n\\nWhen flirting with Sims, a casual romantic relationship is developed that works similar to typical romance, while staying just friends.\\n\\nCasual Romantics can still form serious relationships by becoming attached. Simply click on another Sim and use 'Become Romantically Attached' under the Romance category."
     },
     {
       "Key": "0x7B4646A5",
@@ -507,6 +571,62 @@
     {
       "Key": "0x1B2CF24F",
       "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
+    },
+    {
+      "Key": "0x6F836BB5",
+      "Value": "---------- Extra Romance ----------"
+    },
+    {
+      "Key": "0x1C142ABE",
+      "Value": "Long Kiss"
+    },
+    {
+      "Key": "0x059BCCD5",
+      "Value": "Passionate Groping"
+    },
+    {
+      "Key": "0x846AA24E",
+      "Value": "Butt Spank"
+    },
+    {
+      "Key": "0xCEFB9936",
+      "Value": "Squeeze"
+    },
+    {
+      "Key": "0x54F64704",
+      "Value": "{0.SimFirstName} is already passionately boosted ({1.Number} hour{P1.s} left)."
+    },
+    {
+      "Key": "0x594A8610",
+      "Value": "<font color='#340658'>Felt the Spark!</font>"
+    },
+    {
+      "Key": "0xB73727B7",
+      "Value": "The touch that {0.SimFirstName} shared with {M0.his}{F0.her} lover felt like a strike of lightning! A touch like that could jump-start a heart. It sent shivers down their spine and {0.SimFirstName} still feels {M0.his}{F0.her} skin tingling with excitement when thinking about it."
+    },
+    {
+      "Key": "0xB895F87E",
+      "Value": "(From Experiencing a Passionate Moment)"
+    },
+    {
+      "Key": "0x972B8A72",
+      "Value": "<font color='#340658'>Passion Withdrawal</font>"
+    },
+    {
+      "Key": "0xDF8E7A6B",
+      "Value": "{0.SimFirstName} is longing for a special kind of closeness. It's been a while since {0.SimFirstName} shared a passionate moment with {M0.his}{F0.her} lover."
+    },
+    {
+      "Key": "0xCD75E313",
+      "Value": "(From Lack of Passionate Moments)"
+    },
+    {
+      "Key": "0xCC8E8F6C",
+      "Value": "Passionate Romance"
+    },
+    {
+      "Key": "0xB88A5C98",
+      "Value": "Butterflies in the sky? {0.SimName} feels just as high after that sizzling moment spent with {1.SimName}! {0.SimFirstName} has a full heart and {M0.his}{F0.her} head in the clouds, {M0.he}{F0.she} will be daydreaming about {1.SimFirstName}’s electrifying touch for a while.\\n\\n{0.SimFirstName} can take pleasure of up to two passionate moments a few times a day. Every passionate moment boosts {0.SimFirstName}'s well-being and helps {0.SimPronounObjective} stay happy with special lucky effects."
     },
     {
       "Key": "0x6DF9B78B",
@@ -1111,14 +1231,6 @@
     {
       "Key": "0xAB395446",
       "Value": "That Sim has some really nice muscles... so nice in fact that {0.SimFirstName} can't stop trying to look at them."
-    },
-    {
-      "Key": "0x48720061",
-      "Value": "<font color='#340658'>Where Do These End?</font>"
-    },
-    {
-      "Key": "0xD601E302",
-      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she} is talking to."
     },
     {
       "Key": "0xB77322D0",

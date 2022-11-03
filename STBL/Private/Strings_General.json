@@ -73,8 +73,20 @@
       "Value": "Warning!"
     },
     {
-      "Key": "0x154A0659",
-      "Value": "Failed to properly load WickedWhims save data!\\n\\nThis is most likely due to an error during the loading process of the game caused by another modification.\\n\\nBe careful as saving the game will result in loss of save data!\\nIdentify the source of the error and make sure the game loads without this warning message."
+      "Key": "0x9CFC6A16",
+      "Value": "Uh Oh!"
+    },
+    {
+      "Key": "0xA19F22F2",
+      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen last time, that could have caused the game save to break.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
+    },
+    {
+      "Key": "0xDD42329B",
+      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data files were altered by external sources are now corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
+    },
+    {
+      "Key": "0x3F19B7B5",
+      "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading/writing save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
     },
     {
       "Key": "0x449C1DFF",
@@ -345,100 +357,120 @@
       "Value": "Enable or Disable main features of WickedWhims."
     },
     {
-      "Key": "0x77C36462",
-      "Value": "--------------- Settings Import/Export ---------------"
+      "Key": "0xC49F29DB",
+      "Value": "--------------- Setting Profiles ---------------"
     },
     {
-      "Key": "0xD66DB52F",
-      "Value": "Settings Control"
+      "Key": "0x348D3464",
+      "Value": "Settings Profiles"
     },
     {
-      "Key": "0x156EB873",
-      "Value": "Control WickedWhims settings - Import, Export, Reset, Disable."
+      "Key": "0xE957F468",
+      "Value": "Select and Manage Settings Profiles.\\nCurrent Profile: <b>{0.String}</b>"
     },
     {
-      "Key": "0x07AE3B83",
-      "Value": "Export Current Settings"
+      "Key": "0x3D4AA7C3",
+      "Value": "Switch Settings Profile"
     },
     {
-      "Key": "0x2723C4FA",
-      "Value": "Export current settings for use in different worlds."
+      "Key": "0xFCE014CF",
+      "Value": "Select a different Settings Profile."
     },
     {
-      "Key": "0x82608601",
-      "Value": "Enter the name of this save:"
+      "Key": "0xC8EC6C96",
+      "Value": "Name: <b>{0.String}</b>"
     },
     {
-      "Key": "0xDCE3F03B",
-      "Value": "Your settings have been saved under the name '{0.String}'.\\n\\nThey can be loaded using the 'Import Settings' menu."
+      "Key": "0x39BEC1CE",
+      "Value": "Created At: {0.String} ({1.String})"
     },
     {
-      "Key": "0xBA590B59",
-      "Value": "Import Settings"
+      "Key": "0xFF6ADA54",
+      "Value": "Switch Settings Profile?"
     },
     {
-      "Key": "0xA2293A3A",
-      "Value": "Import saved settings."
+      "Key": "0x4C2AD3F5",
+      "Value": "Are you sure you want to switch from the '<b>{0.String}</b>' Settings Profile to the '<b>{1.String}</b>' Settings Profile?\\n\\nThere {S2.is}{P2.are} <b>{2.Number}</b> difference{P2.s} between these Settings Profiles.\\n\\n{3.String}"
     },
     {
-      "Key": "0x828DBF6D",
-      "Value": "You need to export settings first to import them later!"
+      "Key": "0xC7CB2D2A",
+      "Value": "<font color='#FF0000'>THE '{0.String}' SETTINGS PROFILE HAS SETTINGS THAT REQUIRE SAVING AND RESTARTING THE GAME TO TAKE FULL EFFECT!</font>"
     },
     {
-      "Key": "0xBCAAC0D6",
-      "Value": "Settings under the name {0.String} have been loaded.\\n\\nMake sure to save and restart the game for the loaded settings to take full effect."
+      "Key": "0x0D033B19",
+      "Value": "Rename Settings Profile"
     },
     {
-      "Key": "0xFE65717B",
-      "Value": "Delete Settings"
+      "Key": "0x31F12ABC",
+      "Value": "Change name of a Settings Profile."
     },
     {
-      "Key": "0x4B349AB6",
-      "Value": "Delete exported settings."
+      "Key": "0x5603B6A4",
+      "Value": "Delete Settings Profile"
     },
     {
-      "Key": "0x1193FCF9",
-      "Value": "You need to export settings first to delete them!"
+      "Key": "0x178F2EE1",
+      "Value": "Delete a Settings Profile."
     },
     {
-      "Key": "0xCBEFC42C",
-      "Value": "Settings under the name {0.String} have been deleted."
+      "Key": "0xFA328AF9",
+      "Value": "Delete Settings Profile?"
     },
     {
-      "Key": "0xA6EE1B1C",
-      "Value": "Reset All Settings"
+      "Key": "0x3506EC96",
+      "Value": "Are you sure you want to delete the '{0.String}' Settings Profile?\\n\\nThis action cannot be undone."
     },
     {
-      "Key": "0xD5C95124",
-      "Value": "Reset all WickedWhims settings to the default state.\\n(Doesn't affect Animations Disabler)"
+      "Key": "0xC5903AC7",
+      "Value": "Clone Current Settings Profile"
     },
     {
-      "Key": "0xEE27A81B",
-      "Value": "Do you want to reset all of the WickedWhims settings?\\nThis will bring back all Nudity, Sex, and Relationship settings to their default state."
+      "Key": "0x8E702C92",
+      "Value": "Create a copy of the currently used Settings Profile."
     },
     {
-      "Key": "0x8230751A",
-      "Value": "All settings have been reset.\\n\\n\\nMake sure to save and restart the game for the reset settings to take full effect."
+      "Key": "0xA925ACF9",
+      "Value": "Reset Current Settings Profile"
     },
     {
-      "Key": "0x8BD7C461",
-      "Value": "Disable All Features"
+      "Key": "0xE25E67D1",
+      "Value": "Reset all settings of the currently used Settings Profile to default."
     },
     {
-      "Key": "0x503B50C6",
-      "Value": "Disable all WickedWhims features."
+      "Key": "0xA2C7BA72",
+      "Value": "Reset Current Settings Profile?"
     },
     {
-      "Key": "0xF052F45E",
-      "Value": "Do you want to disable all of the WickedWhims settings?\\nThis will disable all Nudity, Sex, and Relationship features."
+      "Key": "0x6EDF0617",
+      "Value": "Are you sure you want to reset all '{0.String}' Settings Profile settings to default?\\n\\nThis action cannot be undone."
     },
     {
-      "Key": "0x02806B44",
-      "Value": "All settings have been disabled.\\n\\n\\nMake sure to save and restart the game for the disabled settings to take full effect."
+      "Key": "0x8525774A",
+      "Value": "Disable Features of Current Settings Profile"
     },
     {
-      "Key": "0xAB928815",
-      "Value": "Created at: {0.String}"
+      "Key": "0x80135FD6",
+      "Value": "Disable all settings of the currently used Settings Profile."
+    },
+    {
+      "Key": "0x6477F34F",
+      "Value": "Disable Features of Current Settings Profile?"
+    },
+    {
+      "Key": "0xC727B1F2",
+      "Value": "Are you sure you want to disable all features of the '{0.String}' Settings Profile?\\n\\nThis action cannot be undone."
+    },
+    {
+      "Key": "0xC42C5872",
+      "Value": "Input Settings Profile Name"
+    },
+    {
+      "Key": "0x3AE1F3EA",
+      "Value": "Input a new name for the '{0.String}' Settings Profile."
+    },
+    {
+      "Key": "0x0E061521",
+      "Value": "Input a name for the copy of the '{0.String}' Settings Profile."
     },
     {
       "Key": "0xBD914993",

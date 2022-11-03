@@ -717,22 +717,6 @@
       "Value": "Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\\n(only works with Menstrual Cycle Pregnancy Mode enabled)"
     },
     {
-      "Key": "0xF06E0D9D",
-      "Value": "Sex Locations Memory Switch"
-    },
-    {
-      "Key": "0xFCB7A291",
-      "Value": "Check to allow the game and individual Sims to remember locations used for sex by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex locations and pick them randomly."
-    },
-    {
-      "Key": "0xE3EA5EBE",
-      "Value": "Sex Animations Memory Switch"
-    },
-    {
-      "Key": "0x7381079C",
-      "Value": "Check to allow the game and individual Sims to remember sex animations used by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex animations and pick them randomly."
-    },
-    {
       "Key": "0xC0D61043",
       "Value": "Block Around Children Switch"
     },
@@ -1293,40 +1277,40 @@
       "Value": "Very Long"
     },
     {
-      "Key": "0x2F080814",
-      "Value": "Select for life expectancy of: Forever (21-30 days per menstrual cycle)"
+      "Key": "0x6379187C",
+      "Value": "Select for adult life expectancy of: Forever (21-30 days per menstrual cycle)"
     },
     {
       "Key": "0x8E231DC6",
       "Value": "Long"
     },
     {
-      "Key": "0xE49B081A",
-      "Value": "Select for life expectancy of: 324 days (18-24 days per menstrual cycle)"
+      "Key": "0x3DBECE05",
+      "Value": "Select for adult life expectancy of: 228 days (18-24 days per menstrual cycle)"
     },
     {
       "Key": "0x720553B4",
       "Value": "Normal-To-Long"
     },
     {
-      "Key": "0xA1417FD4",
-      "Value": "Select for life expectancy of: 162 days (13-16 days per menstrual cycle)"
+      "Key": "0x660F4E74",
+      "Value": "Select for adult life expectancy of: 153 days (13-16 days per menstrual cycle)"
     },
     {
       "Key": "0xB6B5C03A",
       "Value": "Normal"
     },
     {
-      "Key": "0xECCA1FA6",
-      "Value": "Select for life expectancy of: 81 days (8-10 days per menstrual cycle)"
+      "Key": "0x4D601916",
+      "Value": "Select for adult life expectancy of: 78 days (8-10 days per menstrual cycle)"
     },
     {
       "Key": "0xCC236812",
       "Value": "Short"
     },
     {
-      "Key": "0x0D83B15B",
-      "Value": "Select for life expectancy of: 42 days (6-7 days per menstrual cycle)"
+      "Key": "0xFD5E82A0",
+      "Value": "Select for adult life expectancy of: 29 days (6-7 days per menstrual cycle)"
     },
     {
       "Key": "0x6DF5CD9D",
@@ -1719,6 +1703,14 @@
     {
       "Key": "0x980B6653",
       "Value": "Sims will always accept sex propositions.\\n<b>Fully Check</b> for Sims to always accept no matter the circumstances.\\n<b>Half Check</b> for Sims to always accept except for gender preference incompatibility, cheating, or fear of pregnancy.\\n<b>Uncheck</b> for Sims to not always accept."
+    },
+    {
+      "Key": "0x141CE650",
+      "Value": "Always Accept Sex Watching"
+    },
+    {
+      "Key": "0x698D21D9",
+      "Value": "Check to make Sims always want to watch sex no matter the circumstances."
     },
     {
       "Key": "0xCAED6DCB",
@@ -2371,6 +2363,26 @@
     {
       "Key": "0xCA6D3CD6",
       "Value": "Playlist"
+    },
+    {
+      "Key": "0x1F3BB7F6",
+      "Value": "New"
+    },
+    {
+      "Key": "0x2DB3FC38",
+      "Value": "Play a random sex animation."
+    },
+    {
+      "Key": "0xBCCA8BB7",
+      "Value": "Play a random '{0.String}' sex animation."
+    },
+    {
+      "Key": "0x9CCB2640",
+      "Value": "Play a new sex animation.\\nThere {S0.is}{P0.are} still {0.Number} sex animation{P0.s} to check out on this list."
+    },
+    {
+      "Key": "0xC4BBEA7B",
+      "Value": "Play a new '{0.String}' sex animation.\\nThere {S1.is}{P1.are} still {1.Number} sex animation{P1.s} to check out on this list."
     },
     {
       "Key": "0x9393B673",
@@ -3381,6 +3393,22 @@
       "Value": "{0.SimFirstName} cannot get {M0.his}{F0.her} eyes off of {M0.his}{F0.her} partner's incredibly chiseled body. Every move highlights a different muscle and it's all so very hypnotizing and arousing for {0.SimFirstName}."
     },
     {
+      "Key": "0x0583198C",
+      "Value": "<font color='#340658'>Fruit Basket</font>"
+    },
+    {
+      "Key": "0x88D6D4BB",
+      "Value": "{0.SimFirstName} was craving a banana really bad, and this one is perfectly ripe. It’s hitting just the right spot. {M0.He}{F0.She} doesn’t mind that it’s getting a little messy, {M0.he}{F0.she} can’t help but want all of it."
+    },
+    {
+      "Key": "0xD060918F",
+      "Value": "<font color='#340658'>Juicy Strawberry</font>"
+    },
+    {
+      "Key": "0xCDE181F4",
+      "Value": "{0.SimFirstName} was feeling very thirsty, and this mouth-watering strawberry is just what {M0.he}{F0.she} desired. {0.SimFirstName} is enjoying every moment of indulgence in the sweet and satisfying juice of such a divine fruit."
+    },
+    {
       "Key": "0xB3EAB2BF",
       "Value": "---------- SEX SKILL ----------"
     },
@@ -3697,6 +3725,62 @@
       "Value": "Stop"
     },
     {
+      "Key": "0x23DAC399",
+      "Value": "Sex Control"
+    },
+    {
+      "Key": "0x9B36AE3B",
+      "Value": "Exclude Object from Sex Autonomy"
+    },
+    {
+      "Key": "0xEFF2CE34",
+      "Value": "Include Object in Sex Autonomy"
+    },
+    {
+      "Key": "0xB3AC222C",
+      "Value": "Adjust Object Sex Autonomy Probability ({1.String})"
+    },
+    {
+      "Key": "0xE97C362A",
+      "Value": "Adjust All '<b>{0.String}</b>' Sex Autonomy Probability ({1.String})"
+    },
+    {
+      "Key": "0x1F8642D0",
+      "Value": "Object is already excluded in Dynamic Animations Disabler."
+    },
+    {
+      "Key": "0x187AF05B",
+      "Value": "Adjust Object Sex Autonomy Probability"
+    },
+    {
+      "Key": "0xB8D420FD",
+      "Value": "Adjust '{0.String}' Sex Autonomy Probability"
+    },
+    {
+      "Key": "0x7E073A59",
+      "Value": "Level +{0.Number} (Increase by {1.Number}%)"
+    },
+    {
+      "Key": "0x9DD28806",
+      "Value": "Select to increase object Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0xF42C33D4",
+      "Value": "Select to increase '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0x8B1CCAC8",
+      "Value": "Level {0.Number} (Decrease by {1.Number}%)"
+    },
+    {
+      "Key": "0x8CC8C416",
+      "Value": "Select to decrease object Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0xE4FFB104",
+      "Value": "Select to decrease '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
       "Key": "0x6DA61B52",
       "Value": "Enable for Sex Autonomy"
     },
@@ -3711,6 +3795,10 @@
     {
       "Key": "0x638073BD",
       "Value": "Disable Floor for Sex Autonomy"
+    },
+    {
+      "Key": "0xC5ADC56D",
+      "Value": "Display Sex Autonomy Room Info"
     },
     {
       "Key": "0x3858B3E2",
@@ -7025,6 +7113,22 @@
       "Value": "Undress Other Accessories"
     },
     {
+      "Key": "0x2B227E62",
+      "Value": "Undressable"
+    },
+    {
+      "Key": "0x1C99A214",
+      "Value": "Undress Outfit Top"
+    },
+    {
+      "Key": "0xD951B662",
+      "Value": "Undress Outfit Bottom"
+    },
+    {
+      "Key": "0x3A5C3B2D",
+      "Value": "Undress Outfit"
+    },
+    {
       "Key": "0xE9FBA083",
       "Value": "Change Outfit..."
     },
@@ -7673,8 +7777,8 @@
       "Value": "<font color='#340658'>Flooding Pad</font>"
     },
     {
-      "Key": "0x8600AC28",
-      "Value": "The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!"
+      "Key": "0x4479E57E",
+      "Value": "The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this pad, a replacement must be found ASAP!"
     },
     {
       "Key": "0x9CBE332C",

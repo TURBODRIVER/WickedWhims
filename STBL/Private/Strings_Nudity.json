@@ -829,16 +829,8 @@
       "Value": "Vagina/Feminine"
     },
     {
-      "Key": "0x15059417",
-      "Value": "'This Sim Body Selector' is a selector for picking naked body parts for the selected Sim.\\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim.\\n\\nSelected body parts in the 'This Sim Body Selector' override any parts selected in the 'All Sims Body Selector'.\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims."
-    },
-    {
-      "Key": "0x7A64EAFC",
-      "Value": "'Random Sims Body Selector' is a selector for picking naked body parts for a random sample of Sims in the world.\\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim and only Sims that match the same Gender Settings will be considered for this selector.\\nSelecting a random body part multiple times will increase the number of Sims that have this part applied.\\n\\nSelected body parts in the 'Random Sim Body Selector' override any parts selected in the 'All Sims Body Selector'.\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims."
-    },
-    {
-      "Key": "0xB292C99C",
-      "Value": "'All Sims Body Selector' is a selector for picking naked body parts for all of the Sims in the world.\\nThe body parts that are available to select depend on the Sim Gender Settings of the selected Sim and only Sims that match the same Gender Settings will be considered for this selector.\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and are supported by WickedWhims."
+      "Key": "0xC3DA0208",
+      "Value": "The Body Selector is used for picking custom naked body parts on Sims.\\n\\nAvailable body parts to select depend on the Sim CAS Gender Settings. <b>Please note that Sims with altered Physical Frame can select body parts incompatible for their gender which will result in random clothing appearing when undressed.</b>\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and made to be supported by WickedWhims."
     },
     {
       "Key": "0xF2E32E78",
@@ -897,14 +889,6 @@
       "Value": "Servo Hard Penis"
     },
     {
-      "Key": "0xB387EBC1",
-      "Value": "Mermaid Male Hard Penis"
-    },
-    {
-      "Key": "0x5D9A9508",
-      "Value": "Mermaid Female Hard Penis"
-    },
-    {
       "Key": "0x1F237F48",
       "Value": "Werewolf Hard Penis"
     },
@@ -923,6 +907,10 @@
     {
       "Key": "0xF8C92227",
       "Value": "Default"
+    },
+    {
+      "Key": "0x4922982E",
+      "Value": "Default (Textureless)"
     },
     {
       "Key": "0x91F92694",
@@ -1249,6 +1237,22 @@
       "Value": "Put On Underwear"
     },
     {
+      "Key": "0x1DECFF31",
+      "Value": "Undressable"
+    },
+    {
+      "Key": "0x7ED575AD",
+      "Value": "Undress Outfit Top"
+    },
+    {
+      "Key": "0xA105485F",
+      "Value": "Undress Outfit Bottom"
+    },
+    {
+      "Key": "0xF73178A2",
+      "Value": "Undress Outfit"
+    },
+    {
       "Key": "0x8B997542",
       "Value": "Reacting to Nudity"
     },
@@ -1273,8 +1277,44 @@
       "Value": "Change Sim Underwear"
     },
     {
-      "Key": "0x103FEE4A",
-      "Value": "Set mannequin top and bottom underwear for the chosen outfit category. Selected underwear will only be used on the picked outfit category outfit.\\n\\nChanging underwear for sleepwear and swimwear outfit is not available."
+      "Key": "0xC7907EA4",
+      "Value": "Modify <b>Set 1</b> Underwear"
+    },
+    {
+      "Key": "0xD30B154F",
+      "Value": "Modify <b>Set 2</b> Underwear"
+    },
+    {
+      "Key": "0x8A948A9A",
+      "Value": "Modify <b>Set 3</b> Underwear"
+    },
+    {
+      "Key": "0x9F087C8A",
+      "Value": "Modifying Underwear in CAS"
+    },
+    {
+      "Key": "0xF5AB0149",
+      "Value": "Looks like you're modifying {0.SimFirstName}'s underwear!\\n\\nYou're currently using a special hidden CAS outfit category. Simply select {0.SimFirstName}'s underwear and confirm to exit.\\n\\n • Don't switch to a different outfit category.\\n • You can only use top and bottom outfit parts.\\n"
+    },
+    {
+      "Key": "0x9A77503A",
+      "Value": "Change Into Underwear"
+    },
+    {
+      "Key": "0x4DFACA00",
+      "Value": "Change Into <b>Set 1</b> Underwear"
+    },
+    {
+      "Key": "0x932E8E2B",
+      "Value": "Change Into <b>Set 2</b> Underwear"
+    },
+    {
+      "Key": "0x66C74476",
+      "Value": "Change Into <b>Set 3</b> Underwear"
+    },
+    {
+      "Key": "0x83124ABF",
+      "Value": "Underwear is not set."
     },
     {
       "Key": "0x7C632FD2",
@@ -3329,6 +3369,14 @@
       "Value": "Peep Through Window (Take Picture)"
     },
     {
+      "Key": "0xF13ECF90",
+      "Value": "Peep Through Window (Tap Window)"
+    },
+    {
+      "Key": "0x1B9B5CA5",
+      "Value": "Tap Window for Attention"
+    },
+    {
       "Key": "0xED059DE8",
       "Value": "Reacting to Sim Window Peeping"
     },
@@ -3343,6 +3391,14 @@
     {
       "Key": "0xB34A3F13",
       "Value": "Show Off to Peeping Sim"
+    },
+    {
+      "Key": "0xEE904A97",
+      "Value": "Sim needs to be in the peeped room."
+    },
+    {
+      "Key": "0x640C19AF",
+      "Value": "No Sims are present in the peeped room."
     },
     {
       "Key": "0x16BDAE0C",
@@ -3419,6 +3475,10 @@
     {
       "Key": "0xCA3B5D03",
       "Value": "Uh oh! {1.SimName} noticed {0.SimName} taking a picture through the window! Time to escape!\\n\\nRunning away might just save {0.SimFirstName} from being recognized, but {M0.he}{F0.she} can't be sure that {1.SimFirstName} doesn't know who was peeping on {1.SimPronounObjective}.\\nBetter be careful next time... this could have ended a lot worse. At least {0.SimFirstName} got a picture as a souvenir."
+    },
+    {
+      "Key": "0x92A48D2D",
+      "Value": "Uh oh! {1.SimName} noticed {0.SimName} tapping on the window and {M1.he}{F1.she} isn't happy.\\n\\nRunning away might just save {0.SimFirstName} from being recognized, but {M0.he}{F0.she} can't be sure that {1.SimFirstName} doesn't know who was peeping on {1.SimPronounObjective}.\\nBetter be careful next time... this could have ended a lot worse."
     },
     {
       "Key": "0x8E72C87D",
