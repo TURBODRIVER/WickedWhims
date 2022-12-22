@@ -105,14 +105,6 @@
       "Value": "Check to allow Sims to receive body and outfit attraction moodlets during conversations.\\nUncheck to disallow Sims from receiving body and outfit attraction moodlets during conversations."
     },
     {
-      "Key": "0x99C4B68E",
-      "Value": "Attractiveness Dynamic World View Switch"
-    },
-    {
-      "Key": "0x28882C2D",
-      "Value": "Check to enable dynamically adjusting world view for attractive traits strength.\\nUncheck to disable dynamically adjusting world view for attractive traits strength.\\n\\nWarning! Enabling dynamically adjusting world view will cause your attractiveness status of Sims to fluctuate randomly."
-    },
-    {
       "Key": "0x4767E2E5",
       "Value": "Changing this setting will irreversibly alter the state of Attractiveness!\\n\\nMake sure to save the game before applying changes."
     },
@@ -123,6 +115,14 @@
     {
       "Key": "0xEE6E5033",
       "Value": "Check to enable Sims remembering boring conversations for a few hours.\\nUncheck to keep the base game behavior of boring conversations.\\n\\nRepeating social interactions leads to boredom, which in the base game is forgotten immediately after the conversation ends."
+    },
+    {
+      "Key": "0x0834BB4F",
+      "Value": "Lewd Dreaming Switch"
+    },
+    {
+      "Key": "0x5175D905",
+      "Value": "Check to allow Sims to have lewd dreams about Sims they know."
     },
     {
       "Key": "0x71EA565C",
@@ -245,12 +245,384 @@
       "Value": "Adulterer Sims are open to having sex with others when in an established relationship."
     },
     {
+      "Key": "0x143E61A8",
+      "Value": "Socially Avoidant"
+    },
+    {
+      "Key": "0x6B3AC6F3",
+      "Value": "Socially Avoidant"
+    },
+    {
+      "Key": "0x81AA4B1D",
+      "Value": "Socially Avoidant Sims are simply not interested in talking to anybody unless they have to."
+    },
+    {
+      "Key": "0x165FA249",
+      "Value": "Eternally Faithful"
+    },
+    {
+      "Key": "0xCC909282",
+      "Value": "Eternally Faithful"
+    },
+    {
+      "Key": "0x37FDC5FF",
+      "Value": "These are Sims who have met their True Love. A Sim they've married and want to spend the rest of their life with. Eternally Faithful Sims feel better when their beloved spouse is around and shun any romantic interaction with other Sims."
+    },
+    {
+      "Key": "0xD0BC8793",
+      "Value": "Eternally Faithful Sims can only romance with their spouse."
+    },
+    {
+      "Key": "0x9819F145",
+      "Value": "<font color='#340658'>Bound by Love</font>"
+    },
+    {
+      "Key": "0x8CCBA016",
+      "Value": "(From Eternally Faithful)"
+    },
+    {
+      "Key": "0x97C1919D",
+      "Value": "{0.SimFirstName} can't help but realize how madly in love {M0.he}{F0.she} is whenever their beloved spouse is in the same room. Their mere presence seems to give this Sim the strength and confidence to run marathons and move mountains, as they know they'll have someone who truly loves them cheering them on."
+    },
+    {
+      "Key": "0x9BA7C00F",
+      "Value": "There's no one in the world that {0.SimFirstName} adores more than {M0.his}{F0.her} beloved spouse.\\n\\nHard work and care have built a rock-solid relationship based around trust, companionship and love. After all that they've been through together, {0.SimFirstName}'s love is now at a stage where they are unable to even think about romance with any other Sim than their partner in life.\\n\\nAlso, the very presence of {M0.his}{F0.her} spouse in the same room will invigorate and strengthen {0.SimFirstName} as they know they have someone who has their back."
+    },
+    {
       "Key": "0x7B4646A5",
       "Value": "---------- Statistics ----------"
     },
     {
       "Key": "0x2046ED9E",
       "Value": "Relationships"
+    },
+    {
+      "Key": "0x2E654FAE",
+      "Value": "---------- Casual Sex Partners ----------"
+    },
+    {
+      "Key": "0x270E9AC1",
+      "Value": "Become Casual Sex Partners"
+    },
+    {
+      "Key": "0xC09F1323",
+      "Value": "Becoming Casual Sex Partners with {1.SimFirstName}"
+    },
+    {
+      "Key": "0x58C35B51",
+      "Value": "{0.SimFirstName} and {1.SimFirstName} just became casual sex partners! Whether friends or foes, it is all about pure physical pleasure."
+    },
+    {
+      "Key": "0x22047524",
+      "Value": "End Casual Sex Partnership"
+    },
+    {
+      "Key": "0xD5153C01",
+      "Value": "Ending Casual Sex Partnership with {1.SimFirstName}"
+    },
+    {
+      "Key": "0x53B7AF63",
+      "Value": "{0.SimFirstName} and {1.SimFirstName} have ended their casual sex partnership."
+    },
+    {
+      "Key": "0x7F8A1362",
+      "Value": "Casual Sex Partners"
+    },
+    {
+      "Key": "0xD4C1F357",
+      "Value": "You left something at my place, could you come pick it up and stay for a while?"
+    },
+    {
+      "Key": "0xDD75820C",
+      "Value": "Sure, I'm coming to pick <b>it</b> up ;)"
+    },
+    {
+      "Key": "0x9D98AE69",
+      "Value": "How about you bring <b>it</b> over to my place?"
+    },
+    {
+      "Key": "0x32C6600C",
+      "Value": "I will pick it up some other day."
+    },
+    {
+      "Key": "0x1ED0276E",
+      "Value": "I’m not feeling myself today. Can I feel you instead?"
+    },
+    {
+      "Key": "0xBBFD9332",
+      "Value": "I have something for you to feel :wink: I'm coming over!"
+    },
+    {
+      "Key": "0x88C822BE",
+      "Value": "Come over and have a feel ;)"
+    },
+    {
+      "Key": "0xEB18C51F",
+      "Value": "I'm not feeling like myself today either."
+    },
+    {
+      "Key": "0xB73A7D18",
+      "Value": "I'm feeling very off today, wanna meet up so you can turn me on?"
+    },
+    {
+      "Key": "0x2FBE3280",
+      "Value": "Oh! I'm good at pressing these kind of buttons :wink: I'm on my way!"
+    },
+    {
+      "Key": "0x31C1117C",
+      "Value": "Great idea, wanna come over?"
+    },
+    {
+      "Key": "0x9AAA2CDB",
+      "Value": "Sometimes you need some time off."
+    },
+    {
+      "Key": "0x0675B0B7",
+      "Value": "I’m about to have sex with you so you might as well be here for it."
+    },
+    {
+      "Key": "0x3DB5A41E",
+      "Value": "I'm on my way, don't start without me!"
+    },
+    {
+      "Key": "0xB52D0A28",
+      "Value": "How about you come over and we have sex together?"
+    },
+    {
+      "Key": "0x81AA4F97",
+      "Value": "Sorry, I will be late."
+    },
+    {
+      "Key": "0x4DDE6353",
+      "Value": "I've been thinking about you a lot today... and these were some dirty thoughts."
+    },
+    {
+      "Key": "0x0F93121E",
+      "Value": "Say no more, I'm coming over!"
+    },
+    {
+      "Key": "0x8030E770",
+      "Value": "Come over and share these thoughts with me, hmm?"
+    },
+    {
+      "Key": "0xBCE6BCB0",
+      "Value": "I'd love to come, but I'm busy right now."
+    },
+    {
+      "Key": "0x59989024",
+      "Value": "I think I'm gonna go take a shower, but I don't feel like locking my doors..."
+    },
+    {
+      "Key": "0xFDA1A943",
+      "Value": "What if <i>someone</i> sneaks into your house? ;)"
+    },
+    {
+      "Key": "0x9CA7AB21",
+      "Value": "Why don't you come over and take a shower at my place?"
+    },
+    {
+      "Key": "0x79977AC4",
+      "Value": "That's very irresponsible, please always lock your doors."
+    },
+    {
+      "Key": "0x48F1B043",
+      "Value": "I'm <i>thirsty</i> for you right now..."
+    },
+    {
+      "Key": "0xAA5D5472",
+      "Value": "Oh, I'm coming over to quench your thirst!"
+    },
+    {
+      "Key": "0x1C835900",
+      "Value": "Come over. I've got <i>something</i> that can quench your thirst."
+    },
+    {
+      "Key": "0x8345411A",
+      "Value": "Stay hydrated, I can't make it today."
+    },
+    {
+      "Key": "0xF1E4B42F",
+      "Value": "I wanted to ask you for a nude pic, but we might as well just meet and get the real thing!"
+    },
+    {
+      "Key": "0xDCBB67F6",
+      "Value": "I like the way you think, on my way!"
+    },
+    {
+      "Key": "0x1F9A5993",
+      "Value": "Well I'm at home and the doors are unlocked."
+    },
+    {
+      "Key": "0x1FED4AB5",
+      "Value": "Looks like a nude pic is all you can get today, sorry!"
+    },
+    {
+      "Key": "0xF5C3AC8F",
+      "Value": "I would love to touch you in some inappropriate places... but you would need to be here..."
+    },
+    {
+      "Key": "0xA3B92222",
+      "Value": "On my way, but I get to touch you too!"
+    },
+    {
+      "Key": "0xCFA1656F",
+      "Value": "Come to my place, my body is ready..."
+    },
+    {
+      "Key": "0x3F34B745",
+      "Value": "It's a shame that I'm busy right now."
+    },
+    {
+      "Key": "0x95712481",
+      "Value": "I've installed some <i><b>naughty</b></i> mods for my video games and now I'm kinda turned on..."
+    },
+    {
+      "Key": "0x26DE0E3B",
+      "Value": "Let's see how faithful these mods are. I'm on my way!"
+    },
+    {
+      "Key": "0xBDCECD82",
+      "Value": "Why don't you come over and show me what these mods are all about?"
+    },
+    {
+      "Key": "0x2D448FFF",
+      "Value": "Sorry, I can't make it today."
+    },
+    {
+      "Key": "0x5C2E3865",
+      "Value": "I just went on SimHub and saw some new sex techniques we should try together."
+    },
+    {
+      "Key": "0xE73BB3B5",
+      "Value": "Sounds exciting! I'm coming!"
+    },
+    {
+      "Key": "0x1AF1FAD2",
+      "Value": "Fun! Wanna come over... right now?"
+    },
+    {
+      "Key": "0xE1E4FFAD",
+      "Value": "Maybe another time?"
+    },
+    {
+      "Key": "0xA61EA8B9",
+      "Value": "Booty Call"
+    },
+    {
+      "Key": "0x6DF9B78B",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xCF336CF3",
+      "Value": "Disallow Jealousy Inside Protocol"
+    },
+    {
+      "Key": "0x259BC569",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims inside of this group."
+    },
+    {
+      "Key": "0xB301DAFE",
+      "Value": "Disallow Jealousy Outside Protocol"
+    },
+    {
+      "Key": "0xF00BF39C",
+      "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
+    },
+    {
+      "Key": "0x538F4709",
+      "Value": "--------- Memories ---------"
+    },
+    {
+      "Key": "0xED1950F8",
+      "Value": "Wicked Memories"
+    },
+    {
+      "Key": "0x57293084",
+      "Value": "..."
+    },
+    {
+      "Key": "0x66AEDBBB",
+      "Value": "???"
+    },
+    {
+      "Key": "0x866013CF",
+      "Value": "<font color='#3E0673'>{0.String}</font>"
+    },
+    {
+      "Key": "0x730C8D65",
+      "Value": "<font color=\"#6A0AC4\" size=\"17\">Sex Acts</font>\\n{0.String}\\n"
+    },
+    {
+      "Key": "0xC0E8CD33",
+      "Value": "Handjob"
+    },
+    {
+      "Key": "0xB07896EA",
+      "Value": "Footjob"
+    },
+    {
+      "Key": "0x253C746E",
+      "Value": "Oraljob"
+    },
+    {
+      "Key": "0x1BCA6AFB",
+      "Value": "Vaginal"
+    },
+    {
+      "Key": "0xCEEC5AF9",
+      "Value": "Anal"
+    },
+    {
+      "Key": "0xE182F601",
+      "Value": "No Protection"
+    },
+    {
+      "Key": "0x19351F49",
+      "Value": "Impregnated"
+    },
+    {
+      "Key": "0x1A2EC93E",
+      "Value": "<font color=\"#6A0AC4\" size=\"17\">Relationship</font>\\n{0.String}\\n"
+    },
+    {
+      "Key": "0x88C0A3C6",
+      "Value": "Casual Sex Partner"
+    },
+    {
+      "Key": "0x6FF32536",
+      "Value": "<font color=\"#6A0AC4\" size=\"17\">Looks</font>\\n{0.String}\\n"
+    },
+    {
+      "Key": "0x0EAB9FF7",
+      "Value": "Extremely Attractive"
+    },
+    {
+      "Key": "0x1CF2BF20",
+      "Value": "Very Attractive"
+    },
+    {
+      "Key": "0x9F0068EC",
+      "Value": "Attractive"
+    },
+    {
+      "Key": "0xAA723C85",
+      "Value": "Basic"
+    },
+    {
+      "Key": "0x533EF89D",
+      "Value": "Unattractive"
+    },
+    {
+      "Key": "0x3A9BFBD1",
+      "Value": "Very Unattractive"
+    },
+    {
+      "Key": "0xAD0619FA",
+      "Value": "<font color=\"#6A0AC4\" size=\"17\">Personality</font>\\n{0.String}\\n"
+    },
+    {
+      "Key": "0xDB9F1690",
+      "Value": "{0.String} / {1.String}"
     },
     {
       "Key": "0xCEC4A53C",
@@ -705,14 +1077,6 @@
       "Value": "That Sim has some really nice muscles... so nice in fact that {0.SimFirstName} can't stop trying to look at them."
     },
     {
-      "Key": "0x48720061",
-      "Value": "<font color='#340658'>Where Do These End?</font>"
-    },
-    {
-      "Key": "0xD601E302",
-      "Value": "{0.SimFirstName} is quite sure {M0.he}{F0.she} is a pretty lousy conversation partner, because {M0.he}{F0.she} is not able to stop looking at the incredibly sexy legs belonging to the Sim {M0.he}{F0.she} is talking to."
-    },
-    {
       "Key": "0xB77322D0",
       "Value": "--------- Attractiveness Hints ---------"
     },
@@ -921,6 +1285,98 @@
       "Value": "Attractiveness Ambivalent Sims are not at all interested in others looks."
     },
     {
+      "Key": "0xB9810B76",
+      "Value": "Attractiveness Blacklisted"
+    },
+    {
+      "Key": "0x3596BB09",
+      "Value": "Attractiveness Blacklisted"
+    },
+    {
+      "Key": "0x267B45CA",
+      "Value": "Sims that are Attractiveness Blacklisted will not be perceived by others using attractiveness ideals."
+    },
+    {
+      "Key": "0x7F916C6F",
+      "Value": "--------- Strong Attractiveness ---------"
+    },
+    {
+      "Key": "0x05024A1C",
+      "Value": "Choose <b>{1.SimFirstName}</b>'s Strong Preferences"
+    },
+    {
+      "Key": "0x9BBE2B5F",
+      "Value": "Strong Attractiveness"
+    },
+    {
+      "Key": "0xDC1310DA",
+      "Value": "Select strong Likes & Dislikes for {0.SimFirstName}."
+    },
+    {
+      "Key": "0x2092DE49",
+      "Value": "Select strong Male Likes & Dislikes for {0.SimFirstName}."
+    },
+    {
+      "Key": "0x03620A20",
+      "Value": "Select strong Female Likes & Dislikes for {0.SimFirstName}."
+    },
+    {
+      "Key": "0x811F2B8D",
+      "Value": "Pick a Like"
+    },
+    {
+      "Key": "0x08412551",
+      "Value": "Pick a Dislike"
+    },
+    {
+      "Key": "0x6D35AAE3",
+      "Value": "Remove Strong Like?"
+    },
+    {
+      "Key": "0xF4240245",
+      "Value": "Remove Strong Dislike?"
+    },
+    {
+      "Key": "0x6D386C57",
+      "Value": "Should '{0.String}' no longer be a strong preference?"
+    },
+    {
+      "Key": "0x7F60A0D6",
+      "Value": "Select a liked attractive trait that will become a strong preference."
+    },
+    {
+      "Key": "0x510F406C",
+      "Value": "Select a disliked attractive trait that will become a strong preference."
+    },
+    {
+      "Key": "0x25F51EE6",
+      "Value": "Occurs in {0.String} of Sims."
+    },
+    {
+      "Key": "0x2F262054",
+      "Value": "{0.SimFirstName} doesn't have any likes."
+    },
+    {
+      "Key": "0x82CE0EC0",
+      "Value": "{0.SimFirstName} doesn't have any dislikes."
+    },
+    {
+      "Key": "0x1AE06479",
+      "Value": "{0.SimFirstName} doesn't have any male likes."
+    },
+    {
+      "Key": "0x42F8B65B",
+      "Value": "{0.SimFirstName} doesn't have any male dislikes."
+    },
+    {
+      "Key": "0x7B621994",
+      "Value": "{0.SimFirstName} doesn't have any female likes."
+    },
+    {
+      "Key": "0x5FD1EC00",
+      "Value": "{0.SimFirstName} doesn't have any female dislikes."
+    },
+    {
       "Key": "0xDB0CC9F0",
       "Value": "--------- Attractiveness Simple Preference Traits ---------"
     },
@@ -935,10 +1391,6 @@
     {
       "Key": "0x7DA3614F",
       "Value": "Attractiveness\\nBasics"
-    },
-    {
-      "Key": "0x7EEF5776",
-      "Value": "Attractiveness\\nVoice"
     },
     {
       "Key": "0x9D088EDB",
@@ -991,78 +1443,6 @@
     {
       "Key": "0x998F1FCE",
       "Value": "Dislikes Females"
-    },
-    {
-      "Key": "0x2AB0DE1F",
-      "Value": "Sweet\\n(Feminine)"
-    },
-    {
-      "Key": "0xA5C52365",
-      "Value": "Likes Sweet Voice"
-    },
-    {
-      "Key": "0x392BB5C1",
-      "Value": "Dislikes Sweet Voice"
-    },
-    {
-      "Key": "0x4CAAE2B5",
-      "Value": "Melodic\\n(Feminine)"
-    },
-    {
-      "Key": "0xD780752F",
-      "Value": "Likes Melodic Voice"
-    },
-    {
-      "Key": "0xB1A0265B",
-      "Value": "Dislikes Melodic Voice"
-    },
-    {
-      "Key": "0x796C4E75",
-      "Value": "Lilted\\n(Feminine)"
-    },
-    {
-      "Key": "0x7AED854B",
-      "Value": "Likes Lilted Voice"
-    },
-    {
-      "Key": "0xD7652D27",
-      "Value": "Dislikes Lilted Voice"
-    },
-    {
-      "Key": "0xCE7EA34D",
-      "Value": "Clear\\n(Masculine)"
-    },
-    {
-      "Key": "0xE354AE0F",
-      "Value": "Likes Clear Voice"
-    },
-    {
-      "Key": "0x1714027B",
-      "Value": "Dislikes Clear Voice"
-    },
-    {
-      "Key": "0xED9A6B99",
-      "Value": "Warm\\n(Masculine)"
-    },
-    {
-      "Key": "0x4558526F",
-      "Value": "Likes Warm Voice"
-    },
-    {
-      "Key": "0x80DE4BBB",
-      "Value": "Dislikes Warm Voice"
-    },
-    {
-      "Key": "0x93CE5F05",
-      "Value": "Brash\\n(Masculine)"
-    },
-    {
-      "Key": "0x43D5F04D",
-      "Value": "Likes Brash Voice"
-    },
-    {
-      "Key": "0x32D35B49",
-      "Value": "Dislikes Brash Voice"
     },
     {
       "Key": "0x66E0EFCA",
@@ -1231,6 +1611,18 @@
     {
       "Key": "0x68DCCFF6",
       "Value": "Dislikes Tattoos"
+    },
+    {
+      "Key": "0xD6886FD2",
+      "Value": "Body Hair"
+    },
+    {
+      "Key": "0x9CB4CCD2",
+      "Value": "Likes Body Hair"
+    },
+    {
+      "Key": "0x1AFE3C06",
+      "Value": "Dislikes Body Hair"
     },
     {
       "Key": "0xBDDE820A",
@@ -1485,16 +1877,16 @@
       "Value": "Dislikes Butt Large Body Shape"
     },
     {
-      "Key": "0x54BC7A4F",
-      "Value": "Generic"
+      "Key": "0xC82683AF",
+      "Value": "Contemporary"
     },
     {
-      "Key": "0x7CC6B60F",
-      "Value": "Likes Generic Outfit Style"
+      "Key": "0xDBF7B617",
+      "Value": "Likes Contemporary Outfit Style"
     },
     {
-      "Key": "0xE93FD5A3",
-      "Value": "Dislikes Generic Outfit Style"
+      "Key": "0x6723F20B",
+      "Value": "Dislikes Contemporary Outfit Style"
     },
     {
       "Key": "0x4FB10AB3",
@@ -1545,16 +1937,52 @@
       "Value": "Dislikes Bohemian Outfit Style"
     },
     {
-      "Key": "0xB90AE103",
-      "Value": "Islander"
+      "Key": "0x3C418BCF",
+      "Value": "Preppy"
     },
     {
-      "Key": "0x86DF2AB1",
-      "Value": "Likes Islander Outfit Style"
+      "Key": "0xC9F124CD",
+      "Value": "Likes Preppy Outfit Style"
     },
     {
-      "Key": "0xD763FEB5",
-      "Value": "Dislikes Islander Outfit Style"
+      "Key": "0xF1802E71",
+      "Value": "Dislikes Preppy Outfit Style"
+    },
+    {
+      "Key": "0x6EAC6783",
+      "Value": "Polished"
+    },
+    {
+      "Key": "0xC3E8D265",
+      "Value": "Likes Polished Outfit Style"
+    },
+    {
+      "Key": "0x5F6608A9",
+      "Value": "Dislikes Polished Outfit Style"
+    },
+    {
+      "Key": "0x27D9C199",
+      "Value": "Outdoorsy"
+    },
+    {
+      "Key": "0x7F6B45EB",
+      "Value": "Likes Outdoorsy Outfit Style"
+    },
+    {
+      "Key": "0x912F6C4F",
+      "Value": "Dislikes Outdoorsy Outfit Style"
+    },
+    {
+      "Key": "0xCEDA82CB",
+      "Value": "Streetwear"
+    },
+    {
+      "Key": "0x88924BAD",
+      "Value": "Likes Streetwear Outfit Style"
+    },
+    {
+      "Key": "0x6C0537A1",
+      "Value": "Dislikes Streetwear Outfit Style"
     },
     {
       "Key": "0xB7B14818",
@@ -1641,42 +2069,6 @@
       "Value": "Werewolf Occult"
     },
     {
-      "Key": "0xBAD74812",
-      "Value": "Sweet Voice"
-    },
-    {
-      "Key": "0xCA123319",
-      "Value": "Melodic Voice"
-    },
-    {
-      "Key": "0x6846A7A4",
-      "Value": "Lilted Voice"
-    },
-    {
-      "Key": "0xBC57D2F1",
-      "Value": "Clear Voice"
-    },
-    {
-      "Key": "0xA02F3B89",
-      "Value": "Warm Voice"
-    },
-    {
-      "Key": "0xB219468A",
-      "Value": "Brash Voice"
-    },
-    {
-      "Key": "0xA707FA54",
-      "Value": "Deep Voice"
-    },
-    {
-      "Key": "0xE51258C3",
-      "Value": "Average Voice"
-    },
-    {
-      "Key": "0x798024AA",
-      "Value": "High Voice"
-    },
-    {
       "Key": "0xEABFF419",
       "Value": "Black"
     },
@@ -1721,40 +2113,20 @@
       "Value": "White"
     },
     {
-      "Key": "0xF3F82D9F",
-      "Value": "Caucasian Skin Color Archetype"
+      "Key": "0x762D6990",
+      "Value": "Light Skin Tones"
     },
     {
-      "Key": "0x2C30070B",
-      "Value": "Asian Skin Color Archetype"
+      "Key": "0x7A9639B9",
+      "Value": "Intermediate Skin Tones"
     },
     {
-      "Key": "0x41082B1E",
-      "Value": "South Asian Skin Color Archetype"
+      "Key": "0x161E0398",
+      "Value": "Dark Skin Tones"
     },
     {
-      "Key": "0xA051864B",
-      "Value": "African Skin Color Archetype"
-    },
-    {
-      "Key": "0xEE7CE809",
-      "Value": "Latin Skin Color Archetype"
-    },
-    {
-      "Key": "0xC065ED6A",
-      "Value": "Middle Eastern Skin Color Archetype"
-    },
-    {
-      "Key": "0xC576AFE8",
-      "Value": "North American Skin Color Archetype"
-    },
-    {
-      "Key": "0xAF9E1FE9",
-      "Value": "Fantasy Skin Color Archetype"
-    },
-    {
-      "Key": "0x842C6E24",
-      "Value": "Alien Skin Color Archetype"
+      "Key": "0x1713B296",
+      "Value": "Fantasy Skin Tones"
     },
     {
       "Key": "0xB4E4D5F7",
@@ -1769,68 +2141,24 @@
       "Value": "Blue Eye Color"
     },
     {
-      "Key": "0x46E5EF6A",
-      "Value": "Light Blue Eye Color"
-    },
-    {
       "Key": "0xC217A982",
       "Value": "Aqua Eye Color"
-    },
-    {
-      "Key": "0xB94AE24B",
-      "Value": "Light Green Eye Color"
     },
     {
       "Key": "0x9238FD87",
       "Value": "Green Eye Color"
     },
     {
-      "Key": "0x8D1E3162",
-      "Value": "Light Brown Eye Color"
-    },
-    {
       "Key": "0xEF698586",
       "Value": "Brown Eye Color"
-    },
-    {
-      "Key": "0xDBBE487D",
-      "Value": "Hazel-Blue Eye Color"
-    },
-    {
-      "Key": "0xAC538F56",
-      "Value": "Hazel-Green Eye Color"
-    },
-    {
-      "Key": "0xDCAA48CA",
-      "Value": "Dark Brown Eye Color"
     },
     {
       "Key": "0x33229EAA",
       "Value": "Unnatural Eye Color"
     },
     {
-      "Key": "0x670D07D2",
-      "Value": "Blue-Gray Eye Color"
-    },
-    {
-      "Key": "0xE6098074",
-      "Value": "Yellow-Green Eye Color"
-    },
-    {
-      "Key": "0x63DABFE6",
-      "Value": "Light Yellow Eye Color"
-    },
-    {
       "Key": "0x689C7D42",
       "Value": "Yellow Eye Color"
-    },
-    {
-      "Key": "0x69F3E4A5",
-      "Value": "Golden Eye Color"
-    },
-    {
-      "Key": "0xDE53E683",
-      "Value": "Honey Eye Color"
     },
     {
       "Key": "0xF0FEAD48",
@@ -1845,16 +2173,8 @@
       "Value": "Black Salt and Pepper Hair Color"
     },
     {
-      "Key": "0x1154B545",
-      "Value": "Neutral Black Hair Color"
-    },
-    {
       "Key": "0xEFE5D9B6",
       "Value": "Gray Hair Color"
-    },
-    {
-      "Key": "0xB6D8B329",
-      "Value": "Platinum Hair Color"
     },
     {
       "Key": "0x8E743349",
@@ -1871,10 +2191,6 @@
     {
       "Key": "0xB0E8AC2D",
       "Value": "Blonde Hair Color"
-    },
-    {
-      "Key": "0x7D11C54C",
-      "Value": "Neutral Blonde Hair Color"
     },
     {
       "Key": "0x183E4856",
@@ -1895,10 +2211,6 @@
     {
       "Key": "0x99AC8775",
       "Value": "Brown Hair Color"
-    },
-    {
-      "Key": "0x1A7A8D8C",
-      "Value": "Warm Brown Hair Color"
     },
     {
       "Key": "0xB1BFD219",
@@ -1949,6 +2261,10 @@
       "Value": "Tattoos"
     },
     {
+      "Key": "0x6C0F70D0",
+      "Value": "Body Hair"
+    },
+    {
       "Key": "0xAD31169F",
       "Value": "Bald"
     },
@@ -1993,72 +2309,8 @@
       "Value": "Mustache"
     },
     {
-      "Key": "0x1F3C7419",
-      "Value": "Bald Eyebrows"
-    },
-    {
-      "Key": "0x4F6640CB",
-      "Value": "Thin Eyebrows"
-    },
-    {
-      "Key": "0x31D81858",
-      "Value": "Sparse Eyebrows"
-    },
-    {
-      "Key": "0x915424E4",
-      "Value": "Regular Eyebrows"
-    },
-    {
-      "Key": "0xA4C4D1ED",
-      "Value": "Bushy Eyebrows"
-    },
-    {
-      "Key": "0xC0B3235A",
-      "Value": "Straight Eyebrows"
-    },
-    {
-      "Key": "0x046F36D9",
-      "Value": "Curved Eyebrows"
-    },
-    {
-      "Key": "0x69167DE5",
-      "Value": "Arched Eyebrows"
-    },
-    {
-      "Key": "0x2AA6E34D",
-      "Value": "African Archetype"
-    },
-    {
-      "Key": "0xBC4DC622",
-      "Value": "Middle Eastern Archetype"
-    },
-    {
-      "Key": "0x9D90CB0D",
-      "Value": "Asian Archetype"
-    },
-    {
-      "Key": "0x6C3CFB7E",
-      "Value": "South Asian Archetype"
-    },
-    {
-      "Key": "0xF4D12999",
-      "Value": "Caucasian Archetype"
-    },
-    {
-      "Key": "0x2E391E28",
-      "Value": "North American Archetype"
-    },
-    {
-      "Key": "0x7680A753",
-      "Value": "Latin Archetype"
-    },
-    {
-      "Key": "0x4810C85F",
-      "Value": "Vampire Archetype"
-    },
-    {
-      "Key": "0x8D9F0498",
-      "Value": "Generic Style"
+      "Key": "0x27111F2E",
+      "Value": "Contemporary Style"
     },
     {
       "Key": "0x96E4BB41",
@@ -2073,12 +2325,24 @@
       "Value": "Hipster Style"
     },
     {
-      "Key": "0xCF63FAA1",
-      "Value": "Boho Style"
+      "Key": "0x971D404C",
+      "Value": "Bohemian Style"
     },
     {
-      "Key": "0x7C10421D",
-      "Value": "Islander Style"
+      "Key": "0x6625E48F",
+      "Value": "Preppy Style"
+    },
+    {
+      "Key": "0xFB1E394B",
+      "Value": "Polished Style"
+    },
+    {
+      "Key": "0xC7F8BCC3",
+      "Value": "Outdoorsy Style"
+    },
+    {
+      "Key": "0x04D9C637",
+      "Value": "Streetwear Style"
     },
     {
       "Key": "0x0FAE97C8",
@@ -2109,16 +2373,8 @@
       "Value": "Makeup"
     },
     {
-      "Key": "0xC6E876B5",
-      "Value": "Very Revealing Outfits"
-    },
-    {
       "Key": "0x40CDC481",
       "Value": "Revealing Outfits"
-    },
-    {
-      "Key": "0x50B45911",
-      "Value": "Formal Outfits"
     },
     {
       "Key": "0x63D4CBFA",
@@ -2311,54 +2567,6 @@
     {
       "Key": "0x5A711A66",
       "Value": "{0.SimFirstName} dislikes Werewolves."
-    },
-    {
-      "Key": "0x80F9D171",
-      "Value": "I dislike sweet-sounding voices."
-    },
-    {
-      "Key": "0xC2C4EF9F",
-      "Value": "{0.SimFirstName} dislikes sweet-sounding voices."
-    },
-    {
-      "Key": "0x95B775B3",
-      "Value": "I dislike melodic-sounding voices."
-    },
-    {
-      "Key": "0x5C05F9D1",
-      "Value": "{0.SimFirstName} dislikes melodic-sounding voices."
-    },
-    {
-      "Key": "0xC683D973",
-      "Value": "I dislike lilted-sounding voices."
-    },
-    {
-      "Key": "0xED319849",
-      "Value": "{0.SimFirstName} dislikes lilted-sounding voices."
-    },
-    {
-      "Key": "0x9E678E30",
-      "Value": "I dislike the clear-sounding voices."
-    },
-    {
-      "Key": "0xC16227B6",
-      "Value": "{0.SimFirstName} dislikes the clear-sounding voices."
-    },
-    {
-      "Key": "0x7C18D143",
-      "Value": "I dislike warm-sounding voices."
-    },
-    {
-      "Key": "0x4F7AA1E1",
-      "Value": "{0.SimFirstName} dislikes warm-sounding voices."
-    },
-    {
-      "Key": "0x8D7558B9",
-      "Value": "I dislike brash-sounding voices."
-    },
-    {
-      "Key": "0x3F908B07",
-      "Value": "{0.SimFirstName} dislikes brash-sounding voices."
     },
     {
       "Key": "0xFD72C8AD",
@@ -2569,22 +2777,6 @@
       "Value": "{0.SimFirstName} dislikes the salt and pepper hair color."
     },
     {
-      "Key": "0xA2606758",
-      "Value": "I like the neutral black hair color."
-    },
-    {
-      "Key": "0x1493E792",
-      "Value": "I dislike the neutral black hair color."
-    },
-    {
-      "Key": "0x461B2BA4",
-      "Value": "{0.SimFirstName} likes the neutral black hair color."
-    },
-    {
-      "Key": "0xB237D9B0",
-      "Value": "{0.SimFirstName} dislikes the neutral black hair color."
-    },
-    {
       "Key": "0xB2C8808F",
       "Value": "I like the gray hair color."
     },
@@ -2599,22 +2791,6 @@
     {
       "Key": "0x968D6777",
       "Value": "{0.SimFirstName} dislikes the gray hair color."
-    },
-    {
-      "Key": "0xD8DF55C1",
-      "Value": "I like the platinum hair color."
-    },
-    {
-      "Key": "0x8D455FBF",
-      "Value": "I dislike the platinum hair color."
-    },
-    {
-      "Key": "0x5DD09145",
-      "Value": "{0.SimFirstName} likes the platinum hair color."
-    },
-    {
-      "Key": "0xD1B29FA9",
-      "Value": "{0.SimFirstName} dislikes the platinum hair color."
     },
     {
       "Key": "0xE5224046",
@@ -2679,22 +2855,6 @@
     {
       "Key": "0x5EE3F061",
       "Value": "{0.SimFirstName} dislikes the blonde hair color."
-    },
-    {
-      "Key": "0xC8004590",
-      "Value": "I like the neutral blonde hair color."
-    },
-    {
-      "Key": "0x6C819E4E",
-      "Value": "I dislike the neutral blonde hair color."
-    },
-    {
-      "Key": "0x82DAC7AC",
-      "Value": "{0.SimFirstName} likes the neutral blonde hair color."
-    },
-    {
-      "Key": "0xD6046538",
-      "Value": "{0.SimFirstName} dislikes the neutral blonde hair color."
     },
     {
       "Key": "0xFF4F2F72",
@@ -2775,22 +2935,6 @@
     {
       "Key": "0xCD54CC25",
       "Value": "{0.SimFirstName} dislikes the brown hair color."
-    },
-    {
-      "Key": "0x76B8AF20",
-      "Value": "I like the warm brown hair color."
-    },
-    {
-      "Key": "0xD6DC6F3A",
-      "Value": "I dislike the warm brown hair color."
-    },
-    {
-      "Key": "0x0C32FDEC",
-      "Value": "{0.SimFirstName} likes the warm brown hair color."
-    },
-    {
-      "Key": "0xED831C68",
-      "Value": "{0.SimFirstName} dislikes the warm brown hair color."
     },
     {
       "Key": "0x14871289",
@@ -2977,6 +3121,22 @@
       "Value": "{0.SimFirstName} dislikes tattoos."
     },
     {
+      "Key": "0x1881F1DC",
+      "Value": "I like body hair."
+    },
+    {
+      "Key": "0xBBD4B282",
+      "Value": "I dislike body hair."
+    },
+    {
+      "Key": "0x4B499E50",
+      "Value": "{0.SimFirstName} likes body hair."
+    },
+    {
+      "Key": "0x9651BAD4",
+      "Value": "{0.SimFirstName} dislikes body hair."
+    },
+    {
       "Key": "0x36F5FC77",
       "Value": "I like bald {M1.men}{F1.women}."
     },
@@ -3153,100 +3313,148 @@
       "Value": "{0.SimFirstName} dislikes mustaches."
     },
     {
-      "Key": "0x3F2964DA",
-      "Value": "I like generic-looking outfits."
+      "Key": "0xE1D7E36D",
+      "Value": "I like contemporary style outfits."
     },
     {
-      "Key": "0xEBF33A00",
-      "Value": "I dislike generic-looking outfits."
+      "Key": "0x2941DB8F",
+      "Value": "I dislike contemporary style outfits."
     },
     {
-      "Key": "0xFFF0737E",
-      "Value": "{0.SimFirstName} likes generic-looking outfits."
+      "Key": "0xA11FBE41",
+      "Value": "{0.SimFirstName} likes contemporary style outfits."
     },
     {
-      "Key": "0xC3411572",
-      "Value": "{0.SimFirstName} dislikes generic-looking outfits."
+      "Key": "0x9398DA75",
+      "Value": "{0.SimFirstName} dislikes contemporary style outfits."
     },
     {
-      "Key": "0x19EE5BC3",
-      "Value": "I like goth, rocker, or punk looking outfits."
+      "Key": "0xB4F0D91F",
+      "Value": "I like goth, rocker, or punk style outfits."
     },
     {
-      "Key": "0xE17A50E6",
-      "Value": "I dislike goth, rocker, or punk looking outfits."
+      "Key": "0x75DB423A",
+      "Value": "I dislike goth, rocker, or punk style outfits."
     },
     {
-      "Key": "0x2D3EA067",
-      "Value": "{0.SimFirstName} likes goth, rocker, or punk looking outfits."
+      "Key": "0x6A7CAA13",
+      "Value": "{0.SimFirstName} likes goth, rocker, or punk style outfits."
     },
     {
-      "Key": "0x6A69604B",
-      "Value": "{0.SimFirstName} dislikes goth, rocker, or punk looking outfits."
+      "Key": "0xB81CCF47",
+      "Value": "{0.SimFirstName} dislikes goth, rocker, or punk style outfits."
     },
     {
-      "Key": "0x7553D840",
-      "Value": "I like country-looking outfits."
+      "Key": "0x76880DF9",
+      "Value": "I like country style outfits."
     },
     {
-      "Key": "0x3B9097FE",
-      "Value": "I dislike country-looking outfits."
+      "Key": "0x2548851F",
+      "Value": "I dislike country style outfits."
     },
     {
-      "Key": "0xA973C3A4",
-      "Value": "{0.SimFirstName} likes country-looking outfits."
+      "Key": "0x2285E455",
+      "Value": "{0.SimFirstName} likes country style outfits."
     },
     {
-      "Key": "0x9CCB70B8",
-      "Value": "{0.SimFirstName} dislikes country-looking outfits."
+      "Key": "0xB671F0C1",
+      "Value": "{0.SimFirstName} dislikes country style outfits."
     },
     {
-      "Key": "0x6121F826",
-      "Value": "I like hipster-looking outfits."
+      "Key": "0x549561C3",
+      "Value": "I like hipster style outfits."
     },
     {
-      "Key": "0xB7DC9E4C",
-      "Value": "I dislike hipster-looking outfits."
+      "Key": "0xAA3322A9",
+      "Value": "I dislike hipster style outfits."
     },
     {
-      "Key": "0x823BF44A",
-      "Value": "{0.SimFirstName} likes hipster-looking outfits."
+      "Key": "0x4E6321AF",
+      "Value": "{0.SimFirstName} likes hipster style outfits."
     },
     {
-      "Key": "0x402C5BFE",
-      "Value": "{0.SimFirstName} dislikes hipster-looking outfits."
+      "Key": "0xF9C8E4CB",
+      "Value": "{0.SimFirstName} dislikes hipster style outfits."
     },
     {
-      "Key": "0xF1108CA0",
-      "Value": "I like bohemian-looking outfits."
+      "Key": "0x69625DE3",
+      "Value": "I like bohemian style outfits."
     },
     {
-      "Key": "0xAF14680E",
-      "Value": "I dislike bohemian-looking outfits."
+      "Key": "0x67991BC9",
+      "Value": "I dislike bohemian style outfits."
     },
     {
-      "Key": "0x36038154",
-      "Value": "{0.SimFirstName} likes bohemian-looking outfits."
+      "Key": "0xD2F0948F",
+      "Value": "{0.SimFirstName} likes bohemian style outfits."
     },
     {
-      "Key": "0x8EE2CFF8",
-      "Value": "{0.SimFirstName} dislikes bohemian-looking outfits."
+      "Key": "0xBCCA7C6B",
+      "Value": "{0.SimFirstName} dislikes bohemian style outfits."
     },
     {
-      "Key": "0x4BD44568",
-      "Value": "I like islander-looking outfits."
+      "Key": "0x3AD424B3",
+      "Value": "I like preppy style outfits."
     },
     {
-      "Key": "0x85FB519E",
-      "Value": "I dislike islander-looking outfits."
+      "Key": "0x0F063809",
+      "Value": "I dislike preppy style outfits."
     },
     {
-      "Key": "0x281CCF6C",
-      "Value": "{0.SimFirstName} likes islander-looking outfits."
+      "Key": "0x6F65296F",
+      "Value": "{0.SimFirstName} likes preppy style outfits."
     },
     {
-      "Key": "0xF4A9E740",
-      "Value": "{0.SimFirstName} dislikes islander-looking outfits."
+      "Key": "0xC206A19B",
+      "Value": "{0.SimFirstName} dislikes preppy style outfits."
+    },
+    {
+      "Key": "0xCC905BB1",
+      "Value": "I like outdoorsy style outfits."
+    },
+    {
+      "Key": "0x4D2A431F",
+      "Value": "I dislike outdoorsy style outfits."
+    },
+    {
+      "Key": "0x3EE00A1D",
+      "Value": "{0.SimFirstName} likes outdoorsy style outfits."
+    },
+    {
+      "Key": "0xA1610D99",
+      "Value": "{0.SimFirstName} dislikes outdoorsy style outfits."
+    },
+    {
+      "Key": "0x42EA63CB",
+      "Value": "I like polished style outfits."
+    },
+    {
+      "Key": "0xE9A85591",
+      "Value": "I dislike polished style outfits."
+    },
+    {
+      "Key": "0xDDEEAEB7",
+      "Value": "{0.SimFirstName} likes polished style outfits."
+    },
+    {
+      "Key": "0xC8303B73",
+      "Value": "{0.SimFirstName} dislikes polished style outfits."
+    },
+    {
+      "Key": "0x0607019B",
+      "Value": "I like streetwear style outfits."
+    },
+    {
+      "Key": "0xCF74C811",
+      "Value": "I dislike streetwear style outfits."
+    },
+    {
+      "Key": "0xAAEFE5F7",
+      "Value": "{0.SimFirstName} likes streetwear style outfits."
+    },
+    {
+      "Key": "0xCC626F83",
+      "Value": "{0.SimFirstName} dislikes streetwear style outfits."
     },
     {
       "Key": "0xF6570A38",
@@ -3327,86 +3535,6 @@
     {
       "Key": "0x0FE982BF",
       "Value": "{0.SimFirstName} dislikes {M1.men}{F1.women} with makeup."
-    },
-    {
-      "Key": "0xB0DD589E",
-      "Value": "I like very revealing outfits."
-    },
-    {
-      "Key": "0x42C34D68",
-      "Value": "I dislike very revealing outfits."
-    },
-    {
-      "Key": "0xA4AA0CC2",
-      "Value": "{0.SimFirstName} likes very revealing outfits."
-    },
-    {
-      "Key": "0xF76B7B36",
-      "Value": "{0.SimFirstName} dislikes very revealing outfits."
-    },
-    {
-      "Key": "0xB169E9D0",
-      "Value": "I like revealing outfits."
-    },
-    {
-      "Key": "0x0C617C36",
-      "Value": "I dislike revealing outfits."
-    },
-    {
-      "Key": "0x2D893584",
-      "Value": "{0.SimFirstName} likes revealing outfits."
-    },
-    {
-      "Key": "0x7A5631E8",
-      "Value": "{0.SimFirstName} dislikes revealing outfits."
-    },
-    {
-      "Key": "0x7E117383",
-      "Value": "I like formal outfits."
-    },
-    {
-      "Key": "0x0BA03B9D",
-      "Value": "I dislike formal outfits."
-    },
-    {
-      "Key": "0x4CE4FBE7",
-      "Value": "{0.SimFirstName} likes formal outfits."
-    },
-    {
-      "Key": "0x2303358B",
-      "Value": "{0.SimFirstName} dislikes formal outfits."
-    },
-    {
-      "Key": "0x88CFD79F",
-      "Value": "I like elegant outfits."
-    },
-    {
-      "Key": "0x5DD16431",
-      "Value": "I dislike elegant outfits."
-    },
-    {
-      "Key": "0x7891A413",
-      "Value": "{0.SimFirstName} likes elegant outfits."
-    },
-    {
-      "Key": "0xC76603A7",
-      "Value": "{0.SimFirstName} dislikes elegant outfits."
-    },
-    {
-      "Key": "0xBC142B5B",
-      "Value": "I like casual outfits."
-    },
-    {
-      "Key": "0xA8D106D5",
-      "Value": "I dislike casual outfits."
-    },
-    {
-      "Key": "0x0C12AA7F",
-      "Value": "{0.SimFirstName} likes casual outfits."
-    },
-    {
-      "Key": "0x26F1AC63",
-      "Value": "{0.SimFirstName} dislikes casual outfits."
     },
     {
       "Key": "0x5F4F5600",
@@ -3553,54 +3681,6 @@
       "Value": "{0.SimFirstName} dislikes big breasts."
     },
     {
-      "Key": "0xFB9B539A",
-      "Value": "I like narrow hips."
-    },
-    {
-      "Key": "0x91B78934",
-      "Value": "I dislike narrow hips."
-    },
-    {
-      "Key": "0xA4C7CF26",
-      "Value": "{0.SimFirstName} likes narrow hips."
-    },
-    {
-      "Key": "0xFE238DA2",
-      "Value": "{0.SimFirstName} dislikes narrow hips."
-    },
-    {
-      "Key": "0xA31BFE5A",
-      "Value": "I like average-sized hips."
-    },
-    {
-      "Key": "0xA4949B24",
-      "Value": "I dislike average-sized hips."
-    },
-    {
-      "Key": "0x872F121E",
-      "Value": "{0.SimFirstName} likes average-sized hips."
-    },
-    {
-      "Key": "0x51FBD4F2",
-      "Value": "{0.SimFirstName} dislikes average-sized hips."
-    },
-    {
-      "Key": "0x9A14B80A",
-      "Value": "I like wide hips."
-    },
-    {
-      "Key": "0xF38A8454",
-      "Value": "I dislike wide hips."
-    },
-    {
-      "Key": "0xB55A28E6",
-      "Value": "{0.SimFirstName} likes wide hips."
-    },
-    {
-      "Key": "0x2EDF2D52",
-      "Value": "{0.SimFirstName} dislikes wide hips."
-    },
-    {
       "Key": "0x2B746381",
       "Value": "I like small butts."
     },
@@ -3713,38 +3793,6 @@
       "Value": "{0.SimFirstName} dislikes thick dicks."
     },
     {
-      "Key": "0xE9F859A6",
-      "Value": "I like thin thighs."
-    },
-    {
-      "Key": "0x17450728",
-      "Value": "I dislike thin thighs."
-    },
-    {
-      "Key": "0x03886F9A",
-      "Value": "{0.SimFirstName} likes thin thighs."
-    },
-    {
-      "Key": "0xA98BE0EE",
-      "Value": "{0.SimFirstName} dislikes thin thighs."
-    },
-    {
-      "Key": "0x5C5B2EC0",
-      "Value": "I like thick thighs."
-    },
-    {
-      "Key": "0x8FEF6402",
-      "Value": "I dislike thick thighs."
-    },
-    {
-      "Key": "0x2C330114",
-      "Value": "{0.SimFirstName} likes thick thighs."
-    },
-    {
-      "Key": "0x534D08E8",
-      "Value": "{0.SimFirstName} dislikes thick thighs."
-    },
-    {
       "Key": "0x034E6114",
       "Value": "--------- Attractiveness Selectors ---------"
     },
@@ -3845,16 +3893,16 @@
       "Value": "Fundamental Attractiveness Traits"
     },
     {
-      "Key": "0x95BCF53B",
-      "Value": "Sims fundamental group of attractive traits.\\n(Sex, Appearance, Occult, Age, Voice)"
+      "Key": "0xE0B6F655",
+      "Value": "Sims fundamental group of attractive traits.\\n(Sex, Appearance, Occult, Age)"
     },
     {
       "Key": "0xC7A0E53D",
       "Value": "Hair Attractiveness Traits"
     },
     {
-      "Key": "0x56BC119B",
-      "Value": "Sims hair group of attractive traits.\\n(Hair, Facial Hair, Eyebrows)"
+      "Key": "0xEC4B98E3",
+      "Value": "Sims hair group of attractive traits.\\n(Hair, Facial Hair)"
     },
     {
       "Key": "0x24D0F65B",
@@ -3869,16 +3917,16 @@
       "Value": "Body Attractiveness Traits"
     },
     {
-      "Key": "0x4CA9953B",
-      "Value": "Sims body shape group of attractive traits.\\n(Body Weight, Body Muscle, Breasts Size, Hips Wideness, Butt Size, Thighs Thickness)"
+      "Key": "0xD63AB6F4",
+      "Value": "Sims body shape group of attractive traits.\\n(Body Weight, Body Muscle, Breasts Size, Butt Size)"
     },
     {
       "Key": "0xDC5A17A4",
       "Value": "Outfit Attractiveness Traits"
     },
     {
-      "Key": "0xF40D1335",
-      "Value": "Sims outfits group of attractive traits.\\n(Basic Color, Outfits Archetype, Outfits Style, Outfits Type, Outfits Worth, Outfit Details)"
+      "Key": "0x241661B4",
+      "Value": "Sims outfits group of attractive traits.\\n(Basic Color, Outfits Style, Outfits Type, Outfit Details)"
     },
     {
       "Key": "0x976ABBEC",
@@ -3905,28 +3953,28 @@
       "Value": "Sex: {0.String}"
     },
     {
-      "Key": "0x7EDBF3FD",
-      "Value": "Appearance Construct"
+      "Key": "0x12A28E96",
+      "Value": "Appearance"
     },
     {
-      "Key": "0x14E26A08",
-      "Value": "Preferred Appearance Construct"
+      "Key": "0xB380B0B7",
+      "Value": "Preferred Appearance"
     },
     {
       "Key": "0x352CDE4F",
       "Value": "Preference to Sims body and clothing appearance constructs."
     },
     {
-      "Key": "0x9CA494DB",
-      "Value": "Liked Appearance Constructs"
+      "Key": "0xD77B2337",
+      "Value": "Liked Appearance"
     },
     {
-      "Key": "0x7256CE77",
-      "Value": "Disliked Appearance Constructs"
+      "Key": "0xC739C393",
+      "Value": "Disliked Appearance"
     },
     {
-      "Key": "0x7265C35C",
-      "Value": "Appearance Construct: {0.String}"
+      "Key": "0x49FE21B7",
+      "Value": "Appearance: {0.String}"
     },
     {
       "Key": "0x79D7C8A6",
@@ -3975,58 +4023,6 @@
     {
       "Key": "0xE3F4CE68",
       "Value": "Age: {0.String}"
-    },
-    {
-      "Key": "0x8058186E",
-      "Value": "Voice"
-    },
-    {
-      "Key": "0x6FFD123A",
-      "Value": "Voice Type"
-    },
-    {
-      "Key": "0x23DD710B",
-      "Value": "Preferred Voice Type <i>(Advanced)</i>"
-    },
-    {
-      "Key": "0xECCAAEDF",
-      "Value": "Preference to Sims voice types."
-    },
-    {
-      "Key": "0xFED4BA42",
-      "Value": "Liked Voice Types"
-    },
-    {
-      "Key": "0xA0BD7A16",
-      "Value": "Disliked Voice Types"
-    },
-    {
-      "Key": "0xD0C0BE63",
-      "Value": "Voice Type: {0.String}"
-    },
-    {
-      "Key": "0x216B9B95",
-      "Value": "Voice Depth"
-    },
-    {
-      "Key": "0xE2B847FE",
-      "Value": "Preferred Voice Depth <i>(Advanced)</i>"
-    },
-    {
-      "Key": "0x3E851E4B",
-      "Value": "Preference to Sims voice depth."
-    },
-    {
-      "Key": "0xBCA0202A",
-      "Value": "Liked Voice Depth"
-    },
-    {
-      "Key": "0x7ADA9AE6",
-      "Value": "Disliked Voice Depth"
-    },
-    {
-      "Key": "0x5FB832F4",
-      "Value": "Voice Depth: {0.String}"
     },
     {
       "Key": "0x7B40FBC1",
@@ -4133,58 +4129,6 @@
       "Value": "Facial Hair Style: {0.String}"
     },
     {
-      "Key": "0x957D5A08",
-      "Value": "Eyebrows"
-    },
-    {
-      "Key": "0x7CB3508B",
-      "Value": "Eyebrow Thickness"
-    },
-    {
-      "Key": "0xD3F0906C",
-      "Value": "Preferred Eyebrow Thickness <i>(Advanced)</i>"
-    },
-    {
-      "Key": "0x12CA1AE2",
-      "Value": "Preference to Sims eyebrows hair thickness."
-    },
-    {
-      "Key": "0xCCE4EC64",
-      "Value": "Liked Eyebrow Thicknesses"
-    },
-    {
-      "Key": "0x1EF7F940",
-      "Value": "Disliked Eyebrow Thicknesses"
-    },
-    {
-      "Key": "0x8E19A0E6",
-      "Value": "Eyebrow Thickness: {0.String}"
-    },
-    {
-      "Key": "0x7C19D576",
-      "Value": "Eyebrow Shape"
-    },
-    {
-      "Key": "0xDABC48E1",
-      "Value": "Preferred Eyebrow Shape <i>(Advanced)</i>"
-    },
-    {
-      "Key": "0x64A90CDD",
-      "Value": "Preference to Sims eyebrows shape."
-    },
-    {
-      "Key": "0x34CC2918",
-      "Value": "Liked Eyebrow Shapes"
-    },
-    {
-      "Key": "0x7EE73784",
-      "Value": "Disliked Eyebrow Shapes"
-    },
-    {
-      "Key": "0xA5243297",
-      "Value": "Eyebrow Shape: {0.String}"
-    },
-    {
       "Key": "0x542C99AA",
       "Value": "Eye Color"
     },
@@ -4257,28 +4201,28 @@
       "Value": "Skin Detail: {0.String}"
     },
     {
-      "Key": "0xCA76757B",
-      "Value": "Skin Color Archetype"
+      "Key": "0x40A76275",
+      "Value": "Skin Tone"
     },
     {
-      "Key": "0x60ABFD6E",
-      "Value": "Preferred Skin Color Archetype"
+      "Key": "0xB62A8AAE",
+      "Value": "Preferred Skin Tone"
     },
     {
-      "Key": "0x3666B796",
-      "Value": "Preference to Sims skin color archetypes."
+      "Key": "0x618E5F33",
+      "Value": "Preference to Sims skin tone."
     },
     {
-      "Key": "0x4577C5F1",
-      "Value": "Liked Skin Color Archetypes"
+      "Key": "0x4B37DE2E",
+      "Value": "Liked Skin Tone"
     },
     {
-      "Key": "0xEF4B5965",
-      "Value": "Disliked Skin Color Archetypes"
+      "Key": "0x6C5E30D2",
+      "Value": "Disliked Skin Tone"
     },
     {
-      "Key": "0x69B18576",
-      "Value": "Skin Color Archetype: {0.String}"
+      "Key": "0x859E30D4",
+      "Value": "Skin Tone: {0.String}"
     },
     {
       "Key": "0xAE9CC65C",
@@ -4353,30 +4297,6 @@
       "Value": "Breasts Size: {0.String}"
     },
     {
-      "Key": "0x2635D4F6",
-      "Value": "Hips Wideness"
-    },
-    {
-      "Key": "0x725A4C49",
-      "Value": "Preferred Hips Wideness"
-    },
-    {
-      "Key": "0x1C2223EE",
-      "Value": "Preference to Sims hips wideness."
-    },
-    {
-      "Key": "0xACD08745",
-      "Value": "Liked Hips Sizes"
-    },
-    {
-      "Key": "0xC41AF3A1",
-      "Value": "Disliked Hips Sizes"
-    },
-    {
-      "Key": "0x622697B0",
-      "Value": "Hips Size: {0.String}"
-    },
-    {
       "Key": "0x6F25C8DE",
       "Value": "Butt Size"
     },
@@ -4425,30 +4345,6 @@
       "Value": "Penis Size: {0.String}"
     },
     {
-      "Key": "0xF4EB7349",
-      "Value": "Thighs Thickness"
-    },
-    {
-      "Key": "0x095D7094",
-      "Value": "Preferred Thighs Thickness"
-    },
-    {
-      "Key": "0x68E101EB",
-      "Value": "Preference to Sims thighs thickness."
-    },
-    {
-      "Key": "0x4C6D9E18",
-      "Value": "Liked Thighs Sizes"
-    },
-    {
-      "Key": "0xEFBF8084",
-      "Value": "Disliked Thighs Sizes"
-    },
-    {
-      "Key": "0x7400CB3F",
-      "Value": "Thighs Size: {0.String}"
-    },
-    {
       "Key": "0x0A5C609C",
       "Value": "Outfit Color"
     },
@@ -4475,34 +4371,6 @@
     {
       "Key": "0x398DA3C4",
       "Value": "Color: {0.String}"
-    },
-    {
-      "Key": "0x2163F211",
-      "Value": "Outfit"
-    },
-    {
-      "Key": "0xB0ACBD18",
-      "Value": "Outfit Archetype"
-    },
-    {
-      "Key": "0xB16ADC5D",
-      "Value": "Preferred Outfit Archetype <i>(Advanced)</i>"
-    },
-    {
-      "Key": "0xE3C412C1",
-      "Value": "Preference to Sims outfit archetypes."
-    },
-    {
-      "Key": "0x030A9B8C",
-      "Value": "Liked Outfit Archetypes"
-    },
-    {
-      "Key": "0x144ACFC8",
-      "Value": "Disliked Outfit Archetypes"
-    },
-    {
-      "Key": "0x0E4F5305",
-      "Value": "Outfit Archetype: {0.String}"
     },
     {
       "Key": "0x2395F446",
@@ -4551,30 +4419,6 @@
     {
       "Key": "0x0825E28E",
       "Value": "Outfit Type: {0.String}"
-    },
-    {
-      "Key": "0xF0DEB671",
-      "Value": "Outfit Worth"
-    },
-    {
-      "Key": "0xBFAE7C28",
-      "Value": "Preferred Outfit Worth"
-    },
-    {
-      "Key": "0xD5E6F73F",
-      "Value": "Preference to Sims outfits monetary worth."
-    },
-    {
-      "Key": "0xC0F872A8",
-      "Value": "Liked Outfit Worth"
-    },
-    {
-      "Key": "0x99AE25AC",
-      "Value": "Disliked Outfit Worth"
-    },
-    {
-      "Key": "0x3F7CFA48",
-      "Value": "Outfit Worth: {0.String}"
     },
     {
       "Key": "0xA5477480",
@@ -4651,6 +4495,62 @@
     {
       "Key": "0x3CE68CBE",
       "Value": "You're about to copy {0.SimName} Attractiveness Preferences and apply them to the selected Sims.\\n\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+    },
+    {
+      "Key": "0x5305DC80",
+      "Value": "Split Preferences Per Male & Female"
+    },
+    {
+      "Key": "0x2AB003D7",
+      "Value": "Split Attractiveness Preferences to be selected separately towards Male Sims and Female Sims."
+    },
+    {
+      "Key": "0x22F4232D",
+      "Value": "Split Attractiveness Types"
+    },
+    {
+      "Key": "0xFB9BB25B",
+      "Value": "Select Attractiveness Preferences Towards All Sims, Male Sims, or Female Sims."
+    },
+    {
+      "Key": "0xBF30D4E3",
+      "Value": "Universal"
+    },
+    {
+      "Key": "0x56A70CB5",
+      "Value": "Select Preferences towards all Sims."
+    },
+    {
+      "Key": "0xF78FA4DD",
+      "Value": "Male Sims"
+    },
+    {
+      "Key": "0x7D872513",
+      "Value": "Select Preferences towards male Sims."
+    },
+    {
+      "Key": "0x79284619",
+      "Value": "{0.String} (Male)"
+    },
+    {
+      "Key": "0x1673CD44",
+      "Value": "Female Sims"
+    },
+    {
+      "Key": "0x193A3250",
+      "Value": "Select Preferences towards female Sims."
+    },
+    {
+      "Key": "0x72DB0738",
+      "Value": "{0.String} (Female)"
+    },
+    {
+      "Key": "0x98C25C2D",
+      "Value": "Automatic"
+    },
+    {
+      "Key": "0x073B5E3F",
+      "Value": "All of the attractiveness preferences are developed based on the best development method for each Sim."
     },
     {
       "Key": "0xB00CBBB3",
@@ -4737,24 +4637,28 @@
       "Value": "Develop Attractiveness Preferences"
     },
     {
-      "Key": "0xABB1E1D3",
-      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+      "Key": "0x6D400E09",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the best development method for each Sim.\\n\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
     },
     {
-      "Key": "0x90E080FB",
-      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+      "Key": "0x67901813",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the romantic partners (official or affairs) of each individual selected Sim.\\nElements like sex, gender, occult, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
     },
     {
-      "Key": "0x95953C64",
-      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the picked Sims attractiveness traits.\\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+      "Key": "0xA19FF21B",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the family parents of each individual selected Sim.\\nElements like sex, gender, occult, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
     },
     {
-      "Key": "0x46CD09F1",
-      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+      "Key": "0x1287C7D6",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the picked Sims attractiveness traits.\\nElements like sex, gender, occult, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
     },
     {
-      "Key": "0x06934C10",
-      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\\nElements like sex, gender, occult, voice, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+      "Key": "0xC5CDFED9",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the attractiveness traits of each individual selected Sim.\\nElements like sex, gender, occult, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
+    },
+    {
+      "Key": "0xA15B1DFA",
+      "Value": "You're about to develop Attractiveness Preferences for the selected Sims based on the most common attractiveness traits of all Sims in the world.\\nElements like sex, gender, occult, body shape, hair, facial hair, eye color, skin details, and clothing are considered when developing new Attractiveness Preferences.\\n\\nThis action will override any existing Attractiveness Preferences of the selected Sims."
     },
     {
       "Key": "0x30E3F9CC",
@@ -4785,12 +4689,20 @@
       "Value": "Element '{0.String}' is liked and disliked at the same time."
     },
     {
+      "Key": "0xFAD210A0",
+      "Value": "Weak Preferences"
+    },
+    {
+      "Key": "0x5910F528",
+      "Value": "Sim preferences consist of less than the total of 10 likes and dislikes.\\nSims with few likes and dislikes will usually see others as unattractive due to lack of defined preference."
+    },
+    {
       "Key": "0xADBD2BE5",
       "Value": "--------- End ---------"
     },
     {
-      "Key": "0xCA0D0C11",
-      "Value": "<font color='#FF0000'>\\\\\\ MISSING RELATIONSHIP TEXT\\\\\\</font>"
+      "Key": "0xAFEFCF9F",
+      "Value": "<font color='#FF0000'>\\\\\\ MISSING RELATIONSHIP TEXT \\\\\\</font>"
     }
   ]
 }

@@ -77,8 +77,8 @@
       "Value": "Uh Oh!"
     },
     {
-      "Key": "0xA19F22F2",
-      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen last time, that could have caused the game save to break.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
+      "Key": "0xAF4F3E91",
+      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen in the past, that could have caused the game save to be incorrectly loaded.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
     },
     {
       "Key": "0xDD42329B",

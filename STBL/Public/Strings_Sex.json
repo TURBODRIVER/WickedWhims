@@ -41,6 +41,14 @@
       "Value": "Check to allow Sims to participate in sex interactions."
     },
     {
+      "Key": "0x3D882EBC",
+      "Value": "Discreet Sex Mode"
+    },
+    {
+      "Key": "0x8A86A69B",
+      "Value": "Check to only display sex interactions on objects when the played Sim is talking with someone available to have sex.\\n\\n(This doesn't affect bed objects.)"
+    },
+    {
       "Key": "0x75193B84",
       "Value": "Multiple Sims Start Switch"
     },
@@ -359,6 +367,14 @@
     {
       "Key": "0x5FB244C6",
       "Value": "Check to change Sims mood into Sex Mood during sex\\nUncheck to keep Sims natural mood during sex."
+    },
+    {
+      "Key": "0x19A5158D",
+      "Value": "Sexual Stamina Motive Switch"
+    },
+    {
+      "Key": "0xD3F80222",
+      "Value": "Check to display Sexual Stamina motive bar in place of the Fun motive bar during sex.\\nUncheck to keep the Fun motive bar unchanged during sex."
     },
     {
       "Key": "0xD7F4F85B",
@@ -699,22 +715,6 @@
     {
       "Key": "0xC53CE741",
       "Value": "Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\\n(only works with Menstrual Cycle Pregnancy Mode enabled)"
-    },
-    {
-      "Key": "0xF06E0D9D",
-      "Value": "Sex Locations Memory Switch"
-    },
-    {
-      "Key": "0xFCB7A291",
-      "Value": "Check to allow the game and individual Sims to remember locations used for sex by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex locations and pick them randomly."
-    },
-    {
-      "Key": "0xE3EA5EBE",
-      "Value": "Sex Animations Memory Switch"
-    },
-    {
-      "Key": "0x7381079C",
-      "Value": "Check to allow the game and individual Sims to remember sex animations used by the player and preference them in the future.\\nUncheck to disallow the game and individual Sims from remembering preferenced sex animations and pick them randomly."
     },
     {
       "Key": "0xC0D61043",
@@ -1277,40 +1277,40 @@
       "Value": "Very Long"
     },
     {
-      "Key": "0x2F080814",
-      "Value": "Select for life expectancy of: Forever (21-30 days per menstrual cycle)"
+      "Key": "0x6379187C",
+      "Value": "Select for adult life expectancy of: Forever (21-30 days per menstrual cycle)"
     },
     {
       "Key": "0x8E231DC6",
       "Value": "Long"
     },
     {
-      "Key": "0xE49B081A",
-      "Value": "Select for life expectancy of: 324 days (18-24 days per menstrual cycle)"
+      "Key": "0x3DBECE05",
+      "Value": "Select for adult life expectancy of: 228 days (18-24 days per menstrual cycle)"
     },
     {
       "Key": "0x720553B4",
       "Value": "Normal-To-Long"
     },
     {
-      "Key": "0xA1417FD4",
-      "Value": "Select for life expectancy of: 162 days (13-16 days per menstrual cycle)"
+      "Key": "0x660F4E74",
+      "Value": "Select for adult life expectancy of: 153 days (13-16 days per menstrual cycle)"
     },
     {
       "Key": "0xB6B5C03A",
       "Value": "Normal"
     },
     {
-      "Key": "0xECCA1FA6",
-      "Value": "Select for life expectancy of: 81 days (8-10 days per menstrual cycle)"
+      "Key": "0x4D601916",
+      "Value": "Select for adult life expectancy of: 78 days (8-10 days per menstrual cycle)"
     },
     {
       "Key": "0xCC236812",
       "Value": "Short"
     },
     {
-      "Key": "0x0D83B15B",
-      "Value": "Select for life expectancy of: 42 days (6-7 days per menstrual cycle)"
+      "Key": "0xFD5E82A0",
+      "Value": "Select for adult life expectancy of: 29 days (6-7 days per menstrual cycle)"
     },
     {
       "Key": "0x6DF5CD9D",
@@ -1703,6 +1703,14 @@
     {
       "Key": "0x980B6653",
       "Value": "Sims will always accept sex propositions.\\n<b>Fully Check</b> for Sims to always accept no matter the circumstances.\\n<b>Half Check</b> for Sims to always accept except for gender preference incompatibility, cheating, or fear of pregnancy.\\n<b>Uncheck</b> for Sims to not always accept."
+    },
+    {
+      "Key": "0x141CE650",
+      "Value": "Always Accept Sex Watching"
+    },
+    {
+      "Key": "0x698D21D9",
+      "Value": "Check to make Sims always want to watch sex no matter the circumstances."
     },
     {
       "Key": "0xCAED6DCB",
@@ -2193,6 +2201,98 @@
       "Value": "Note that using this during any sex interactions may result in problems!\\nIt is recommended to not use this disabler while any sex interactions are playing!"
     },
     {
+      "Key": "0xE404F3A7",
+      "Value": "---------- Protocols ----------"
+    },
+    {
+      "Key": "0xE901F1BD",
+      "Value": "Disallow Sex Autonomy"
+    },
+    {
+      "Key": "0xF1C281C0",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy."
+    },
+    {
+      "Key": "0xB5DE836B",
+      "Value": "Disallow Sex Autonomy Among Sims Inside Protocol"
+    },
+    {
+      "Key": "0x84FAFEFA",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy with other Sims inside of this group."
+    },
+    {
+      "Key": "0x99853258",
+      "Value": "Disallow Sex Autonomy Among Sims Outside Protocol"
+    },
+    {
+      "Key": "0x584C5AA7",
+      "Value": "Sims within this group are disallowed to initiate and participate in Sex Autonomy with other Sims outside of this group."
+    },
+    {
+      "Key": "0x9841D367",
+      "Value": "Disallow Sex Autonomy Joining Among Sims Inside Protocol"
+    },
+    {
+      "Key": "0x657DBA7B",
+      "Value": "Sims within this group are disallowed to autonomously join sex of other Sims inside of this group."
+    },
+    {
+      "Key": "0xF084AE7C",
+      "Value": "Disallow Sex Autonomy Joining Among Sims Outside Protocol"
+    },
+    {
+      "Key": "0x67E2EC7C",
+      "Value": "Sims within this group are disallowed to autonomously join sex of other Sims outside of this group."
+    },
+    {
+      "Key": "0xEB7F3E63",
+      "Value": "Always Accept Sex With Sims Inside Protocol"
+    },
+    {
+      "Key": "0x6B7F2919",
+      "Value": "Sims within this group Always Accept Sex with other Sims inside of this group."
+    },
+    {
+      "Key": "0xAC5FB990",
+      "Value": "Always Accept Sex With Sims Outside Protocol"
+    },
+    {
+      "Key": "0x3C8E5EBE",
+      "Value": "Sims within this group Always Accept Sex with other Sims outside of this group."
+    },
+    {
+      "Key": "0xE6FF46A4",
+      "Value": "Disallow Birth Control in Sex Inside Protocol"
+    },
+    {
+      "Key": "0xF76F90C0",
+      "Value": "Sims within this group are prevented from using birth control methods during sex with other Sims inside of this group."
+    },
+    {
+      "Key": "0xEB865EC9",
+      "Value": "Disallow Birth Control in Sex Outside Protocol"
+    },
+    {
+      "Key": "0xAF701C29",
+      "Value": "Sims within this group are prevented from using birth control methods during sex with other Sims outside of this group."
+    },
+    {
+      "Key": "0x400B01D1",
+      "Value": "Disallow Reaction to Sex Inside Protocol"
+    },
+    {
+      "Key": "0x91F05744",
+      "Value": "Sims within this group are prevented from reacting to sex of other Sims inside of this group."
+    },
+    {
+      "Key": "0x6B80900A",
+      "Value": "Disallow Reaction to Sex Outside Protocol"
+    },
+    {
+      "Key": "0xB2848CF5",
+      "Value": "Sims within this group are prevented from reacting to sex of other Sims outside of this group."
+    },
+    {
       "Key": "0x3C06D868",
       "Value": "---------- SEX GENERAL ----------"
     },
@@ -2263,6 +2363,26 @@
     {
       "Key": "0xCA6D3CD6",
       "Value": "Playlist"
+    },
+    {
+      "Key": "0x1F3BB7F6",
+      "Value": "New"
+    },
+    {
+      "Key": "0x2DB3FC38",
+      "Value": "Play a random sex animation."
+    },
+    {
+      "Key": "0xBCCA8BB7",
+      "Value": "Play a random '{0.String}' sex animation."
+    },
+    {
+      "Key": "0x9CCB2640",
+      "Value": "Play a new sex animation.\\nThere {S0.is}{P0.are} still {0.Number} sex animation{P0.s} to check out on this list."
+    },
+    {
+      "Key": "0xC4BBEA7B",
+      "Value": "Play a new '{0.String}' sex animation.\\nThere {S1.is}{P1.are} still {1.Number} sex animation{P1.s} to check out on this list."
     },
     {
       "Key": "0x9393B673",
@@ -3353,8 +3473,8 @@
       "Value": "{0.SimFirstName}'s Sexpertise skill is not on an appropriate level to read this book."
     },
     {
-      "Key": "0x8BB9DD8F",
-      "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT\\\\\\</font>"
+      "Key": "0x697E31B1",
+      "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT \\\\\\</font>"
     },
     {
       "Key": "0x0F8958BF",
@@ -3387,6 +3507,14 @@
     {
       "Key": "0x9BFED398",
       "Value": "Wait for Partner"
+    },
+    {
+      "Key": "0x94E1F340",
+      "Value": "Enable Always Showing Sex Interactions"
+    },
+    {
+      "Key": "0xE49AC6A3",
+      "Value": "Disable Always Showing Sex Interactions"
     },
     {
       "Key": "0xAAA30B0A",
@@ -3581,6 +3709,62 @@
       "Value": "Stop"
     },
     {
+      "Key": "0x23DAC399",
+      "Value": "Sex Control"
+    },
+    {
+      "Key": "0x9B36AE3B",
+      "Value": "Exclude Object from Sex Autonomy"
+    },
+    {
+      "Key": "0xEFF2CE34",
+      "Value": "Include Object in Sex Autonomy"
+    },
+    {
+      "Key": "0xB3AC222C",
+      "Value": "Adjust Object Sex Autonomy Probability ({1.String})"
+    },
+    {
+      "Key": "0xE97C362A",
+      "Value": "Adjust All '<b>{0.String}</b>' Sex Autonomy Probability ({1.String})"
+    },
+    {
+      "Key": "0x1F8642D0",
+      "Value": "Object is already excluded in Dynamic Animations Disabler."
+    },
+    {
+      "Key": "0x187AF05B",
+      "Value": "Adjust Object Sex Autonomy Probability"
+    },
+    {
+      "Key": "0xB8D420FD",
+      "Value": "Adjust '{0.String}' Sex Autonomy Probability"
+    },
+    {
+      "Key": "0x7E073A59",
+      "Value": "Level +{0.Number} (Increase by {1.Number}%)"
+    },
+    {
+      "Key": "0x9DD28806",
+      "Value": "Select to increase object Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0xF42C33D4",
+      "Value": "Select to increase '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0x8B1CCAC8",
+      "Value": "Level {0.Number} (Decrease by {1.Number}%)"
+    },
+    {
+      "Key": "0x8CC8C416",
+      "Value": "Select to decrease object Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
+      "Key": "0xE4FFB104",
+      "Value": "Select to decrease '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
+    },
+    {
       "Key": "0x6DA61B52",
       "Value": "Enable for Sex Autonomy"
     },
@@ -3595,6 +3779,10 @@
     {
       "Key": "0x638073BD",
       "Value": "Disable Floor for Sex Autonomy"
+    },
+    {
+      "Key": "0xC5ADC56D",
+      "Value": "Display Sex Autonomy Room Info"
     },
     {
       "Key": "0x3858B3E2",
@@ -3795,6 +3983,14 @@
     {
       "Key": "0x17393B7A",
       "Value": "Pick Sims for sex."
+    },
+    {
+      "Key": "0xF5CA46E7",
+      "Value": "Sexual Stamina"
+    },
+    {
+      "Key": "0xAB6920E2",
+      "Value": "Sims usually can't last forever and will stop having sex once their sexual stamina is depleted."
     },
     {
       "Key": "0x92C0C143",
@@ -5369,6 +5565,10 @@
       "Value": "{1.SimFirstName} is not going to cheat on their significant other."
     },
     {
+      "Key": "0x90F5DB10",
+      "Value": "Sims are in a Protocol that prevents initiating sex."
+    },
+    {
       "Key": "0x8224DF8F",
       "Value": "Negative friendship."
     },
@@ -5621,8 +5821,8 @@
       "Value": "Transcendental Sexual Experience"
     },
     {
-      "Key": "0x180573FA",
-      "Value": "{0.SimFirstName} will find it hard to forget the amazing session of lovemaking that they had with {1.SimFirstName}. They hit it out of the ballpark leaving them both sweaty and satisfied. When {1.SimFirstName} is around, {0.SimFirstName} can't help but feel invigorated and ready for their next roll in the hay."
+      "Key": "0x2EE080CF",
+      "Value": "{0.SimFirstName} will find it hard to forget the amazing session of lovemaking that {M0.he}{F0.she} had with {1.SimFirstName}. They hit it out of the ballpark leaving them both sweaty and satisfied. When {1.SimFirstName} is around, {0.SimFirstName} can't help but feel invigorated and ready for {0.SimPronounPossessiveDependent} next roll in the hay."
     },
     {
       "Key": "0xC170CC1F",
@@ -5683,6 +5883,106 @@
     {
       "Key": "0xA97C2B7E",
       "Value": "Go to the Wicked Store"
+    },
+    {
+      "Key": "0x960B30AD",
+      "Value": "---------- SEX SOCIAL EVENT ----------"
+    },
+    {
+      "Key": "0xA31B9BB4",
+      "Value": "Sex Party"
+    },
+    {
+      "Key": "0x39F9182B",
+      "Value": "Host a wicked evening of delightful sexual experiences to remember for a long time.. or at least until the next Sex Party. Choose the party flavor once it begins to make it a Sex Swingers party, Sex Watchers party, Impregnation party, Masturbation party, or the regular fun."
+    },
+    {
+      "Key": "0xDBA09510",
+      "Value": "Sex Guest"
+    },
+    {
+      "Key": "0x7AEAD827",
+      "Value": "Change Sex Party Behavior to"
+    },
+    {
+      "Key": "0xEB319A72",
+      "Value": "This is the currently selected Sex Party Behavior."
+    },
+    {
+      "Key": "0x463EDF88",
+      "Value": "Regular"
+    },
+    {
+      "Key": "0x678F9392",
+      "Value": "Regular Sex Party Behavior makes Sims focus on just having sex like usual."
+    },
+    {
+      "Key": "0x9F3F28AE",
+      "Value": "Swingers"
+    },
+    {
+      "Key": "0xFD1911F3",
+      "Value": "Swingers Sex Party Behavior makes Sims focus on having sex with Sims that aren't their established partner."
+    },
+    {
+      "Key": "0x6D2B5409",
+      "Value": "Watchers"
+    },
+    {
+      "Key": "0xF4C6E5D1",
+      "Value": "Watchers Sex Party Behavior makes Sims focus on watching others having sex and doesn't allow engaging in sex."
+    },
+    {
+      "Key": "0x01911CB3",
+      "Value": "Impregnation"
+    },
+    {
+      "Key": "0x76DBA5AB",
+      "Value": "Impregnation Sex Party Behavior makes Sims focus on impregnating Sims by not using any form of birth control."
+    },
+    {
+      "Key": "0x53059D31",
+      "Value": "Masturbation"
+    },
+    {
+      "Key": "0x3EEE6452",
+      "Value": "Masturbation Sex Party Behavior makes Sims focus on masturbating and doesn't allow engaging in sex with others."
+    },
+    {
+      "Key": "0x2EAECA22",
+      "Value": "Allow Joining to Sex"
+    },
+    {
+      "Key": "0x78B2BD66",
+      "Value": "Disallow Joining to Sex"
+    },
+    {
+      "Key": "0x5BE8528D",
+      "Value": "Allow or Disallow Sex Party participants joining to ongoing sex."
+    },
+    {
+      "Key": "0x497E6CF4",
+      "Value": "Extend Sex Party Duration"
+    },
+    {
+      "Key": "0xF1BB78C7",
+      "Value": "(From Sex Party Event)"
+    },
+    {
+      "Key": "0x8E7C26FF",
+      "Value": "Wicked Delights"
+    },
+    {
+      "Key": "0x9DBE9BD2",
+      "Value": "They came, they had wicked fun, and they came."
+    },
+    {
+      "Key": "0x6B260CD3",
+      "Value": "Sex... Party?"
+    },
+    {
+      "Key": "0xB04CEBC9",
+      "Value": "This sex party could have had more.. oh I don't know.. sex?"
     },
     {
       "Key": "0x5CE2AE4B",
@@ -6493,6 +6793,110 @@
       "Value": "Strangely...compelled...to...have...sex."
     },
     {
+      "Key": "0x3225EFE5",
+      "Value": "---------- Spellcasters ----------"
+    },
+    {
+      "Key": "0x5003578D",
+      "Value": "Promiscuoso"
+    },
+    {
+      "Key": "0x07603DC8",
+      "Value": "Makes the Sim urgently chase their sexual desires."
+    },
+    {
+      "Key": "0xFA0B3C45",
+      "Value": "(From Failed Promiscuoso Spell)"
+    },
+    {
+      "Key": "0xC9951C01",
+      "Value": "Tome of Promiscuoso"
+    },
+    {
+      "Key": "0xE9E2E6DC",
+      "Value": "<b>Requires:</b> Rank Master\\nTeaches the reader a Spell to make Sims desire sex."
+    },
+    {
+      "Key": "0x26FB6A82",
+      "Value": "<font color='#340658'>Mysterious Lust</font>"
+    },
+    {
+      "Key": "0x0B8A352E",
+      "Value": "Some mysterious power is making {0.SimFirstName} feel exceptionally lustful, as if under a spell."
+    },
+    {
+      "Key": "0x0FC8BC73",
+      "Value": "---------- Traditions ----------"
+    },
+    {
+      "Key": "0xE02AD581",
+      "Value": "Sexual Openness"
+    },
+    {
+      "Key": "0x2AAE7A67",
+      "Value": "The mood is right and the day is special - waste no time, pick up a cutie and fool around.\\n\\nTo participate, have satisfying sex with a Sim."
+    },
+    {
+      "Key": "0x01A42DD6",
+      "Value": "(From Being a Cum Slut)"
+    },
+    {
+      "Key": "0xC462EBC3",
+      "Value": "(From Being a Generous Lover)"
+    },
+    {
+      "Key": "0xD42A84E1",
+      "Value": "(From Being an Adulterer)"
+    },
+    {
+      "Key": "0xEEDBD39B",
+      "Value": "(From Being Sexually Abstinent)"
+    },
+    {
+      "Key": "0xDB5477FF",
+      "Value": "---------- Simray ----------"
+    },
+    {
+      "Key": "0x86CEB9DF",
+      "Value": "Promiscuous"
+    },
+    {
+      "Key": "0x01A6007E",
+      "Value": "Upgrade Mind Control: Promiscuous"
+    },
+    {
+      "Key": "0x100D9704",
+      "Value": "Continue Upgrading Mind Control: Promiscuous"
+    },
+    {
+      "Key": "0xFE60B016",
+      "Value": "{0.SimFirstName} has upgraded the SimRay so it can Mind Control Sims to be \"Promiscuous.\" Ready to get freaky?"
+    },
+    {
+      "Key": "0xEB167787",
+      "Value": "Mind Controlled: Promiscuous"
+    },
+    {
+      "Key": "0xF0DEDB04",
+      "Value": "Sex. Sex. Sex. Sex."
+    },
+    {
+      "Key": "0xDFF84960",
+      "Value": "---------- UNIVERSITY ----------"
+    },
+    {
+      "Key": "0x118AE879",
+      "Value": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone."
+    },
+    {
+      "Key": "0xED254280",
+      "Value": "Extra Credits"
+    },
+    {
+      "Key": "0xC85E9E1D",
+      "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom."
+    },
+    {
       "Key": "0x964DE219",
       "Value": "---------- CRABS ----------"
     },
@@ -6691,6 +7095,22 @@
     {
       "Key": "0xDD7C516A",
       "Value": "Undress Other Accessories"
+    },
+    {
+      "Key": "0x2B227E62",
+      "Value": "Undressable"
+    },
+    {
+      "Key": "0x1C99A214",
+      "Value": "Undress Outfit Top"
+    },
+    {
+      "Key": "0xD951B662",
+      "Value": "Undress Outfit Bottom"
+    },
+    {
+      "Key": "0x3A5C3B2D",
+      "Value": "Undress Outfit"
     },
     {
       "Key": "0xE9FBA083",
@@ -7341,8 +7761,8 @@
       "Value": "<font color='#340658'>Flooding Pad</font>"
     },
     {
-      "Key": "0x8600AC28",
-      "Value": "The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this tampon, a replacement must be found ASAP!"
+      "Key": "0x4479E57E",
+      "Value": "The pad tried as hard as it could but in the face of such a heavy flow it stood no chance. Blood has seeped through the cotton and down {0.SimFirstName}’s legs, ruining {M0.his}{F0.her} clothing the longer it lingers there. There’s definitely no further use out of this pad, a replacement must be found ASAP!"
     },
     {
       "Key": "0x9CBE332C",
