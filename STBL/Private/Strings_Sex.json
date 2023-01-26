@@ -353,12 +353,12 @@
       "Value": "Check for Sims to respect doors gender specific lock.\\nUncheck for Sims to be able to walk through gender specific locked doors."
     },
     {
-      "Key": "0x29AEEE6E",
-      "Value": "Slow Down Time During Player Sex"
+      "Key": "0x4DDD34D2",
+      "Value": "Slow Down Time During Active Player Sex"
     },
     {
-      "Key": "0x13C41CDD",
-      "Value": "Check to slow down time when a player-controlled sex interaction is ongoing."
+      "Key": "0xD23DEDDE",
+      "Value": "Check to slow down time when selected active Sim player-controlled sex interaction is ongoing.\\n<b>Warning: Slowed down time will make the game appear as if lagging.</b>"
     },
     {
       "Key": "0xA54F38E1",
@@ -373,8 +373,8 @@
       "Value": "Sexual Stamina Motive Switch"
     },
     {
-      "Key": "0xD3F80222",
-      "Value": "Check to display Sexual Stamina motive bar in place of the Fun motive bar during sex.\\nUncheck to keep the Fun motive bar unchanged during sex."
+      "Key": "0xE62FE5EC",
+      "Value": "Check to display Sexual Stamina motive bar in place of the Social motive bar during sex.\\nUncheck to keep the Social motive bar unchanged during sex."
     },
     {
       "Key": "0xD7F4F85B",
@@ -3749,6 +3749,10 @@
       "Value": "Object is already excluded in Dynamic Animations Disabler."
     },
     {
+      "Key": "0x5C2FE41F",
+      "Value": "Excluding objects outside of the lot is not available."
+    },
+    {
       "Key": "0x187AF05B",
       "Value": "Adjust Object Sex Autonomy Probability"
     },
@@ -3781,12 +3785,12 @@
       "Value": "Select to decrease '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
     },
     {
-      "Key": "0x6DA61B52",
-      "Value": "Enable for Sex Autonomy"
+      "Key": "0x9AFA294B",
+      "Value": "Enable Sim for Sex Autonomy"
     },
     {
-      "Key": "0xD469212B",
-      "Value": "Disable for Sex Autonomy"
+      "Key": "0xD2856196",
+      "Value": "Disable Sim for Sex Autonomy"
     },
     {
       "Key": "0x5A30BE2C",

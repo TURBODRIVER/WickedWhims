@@ -185,6 +185,14 @@
       "Value": "Check for Sim bathing outfit to be automatically reset and fixed.\\nUncheck for Sim bathing outfits to stay untouched, for technical use purposes."
     },
     {
+      "Key": "0x79A43F71",
+      "Value": "Covered Child Bathing Outfit"
+    },
+    {
+      "Key": "0x376534D3",
+      "Value": "Check to additionally cover child Sim outfit when bathing.\\nUncheck to keep native child Sim outfit when bathing."
+    },
+    {
       "Key": "0xC37C66E8",
       "Value": "Notifications Settings"
     },
