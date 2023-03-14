@@ -845,6 +845,14 @@
       "Value": "Set a maximum number of actors that every sex interaction can be made out of by autonomy joining.\\n\\n(Default: 10, Maximum: 10)"
     },
     {
+      "Key": "0x1213D9FC",
+      "Value": "Sex Location Maximum Distance"
+    },
+    {
+      "Key": "0x005BA6A1",
+      "Value": "Set a maximum number of distance units for Sims to consider a sex location to be in range of consideration.\\n\\n(Default: 100, Maximum: 100000)"
+    },
+    {
       "Key": "0x5C733BDD",
       "Value": "Autonomy Location Styles"
     },

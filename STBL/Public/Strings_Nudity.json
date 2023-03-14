@@ -3269,6 +3269,14 @@
       "Value": "Sell Peeping Pictures"
     },
     {
+      "Key": "0xE4093C07",
+      "Value": "Enable Window for Peeping"
+    },
+    {
+      "Key": "0xF2E07FF4",
+      "Value": "Disable Window for Peeping"
+    },
+    {
       "Key": "0xEA90054F",
       "Value": "Window Peeping Enthusiast"
     },

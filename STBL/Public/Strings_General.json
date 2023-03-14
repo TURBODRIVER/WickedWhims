@@ -101,8 +101,8 @@
       "Value": "An error has occurred!\\nAn exception file (lastException.txt) has been created!\\n\\nTake a deep breath, create a new save, and exit the game.\\n\\nThe most common reason for errors like these are outdated/broken mods.\\nConsider reviewing your 'Mods' folder and updating/removing old mods.\\nTHIS IS NOT CAUSED BY WICKEDWHIMS. WICKEDWHIMS IS THE MOD THAT INFORMS YOU ABOUT OTHER BROKEN MODS.\\n\\nException files location: {0.String}\\n\\nThis message is brought to you by TURBODRIVER.\\nYou can find more information at:\\nlastexception.com"
     },
     {
-      "Key": "0xEF789EE4",
-      "Value": "An error related to WickedWhims has occurred!\\nA report file (WickedWhims_Exception.txt) has been created!\\n\\nIf you're using any mods that require WickedWhims to work, check if they are up-to-date with WickedWhims and with the game.\\n\\nException file location: {0.String}\\n\\nGo to <b>wickedwhimsmod.com/exception</b> to learn how to report this error."
+      "Key": "0x1B28CBD8",
+      "Value": "<b>An error potentially related to WickedWhims has occurred!</b>\\n\\nError reporting file 'WickedWhims_Exception' has been created. If you're going to report this issue, make sure to include the error reporting file.\\n\\nIf you're using any content that requires WickedWhims to function, verify if everything is updated for the most recent release of WickedWhims and the most recent release of the game.\\n\\n<b>Error file location:</b>\\n{0.String}\\n\\nGo to <b>wickedwhimsmod.com/exception</b> to learn how to report this error file."
     },
     {
       "Key": "0xAD5929EB",
@@ -849,6 +849,14 @@
       "Value": "Include All Sims in this Protocol."
     },
     {
+      "Key": "0xF6E1E31C",
+      "Value": "Infant Age Sims"
+    },
+    {
+      "Key": "0x90694D85",
+      "Value": "Include All Sims of Infant age in this Protocol."
+    },
+    {
       "Key": "0xF993CAE4",
       "Value": "Toddler Age Sims"
     },
@@ -1117,8 +1125,8 @@
       "Value": "Getting Started"
     },
     {
-      "Key": "0xF05178FC",
-      "Value": "WickedWhims Secrets should help you get familiar with some of the non-obvious or hidden features of the mod.\\n\\nMake sure to click the arrow on the right to see more information!"
+      "Key": "0x5718E3D8",
+      "Value": "WickedWhims Secrets should help you get familiar with some of the non-obvious or hidden features of the mod.\\n\\nMake sure to click the arrows on the bottom to see more information!"
     },
     {
       "Key": "0xDACD129F",
@@ -1149,12 +1157,12 @@
       "Value": "Sex Autonomy"
     },
     {
-      "Key": "0x126FDBE9",
-      "Value": "Sims are using a location for sex but you don't like it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the object to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that object from being used by Sex Autonomy. Repeat this process to enable back the sex autonomy on this object."
+      "Key": "0xD5490BC1",
+      "Value": "Sims are using a location for sex but you don't like it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then click with your mouse on the object and go into 'Wicked -> Sex Control'.\\n\\nUnder the 'Sex Control' category you will find different options to adjust sex autonomy for that object and selecting the 'Exclude Object from Sex Autonomy' interaction will prevent that object from being used by Sex Autonomy. Repeat this process to enable back the sex autonomy on this object."
     },
     {
-      "Key": "0x4AEBF937",
-      "Value": "A Sim is having sex but you don't want them to do it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable for Sex Autonomy' interaction which will prevent that Sim from participating in Sex Autonomy. Repeat this process to enable back the sex autonomy on this Sim."
+      "Key": "0xA50522F8",
+      "Value": "A Sim is having sex but you don't want them to do it? Here's how to solve it.\\n\\nFirst make sure Sims aren't having sex, then hold the Shift key on your keyboard and click with your mouse (Shift+Click) on the Sim to display the secret menu.\\n\\nUnder the 'Wicked' category you will find the 'Sex' category and in it the 'Disable Sim for Sex Autonomy' interaction which will prevent that Sim from participating in Sex Autonomy. Repeat this process to enable back the sex autonomy on this Sim."
     },
     {
       "Key": "0x1A2796D6",

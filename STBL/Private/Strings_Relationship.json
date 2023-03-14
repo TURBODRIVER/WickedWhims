@@ -561,16 +561,32 @@
       "Value": "Shower with {2.SimFirstName}"
     },
     {
-      "Key": "0xA232CBB9",
-      "Value": "Saving Water"
-    },
-    {
       "Key": "0x3BE6BE2C",
       "Value": "(From Taking a Shower Together)"
     },
     {
-      "Key": "0x1B2CF24F",
-      "Value": "{0.SimFirstName} just took a shower with another Sim, saving the environment in the sexiest way possible."
+      "Key": "0x332D170A",
+      "Value": "Clean Dirty Fun"
+    },
+    {
+      "Key": "0x06FFAD1F",
+      "Value": "Showering together gave even more opportunity to explore each other’s naked, wet bodies. After sudsing each other up and getting clean, {0.SimFirstName} is ready to get down and dirty again."
+    },
+    {
+      "Key": "0x70865156",
+      "Value": "A Shower Shared"
+    },
+    {
+      "Key": "0x808A78E0",
+      "Value": "Warm water, soapy caresses, comforting bubbles, and sharing even more time together in the afterglow is a simple but effective pleasure."
+    },
+    {
+      "Key": "0x76E23987",
+      "Value": "Twice the Shower Thoughts"
+    },
+    {
+      "Key": "0x5CAAA3B5",
+      "Value": "Sharing a shower, and all the shower thoughts that come with it, gave {0.SimFirstName} some great ideas! They’re ready to get creative, whether it’s back in bed or a different outlet."
     },
     {
       "Key": "0x6F836BB5",
@@ -627,6 +643,34 @@
     {
       "Key": "0xB88A5C98",
       "Value": "Butterflies in the sky? {0.SimName} feels just as high after that sizzling moment spent with {1.SimName}! {0.SimFirstName} has a full heart and {M0.his}{F0.her} head in the clouds, {M0.he}{F0.she} will be daydreaming about {1.SimFirstName}’s electrifying touch for a while.\\n\\n{0.SimFirstName} can take pleasure of up to two passionate moments a few times a day. Every passionate moment boosts {0.SimFirstName}'s well-being and helps {0.SimPronounObjective} stay happy with special lucky effects."
+    },
+    {
+      "Key": "0xAC871A26",
+      "Value": "---------- Lewd Dreams ----------"
+    },
+    {
+      "Key": "0x767480AD",
+      "Value": "Tell About Lewd Dream"
+    },
+    {
+      "Key": "0x546E71EC",
+      "Value": "Listen to {1.SimFirstName}'s Lewd Dream"
+    },
+    {
+      "Key": "0x0DA175CF",
+      "Value": "<font color='#340658'>Morning Wood</font>"
+    },
+    {
+      "Key": "0xECAA29A1",
+      "Value": "{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. <i>Knock on wood</i> it gets taken care of soon."
+    },
+    {
+      "Key": "0x7205070A",
+      "Value": "<font color='#340658'>Morning Dew</font>"
+    },
+    {
+      "Key": "0x4CA91CBB",
+      "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
     },
     {
       "Key": "0x6DF9B78B",
@@ -735,6 +779,10 @@
     {
       "Key": "0x19351F49",
       "Value": "Impregnated"
+    },
+    {
+      "Key": "0x65A1300E",
+      "Value": "First Time"
     },
     {
       "Key": "0x1A2EC93E",
@@ -2659,6 +2707,10 @@
     {
       "Key": "0x6901B3E3",
       "Value": "I don't care about looks."
+    },
+    {
+      "Key": "0x7B6BAEE0",
+      "Value": "{0.SimFirstName} doesn't care about looks."
     },
     {
       "Key": "0x7D1F4D8A",

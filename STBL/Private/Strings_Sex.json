@@ -65,6 +65,14 @@
       "Value": "Check to automatically silence Sim phone during sex."
     },
     {
+      "Key": "0xA8D13968",
+      "Value": "Orgasm Visual Effect Switch"
+    },
+    {
+      "Key": "0x34ABC1B5",
+      "Value": "Uncheck to prevent displaying the hearts visual effect during orgasm."
+    },
+    {
       "Key": "0xE6E75D8F",
       "Value": "Categorize Animation Authors"
     },
@@ -253,8 +261,8 @@
       "Value": "Auto Dress Up After Sex"
     },
     {
-      "Key": "0x1C4A982B",
-      "Value": "Sims dressing up behavior after sex.\\n<b>Fully Check</b> for Sims to always dress up after sex.\\n<b>Half Check</b> for Sims to dress up after sex when outdoors.\\n<b>Uncheck</b> for Sims to never dress up after sex."
+      "Key": "0x14432492",
+      "Value": "Sims dressing up behavior after sex.\\n<b>Fully Check</b> for Sims to always dress up after sex.\\n<b>Half Check</b> for Sims to dress up after sex depending on the location and situation.\\n<b>Uncheck</b> for Sims to never dress up after sex."
     },
     {
       "Key": "0xDF7BFC10",
@@ -797,6 +805,14 @@
       "Value": "Set a unit interval value for chance of random sex from romantic conversations occurring. Value 1.0 is 100% chance.\\n(Default: 0.10, Minimum: 0.0)"
     },
     {
+      "Key": "0x58CD319D",
+      "Value": "Flashing Sex Probability"
+    },
+    {
+      "Key": "0x15589952",
+      "Value": "Set a unit interval value for chance of random sex from flashing. Value 1.0 is 100% chance.\\n(Default: 0.55, Minimum: 0.0)"
+    },
+    {
       "Key": "0x0D91EBFD",
       "Value": "Peeping Sex Probability"
     },
@@ -843,6 +859,14 @@
     {
       "Key": "0xDB368393",
       "Value": "Set a maximum number of actors that every sex interaction can be made out of by autonomy joining.\\n\\n(Default: 10, Maximum: 10)"
+    },
+    {
+      "Key": "0x1213D9FC",
+      "Value": "Sex Location Maximum Distance"
+    },
+    {
+      "Key": "0x005BA6A1",
+      "Value": "Set a maximum number of distance units for Sims to consider a sex location to be in range of consideration.\\n\\n(Default: 100, Maximum: 100000)"
     },
     {
       "Key": "0x5C733BDD",
@@ -2081,36 +2105,40 @@
       "Value": "Enable/Disable groups of animations from being used in autonomy sex."
     },
     {
+      "Key": "0xC5301524",
+      "Value": "Select entries to be disabled."
+    },
+    {
       "Key": "0x0AB2B430",
       "Value": "Sex Category"
     },
     {
-      "Key": "0xB861E46F",
-      "Value": "Enable/Disable animations with sex category."
+      "Key": "0x638400BF",
+      "Value": "Disable animations with sex category."
     },
     {
       "Key": "0x674D80A3",
       "Value": "Sex Context"
     },
     {
-      "Key": "0x75FA7FA0",
-      "Value": "Enable/Disable animations with sex context."
+      "Key": "0x0DB455D0",
+      "Value": "Disable animations with sex context."
     },
     {
       "Key": "0x64124C58",
       "Value": "Sexual Orientation"
     },
     {
-      "Key": "0x01EE2A4F",
-      "Value": "Enable/Disable animations with sexual orientation."
+      "Key": "0x73976FFF",
+      "Value": "Disable animations with sexual orientation."
     },
     {
       "Key": "0x91D80CA8",
       "Value": "Number of Participants"
     },
     {
-      "Key": "0x7AEA855B",
-      "Value": "Enable/Disable animations with number of participants."
+      "Key": "0x4BC5AD8B",
+      "Value": "Disable animations with number of participants."
     },
     {
       "Key": "0x80E1E809",
@@ -2121,16 +2149,28 @@
       "Value": "Location Category"
     },
     {
-      "Key": "0xC0E0A2A2",
-      "Value": "Enable/Disable animations with location category."
+      "Key": "0x100989B2",
+      "Value": "Disable animations with location category."
+    },
+    {
+      "Key": "0x690AF9EF",
+      "Value": "Author"
+    },
+    {
+      "Key": "0x1C32FAEF",
+      "Value": "Disable animations of author."
+    },
+    {
+      "Key": "0x746380DA",
+      "Value": "{0.String}'s Animations"
     },
     {
       "Key": "0xB2D6BDDE",
       "Value": "Props"
     },
     {
-      "Key": "0x879CBF63",
-      "Value": "Enable/Disable animations with props."
+      "Key": "0xDAC35FB3",
+      "Value": "Disable animations with props."
     },
     {
       "Key": "0x78027246",
@@ -3407,6 +3447,58 @@
     {
       "Key": "0xCDE181F4",
       "Value": "{0.SimFirstName} was feeling very thirsty, and this mouth-watering strawberry is just what {M0.he}{F0.she} desired. {0.SimFirstName} is enjoying every moment of indulgence in the sweet and satisfying juice of such a divine fruit."
+    },
+    {
+      "Key": "0xE3001B43",
+      "Value": "---------- SEX CHEATING ----------"
+    },
+    {
+      "Key": "0x19478454",
+      "Value": "(From Cheating)"
+    },
+    {
+      "Key": "0xF7A34EA2",
+      "Value": "<font color='#340658'>Best Kept Secret</font>"
+    },
+    {
+      "Key": "0xF3E7BB6F",
+      "Value": "Where they should feel guilty, {0.SimFirstName} just feels the buzz of excitement from being with someone else. Cheating is such an adrenaline rush!"
+    },
+    {
+      "Key": "0x3B63BFED",
+      "Value": "<font color='#340658'>Regretful Actions</font>"
+    },
+    {
+      "Key": "0xC7EA65AE",
+      "Value": "{0.SimFirstName} doesn't feel so good after cheating. What started off as a bit of uncontrollable fun has left them feeling selfish, guilty, and regretful. Was it even worth it to put their relationship at risk?"
+    },
+    {
+      "Key": "0xBD8CCD3B",
+      "Value": "<font color='#340658'>Secret Affair</font>"
+    },
+    {
+      "Key": "0x7EF5A7E2",
+      "Value": "Being with someone else was thrilling, but {0.SimFirstName} feels kind of bad about betraying the trust of another. They're struggling with conflicting thoughts about it. While they know it was wrong, it just felt so right."
+    },
+    {
+      "Key": "0xD4E642D6",
+      "Value": "---------- SEX PREFERENCES ----------"
+    },
+    {
+      "Key": "0x1C94B897",
+      "Value": "<font color='#340658'>Orgasmic</font>"
+    },
+    {
+      "Key": "0xD2A4FD53",
+      "Value": "{0.SimFirstName} felt like a bubble that was about to burst, and it’s finally happening! What a hot, tingling, mind-numbing release."
+    },
+    {
+      "Key": "0x57C6BF25",
+      "Value": "<font color='#340658'>Pleased to Please</font>"
+    },
+    {
+      "Key": "0x1A4302B8",
+      "Value": "Knowing that {0.SimFirstName} brought their partner to orgasm, and coaxed all those tantalizing sounds and movements from them, leaves {M0.him}{F0.her} feeling divine. Sometimes giving is just as good, or even better, than receiving."
     },
     {
       "Key": "0xB3EAB2BF",
@@ -5827,6 +5919,18 @@
     {
       "Key": "0xEDA0C2F4",
       "Value": "Generous Lovers above all focus on their partner's sexual experience to ensure they are satisfied but sometimes at the cost of their own sexual satisfaction."
+    },
+    {
+      "Key": "0x38B40D47",
+      "Value": "Sexually Adventurous"
+    },
+    {
+      "Key": "0x9D418ADC",
+      "Value": "Sexually Adventurous"
+    },
+    {
+      "Key": "0x8A195DB6",
+      "Value": "Sexually Adventurous Sims will not waste the opportunity of an unexpected sexual encounter in the wild."
     },
     {
       "Key": "0x0F7507C2",

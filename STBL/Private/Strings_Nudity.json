@@ -421,6 +421,14 @@
       "Value": "Sims will get naked for massages.\\n<b>Fully Check</b> for Sims to always get naked for massages.\\n<b>Half Check</b> for Sims to sometimes get naked for massages.\\n<b>Uncheck</b> for Sims to never get naked for massages."
     },
     {
+      "Key": "0x1FDCC064",
+      "Value": "Naked After Bath Towel"
+    },
+    {
+      "Key": "0x234A987F",
+      "Value": "Sims will get partially naked after bathing.\\n<b>Fully Check</b> for Sims to always get naked after bathing.\\n<b>Half Check</b> for Sims to sometimes get naked after bathing.\\n<b>Uncheck</b> for Sims to never get naked after bathing."
+    },
+    {
       "Key": "0x543EA76E",
       "Value": "Dress Up for Interaction Outfits"
     },
@@ -909,16 +917,16 @@
       "Value": "Female Body Feet"
     },
     {
-      "Key": "0x543167DD",
-      "Value": "New Default"
-    },
-    {
       "Key": "0xF8C92227",
       "Value": "Default"
     },
     {
       "Key": "0x4922982E",
       "Value": "Default (Textureless)"
+    },
+    {
+      "Key": "0xA0195C40",
+      "Value": "Default Alternative"
     },
     {
       "Key": "0x91F92694",
@@ -1149,56 +1157,12 @@
       "Value": "(From Being Around Naked Sims)"
     },
     {
-      "Key": "0xF954074E",
-      "Value": "<font color='#340658'>Morning Wood</font>"
-    },
-    {
-      "Key": "0xF6A65AA4",
-      "Value": "{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. <i>Knock on wood</i> it gets taken care of soon."
-    },
-    {
-      "Key": "0x7A35453F",
-      "Value": "<font color='#340658'>Morning Dew</font>"
-    },
-    {
-      "Key": "0x7E950972",
-      "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
-    },
-    {
       "Key": "0x7E2A95E8",
       "Value": "<font color='#340658'>Uncomfortable Clothing</font>"
     },
     {
       "Key": "0xA1D6550E",
       "Value": "{0.SimFirstName} is feeling uncomfortable wearing clothing. {M0.He}{F0.She} must be naked. Now."
-    },
-    {
-      "Key": "0x35715025",
-      "Value": "---------- Whims ----------"
-    },
-    {
-      "Key": "0x05301777",
-      "Value": "Admire Yourself Sexually"
-    },
-    {
-      "Key": "0x85EE2242",
-      "Value": "Click on a mirror and select 'Admire Your Body'."
-    },
-    {
-      "Key": "0xD814E42A",
-      "Value": "Get Naked"
-    },
-    {
-      "Key": "0x7DF58EB2",
-      "Value": "Click on your Sim and select any outfit undressing option from Wicked Naturism/Exhibitionism category."
-    },
-    {
-      "Key": "0x536FFA1C",
-      "Value": "Talk About Nudity"
-    },
-    {
-      "Key": "0x1615EB9A",
-      "Value": "Click on a Sim and select any social naturism/exhibitionism option from Wicked Naturism/Exhibitionism category."
     },
     {
       "Key": "0x6DC533A2",
@@ -1329,6 +1293,14 @@
       "Value": "Go Streaking!"
     },
     {
+      "Key": "0xE8EDC2A5",
+      "Value": "Discuss Interest in Naturism"
+    },
+    {
+      "Key": "0x37EB11BC",
+      "Value": "{1.SimFirstName} Is Discussing Interest in Naturism"
+    },
+    {
       "Key": "0x583E5D8C",
       "Value": "Compliment {1.SimFirstName}'s Body"
     },
@@ -1349,6 +1321,30 @@
       "Value": "{1.SimFirstName} Is Expressing Joy Of Nudity"
     },
     {
+      "Key": "0x53FA710D",
+      "Value": "Share the Thrill of Exhibitionism"
+    },
+    {
+      "Key": "0x5AEB939C",
+      "Value": "{1.SimFirstName} Is Sharing Thrill Of Exhibitionism"
+    },
+    {
+      "Key": "0x95C7DFA7",
+      "Value": "Share Appreciation of Nudity"
+    },
+    {
+      "Key": "0x8B49562F",
+      "Value": "{1.SimFirstName} Is Sharing Appreciation of Nudity"
+    },
+    {
+      "Key": "0x4074837B",
+      "Value": "Educate About Nudist Lifestyle"
+    },
+    {
+      "Key": "0x6BA024F7",
+      "Value": "{1.SimFirstName} Is Educating About Nudist Lifestyle"
+    },
+    {
       "Key": "0x23C8B1CD",
       "Value": "Convince to Practice Naturism"
     },
@@ -1359,6 +1355,10 @@
     {
       "Key": "0x20B61951",
       "Value": "{1.SimFirstName} Convinces Me to Practice Nudity"
+    },
+    {
+      "Key": "0xA52CCBCA",
+      "Value": "Uh, that sounds interesting, but I don't think I'm ready to try that yet."
     },
     {
       "Key": "0x70303D14",
@@ -1495,6 +1495,30 @@
     {
       "Key": "0x51F69A09",
       "Value": "Disable Nude Yoga"
+    },
+    {
+      "Key": "0xBE694F90",
+      "Value": "---------- Sleep ----------"
+    },
+    {
+      "Key": "0xA26F597F",
+      "Value": "Enable Nude Sleeping"
+    },
+    {
+      "Key": "0x991B8C6A",
+      "Value": "Disable Nude Sleeping"
+    },
+    {
+      "Key": "0x1F6CA0B3",
+      "Value": "---------- After Bath Towel ----------"
+    },
+    {
+      "Key": "0xBA2CF0E0",
+      "Value": "Use Towel After Bathing"
+    },
+    {
+      "Key": "0x3E3DDFC5",
+      "Value": "Stop Using Towel After Bathing"
     },
     {
       "Key": "0xB1063430",
@@ -1759,6 +1783,186 @@
     {
       "Key": "0x22B6725A",
       "Value": "Adjust {0.SimFirstName} Wicked Attributes"
+    },
+    {
+      "Key": "0xB4F6969A",
+      "Value": "---------- Aspirations ----------"
+    },
+    {
+      "Key": "0x2BBD21EC",
+      "Value": "(From Choosing a Nudity Aspiration)"
+    },
+    {
+      "Key": "0xED21AC33",
+      "Value": "Born Nudist"
+    },
+    {
+      "Key": "0xFE27A894",
+      "Value": "Born Nudist"
+    },
+    {
+      "Key": "0x5B7075AF",
+      "Value": "Born Nudists have an innate appreciation for nudity that allows them to embrace it without shame and live a lifestyle that values nudity as a natural aspect of life."
+    },
+    {
+      "Key": "0x2E7BF7AE",
+      "Value": "Accomplished Nudist"
+    },
+    {
+      "Key": "0x216F7727",
+      "Value": "This Sim wants to embrace the nudist lifestyle and find a sense of fulfillment and comfort in it."
+    },
+    {
+      "Key": "0x9906C9E6",
+      "Value": "(From Completing the Accomplished Nudist Aspiration)"
+    },
+    {
+      "Key": "0xB3A8E39D",
+      "Value": "Being nude in the company of others and sharing the joy of nudity with others is a more enjoyable and fulfilling experience than being nude alone. {0.SimFirstName} has discovered the joys of social nudity and now feels like an Accomplished Nudist, able to encourage others to join {0.SimPronounObjective} in the experience.\\n\\nTrait Earned: Nudist Leader\\nNew Nudity Social Interactions!\\nEnhanced Nudity Social Interactions!\\n\\nNudity Leaders have discovered the joys of social nudity and are very adept at educating and inviting others to learn about and join the nudist lifestyle."
+    },
+    {
+      "Key": "0xF43FA65B",
+      "Value": "Bare Minimum"
+    },
+    {
+      "Key": "0x657562BF",
+      "Value": "Acquire Nudity Enthusiast Wicked Attribute"
+    },
+    {
+      "Key": "0x3C34D8C7",
+      "Value": "Give your Sim the 'Nudity Enthusiast' Wicked Attribute."
+    },
+    {
+      "Key": "0x914114AA",
+      "Value": "Talk about Nudity with Others"
+    },
+    {
+      "Key": "0x5B3A4B1C",
+      "Value": "Click on another Sim and select Nudity social interactions under the Wicked category."
+    },
+    {
+      "Key": "0xCEF5E0BC",
+      "Value": "Achieve Level 2 Nudity Skill"
+    },
+    {
+      "Key": "0x7C1FF546",
+      "Value": "Take off your clothes, and discover the wonderful world of Naturism!"
+    },
+    {
+      "Key": "0xD4E9A012",
+      "Value": "Comfortable In Your Own Skin"
+    },
+    {
+      "Key": "0xAD64085E",
+      "Value": "Be Seen Naked at Home"
+    },
+    {
+      "Key": "0x2A4F9F67",
+      "Value": "Get undressed in a safe place and share your pleasure of nudity with Sims you trust."
+    },
+    {
+      "Key": "0xA11C0CA3",
+      "Value": "Achieve Level 3 Nudity Skill"
+    },
+    {
+      "Key": "0x4A49DEE7",
+      "Value": "Take off your clothes, at a safe place and around Sims you're comfortable with, to get used to the nude life."
+    },
+    {
+      "Key": "0xE48E6A4E",
+      "Value": "Flashing Forward"
+    },
+    {
+      "Key": "0x590C9065",
+      "Value": "Purchase Exhibitionist Reward Store Trait"
+    },
+    {
+      "Key": "0xA736E1A9",
+      "Value": "Purchase your Sim the 'Exhibitionist' Trait from the Reward Store."
+    },
+    {
+      "Key": "0xBDB2838E",
+      "Value": "Be Seen Naked at a Public Place"
+    },
+    {
+      "Key": "0x975B2C3D",
+      "Value": "Travel to any public place, get undressed, and share your pleasure of nudity."
+    },
+    {
+      "Key": "0x2FFE765D",
+      "Value": "Flash a Sim"
+    },
+    {
+      "Key": "0xEB857612",
+      "Value": "Click on another Sim and select Flashing interactions under the Wicked category."
+    },
+    {
+      "Key": "0x5EBBE4CB",
+      "Value": "Only Fans"
+    },
+    {
+      "Key": "0xD1E57AA7",
+      "Value": "Create a SimHub Creator Account"
+    },
+    {
+      "Key": "0x5E75913F",
+      "Value": "Use Phone or Computer to create a SimHub Creator account."
+    },
+    {
+      "Key": "0x428FF14B",
+      "Value": "Gain SimHub Followers"
+    },
+    {
+      "Key": "0xBBA15009",
+      "Value": "Upload Public & Private photos to SimHub every day."
+    },
+    {
+      "Key": "0x9FF29D4E",
+      "Value": "Payout Simoleons from SimHub"
+    },
+    {
+      "Key": "0x9BB77537",
+      "Value": "Use Phone or Computer to Payout earned Simoleons from SimHub."
+    },
+    {
+      "Key": "0x4ADA29BB",
+      "Value": "Unveiling The Naked Truth"
+    },
+    {
+      "Key": "0x538E3DC3",
+      "Value": "Achieve Level 5 Exhibitionist Skill"
+    },
+    {
+      "Key": "0x83595050",
+      "Value": "Take off your clothes and share the nude lifestyle with everybody around."
+    },
+    {
+      "Key": "0x65AF26B1",
+      "Value": "Attempt to Convince a Sim to Nudism"
+    },
+    {
+      "Key": "0xEEA01F99",
+      "Value": "Click on another Sim and select Convincing to Nudity social interactions under the Wicked category."
+    },
+    {
+      "Key": "0xFCA3814F",
+      "Value": "Successfully Ask a Sim to Undress Naked"
+    },
+    {
+      "Key": "0xF54BAE65",
+      "Value": "Click on another Sim and select Ask to Get Undressed social interaction under the Wicked category."
+    },
+    {
+      "Key": "0xEBF179D7",
+      "Value": "Nudist Leader"
+    },
+    {
+      "Key": "0x9046719D",
+      "Value": "Nudist Leader"
+    },
+    {
+      "Key": "0x0F6E1EBB",
+      "Value": "Nudity Leaders have discovered the joys of social nudity and are very adept at educating and inviting others to learn about and join the nudist lifestyle."
     },
     {
       "Key": "0xAB741058",
@@ -2045,6 +2249,10 @@
       "Value": "---------- Flashing ----------"
     },
     {
+      "Key": "0x36B4C889",
+      "Value": "Flash"
+    },
+    {
       "Key": "0x34365938",
       "Value": "Flash Boobs"
     },
@@ -2053,72 +2261,36 @@
       "Value": "Flash Pussy"
     },
     {
-      "Key": "0xED38B4F2",
-      "Value": "Flash Dick"
+      "Key": "0xD06A4E70",
+      "Value": "Flash Penis"
     },
     {
       "Key": "0x439B9F1A",
       "Value": "Flash Butt"
     },
     {
-      "Key": "0x576B25F6",
-      "Value": "Flash Everything"
+      "Key": "0xA8241ECA",
+      "Value": "<font color='#340658'>Flash!</font>"
     },
     {
-      "Key": "0x0B6ED1FD",
-      "Value": "Flashing"
+      "Key": "0xD59E758F",
+      "Value": "{0.SimFirstName}'s heart beats wildly with excitement as {F0.she}{M0.he} brazenly flashes another Sim, relishing in the rush of adrenaline from the daring act."
     },
     {
-      "Key": "0x711A7823",
-      "Value": "Be Flashed by {1.SimFirstName}"
+      "Key": "0x156226BE",
+      "Value": "<font color='#340658'>Unexpected Flash</font>"
     },
     {
-      "Key": "0xFC1E4165",
-      "Value": "Show Off Flashing"
+      "Key": "0x47EAD09C",
+      "Value": "{0.SimFirstName} is left in shock as another Sim flashed their naked body towards them, unsure of how to react to the unexpected and inappropriate behavior."
     },
     {
-      "Key": "0xB086D469",
-      "Value": "Compliment Flashing"
+      "Key": "0x8305977C",
+      "Value": "<font color='#340658'>Unforgettable Flashback</font>"
     },
     {
-      "Key": "0x19DBBC62",
-      "Value": "Disregard Flashing"
-    },
-    {
-      "Key": "0xF5FDC808",
-      "Value": "<font color='#340658'>Flashed a Sim</font>"
-    },
-    {
-      "Key": "0x1BD49A54",
-      "Value": "Sims that are experienced with Exhibitionism get a lot of joy from flashing others."
-    },
-    {
-      "Key": "0x77A6756D",
-      "Value": "Flash a Sim"
-    },
-    {
-      "Key": "0x0005DD74",
-      "Value": "Click on a Sim and select any flashing option from the Wicked Exhibitionism category."
-    },
-    {
-      "Key": "0xC1BF0BD5",
-      "Value": "{0.SimName} flashed her pussy to {1.SimName}."
-    },
-    {
-      "Key": "0x809E1B48",
-      "Value": "{0.SimName} flashed her boobs to {1.SimName}."
-    },
-    {
-      "Key": "0xC124F925",
-      "Value": "{0.SimName} flashed his dick to {1.SimName}."
-    },
-    {
-      "Key": "0xF24149F9",
-      "Value": "{0.SimName} flashed his butt to {1.SimName}."
-    },
-    {
-      "Key": "0x005802F5",
-      "Value": "{0.SimName} flashed everything to {1.SimName}."
+      "Key": "0xEF784F69",
+      "Value": "{0.SimFirstName} feels a rush of pleasure as another Sim flashes their naked body towards them, reveling in the unexpected yet welcome display of deviance."
     },
     {
       "Key": "0x702399C0",
@@ -3413,6 +3585,14 @@
       "Value": "Sell Peeping Pictures"
     },
     {
+      "Key": "0xE4093C07",
+      "Value": "Enable Window for Peeping"
+    },
+    {
+      "Key": "0xF2E07FF4",
+      "Value": "Disable Window for Peeping"
+    },
+    {
       "Key": "0xEA90054F",
       "Value": "Window Peeping Enthusiast"
     },
@@ -3561,16 +3741,32 @@
       "Value": "Display Reference Data"
     },
     {
-      "Key": "0x8D8A7C6E",
-      "Value": "SimHub Rating: {0.Number}%"
+      "Key": "0xD3B2928C",
+      "Value": "<b>SimHub Rating:</b> {0.Number}%\\n • <b>Freshness:</b> {1.String}\\n • <b>Tags:</b> {2.String}"
+    },
+    {
+      "Key": "0x7EB9E9D5",
+      "Value": "New"
+    },
+    {
+      "Key": "0x37221D48",
+      "Value": "Fading"
+    },
+    {
+      "Key": "0xA3EE0294",
+      "Value": "Old"
     },
     {
       "Key": "0xD59F9D85",
       "Value": "SimHub"
     },
     {
-      "Key": "0x68686315",
-      "Value": "Create a SimHub Account..."
+      "Key": "0x20C008AD",
+      "Value": "Create a SimHub Creator Account..."
+    },
+    {
+      "Key": "0x4217BEE4",
+      "Value": "Recover SimHub Creator Account..."
     },
     {
       "Key": "0x639F3D3D",
@@ -3581,20 +3777,28 @@
       "Value": "Enter your SimHub account username."
     },
     {
-      "Key": "0x4C4FBBE4",
-      "Value": "Created SimHub Account"
+      "Key": "0x5CD146DC",
+      "Value": "Created SimHub Creator Account"
     },
     {
-      "Key": "0x0FA875AC",
-      "Value": "Welcome to SimHub @{1.String}, the world's leading porn site.\\n\\nWe're glad to have you on board and want to share with you some tips on how to being.\\n\\nAs a new member, you will have to gain popularity by sharing spicy pictures of yourself to the public.\\nGenerating interest with public pictures attracts users who are willing to pay for more.\\nSharing private pictures keeps your paying members engaged and makes your profile worth supporting.\\nThe bigger you grow, the more money you earn. Jump out of your clothes and start sending us your pictures.\\n\\nWe will be sending you more tips on what is currently hot with our community to help you boost your popularity!"
+      "Key": "0x475C79FA",
+      "Value": "Welcome to SimHub @{1.String}, the world's leading adult content service!\\n\\nWe're glad to have you on board and want to share with you some tips on how to begin running your brand new creator account!\\n\\nAs a new creator, you will have to gain public popularity by sharing spicy pictures for everyone to discover.\\nGenerating interest with public pictures attracts new users who are willing to pay for exclusive unique content.\\nSharing pictures with subscribers keeps your paying members engaged and makes your account worth supporting.\\nThe bigger you grow, the more money you earn. Jump out of your clothes and start sending us some sexy content.\\n\\nRemember to Check your Dashboard daily if you want to receive information on what is currently hot with our community.\\n\\n<i>To take Private Pictures you can share, click on a naked Sim or Sim having sex and go to Wicked -> Take Photo.</i>"
     },
     {
-      "Key": "0xD24B01B4",
-      "Value": "Shut Down Account"
+      "Key": "0x96204E49",
+      "Value": "Recovered SimHub Creator Account"
     },
     {
-      "Key": "0xF1739848",
-      "Value": "Account @{1.String} has been shut down and all content associated with it has been deleted as well.\\nAlthough some of {0.SimFirstName}'s pictures are still lingering in the depths of the internet, {M0.he}{F0.she} can create a new SimHub account and start fresh."
+      "Key": "0x0F968173",
+      "Value": "Welcome Back to SimHub @{1.String}, we're sorry you have been experiencing problems with your account.\\n\\nGood News! Your account has been partially recovered! Your last followers count, subscribers, and payout amount are back!\\n\\n<i>Hopefully this issue wasn't caused by you deleting any files, especially any complex save data files.</i>"
+    },
+    {
+      "Key": "0x4D69764C",
+      "Value": "Shut Down Creator Account"
+    },
+    {
+      "Key": "0xFEAA6250",
+      "Value": "Creator account @{1.String} has been shut down and all content associated with it has been deleted as well.\\nAlthough some of {0.SimFirstName}'s pictures are still lingering in the depths of the internet, {M0.he}{F0.she} can create a new SimHub creator account and start fresh."
     },
     {
       "Key": "0xF8A8561B",
@@ -3637,20 +3841,20 @@
       "Value": "{0.SimFirstName}'s newly taken photo looks really good, and {M0.he}{F0.she} just KNOWS it will take off on SimHub."
     },
     {
-      "Key": "0xF2105411",
-      "Value": "Upload Public Photo"
+      "Key": "0x1E2498CE",
+      "Value": "Upload Photo to Public"
     },
     {
       "Key": "0xBA706081",
       "Value": "Uploads this photo to your SimHub profile available for everybody to see."
     },
     {
-      "Key": "0x9F7273D1",
-      "Value": "Upload Private Photo"
+      "Key": "0xCC3E1DA8",
+      "Value": "Upload Photo to Subscribers"
     },
     {
-      "Key": "0x73FF875A",
-      "Value": "Uploads this photo to your SimHub profile available only for your supporters."
+      "Key": "0x83579A1C",
+      "Value": "Uploads this photo to your SimHub profile available only for your subscribers."
     },
     {
       "Key": "0x870B3B1A",
@@ -3661,36 +3865,36 @@
       "Value": "This photo has already been uploaded."
     },
     {
-      "Key": "0x785399DB",
-      "Value": "Your public picture has been successfully uploaded to SimHub. Give it a few hours for users to notice it.\\n\\n<i>Sending pictures with trending topics to public increases your profile popularity which helps you gain supporters.</i>"
+      "Key": "0x1481832F",
+      "Value": "You need a SimHub Creator account to upload photos."
     },
     {
-      "Key": "0xDDD6BA51",
-      "Value": "Your public picture has been successfully uploaded to SimHub.\\n\\n<i>Note that sharing very similar pictures in a short period of time will slow down your growth.</i>"
+      "Key": "0xBE520999",
+      "Value": "Your photo has been successfully uploaded to SimHub. Check your Dashboard tomorrow to see how many followers you gained.\\n\\nPhotos uploaded to public are available for everybody to see and increase your overall popularity by bringing in new followers.\\n\\n<i>Try checking out your SimHub Dashboard to receive information about recent trends that will speed up your account growth.</i>"
     },
     {
-      "Key": "0xCE5EB314",
-      "Value": "Your private picture has been successfully uploaded to SimHub. That should keep your supporters satisfied.\\n\\n<i>Sending pictures with trending topics to private helps retain your supporters.</i>"
+      "Key": "0xD14E7F83",
+      "Value": "Your photo has been successfully uploaded to SimHub.\\n\\nPhotos uploaded to public are available for everybody to see and increase your overall popularity by bringing in new followers.\\n\\n<i>Note that sharing very similar photos in a short period of time will have a negative effect on your account growth.</i>"
     },
     {
-      "Key": "0x898199CD",
-      "Value": "Your private picture has been successfully uploaded to SimHub.\\n\\n<i>Note that sharing very similar pictures in a short period of time will slow down your growth.</i>"
+      "Key": "0xC82D8B8F",
+      "Value": "Your photo has been successfully uploaded to SimHub.\\n\\nPhotos uploaded to public are available for everybody to see and increase your overall popularity by bringing in new followers.\\n\\n<i>Make sure to stay relevant and fresh, stockpiling on pictures or uploading old pictures is not advised.</i>"
     },
     {
-      "Key": "0x2E106BDD",
-      "Value": "Uh oh, looks like the uploaded photo was automatically removed by SimHub.\\nIt's hard to tell why, the Terms and Conditions of SimHub are as long as the 'Fifty Shades of CAS' catalog, so there is no way {0.SimFirstName} will ever know."
+      "Key": "0x5BA7343C",
+      "Value": "Your photo has been successfully uploaded to your SimHub Active Subscribers. Check your Dashboard tomorrow to see how many subscribers you gained.\\n\\nPhotos uploaded to subscribers keep them satisfied and help grow the number of active subscribers.\\n\\n<i>Try checking out your SimHub Dashboard to receive information about recent trends to assure subscribers receive the best quality content.</i>"
     },
     {
-      "Key": "0x3ADE41C7",
-      "Value": "Check Analytics"
+      "Key": "0x212BD03A",
+      "Value": "Your photo has been successfully uploaded to your SimHub Active Subscribers.\\n\\nPhotos uploaded to subscribers keep them satisfied and help grow the number of active subscribers.\\n\\n<i>Note that sharing very similar photos in a short period of time will decrease the number of active subscribers.</i>"
     },
     {
-      "Key": "0x6654BF41",
-      "Value": "SimHub Analytics"
+      "Key": "0x9CD93F7E",
+      "Value": "Your photo has been successfully uploaded to your SimHub Active Subscribers. Check your Dashboard tomorrow to see how many subscribers you gained.\\n\\nPhotos uploaded to subscribers keep them satisfied and help grow the number of active subscribers.\\n\\n<i>Make sure to stay relevant and fresh, stockpiling on pictures or uploading old pictures is not advised.</i>"
     },
     {
-      "Key": "0xF509E932",
-      "Value": "{0.SimFirstName} squints at the only available graph on {M0.his}{F0.her} SimHub profile and notices {M0.he}{F0.she} gained {2.Number} new supporter{P2.s} and lost {3.Number} supporter{P3.s} in the last 24 hours.\\n\\nThe @{1.String} account currently has {4.Number} supporter{P4.s} and is earning {5.Number} Simoleon{P4.s} in a day.\\n\\n{0.SimFirstName} should soon receive a message from SimHub with helpful tips on how to grow {M0.his}{F0.her} profile."
+      "Key": "0xA61242DB",
+      "Value": "Check Creator Dashboard"
     },
     {
       "Key": "0x0CBCB52C",
@@ -3701,12 +3905,32 @@
       "Value": "There's nothing to pay out."
     },
     {
-      "Key": "0x3385E767",
-      "Value": "SimHub Payout"
+      "Key": "0x6D128129",
+      "Value": "SimHub Dashboard"
     },
     {
-      "Key": "0x38CD7C4D",
-      "Value": "{0.SimFirstName} has earned §{2.Number} from {M0.his}{F0.her} @{1.String} SimHub account. Use a Computer to payout your earnings.\\n\\n<i>Note that trending topics have changed and Checking Analytics is advised.</i>"
+      "Key": "0x677034FE",
+      "Value": "Hey @{1.String}!\\n\\nHere's your current creator account status.\\nPayout available to withdraw: <b>{2.Money}</b>\\nBenefit Points: <b>★{3.Number}</b>\\nActive Subscribers: <b>{4.Number}</b>\\nFollowers: <b>{5.Number}</b>\\n\\nHere's your previous day performance.\\nEarnings: <b>§{6.String}</b>\\nBenefit Points: <b>★{7.String}</b>\\nActive Subscribers: <b>{8.String}</b>\\nFollowers: <b>{9.String}</b>"
+    },
+    {
+      "Key": "0x9AA88B7A",
+      "Value": "SimHub Update"
+    },
+    {
+      "Key": "0xE7AF8F6C",
+      "Value": "Hey @{1.String}, here's your daily creator update.\\nEarnings: <b>§{2.String}</b> (Total: {3.Money})\\nBenefit Points: <b>★{4.String}</b>\\nActive Subscribers: <b>{5.String}</b>\\nFollowers: <b>{6.String}</b>"
+    },
+    {
+      "Key": "0x370CC7F7",
+      "Value": "<font color='#3AAF69'>+{0.Number}</font>"
+    },
+    {
+      "Key": "0xECFE4D0B",
+      "Value": "<font color='#A12E31'>{0.Number}</font>"
+    },
+    {
+      "Key": "0x3385E767",
+      "Value": "SimHub Payout"
     },
     {
       "Key": "0x4EAE212B",
@@ -3717,8 +3941,8 @@
       "Value": "Read & Like Comments"
     },
     {
-      "Key": "0x0054F782",
-      "Value": "{0.SimFirstName} just read the comments."
+      "Key": "0x1BD66025",
+      "Value": "{0.SimFirstName} read comments recently."
     },
     {
       "Key": "0x76D0DD5B",
@@ -3731,6 +3955,258 @@
     {
       "Key": "0x23445E18",
       "Value": "Looks like there are no comments to read on {0.SimFirstName}'s profile. That's odd."
+    },
+    {
+      "Key": "0xB48F45E3",
+      "Value": "Benefits"
+    },
+    {
+      "Key": "0x43992D74",
+      "Value": "This benefit is already active."
+    },
+    {
+      "Key": "0x98066DB8",
+      "Value": "Not enough Benefit Points to activate."
+    },
+    {
+      "Key": "0x82664654",
+      "Value": "Your followers count is too low."
+    },
+    {
+      "Key": "0x6A6F1AC0",
+      "Value": "Hey @{1.String}, make sure to check out the Benefits section of SimHub. Using Benefit Points (★) you can activate benefits that will help you grow your following and earn more money."
+    },
+    {
+      "Key": "0x8B6FF012",
+      "Value": "Insider Contact Suspension Removal (Cost: 5★)"
+    },
+    {
+      "Key": "0xE83A3A37",
+      "Value": "Hey @{1.String}, we're sorry to inform you that your creator account has been suspended for the next 24 hours.\\n\\nSuspension Reason: Unspecified\\n<i>Read SimHub's Community Guidelines to learn more.</i>\\n\\nIf you believe this is a mistake, please contact us at noreply@simhub.cc."
+    },
+    {
+      "Key": "0x4BE76417",
+      "Value": "Hey @{1.String}, your creator account is no longer suspended! Welcome back to SimHub!\\n\\nAt SimHub, we pride ourselves on providing our community with the highest level of quality in all of our products and services. We hope that the suspension period has given you time to review and understand our Community Guidelines better. We are looking forward to your continued engagement with our platform. Thank you for choosing SimHub.\\n\\nIf you have any questions, please contact us at noreply@simhub.cc."
+    },
+    {
+      "Key": "0x8DBA35AE",
+      "Value": "Your SimHub creator account is currently suspended."
+    },
+    {
+      "Key": "0x12DC2535",
+      "Value": "Your SimHub creator account is not suspended."
+    },
+    {
+      "Key": "0xA4AD1D73",
+      "Value": "Temporary Photos Rating Boost (Cost: 10★)"
+    },
+    {
+      "Key": "0x5F0AE365",
+      "Value": "Hey @{1.String}, good news! Every new snapped and uploaded photo on your account will be boosted for the next 36 hours. We're looking forward to seeing your new photos!"
+    },
+    {
+      "Key": "0x57B44FA8",
+      "Value": "Limited Time Sponsored Bounty (Cost: 10★)"
+    },
+    {
+      "Key": "0xE0D893D4",
+      "Value": "Hey @{1.String}, we have an exciting opportunity for you to earn extra money by visiting the <b>{2.String}</b> location at <b>{3.String}</b> ({4.String}) and taking a sexy photo at the venue.\\nBy visiting {2.String} and capturing the energy and atmosphere of the location (with you included of course), you will be helping to promote the place and attract more visitors.\\n\\nDon't miss out on this opportunity to earn extra money while doing something you love. We look forward to seeing your publicly shared submission!"
+    },
+    {
+      "Key": "0xD1FCC133",
+      "Value": "Hey @{1.String}, we're unsure what happened, but looks like all businesses have closed. There's no gyms, pools, relaxation centers, bars, night clubs, or strip clubs anywhere. We're unable to get you a sponsorship bounty."
+    },
+    {
+      "Key": "0x96C37467",
+      "Value": "Hey @{1.String}! Thank you for sharing your #Sponsored photo! {2.Money} has been transferred to your account."
+    },
+    {
+      "Key": "0xCD03A2C6",
+      "Value": "#NoTags"
+    },
+    {
+      "Key": "0x7FEC049E",
+      "Value": "#NonNaked"
+    },
+    {
+      "Key": "0x6985A128",
+      "Value": "#Topless"
+    },
+    {
+      "Key": "0xA041998E",
+      "Value": "#Bottomless"
+    },
+    {
+      "Key": "0x6CCCBA5E",
+      "Value": "#Tanned"
+    },
+    {
+      "Key": "0x72DDEE1E",
+      "Value": "#TanLines"
+    },
+    {
+      "Key": "0xCD2ADFB1",
+      "Value": "#Sweaty"
+    },
+    {
+      "Key": "0x531BC141",
+      "Value": "#Underwear"
+    },
+    {
+      "Key": "0x9AEF1859",
+      "Value": "#Swimwear"
+    },
+    {
+      "Key": "0xD666D228",
+      "Value": "#Tattoos"
+    },
+    {
+      "Key": "0xEB377A95",
+      "Value": "#Freckles"
+    },
+    {
+      "Key": "0x54DE95E2",
+      "Value": "#Piercings"
+    },
+    {
+      "Key": "0x48B9B6DC",
+      "Value": "#BodyHair"
+    },
+    {
+      "Key": "0x9A6B74FE",
+      "Value": "#Muscles"
+    },
+    {
+      "Key": "0x8F4ED2B3",
+      "Value": "#Butt"
+    },
+    {
+      "Key": "0xCCDB3D7B",
+      "Value": "#Boobs"
+    },
+    {
+      "Key": "0x62084A23",
+      "Value": "#Penis"
+    },
+    {
+      "Key": "0xE386F9DB",
+      "Value": "#Pregnant"
+    },
+    {
+      "Key": "0xC52427CF",
+      "Value": "#Famous"
+    },
+    {
+      "Key": "0x66A167B1",
+      "Value": "#Skeleton"
+    },
+    {
+      "Key": "0x765380CD",
+      "Value": "#Servo"
+    },
+    {
+      "Key": "0x44F200E2",
+      "Value": "#Sick"
+    },
+    {
+      "Key": "0xD2AD87A4",
+      "Value": "#Teen"
+    },
+    {
+      "Key": "0x8B25A3EA",
+      "Value": "#Elder"
+    },
+    {
+      "Key": "0x25886C4A",
+      "Value": "#Outdoor"
+    },
+    {
+      "Key": "0xCE0FCB6B",
+      "Value": "#Beach"
+    },
+    {
+      "Key": "0x598169BB",
+      "Value": "#Gym"
+    },
+    {
+      "Key": "0x23948E38",
+      "Value": "#Spa"
+    },
+    {
+      "Key": "0x96C61EAC",
+      "Value": "#Stripclub"
+    },
+    {
+      "Key": "0x502B342A",
+      "Value": "#SexyFun"
+    },
+    {
+      "Key": "0x74E4A266",
+      "Value": "#Handjob"
+    },
+    {
+      "Key": "0xC44E9213",
+      "Value": "#Footjob"
+    },
+    {
+      "Key": "0x3EF65B03",
+      "Value": "#Oraljob"
+    },
+    {
+      "Key": "0xE12E3198",
+      "Value": "#Penetrated"
+    },
+    {
+      "Key": "0x7EAFB65E",
+      "Value": "#Anal"
+    },
+    {
+      "Key": "0x55053AB8",
+      "Value": "#Climax"
+    },
+    {
+      "Key": "0x4F73868D",
+      "Value": "#Solo"
+    },
+    {
+      "Key": "0xC176D9A2",
+      "Value": "#Threesome"
+    },
+    {
+      "Key": "0x9DB72693",
+      "Value": "#Orgy"
+    },
+    {
+      "Key": "0x9AD86B1F",
+      "Value": "#Gay"
+    },
+    {
+      "Key": "0xDC852E54",
+      "Value": "#Lesbian"
+    },
+    {
+      "Key": "0x4BD588AA",
+      "Value": "#Straight"
+    },
+    {
+      "Key": "0x9DC0424B",
+      "Value": "#CokedUp"
+    },
+    {
+      "Key": "0xA0DA4CD0",
+      "Value": "#High"
+    },
+    {
+      "Key": "0x96F77B56",
+      "Value": "#Wasted"
+    },
+    {
+      "Key": "0x21A65458",
+      "Value": "#Boosted"
+    },
+    {
+      "Key": "0x46099103",
+      "Value": "#Sponsored"
     },
     {
       "Key": "0x934EBEC6",
@@ -7263,6 +7739,10 @@
     {
       "Key": "0xECF6EC79",
       "Value": "Remove Clothing Changing Block"
+    },
+    {
+      "Key": "0x220DBAB9",
+      "Value": "Change Into Work Outfit"
     },
     {
       "Key": "0x62F967BC",
