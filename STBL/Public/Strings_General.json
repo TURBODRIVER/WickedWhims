@@ -89,6 +89,10 @@
       "Value": "Game saved, a new save slot with name '{0.String}' has been created."
     },
     {
+      "Key": "0x4EF8829D",
+      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
+    },
+    {
       "Key": "0xDD42329B",
       "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data files were altered by external sources are now corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
     },
@@ -525,6 +529,22 @@
       "Value": "Take Away All Sims Wicked Attributes"
     },
     {
+      "Key": "0xED308368",
+      "Value": "Sex Attributes"
+    },
+    {
+      "Key": "0x2A11A319",
+      "Value": "Nudity Attributes"
+    },
+    {
+      "Key": "0xAE1BB032",
+      "Value": "Relationship Attributes"
+    },
+    {
+      "Key": "0x71C828CC",
+      "Value": "Miscellaneous Attributes"
+    },
+    {
       "Key": "0x0EDF0CFF",
       "Value": "Wicked Attributes"
     },
@@ -547,6 +567,18 @@
     {
       "Key": "0xD7E18CBD",
       "Value": "{0.SimFirstName} now has the {1.String} attribute.\\n\\n{2.String}"
+    },
+    {
+      "Key": "0x940BED3F",
+      "Value": "{0.SimFirstName} already has this attribute."
+    },
+    {
+      "Key": "0xBE342D85",
+      "Value": "This attribute conflicts with the {0.String} trait/attribute."
+    },
+    {
+      "Key": "0x708BD356",
+      "Value": "This attribute is not available to {0.SimFirstName}."
     },
     {
       "Key": "0x2B6F9DDB",
@@ -627,6 +659,10 @@
     {
       "Key": "0x65377FCA",
       "Value": "Select Male Sims"
+    },
+    {
+      "Key": "0x354613CF",
+      "Value": "Select Nonbinary Sims"
     },
     {
       "Key": "0xE2C1EBF0",
@@ -919,6 +955,14 @@
     {
       "Key": "0xF7E7CD73",
       "Value": "Include All Sims of Female gender in this Protocol."
+    },
+    {
+      "Key": "0x88134E00",
+      "Value": "Nonbinary Gender Sims"
+    },
+    {
+      "Key": "0x9D88363D",
+      "Value": "Include All Sims of Nonbinary gender in this Protocol."
     },
     {
       "Key": "0x3005984C",

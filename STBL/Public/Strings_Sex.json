@@ -25,76 +25,44 @@
       "Value": "This setting requires restarting the game to take full effect!\\n\\nSave and restart for this setting to work."
     },
     {
-      "Key": "0xBB828BC1",
-      "Value": "Sex Interaction Settings"
-    },
-    {
-      "Key": "0x8538DEF2",
-      "Value": "Change sex interaction related settings."
-    },
-    {
-      "Key": "0xF1534AEC",
-      "Value": "Sex Switch"
+      "Key": "0x792D6400",
+      "Value": "Sex Gameplay Switch"
     },
     {
       "Key": "0x34689221",
       "Value": "Check to allow Sims to participate in sex interactions."
     },
     {
-      "Key": "0x3D882EBC",
-      "Value": "Discreet Sex Mode"
+      "Key": "0xBB828BC1",
+      "Value": "Sex Interaction Settings"
     },
     {
-      "Key": "0x8A86A69B",
-      "Value": "Check to only display sex interactions on objects when the played Sim is talking with someone available to have sex.\\n\\n(This doesn't affect bed objects.)"
+      "Key": "0x42E64D1B",
+      "Value": "Settings related to the accessibility, actions, and behaviors of sex interactions and sex animations."
     },
     {
-      "Key": "0x75193B84",
-      "Value": "Multiple Sims Start Switch"
+      "Key": "0x414BC0C0",
+      "Value": "Teen Sex Switch"
     },
     {
-      "Key": "0x526BA592",
-      "Value": "Check to allow starting sex with multiple Sims at once.\\nUncheck to only allow starting sex alone or with one other Sim."
+      "Key": "0xF29A4A80",
+      "Value": "Check to allow teen age Sims to participate in sex interactions."
     },
     {
-      "Key": "0x15BB7E21",
-      "Value": "Auto Silence Phone During Sex"
+      "Key": "0xC823D889",
+      "Value": "Sex Duration Settings"
     },
     {
-      "Key": "0x0289438D",
-      "Value": "Check to automatically silence Sim phone during sex."
-    },
-    {
-      "Key": "0xE6E75D8F",
-      "Value": "Categorize Animation Authors"
-    },
-    {
-      "Key": "0xAB996C37",
-      "Value": "Check to display the list of animations authors when selecting sex animations.\\nUncheck to display all sex animations at once."
-    },
-    {
-      "Key": "0x7E68095C",
-      "Value": "Animations Sorting Button Position"
-    },
-    {
-      "Key": "0xB06AA36B",
-      "Value": "Check to display the Animations Sorting Button on the top of the animations list.\\nUncheck to display the Animations Sorting Button on the bottom of the animations list."
-    },
-    {
-      "Key": "0x863EB150",
-      "Value": "Sex Progression Settings"
-    },
-    {
-      "Key": "0xC5E8C4CD",
-      "Value": "Change behavior of sex animations progression."
+      "Key": "0xE80E2086",
+      "Value": "Settings related to the duration of sex and how sex ends."
     },
     {
       "Key": "0x896139BB",
       "Value": "Player Sex Duration"
     },
     {
-      "Key": "0xB10B3951",
-      "Value": "Player Sex Interaction duration related settings."
+      "Key": "0xCA49C157",
+      "Value": "Settings related to adjusting duration of sex interactions that include playable Sims."
     },
     {
       "Key": "0xDDAA6306",
@@ -117,8 +85,8 @@
       "Value": "Time Limit & Climax Finish"
     },
     {
-      "Key": "0xE6F4D5F1",
-      "Value": "Sex ends after a climax sex animation finishes or after duration in realtime minutes.\\n(Default: 3)"
+      "Key": "0x4BE1FB44",
+      "Value": "Sex ends after a climax sex animation finishes or after duration in realtime minutes."
     },
     {
       "Key": "0xC33EF4A8",
@@ -129,12 +97,44 @@
       "Value": "Sex interaction duration in realtime minutes.\\n(Default: 3)"
     },
     {
-      "Key": "0x1FD54219",
-      "Value": "Sex Progression Type"
+      "Key": "0xB01BFB9D",
+      "Value": "NPC Sex Duration"
     },
     {
-      "Key": "0xD9D91975",
-      "Value": "Choose the type of sex animations progression."
+      "Key": "0x7B8FA983",
+      "Value": "NPC only sex interaction duration in realtime minutes.\\n(Default: 3)"
+    },
+    {
+      "Key": "0xFBDE5ECA",
+      "Value": "Dynamic Sex Duration Padding"
+    },
+    {
+      "Key": "0x37328383",
+      "Value": "Check to allow sex duration to be extended when manually changing playing sex animations if the currently playing sex animation didn't play for longer than a few seconds."
+    },
+    {
+      "Key": "0x19A5158D",
+      "Value": "Sexual Stamina Motive Switch"
+    },
+    {
+      "Key": "0xE62FE5EC",
+      "Value": "Check to display Sexual Stamina motive bar in place of the Social motive bar during sex.\\nUncheck to keep the Social motive bar unchanged during sex."
+    },
+    {
+      "Key": "0x863EB150",
+      "Value": "Sex Progression Settings"
+    },
+    {
+      "Key": "0x7E2B1362",
+      "Value": "Settings related to behavior of sex animations progression."
+    },
+    {
+      "Key": "0x844187F0",
+      "Value": "Sex Animations Progression"
+    },
+    {
+      "Key": "0xD8A2E295",
+      "Value": "Choose the behavior of how sex animations will progress."
     },
     {
       "Key": "0xC92EBB73",
@@ -145,36 +145,28 @@
       "Value": "Sex animations will not change on their own."
     },
     {
-      "Key": "0xFA1DD9E3",
-      "Value": "Stage Only Sex Progression"
+      "Key": "0x255DBB06",
+      "Value": "Sequence Only Sex Progression"
     },
     {
-      "Key": "0x7A051765",
-      "Value": "Sex animations will only change to animations that are in their stage list."
+      "Key": "0x19B4128B",
+      "Value": "Sex animations will only change to animations according to the predefined by the author sequence."
     },
     {
       "Key": "0x2F4FDFBA",
       "Value": "Full Sex Progression"
     },
     {
-      "Key": "0x5DE2C1D9",
-      "Value": "Sex animations will change according to their stage list and continue afterwards."
+      "Key": "0x7796CBF4",
+      "Value": "Sex animations will change according to the predefined by the author sequence and continue afterwards with a fitting random choice."
     },
     {
       "Key": "0x4BD9F79C",
       "Value": "Random Sex Progression"
     },
     {
-      "Key": "0xC3723CCC",
-      "Value": "Sex animations will always change to a random available animation."
-    },
-    {
-      "Key": "0x46E3CBC2",
-      "Value": "Sex Progression Key Shortcut"
-    },
-    {
-      "Key": "0xDB139EF2",
-      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: Q)"
+      "Key": "0x13A01103",
+      "Value": "Sex animations will always change to a random fitting choice."
     },
     {
       "Key": "0x88379669",
@@ -185,6 +177,14 @@
       "Value": "Progression to the next sex animation category has to be allowed by the user."
     },
     {
+      "Key": "0x04DB0D38",
+      "Value": "Prevent Early Climax Progression"
+    },
+    {
+      "Key": "0x135966B7",
+      "Value": "Check to prevent sex animations progressing into climax animations too early in the sex interaction."
+    },
+    {
       "Key": "0x0EA8DF84",
       "Value": "Continue Progression After Climax"
     },
@@ -193,76 +193,188 @@
       "Value": "Check to allow sex animations progression to continue after playing a climax animation."
     },
     {
-      "Key": "0xFBDE5ECA",
-      "Value": "Dynamic Sex Duration Padding"
+      "Key": "0x5B6FCE2F",
+      "Value": "Sex Progression Key Shortcut (Experimental)"
     },
     {
-      "Key": "0x68DC4430",
-      "Value": "Check to allow sex duration to extend when actively interacting with involved in sex Sims."
+      "Key": "0xDB139EF2",
+      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: Q)"
     },
     {
       "Key": "0x69C596E4",
       "Value": "Sex Outfit Settings"
     },
     {
-      "Key": "0xAF546FDD",
-      "Value": "Change Sims outfits behavior in sex."
+      "Key": "0x0A2B1F13",
+      "Value": "Settings related to Sims outfit behavior during sex."
     },
     {
-      "Key": "0x29B4D512",
-      "Value": "Sims Undressing Type"
+      "Key": "0xEACB6A2E",
+      "Value": "Playable Sims Undressing Behavior"
     },
     {
-      "Key": "0xF8E2FBF5",
-      "Value": "Choose the type of undressing behavior Sims will follow during sex."
+      "Key": "0x0134B577",
+      "Value": "Choose the behavior of undressing playable Sims will follow during sex."
     },
     {
       "Key": "0x258EB493",
       "Value": "NPC Sims Undressing Type"
     },
     {
-      "Key": "0x55954230",
-      "Value": "Choose the type of undressing behavior NPC Sims will follow during sex."
+      "Key": "0xC503F8FA",
+      "Value": "Choose the behavior of undressing NPC Sims will follow during sex."
     },
     {
       "Key": "0x0A2E11EE",
       "Value": "Disable Undressing"
     },
     {
-      "Key": "0x52B3BB0B",
-      "Value": "Sims in sex will not undress automatically."
+      "Key": "0x3B33AA47",
+      "Value": "Sims during sex will not undress automatically and require manual undressing."
     },
     {
       "Key": "0x6389B96F",
       "Value": "Auto Undressing"
     },
     {
-      "Key": "0x8CC033AD",
-      "Value": "Sims in sex will undress automatically according to the sex animations configuration."
+      "Key": "0x5B260DEB",
+      "Value": "Sims during sex will undress automatically according to the sex animation author."
     },
     {
       "Key": "0x42E3745F",
       "Value": "Complete Undressing"
     },
     {
-      "Key": "0xFD11D2AA",
-      "Value": "Sims in sex will always undress completely."
+      "Key": "0x04345274",
+      "Value": "Sims during sex will always completely undress."
     },
     {
       "Key": "0xC0F3FC63",
       "Value": "Auto Dress Up After Sex"
     },
     {
-      "Key": "0x1C4A982B",
-      "Value": "Sims dressing up behavior after sex.\\n<b>Fully Check</b> for Sims to always dress up after sex.\\n<b>Half Check</b> for Sims to dress up after sex when outdoors.\\n<b>Uncheck</b> for Sims to never dress up after sex."
+      "Key": "0x14432492",
+      "Value": "Sims dressing up behavior after sex.\\n<b>Fully Check</b> for Sims to always dress up after sex.\\n<b>Half Check</b> for Sims to dress up after sex depending on the location and situation.\\n<b>Uncheck</b> for Sims to never dress up after sex."
+    },
+    {
+      "Key": "0x21D99827",
+      "Value": "Gender Recognition Settings"
+    },
+    {
+      "Key": "0xCED19A59",
+      "Value": "Settings related to Sims gender recognition for sex animations."
+    },
+    {
+      "Key": "0xD90FB8FC",
+      "Value": "Gender Recognition Behavior"
+    },
+    {
+      "Key": "0x83D9F0E0",
+      "Value": "Choose the behavior of how Sims gender is recognized by sex animations."
+    },
+    {
+      "Key": "0x9981B189",
+      "Value": "Sex Identity Based"
+    },
+    {
+      "Key": "0xEED9FC53",
+      "Value": "Select to recognize Sims gender by biological CAS selection, Male or Female."
+    },
+    {
+      "Key": "0x22AAE08E",
+      "Value": "Gender Identity Based"
+    },
+    {
+      "Key": "0xE202FD32",
+      "Value": "Select to recognize Sims gender by Personalization Anatomy Genitals choice. Has Penis or Has Vagina."
+    },
+    {
+      "Key": "0x2728D93C",
+      "Value": "Anything Goes"
+    },
+    {
+      "Key": "0xFE2F62DF",
+      "Value": "Select to not recognize Sims gender at all. Any sex animation fit any Sim."
+    },
+    {
+      "Key": "0xCE03F83B",
+      "Value": "Redefine Female Gender Role As Accessible for All"
+    },
+    {
+      "Key": "0x1CA4A12C",
+      "Value": "Check to redefine female gender actor roles to be accessible for all Sims.\\n(allows male Sims to play female roles)"
+    },
+    {
+      "Key": "0x8A1F6E3E",
+      "Value": "Redefine Male Gender Role As Accessible for All"
+    },
+    {
+      "Key": "0xBAC148F6",
+      "Value": "Check to redefine male gender actor roles to be accessible for all Sims.\\n(allow female Sims to play male roles)"
+    },
+    {
+      "Key": "0xECEA25EC",
+      "Value": "Advanced Gender Settings"
+    },
+    {
+      "Key": "0xC52603A4",
+      "Value": "Advanced settings for gender recognition."
+    },
+    {
+      "Key": "0xAB3011E9",
+      "Value": "\"Both\" Gender Role As Specific Recognition"
+    },
+    {
+      "Key": "0xF67207AE",
+      "Value": "Choose the type of sex animation gender role the \"Both\" gender role will be recognized as."
+    },
+    {
+      "Key": "0x4809946D",
+      "Value": "Default"
+    },
+    {
+      "Key": "0xED984656",
+      "Value": "Select to keep the default sex animation gender roles behavior."
+    },
+    {
+      "Key": "0x52487BDE",
+      "Value": "Both As Male Role"
+    },
+    {
+      "Key": "0xD9B843FE",
+      "Value": "Select to recognize \"Both\" as Male gender role."
+    },
+    {
+      "Key": "0xA039FD89",
+      "Value": "Both As Female Role"
+    },
+    {
+      "Key": "0x6396805D",
+      "Value": "Select to recognize \"Both\" as Female gender role."
+    },
+    {
+      "Key": "0x16F11D0D",
+      "Value": "Ignore Occult Genders Restrictions"
+    },
+    {
+      "Key": "0x05E05E62",
+      "Value": "Check to disable restrictions for animations that require specific occult to be available.\\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)"
+    },
+    {
+      "Key": "0x43B34AD1",
+      "Value": "Fit Sex Animations To Sexual Orientation"
+    },
+    {
+      "Key": "0xF594E03D",
+      "Value": "Check to limit sex animations to only fit sexual orientation of Sims in sex."
     },
     {
       "Key": "0xDF7BFC10",
       "Value": "Sex Strapon Settings"
     },
     {
-      "Key": "0xE8770CC3",
-      "Value": "Change Sims strapon behavior sex."
+      "Key": "0xE46A1B23",
+      "Value": "Settings related to Sims strapon look and behavior during sex."
     },
     {
       "Key": "0xC4BFBEB2",
@@ -277,16 +389,100 @@
       "Value": "Strapon Predicted Sex Gender Recognition"
     },
     {
-      "Key": "0xF29478ED",
-      "Value": "Check to used predicted gender recognition when attempting to equip strapons during sex."
+      "Key": "0xCAF53EFB",
+      "Value": "Check to include Gender Recognition Settings when attempting to equip strapons during sex."
+    },
+    {
+      "Key": "0xCBB78824",
+      "Value": "Sex Interface Settings"
+    },
+    {
+      "Key": "0x1FB8AED2",
+      "Value": "Settings related to interface visuals and how the user interfaces with initiating and ongoing sex."
+    },
+    {
+      "Key": "0xB6B83A74",
+      "Value": "Sex Context Settings"
+    },
+    {
+      "Key": "0x3947C925",
+      "Value": "Settings related to Sex Context tags."
+    },
+    {
+      "Key": "0xD07F63B2",
+      "Value": "Display Sex Context Interactions"
+    },
+    {
+      "Key": "0xE8306034",
+      "Value": "Check to display the Context pie menu category during sex.\\nUncheck to not display the Context pie menu category during sex."
+    },
+    {
+      "Key": "0x8B400D49",
+      "Value": "Select Available Sex Contexts"
+    },
+    {
+      "Key": "0x3B57D6B7",
+      "Value": "Choose which options are available under the Context pie menu category during sex."
+    },
+    {
+      "Key": "0xA6BBD7CF",
+      "Value": "Select to display the '{0.String}' sex context option."
+    },
+    {
+      "Key": "0x75193B84",
+      "Value": "Multiple Sims Start Switch"
+    },
+    {
+      "Key": "0x526BA592",
+      "Value": "Check to allow starting sex with multiple Sims at once.\\nUncheck to only allow starting sex alone or with one other Sim."
+    },
+    {
+      "Key": "0x15BB7E21",
+      "Value": "Auto Silence Phone During Sex"
+    },
+    {
+      "Key": "0x0289438D",
+      "Value": "Check to automatically silence Sim phone during sex."
+    },
+    {
+      "Key": "0xE6E75D8F",
+      "Value": "Categorize Animation Authors"
+    },
+    {
+      "Key": "0x7DB6F4B6",
+      "Value": "Check to first display a list of animations authors when selecting sex animations.\\nUncheck to always display all sex animations at once."
+    },
+    {
+      "Key": "0xA54F38E1",
+      "Value": "Sex Mood Switch"
+    },
+    {
+      "Key": "0x2098DF41",
+      "Value": "Check to change Sims mood into Sex Mood during sex and display special sex moodlets.\\nUncheck to keep Sims natural mood during sex."
+    },
+    {
+      "Key": "0xD7F4F85B",
+      "Value": "Climax Sex Animations"
+    },
+    {
+      "Key": "0x0A2ABE50",
+      "Value": "Check to have a separate Climax sex category for Climax sex animations.\\nUncheck to automatically bundle Climax sex animations into fitting sex categories."
+    },
+    {
+      "Key": "0x7E68095C",
+      "Value": "Animations Sorting Button Position"
+    },
+    {
+      "Key": "0xB06AA36B",
+      "Value": "Check to display the Animations Sorting Button on the top of the animations list.\\nUncheck to display the Animations Sorting Button on the bottom of the animations list."
     },
     {
       "Key": "0x4E854CF3",
       "Value": "Advanced Sex Interaction Settings"
     },
     {
-      "Key": "0x8E74CA75",
-      "Value": "Advanced settings for sex interactions."
+      "Key": "0x5D47FE5F",
+      "Value": "Advanced settings related to the accessibility, actions, and behaviors of sex interactions."
     },
     {
       "Key": "0xA5228413",
@@ -361,30 +557,6 @@
       "Value": "Check to slow down time when selected active Sim player-controlled sex interaction is ongoing.\\n<b>Warning: Slowed down time will make the game appear as if lagging.</b>"
     },
     {
-      "Key": "0xA54F38E1",
-      "Value": "Sex Mood Switch"
-    },
-    {
-      "Key": "0x5FB244C6",
-      "Value": "Check to change Sims mood into Sex Mood during sex\\nUncheck to keep Sims natural mood during sex."
-    },
-    {
-      "Key": "0x19A5158D",
-      "Value": "Sexual Stamina Motive Switch"
-    },
-    {
-      "Key": "0xE62FE5EC",
-      "Value": "Check to display Sexual Stamina motive bar in place of the Social motive bar during sex.\\nUncheck to keep the Social motive bar unchanged during sex."
-    },
-    {
-      "Key": "0xD7F4F85B",
-      "Value": "Climax Sex Animations"
-    },
-    {
-      "Key": "0x80E55031",
-      "Value": "Check to have a separate Climax sex category for Climax sex animations.\\nUncheck to automatically bundle Climax sex animations into other sex categories."
-    },
-    {
       "Key": "0xFFA256D8",
       "Value": "Sex Animations Duration Override Settings"
     },
@@ -417,48 +589,56 @@
       "Value": "Sex Relationship Settings"
     },
     {
-      "Key": "0xF2806324",
-      "Value": "Change Sex Relationship related settings."
+      "Key": "0x5D4C7B1B",
+      "Value": "Settings related to Sims relationships before, during, and after sex."
     },
     {
-      "Key": "0x124D4B77",
-      "Value": "Teens Sex Switch"
+      "Key": "0xB3B43C2B",
+      "Value": "Relationship Awareness"
     },
     {
-      "Key": "0xF29A4A80",
-      "Value": "Check to allow teen age Sims to participate in sex interactions."
+      "Key": "0x2CE017A7",
+      "Value": "Check for Sims to stay faithful to their partners. Certain relationship altering traits ignore this setting."
     },
     {
-      "Key": "0x3FEC890C",
-      "Value": "Respect Gender Preference Switch"
+      "Key": "0xEF973A60",
+      "Value": "Respect Gender Preference"
     },
     {
       "Key": "0x5BAD60EB",
       "Value": "Check to prevent Sims from accepting sex propositions from non-preferred genders.\\nUncheck to allow Sims to accept sex propositions from any gender."
     },
     {
-      "Key": "0xF519F23F",
-      "Value": "Joining Sex Relationship Compliance Switch"
+      "Key": "0x8981B9E9",
+      "Value": "Joining Sex Relationship Compliance"
     },
     {
       "Key": "0xB5FD395C",
       "Value": "Check for joining Sim to account for their romantic relationship with all participants when asking to join sex or when invited to join sex. (Decreases Joining Autonomy)\\nUncheck for joining Sim to only account for their romantic relationship with any single participant when asking to join sex. (Increases Joining Autonomy)"
     },
     {
-      "Key": "0xE0357740",
-      "Value": "Joining Sex Gender Compliance Switch"
+      "Key": "0xDF3CB9FC",
+      "Value": "Joining Sex Gender Compliance"
     },
     {
       "Key": "0x3582858A",
       "Value": "Check for Sims to respect their own and participants gender preference when asking to join sex. (Decreases Joining Autonomy)\\nUncheck for Sims to only match gender preference with any single participant when asking to join sex. (Increases Joining Autonomy)"
     },
     {
-      "Key": "0x3981FB4C",
-      "Value": "Talk After Sex Switch"
+      "Key": "0xA5047F20",
+      "Value": "Talk After Sex"
     },
     {
       "Key": "0x5D469CA8",
       "Value": "Check to allow Sims to talk after finishing sex."
+    },
+    {
+      "Key": "0x3D882EBC",
+      "Value": "Discreet Sex Mode"
+    },
+    {
+      "Key": "0x8A86A69B",
+      "Value": "Check to only display sex interactions on objects when the played Sim is talking with someone available to have sex.\\n\\n(This doesn't affect bed objects.)"
     },
     {
       "Key": "0x62803C2E",
@@ -477,40 +657,12 @@
       "Value": "Set a number of extra points Player+NPC Sims Pairs gain when creating sex pairs. Sims need at least 2.15 points to create a Sex Pair.\\n(Default: 0.0)"
     },
     {
-      "Key": "0xB6B83A74",
-      "Value": "Sex Context Settings"
-    },
-    {
-      "Key": "0x682B5429",
-      "Value": "Change Sex Context related settings."
-    },
-    {
-      "Key": "0xD07F63B2",
-      "Value": "Display Sex Context Interactions"
-    },
-    {
-      "Key": "0xE8306034",
-      "Value": "Check to display the Context pie menu category during sex.\\nUncheck to not display the Context pie menu category during sex."
-    },
-    {
-      "Key": "0x8B400D49",
-      "Value": "Select Available Sex Contexts"
-    },
-    {
-      "Key": "0x3B57D6B7",
-      "Value": "Choose which options are available under the Context pie menu category during sex."
-    },
-    {
-      "Key": "0xA6BBD7CF",
-      "Value": "Select to display the '{0.String}' sex context option."
-    },
-    {
       "Key": "0x960D8B17",
       "Value": "Sex Autonomy Settings"
     },
     {
-      "Key": "0x152E455C",
-      "Value": "Change Sex Autonomy related settings."
+      "Key": "0x0A81E30F",
+      "Value": "Settings related to autonomous initiation and behavior of sex."
     },
     {
       "Key": "0x2C432F6E",
@@ -589,84 +741,92 @@
       "Value": "All of the Sex Autonomy settings have been adjusted accordingly to the {0.String} Preset."
     },
     {
-      "Key": "0x61A18927",
-      "Value": "Autonomy Triggers"
+      "Key": "0x148951CF",
+      "Value": "Autonomy Complex Settings"
     },
     {
-      "Key": "0xFA61C8A4",
-      "Value": "Choose which types of autonomy are allowed to run."
+      "Key": "0x67DE983B",
+      "Value": "Complex settings related to autonomous initiation and behavior of sex."
     },
     {
-      "Key": "0xAAF92019",
-      "Value": "Random Sex Switch"
+      "Key": "0xF3338C13",
+      "Value": "Sex Autonomy Triggers"
     },
     {
-      "Key": "0x115BE714",
-      "Value": "Check to allow Sims to perform random sex interactions with other Sims."
+      "Key": "0x1B49FDAA",
+      "Value": "Types of sex autonomy that are allowed to occur."
     },
     {
-      "Key": "0x29DFD6F1",
-      "Value": "Solo Sex Switch"
+      "Key": "0xC646EE8B",
+      "Value": "Random Sex"
     },
     {
-      "Key": "0x1C921B31",
-      "Value": "Check to allow Sims to perform random masturbation interactions."
+      "Key": "0xC8085424",
+      "Value": "Check to allow Sims to initiate random sex interactions with other Sims."
     },
     {
-      "Key": "0x59A68EF4",
-      "Value": "Joining Sex Switch"
+      "Key": "0x0D59D7D3",
+      "Value": "Solo Sex"
     },
     {
-      "Key": "0x943581C5",
-      "Value": "Check to allow Sims to try to join existing sex interactions."
+      "Key": "0x4988C4B1",
+      "Value": "Check to allow Sims to initiate random solo sex interactions and specialized masturbation interactions."
     },
     {
-      "Key": "0x7BAB0518",
-      "Value": "Travel Sex Switch"
+      "Key": "0xEFCB7558",
+      "Value": "Joining Sex"
     },
     {
-      "Key": "0x7A7CBCAF",
-      "Value": "Check to allow Sims to perform random sex interactions when travelling to locations. Active household Sims and Sims in travel groups are not included."
+      "Key": "0x16AA9D59",
+      "Value": "Check to allow Sims to join existing sex interactions."
     },
     {
-      "Key": "0xFFBE14EC",
-      "Value": "Romance Conversation Sex Switch"
+      "Key": "0x4F84AF64",
+      "Value": "Travel Sex"
     },
     {
-      "Key": "0x9F76B937",
-      "Value": "Check to allow Sims to initiate sex from romantic conversations."
+      "Key": "0x0722AF3F",
+      "Value": "Check to allow Sims to initiate random sex interactions when travelling to locations. Active household Sims and Sims in travel groups are not included."
     },
     {
-      "Key": "0xC96ECC84",
-      "Value": "Solo Watching Sex Switch"
+      "Key": "0x4076EAC0",
+      "Value": "Romance Conversation Sex"
     },
     {
-      "Key": "0x785E2DB8",
-      "Value": "Check to allow Sims to perform masturbation interactions while watching sex.\\n\\n(requires Amra72 and ooOLaLa World animations)"
+      "Key": "0x218B6031",
+      "Value": "Check to allow Sims to initiate sex from successful romantic conversations."
     },
     {
-      "Key": "0x1EFECEB8",
-      "Value": "Club Sex Switch"
+      "Key": "0x791193A8",
+      "Value": "Solo Watching Sex"
     },
     {
-      "Key": "0x92A34392",
-      "Value": "Check to allow Sims to perform sex interactions when at a sex club gathering."
+      "Key": "0x1261A362",
+      "Value": "Check to allow Sims to initiate solo sex interactions from watching ongoing sex."
     },
     {
-      "Key": "0x49572334",
-      "Value": "Invite Peeping Sim Switch"
+      "Key": "0x8665C484",
+      "Value": "Club Sex"
     },
     {
-      "Key": "0x2FC0A8AA",
-      "Value": "Check to allow Sims to invite in and perform sex interactions with peeping Sims."
+      "Key": "0x34FEC062",
+      "Value": "Check to allow Sims to initiate sex interactions when at a sex club gathering."
     },
     {
-      "Key": "0x0D1F566B",
-      "Value": "Autonomy Awareness"
+      "Key": "0xB9F78D18",
+      "Value": "Invite Peeping Sim"
     },
     {
-      "Key": "0x86A8C987",
-      "Value": "Choose which elements are considered when triggering autonomy."
+      "Key": "0x7CB32738",
+      "Value": "Check to allow Sims to invite in and initiate sex interactions with peeping Sims."
+    },
+    {
+      "Key": "0x53DF2BCF",
+      "Value": "Sex Autonomy Awareness"
+    },
+    {
+      "Key": "0x1618AEA0",
+      "Value": "Elements of sex autonomy that are considered before initiating autonomous sex."
     },
     {
       "Key": "0xBD3EC40F",
@@ -681,8 +841,8 @@
       "Value": "Player Sims Joining Sex Autonomy"
     },
     {
-      "Key": "0x9A945F9B",
-      "Value": "Check to allow Player Sims to join to existing sex interactions."
+      "Key": "0x1075AFA8",
+      "Value": "Check to allow Player Sims to join ongoing sex interactions."
     },
     {
       "Key": "0x276E6B7A",
@@ -701,44 +861,44 @@
       "Value": "Check to allow currently played Player Sim to participate in Solo Sex Autonomy."
     },
     {
-      "Key": "0x74BB4DB9",
-      "Value": "Relationship Awareness Switch"
-    },
-    {
-      "Key": "0x1A04B56C",
-      "Value": "Check for Sims to stay faithful to their partner and not have sex with others.\\n\\nThe 'Adulterer', 'Noncommittal' and 'Player' traits on Sims ignore this setting."
-    },
-    {
-      "Key": "0xF93747C7",
-      "Value": "NPC Pregnancy Awareness Switch"
+      "Key": "0xA609C221",
+      "Value": "NPC Pregnancy Awareness"
     },
     {
       "Key": "0xC53CE741",
       "Value": "Check for NPC Sims to avoid sex if they have a high chance of getting pregnant.\\n(only works with Menstrual Cycle Pregnancy Mode enabled)"
     },
     {
-      "Key": "0xC0D61043",
-      "Value": "Block Around Children Switch"
+      "Key": "0x1F05CEC6",
+      "Value": "Equal Always Accept Relationship Scoring"
+    },
+    {
+      "Key": "0xE75015A5",
+      "Value": "Check for Sims to ignore relationship and sexual preferences when Always Accept is enabled."
+    },
+    {
+      "Key": "0x51D16545",
+      "Value": "Block Around Children"
     },
     {
       "Key": "0x0FE568C6",
       "Value": "Check for Sims to avoid attempting sex when children are on the lot.\\nUncheck for Sims to attempt sex when children are on the lot."
     },
     {
-      "Key": "0x030E869E",
-      "Value": "Risk Roll Switch"
+      "Key": "0xA9FC50EA",
+      "Value": "Risk Roll"
     },
     {
-      "Key": "0x132BDB92",
-      "Value": "Check for Sims to assess risk of having sex by their age, number of Sims around, number of children around, and family relations."
+      "Key": "0x03CB60FA",
+      "Value": "Check for Sims to assess risk of attempting to initiate sex by their age, number of other Sims around, number of underage Sims around, and family relations."
     },
     {
-      "Key": "0x6D880C9F",
-      "Value": "Autonomy Specifics"
+      "Key": "0x0DA0B6C1",
+      "Value": "Advanced Sex Autonomy Complex Settings"
     },
     {
-      "Key": "0xD40B3B2A",
-      "Value": "Edit specific parts of autonomy and mess up everything."
+      "Key": "0xE16B518C",
+      "Value": "Advanced variables of sex autonomy."
     },
     {
       "Key": "0xC5C62052",
@@ -795,6 +955,14 @@
     {
       "Key": "0xA58CEA38",
       "Value": "Set a unit interval value for chance of random sex from romantic conversations occurring. Value 1.0 is 100% chance.\\n(Default: 0.10, Minimum: 0.0)"
+    },
+    {
+      "Key": "0x58CD319D",
+      "Value": "Flashing Sex Probability"
+    },
+    {
+      "Key": "0x15589952",
+      "Value": "Set a unit interval value for chance of random sex from flashing. Value 1.0 is 100% chance.\\n(Default: 0.55, Minimum: 0.0)"
     },
     {
       "Key": "0x0D91EBFD",
@@ -961,168 +1129,40 @@
       "Value": "Asking for Sex Dialogs Settings"
     },
     {
-      "Key": "0xB088165F",
-      "Value": "Choose which asking sex dialogs are displayed."
-    },
-    {
-      "Key": "0x9234BF69",
-      "Value": "Display Player Asking Player Sex Dialog"
-    },
-    {
-      "Key": "0x0D018DAC",
-      "Value": "Check for Player Sims asking Player Sims for sex dialogs."
-    },
-    {
-      "Key": "0xE7EC962B",
-      "Value": "Display NPC Asking Player Sex Dialog"
-    },
-    {
-      "Key": "0x1BE752BC",
-      "Value": "Check for NPC Sims asking Player Sims for sex dialogs."
-    },
-    {
-      "Key": "0x57B1750A",
-      "Value": "Display Player Asking NPC to Join Sex Dialog"
-    },
-    {
-      "Key": "0x12AA2E71",
-      "Value": "Check for Player Sims asking NPC Sims to join to sex dialogs."
+      "Key": "0x3D22FEC4",
+      "Value": "Settings related to displaying Sims asking to initiate sex or join sex dialogs."
     },
     {
       "Key": "0x3D0A00F8",
       "Value": "Social Context Sex Questions Dialogs"
     },
     {
-      "Key": "0x5B5C2F22",
-      "Value": "Check to enable social context sex questions when Sims ask to initiate sex.\\nUncheck to use a generic sex question when Sims ask to initiate sex."
+      "Key": "0xB865397C",
+      "Value": "Check to enable social context sex questions when Sims ask to initiate sex.\\nUncheck to use a generic 'Do you want to have sex?' question when Sims ask to initiate sex."
     },
     {
-      "Key": "0xB01BFB9D",
-      "Value": "NPC Sex Duration"
+      "Key": "0x9234BF69",
+      "Value": "Display Player Asking Player Sex Dialog"
     },
     {
-      "Key": "0x733E164D",
-      "Value": "Set NPC Sims sex interaction duration in realtime minutes.\\n(Default: 3)"
+      "Key": "0x1E0F12A4",
+      "Value": "Check to display an asking dialog when a Player Sim asks another Player Sim to initiate or join sex."
     },
     {
-      "Key": "0x4AD9531A",
-      "Value": "Gender Settings"
+      "Key": "0xE7EC962B",
+      "Value": "Display NPC Asking Player Sex Dialog"
     },
     {
-      "Key": "0x7D69A97C",
-      "Value": "Change Sims gender recognition."
+      "Key": "0xE811B65C",
+      "Value": "Check to display an asking dialog when an NPC Sim asks a Player Sim to initiate or join sex."
     },
     {
-      "Key": "0x6A9CCCD6",
-      "Value": "Gender Recognition Type"
+      "Key": "0x57B1750A",
+      "Value": "Display Player Asking NPC to Join Sex Dialog"
     },
     {
-      "Key": "0xF9C6EC06",
-      "Value": "Choose the type of how Sims gender is recognized."
-    },
-    {
-      "Key": "0x9981B189",
-      "Value": "Sex Identity Based"
-    },
-    {
-      "Key": "0x09556EED",
-      "Value": "Select to recognize Sims gender by biological characteristics of their genitalia."
-    },
-    {
-      "Key": "0x22AAE08E",
-      "Value": "Gender Identity Based"
-    },
-    {
-      "Key": "0x8240E6B9",
-      "Value": "Select to recognize Sims gender by CAS 'Custom Gender Settings'."
-    },
-    {
-      "Key": "0x2728D93C",
-      "Value": "Anything Goes"
-    },
-    {
-      "Key": "0x30B35831",
-      "Value": "Select to not recognize Sims gender at all."
-    },
-    {
-      "Key": "0x4373B61D",
-      "Value": "\"Both\" Gender As Specific Recognition"
-    },
-    {
-      "Key": "0xF08C3EE0",
-      "Value": "Choose the type of Sims gender the \"Both\" gender will be recognized as."
-    },
-    {
-      "Key": "0x4809946D",
-      "Value": "Default"
-    },
-    {
-      "Key": "0xFC2F0AB8",
-      "Value": "Select to keep the default behavior."
-    },
-    {
-      "Key": "0x3EA2BECA",
-      "Value": "Both As Male"
-    },
-    {
-      "Key": "0x608AA9E0",
-      "Value": "Select to recognize \"Both\" gender as Male."
-    },
-    {
-      "Key": "0x3C09C813",
-      "Value": "Both As Female"
-    },
-    {
-      "Key": "0xB95BE0F7",
-      "Value": "Select to recognize \"Both\" gender as Female."
-    },
-    {
-      "Key": "0xE2BCD512",
-      "Value": "Recognize Females As Both"
-    },
-    {
-      "Key": "0xE3879839",
-      "Value": "Check to recognize female actor roles as both female and male roles (M/M).\\n(allows male Sims to play female roles)"
-    },
-    {
-      "Key": "0x76357825",
-      "Value": "Recognize Males As Both"
-    },
-    {
-      "Key": "0x1D440DB1",
-      "Value": "Check to recognize male actor roles as both male and female roles (F/F).\\n(allow female Sims to play male roles)"
-    },
-    {
-      "Key": "0x1D515CDD",
-      "Value": "Sim Specific Gender Recognition"
-    },
-    {
-      "Key": "0x46C03AEB",
-      "Value": "Check to enable 'Gender Recognition' interactions that allow to decide about individual Sims gender role."
-    },
-    {
-      "Key": "0xECEA25EC",
-      "Value": "Advanced Gender Settings"
-    },
-    {
-      "Key": "0xC52603A4",
-      "Value": "Advanced settings for gender recognition."
-    },
-    {
-      "Key": "0x16F11D0D",
-      "Value": "Ignore Occult Genders Restrictions"
-    },
-    {
-      "Key": "0x05E05E62",
-      "Value": "Check to disable restrictions for animations that require specific occult to be available.\\n(Sims require an occult, like vampire, alien or ghost, to use animations with occult restrictions)"
-    },
-    {
-      "Key": "0xCBDD99A9",
-      "Value": "Fit Sex Animations To Sexual Function"
-    },
-    {
-      "Key": "0xC0DC5A87",
-      "Value": "Check to display and use sex animations that fit sexual function of Sims in sex.\\nUncheck to display and use all sex animations regardless of sexual function of Sims in sex."
+      "Key": "0x2318F680",
+      "Value": "Check to display an asking dialog when a Player Sim asks an NPC Sim to join sex."
     },
     {
       "Key": "0xB88A7BEE",
@@ -1233,8 +1273,16 @@
       "Value": "Menstrual Cycle Switch"
     },
     {
-      "Key": "0x80CBEE7E",
-      "Value": "Check to make Sims follow rules of their menstrual cycle for the pregnancy.\\nUncheck to make Sims get pregnant based on set percentage chances"
+      "Key": "0x9FD4DE1C",
+      "Value": "Check to make Sims follow rules of their menstrual cycle for the pregnancy.\\nUncheck to make Sims get pregnant based on set percentage chances."
+    },
+    {
+      "Key": "0xA1280DDF",
+      "Value": "Teen Menstrual Cycle Switch"
+    },
+    {
+      "Key": "0xEE07230C",
+      "Value": "Check to include teen Sims in experiencing menstrual cycle."
     },
     {
       "Key": "0x9D5DA45C",
@@ -1261,8 +1309,8 @@
       "Value": "Menstrual Cycle Settings"
     },
     {
-      "Key": "0x3E45F26B",
-      "Value": "Change menstrual cycle related settings."
+      "Key": "0x62FE31AA",
+      "Value": "Settings related to menstrual cycle behavior."
     },
     {
       "Key": "0xC675FB77",
@@ -1629,24 +1677,16 @@
       "Value": "Pregnancy Duration"
     },
     {
-      "Key": "0xDAE773C9",
-      "Value": "Native pregnancy duration in Sim days.\\n(Default: 3, Minimum: 1)"
+      "Key": "0x2DA19877",
+      "Value": "Native pregnancy duration in Sim days.\\n(Default: 3, Minimum: 0.1)"
     },
     {
-      "Key": "0x853ED1F7",
-      "Value": "Miscarriage Switch"
+      "Key": "0x5E8F1D86",
+      "Value": "Male Anal Pregnancy Switch"
     },
     {
-      "Key": "0xFFC63218",
-      "Value": "Check to allow Sims to experience miscarriage."
-    },
-    {
-      "Key": "0xA3BD2102",
-      "Value": "Miscarriage Add Offspring Switch"
-    },
-    {
-      "Key": "0x872C46F4",
-      "Value": "Check to allow unborn offspring to be added to the family tree."
+      "Key": "0x6FD42698",
+      "Value": "Check to allow the possibility of a Sim with a penis impregnating another Sim with a penis via anal sex."
     },
     {
       "Key": "0xA9E7B26F",
@@ -1671,6 +1711,22 @@
     {
       "Key": "0x4C50479E",
       "Value": "Check to transform all WooHoo interactions to allow pregnancy and disable all Try for Baby interactions.\\nUncheck to keep all WooHoo interactions unchanged and enable Try for Baby interactions."
+    },
+    {
+      "Key": "0x853ED1F7",
+      "Value": "Miscarriage Switch"
+    },
+    {
+      "Key": "0xFFC63218",
+      "Value": "Check to allow Sims to experience miscarriage."
+    },
+    {
+      "Key": "0xA3BD2102",
+      "Value": "Miscarriage Add Offspring Switch"
+    },
+    {
+      "Key": "0x872C46F4",
+      "Value": "Check to allow unborn offspring to be added to the family tree."
     },
     {
       "Key": "0x8CAC249F",
@@ -1765,40 +1821,40 @@
       "Value": "Relationship Impact from Sex"
     },
     {
-      "Key": "0x5787916B",
-      "Value": "Uncheck to prevent Sims relationship changing from sex."
+      "Key": "0x5B8AB5C4",
+      "Value": "Check to allow relationship impacting outcomes from sex (friendship and romance changes, sentiments, cheating)."
     },
     {
       "Key": "0xB6954984",
       "Value": "Sex Privacy Switch"
     },
     {
-      "Key": "0x75D90F06",
-      "Value": "Uncheck to prevent Sims from avoiding seeing sex."
+      "Key": "0x31D44FFA",
+      "Value": "Check to allow Sims considering leaving the sex area after reacting to sex.\\nUncheck to disallow Sims leaving the sex area after reacting to sex."
     },
     {
       "Key": "0x54414279",
       "Value": "Sex Reaction Switch"
     },
     {
-      "Key": "0xD028E940",
-      "Value": "Uncheck to prevent Sims from reacting to sex."
+      "Key": "0xFAF78DC1",
+      "Value": "Check to allow Sims reacting to sex.\\nUncheck to disallow Sims reacting to sex."
     },
     {
       "Key": "0x25CA4F1A",
       "Value": "Cum Reaction Switch"
     },
     {
-      "Key": "0x2952BF86",
-      "Value": "Uncheck to prevent Sims from reacting to cum on other Sims bodies."
+      "Key": "0xC9032C5F",
+      "Value": "Check to allow Sims reacting to cum on other Sims body.\\nUncheck to disallow Sims reacting to cum on other Sims body."
     },
     {
       "Key": "0x9E6B9916",
       "Value": "Teen Pregnancy Reaction Switch"
     },
     {
-      "Key": "0xB3D396F9",
-      "Value": "Uncheck to prevent parent Sims from reacting to teen Sims pregnancy."
+      "Key": "0x4EE46F0B",
+      "Value": "Check to allow parent Sims reacting to teen Sims pregnancy.\\nUncheck to disallow parent Sims reacting to teen Sims pregnancy."
     },
     {
       "Key": "0x27F7727D",
@@ -1897,8 +1953,8 @@
       "Value": "Remove animations from this playlist."
     },
     {
-      "Key": "0x3693AF63",
-      "Value": "Reorder Playlist"
+      "Key": "0x31CCB051",
+      "Value": "Reorder Animations in Playlist"
     },
     {
       "Key": "0x1D7F2C39",
@@ -1953,12 +2009,32 @@
       "Value": "Playlist can be randomly used by autonomously started sex interactions."
     },
     {
+      "Key": "0x2983D79F",
+      "Value": "Randomly Available Behavior"
+    },
+    {
+      "Key": "0xCDF50736",
+      "Value": "Playlist will be used when starting sex interactions using random."
+    },
+    {
       "Key": "0x1FA02F74",
       "Value": "Rename Playlist"
     },
     {
       "Key": "0x83275439",
       "Value": "Change the name of this playlist."
+    },
+    {
+      "Key": "0x3693AF63",
+      "Value": "Reorder Playlist"
+    },
+    {
+      "Key": "0xA15CC7CB",
+      "Value": "Change order of this playlist on the list of animation playlists."
+    },
+    {
+      "Key": "0x36391852",
+      "Value": "Pick an order slot to reorder the selected playlist."
     },
     {
       "Key": "0x8E04E179",
@@ -2015,6 +2091,10 @@
     {
       "Key": "0xFE78C7D6",
       "Value": "Author: {0.String}\\nLocations: {1.String}\\nRoles: {2.String} | Orientation: {3.String}"
+    },
+    {
+      "Key": "0x18A4DB96",
+      "Value": "Name: {0.String}"
     },
     {
       "Key": "0xF0611C97",
@@ -2089,36 +2169,40 @@
       "Value": "Enable/Disable groups of animations from being used in autonomy sex."
     },
     {
+      "Key": "0xC5301524",
+      "Value": "Select entries to be disabled."
+    },
+    {
       "Key": "0x0AB2B430",
       "Value": "Sex Category"
     },
     {
-      "Key": "0xB861E46F",
-      "Value": "Enable/Disable animations with sex category."
+      "Key": "0x638400BF",
+      "Value": "Disable animations with sex category."
     },
     {
       "Key": "0x674D80A3",
       "Value": "Sex Context"
     },
     {
-      "Key": "0x75FA7FA0",
-      "Value": "Enable/Disable animations with sex context."
+      "Key": "0x0DB455D0",
+      "Value": "Disable animations with sex context."
     },
     {
       "Key": "0x64124C58",
       "Value": "Sexual Orientation"
     },
     {
-      "Key": "0x01EE2A4F",
-      "Value": "Enable/Disable animations with sexual orientation."
+      "Key": "0x73976FFF",
+      "Value": "Disable animations with sexual orientation."
     },
     {
       "Key": "0x91D80CA8",
       "Value": "Number of Participants"
     },
     {
-      "Key": "0x7AEA855B",
-      "Value": "Enable/Disable animations with number of participants."
+      "Key": "0x4BC5AD8B",
+      "Value": "Disable animations with number of participants."
     },
     {
       "Key": "0x80E1E809",
@@ -2129,16 +2213,28 @@
       "Value": "Location Category"
     },
     {
-      "Key": "0xC0E0A2A2",
-      "Value": "Enable/Disable animations with location category."
+      "Key": "0x100989B2",
+      "Value": "Disable animations with location category."
+    },
+    {
+      "Key": "0x690AF9EF",
+      "Value": "Author"
+    },
+    {
+      "Key": "0x1C32FAEF",
+      "Value": "Disable animations of author."
+    },
+    {
+      "Key": "0x746380DA",
+      "Value": "{0.String}'s Animations"
     },
     {
       "Key": "0xB2D6BDDE",
       "Value": "Props"
     },
     {
-      "Key": "0x879CBF63",
-      "Value": "Enable/Disable animations with props."
+      "Key": "0xDAC35FB3",
+      "Value": "Disable animations with props."
     },
     {
       "Key": "0x78027246",
@@ -3573,6 +3669,10 @@
       "Value": "Move Sex Here"
     },
     {
+      "Key": "0xD7859A8D",
+      "Value": "Sex initiated on objects marked as Always Accepts cannot be moved."
+    },
+    {
       "Key": "0xA5EEE389",
       "Value": "Next"
     },
@@ -3777,6 +3877,18 @@
       "Value": "Select to decrease '{0.String}' Sex Autonomy probability of being used by {1.Number}%."
     },
     {
+      "Key": "0x05FA36AF",
+      "Value": "Mark Object as Always Accept"
+    },
+    {
+      "Key": "0x6C89C950",
+      "Value": "Unmark Object as Always Accept"
+    },
+    {
+      "Key": "0xA6A62DF9",
+      "Value": "Marked as Always Accept allows any Sims to use the object regardless of relationship or preference limitations."
+    },
+    {
       "Key": "0x9AFA294B",
       "Value": "Enable Sim for Sex Autonomy"
     },
@@ -3815,6 +3927,18 @@
     {
       "Key": "0x925EA96D",
       "Value": "Modify Currently Playing Animation Roles"
+    },
+    {
+      "Key": "0xB89C77D3",
+      "Value": "Modify Currently Playing Animation Name"
+    },
+    {
+      "Key": "0xF6A152B0",
+      "Value": "Rename Animation"
+    },
+    {
+      "Key": "0x430C202D",
+      "Value": "Original Name: '{0.String}'"
     },
     {
       "Key": "0x921BDED1",
@@ -3931,6 +4055,18 @@
     {
       "Key": "0xD04B21FD",
       "Value": "Random Animation"
+    },
+    {
+      "Key": "0xD3ED718D",
+      "Value": "Favorites"
+    },
+    {
+      "Key": "0xE5A74CF1",
+      "Value": "Recently Used"
+    },
+    {
+      "Key": "0xD2643903",
+      "Value": "Discover"
     },
     {
       "Key": "0xA84D834B",
@@ -4221,8 +4357,8 @@
       "Value": "---------- SEX QUESTIONNAIRES ----------"
     },
     {
-      "Key": "0xACC51DD3",
-      "Value": "Inappropriate Inquiry"
+      "Key": "0xE73C50A5",
+      "Value": "<font color='#340658'>Inappropriate Inquiry</font>"
     },
     {
       "Key": "0x78CF22AB",
@@ -4233,8 +4369,8 @@
       "Value": "{0.SimFirstName} asked someone to have sex with {0.SimPronounObjective} but it didn't go so well."
     },
     {
-      "Key": "0x883D8442",
-      "Value": "Unexpected Inquiry"
+      "Key": "0xF61FE382",
+      "Value": "<font color='#340658'>Unexpected Inquiry</font>"
     },
     {
       "Key": "0x1337F427",
@@ -5369,8 +5505,8 @@
       "Value": "You might wanna calibrate your sensors."
     },
     {
-      "Key": "0x0B1F9E5F",
-      "Value": "Not right now, but who know what the future holds?"
+      "Key": "0xA7670090",
+      "Value": "Not right now, but who knows what the future holds?"
     },
     {
       "Key": "0x45461200",
@@ -5587,6 +5723,10 @@
     {
       "Key": "0x6D758D18",
       "Value": "Negative romance."
+    },
+    {
+      "Key": "0x7FF0135F",
+      "Value": "Characteristics incompatibility."
     },
     {
       "Key": "0x6310F76F",
@@ -5837,8 +5977,8 @@
       "Value": "{0.SimFirstName} will find it hard to forget the amazing session of lovemaking that {M0.he}{F0.she} had with {1.SimFirstName}. They hit it out of the ballpark leaving them both sweaty and satisfied. When {1.SimFirstName} is around, {0.SimFirstName} can't help but feel invigorated and ready for {0.SimPronounPossessiveDependent} next roll in the hay."
     },
     {
-      "Key": "0xC170CC1F",
-      "Value": "Can't Get Enough of You"
+      "Key": "0xF18EB9A1",
+      "Value": "<font color='#340658'>Can't Get Enough of You</font>"
     },
     {
       "Key": "0xD4360094",
@@ -5857,8 +5997,8 @@
       "Value": "{0.SimFirstName} is deeply ashamed by how {M0.he}{F0.she} was unable to satisfy {1.SimFirstName}. {0.SimFirstName} can't help but feel embarrassed whenever {1.SimFirstName} is around."
     },
     {
-      "Key": "0x0D3C4BF8",
-      "Value": "Lost Your Mojo"
+      "Key": "0x51DA1844",
+      "Value": "<font color='#340658'>Lost Your Mojo</font>"
     },
     {
       "Key": "0xDA28BB68",
@@ -5981,16 +6121,16 @@
       "Value": "(From Sex Party Event)"
     },
     {
-      "Key": "0x8E7C26FF",
-      "Value": "Wicked Delights"
+      "Key": "0x327EA61D",
+      "Value": "<font color='#340658'>Wicked Delights</font>"
     },
     {
       "Key": "0x9DBE9BD2",
       "Value": "They came, they had wicked fun, and they came."
     },
     {
-      "Key": "0x6B260CD3",
-      "Value": "Sex... Party?"
+      "Key": "0x48F7BD15",
+      "Value": "<font color='#340658'>Sex... Party?</font>"
     },
     {
       "Key": "0xB04CEBC9",
@@ -6889,8 +7029,8 @@
       "Value": "Mind Controlled: Promiscuous"
     },
     {
-      "Key": "0xF0DEDB04",
-      "Value": "Sex. Sex. Sex. Sex."
+      "Key": "0xD37F7C28",
+      "Value": "<font color='#340658'>Sex. Sex. Sex. Sex.</font>"
     },
     {
       "Key": "0xDFF84960",
@@ -6901,8 +7041,8 @@
       "Value": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone."
     },
     {
-      "Key": "0xED254280",
-      "Value": "Extra Credits"
+      "Key": "0x0D4653EC",
+      "Value": "<font color='#340658'>Extra Credits</font>"
     },
     {
       "Key": "0xC85E9E1D",
@@ -7317,6 +7457,18 @@
       "Value": "---------- PREGNANCY BUFFS ----------"
     },
     {
+      "Key": "0x8C28453A",
+      "Value": "<font color='#340658'>Pregnancy Potential?</font>"
+    },
+    {
+      "Key": "0x595B8D26",
+      "Value": "(From Pregnancy Sex)"
+    },
+    {
+      "Key": "0xB9F85CDD",
+      "Value": "Oh, looks like things might have gotten a little wild and {0.SimFirstName} can't help but wonder if there's a little bun in the oven now. Take a Pregnancy Test to find out or keep going and mix in more cum."
+    },
+    {
       "Key": "0xCE47E2B7",
       "Value": "<font color='#340658'>Discovered Teen Pregnancy</font>"
     },
@@ -7405,8 +7557,56 @@
       "Value": "Hypofertile"
     },
     {
-      "Key": "0x1EA7F9D2",
-      "Value": "Sims with Hypofertility have significant difficulties conceiving a child.{M0.\\n\\nThis is known in the medical community as FBS (Feeble Balls Syndrome).}"
+      "Key": "0x03CA0940",
+      "Value": "Sims with Hypofertility have significant difficulties conceiving a child."
+    },
+    {
+      "Key": "0x252ED793",
+      "Value": "Hyperfertile"
+    },
+    {
+      "Key": "0xF823EE74",
+      "Value": "Hyperfertile"
+    },
+    {
+      "Key": "0xACCE285A",
+      "Value": "Sims with Hyperfertility have significantly increased chances of conceiving a child."
+    },
+    {
+      "Key": "0xD2B81079",
+      "Value": "Quick Cycle"
+    },
+    {
+      "Key": "0x44BDAAAE",
+      "Value": "Quick Cycle"
+    },
+    {
+      "Key": "0x95F3291D",
+      "Value": "Quick Cycle allows Sims to breeze through their menstrual cycle faster than most, but they need to be extra prepared for their period as it may come sooner than expected."
+    },
+    {
+      "Key": "0xAF999E97",
+      "Value": "Extended Cycle"
+    },
+    {
+      "Key": "0x6F35C198",
+      "Value": "Extended Cycle"
+    },
+    {
+      "Key": "0x571F6D72",
+      "Value": "Extended Cycle causes Sims to experience a lengthier menstrual cycle, giving them more time to prepare and deal with the ups and downs of this recurring event."
+    },
+    {
+      "Key": "0xBDC6B025",
+      "Value": "Bleeding Control"
+    },
+    {
+      "Key": "0xEC88F24A",
+      "Value": "Bleeding Control"
+    },
+    {
+      "Key": "0x6DE666B0",
+      "Value": "Sims with Bleeding Control have the unique ability to avoid the discomfort and inconvenience of bleeding during their menstrual cycle."
     },
     {
       "Key": "0x1AFE12ED",

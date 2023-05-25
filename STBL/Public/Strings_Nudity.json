@@ -17,36 +17,20 @@
       "Value": "Changing this setting requires restarting the game to take full effect!\\n\\nSave and restart for this setting to work."
     },
     {
-      "Key": "0x1B09D825",
-      "Value": "Naturism and Exhibitionism Switch"
+      "Key": "0x2D6DA1DC",
+      "Value": "Nudity Gameplay Switch"
     },
     {
-      "Key": "0x09B382A3",
-      "Value": "Check to enable nudity skills, nudity autonomy, and nudity story progression."
+      "Key": "0x3EEA7FFD",
+      "Value": "Check to enable nudity gameplay functionalities. This includes nudity social interactions, nudity skills, undressing autonomy, nudity occurrences, nudity-related NPC Sims, and special reactions to nudity."
     },
     {
-      "Key": "0xFB7BFCAF",
-      "Value": "Nudity Pressure Switch"
+      "Key": "0xE2F1AF3A",
+      "Value": "Undressing Settings"
     },
     {
-      "Key": "0x019A7360",
-      "Value": "Check to make Sims gradually gain pressure from being naked and experience embarrassment.\\nUncheck to make Sims ignore pressure and not get embarrassed from nudity.\\n(both settings respect Sims nudity skills limitations)"
-    },
-    {
-      "Key": "0x1BA04D0C",
-      "Value": "All Sims Nudity Enthusiasts"
-    },
-    {
-      "Key": "0x864E61B3",
-      "Value": "Check to make all Sims Nudity Enthusiasts and ignore the 'Nudity Enthusiast' Wicked Attribute.\\nUncheck to only allow Sims with the 'Nudity Enthusiast' Wicked Attribute to participate in nudity activities."
-    },
-    {
-      "Key": "0x2BBCDED7",
-      "Value": "Outfit Undressing Settings"
-    },
-    {
-      "Key": "0x34F35A9D",
-      "Value": "Outfit undressing behavior of Sims."
+      "Key": "0x4DB89112",
+      "Value": "Settings related to the accessibility, actions, and base behaviors of undressing and nudity."
     },
     {
       "Key": "0x5E13BB7A",
@@ -57,20 +41,36 @@
       "Value": "Check to enable Sims using underwear and undressing to underwear."
     },
     {
-      "Key": "0xF09442DD",
-      "Value": "Teens Nudity Switch"
+      "Key": "0x9B43D3EA",
+      "Value": "Teen Nudity Switch"
     },
     {
-      "Key": "0xC96D1EC8",
-      "Value": "Check for teens being able to participate in nudity interactions."
+      "Key": "0x770CC75E",
+      "Value": "Check for teen Sims to participate in nudity functionalities."
     },
     {
-      "Key": "0x1B39AAAC",
-      "Value": "Undressing Behavior Settings"
+      "Key": "0x70DC1D19",
+      "Value": "Respect Child Sims Eyes"
     },
     {
-      "Key": "0x6236EFCD",
-      "Value": "Undressing behavior related settings."
+      "Key": "0xC7241FE8",
+      "Value": "Sims behavior when children are around.\\n<b>Fully Check</b> for Sims to never undress when child Sims are on the lot.\\n<b>Half Check</b> for Sims to never undress when child Sims are nearby.\\n<b>Uncheck</b> for Sims to undress without acknowledgment of child Sims."
+    },
+    {
+      "Key": "0x5C897432",
+      "Value": "Behavior Settings"
+    },
+    {
+      "Key": "0x860C34B9",
+      "Value": "Settings related to undressing, nudity, and outfit behavior."
+    },
+    {
+      "Key": "0x091B104F",
+      "Value": "Auto Undress Outfit Parts Behavior"
+    },
+    {
+      "Key": "0xC1F2118E",
+      "Value": "Settings related to automatic undressing of individual outfit parts."
     },
     {
       "Key": "0xAA59D56F",
@@ -109,56 +109,32 @@
       "Value": "Peeing Undressing Switch"
     },
     {
-      "Key": "0xE82171A6",
-      "Value": "Check for Sims to undress their pants when going to pee."
+      "Key": "0xFB91427F",
+      "Value": "Check for Sims to undress bottom part of outfit when peeing."
     },
     {
       "Key": "0xE6D0E27A",
       "Value": "Breast Feeding Undressing Switch"
     },
     {
-      "Key": "0xB9DB716B",
-      "Value": "Check for Sims to undress their top when breastfeeding."
+      "Key": "0xE9BA76CE",
+      "Value": "Check for Sims to undress top part of outfit when breastfeeding."
     },
     {
-      "Key": "0x132D1C6D",
-      "Value": "Advanced Outfit Settings"
+      "Key": "0x6A6499A1",
+      "Value": "Keep Sleepwear Outdoors Switch"
     },
     {
-      "Key": "0xFFF2E431",
-      "Value": "Advanced settings for outfit undressing behavior of Sims."
-    },
-    {
-      "Key": "0x29499BF8",
-      "Value": "Complete Undressing Type"
-    },
-    {
-      "Key": "0xCE63B8F1",
-      "Value": "Choose the type of how 'Undress Completely' interaction should undress Sims."
-    },
-    {
-      "Key": "0x0CFBA89E",
-      "Value": "Specialized (Recommended)"
-    },
-    {
-      "Key": "0x7AF3EAFC",
-      "Value": "Select to use Sim current outfit as the base when undressing."
-    },
-    {
-      "Key": "0xED938BE2",
-      "Value": "Bathing Outfit (Not Recommended)"
-    },
-    {
-      "Key": "0x6A756FA5",
-      "Value": "Select to use Sim native bathing outfit with auto fixing when undressing."
+      "Key": "0x4DE3C7B0",
+      "Value": "Check for Sims to keep wearing sleepwear outfits when going outdoors."
     },
     {
       "Key": "0x07CEF1D2",
       "Value": "Dress Up In Advance Switch"
     },
     {
-      "Key": "0x3A9456EE",
-      "Value": "Check to make naked Sims dress up before going to their destination if reaching it will require dressing up.\\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances.\\n(When Sim is about to enter a room with others in it, they will dress up beforehand instead of risking embarrassment)"
+      "Key": "0x80EC2A10",
+      "Value": "Check to make naked Sims dress up before going to their destination if reaching it will require dressing up due to embarrassment or restrictions.\\nUncheck to avoid Sims dressing up before going to their destination no matter the circumstances."
     },
     {
       "Key": "0x5E41AFE0",
@@ -167,6 +143,14 @@
     {
       "Key": "0x4D542A5B",
       "Value": "Check to make naked Sims dress up before leaving any residential lot."
+    },
+    {
+      "Key": "0x01FD2F3A",
+      "Value": "Advanced Settings"
+    },
+    {
+      "Key": "0x3FD5E187",
+      "Value": "Advanced settings related to the accessibility, actions, and behaviors of undressing and nudity."
     },
     {
       "Key": "0xD82578E3",
@@ -249,12 +233,36 @@
       "Value": "Check to display nudity notifications about NPC Sims."
     },
     {
+      "Key": "0x29499BF8",
+      "Value": "Complete Undressing Type"
+    },
+    {
+      "Key": "0xCE63B8F1",
+      "Value": "Choose the type of how 'Undress Completely' interaction should undress Sims."
+    },
+    {
+      "Key": "0x0CFBA89E",
+      "Value": "Specialized (Recommended)"
+    },
+    {
+      "Key": "0x7AF3EAFC",
+      "Value": "Select to use Sim current outfit as the base when undressing."
+    },
+    {
+      "Key": "0xED938BE2",
+      "Value": "Bathing Outfit (Not Recommended)"
+    },
+    {
+      "Key": "0x6A756FA5",
+      "Value": "Select to use Sim native bathing outfit with auto fixing when undressing."
+    },
+    {
       "Key": "0x2F12B6C0",
       "Value": "Body Settings"
     },
     {
-      "Key": "0x42099974",
-      "Value": "Body appearance of Sims."
+      "Key": "0x2936C5A7",
+      "Value": "Settings related to body appearance of Sims."
     },
     {
       "Key": "0xCF0DD5C6",
@@ -289,40 +297,24 @@
       "Value": "Occurrence & Autonomy Settings"
     },
     {
-      "Key": "0x873AFB28",
-      "Value": "Nudity occurrence and autonomy related settings."
+      "Key": "0xE3B879ED",
+      "Value": "Settings related to additional behaviors of autonomous or spontaneous undressing and nudity."
     },
     {
       "Key": "0x01C964F4",
       "Value": "Player Occurrences Inclusion"
     },
     {
-      "Key": "0x7D45D663",
-      "Value": "Check for playable Sims to be included in random nudity occurrences."
+      "Key": "0x94189011",
+      "Value": "Check for playable Sims to be included in spontaneous nudity occurrences."
     },
     {
-      "Key": "0x70DC1D19",
-      "Value": "Respect Child Sims Eyes"
+      "Key": "0x7C08AD33",
+      "Value": "Creep Sims Settings"
     },
     {
-      "Key": "0xC7241FE8",
-      "Value": "Sims behavior when children are around.\\n<b>Fully Check</b> for Sims to never undress when child Sims are on the lot.\\n<b>Half Check</b> for Sims to never undress when child Sims are nearby.\\n<b>Uncheck</b> for Sims to undress without acknowledgment of child Sims."
-    },
-    {
-      "Key": "0x24E20EC3",
-      "Value": "Autonomy Respects Underwear"
-    },
-    {
-      "Key": "0x7E210EB8",
-      "Value": "Check for Sims to first undress to underwear when performing an autonomous interaction before getting naked.\\nUncheck for Sims to undress directly to nudity when performing an autonomous interaction and skip showing underwear."
-    },
-    {
-      "Key": "0x63829F9A",
-      "Value": "Creep NPC Settings"
-    },
-    {
-      "Key": "0xF96664EF",
-      "Value": "Creep NPC related settings."
+      "Key": "0x463F70D7",
+      "Value": "Settings related to behavior and spawning of Creep NPC Sims."
     },
     {
       "Key": "0x8042E83D",
@@ -341,36 +333,12 @@
       "Value": "Set a unit interval value for chance of Creep NPC Sims showing up. Value 1.0 is 100% chance.\\n(Default: 0.30, Minimum: 0.01)"
     },
     {
-      "Key": "0x5918AF2F",
-      "Value": "Occurrence Specifics"
+      "Key": "0x3DE6DBCA",
+      "Value": "Interaction Outfit Behavior"
     },
     {
-      "Key": "0x6A1C48F2",
-      "Value": "Change nudity occurrences behavior."
-    },
-    {
-      "Key": "0x20673DDB",
-      "Value": "Random Swimwear Accidents"
-    },
-    {
-      "Key": "0x91CCC1E9",
-      "Value": "Random Sims swimwear related accidents.\\n<b>Fully Check</b> for Sims to experience this commonly.\\n<b>Half Check</b> for Sims to experience this rarely.\\n<b>Uncheck</b> for Sims to not experience this at all."
-    },
-    {
-      "Key": "0x490CA9AF",
-      "Value": "Random Missing Towel"
-    },
-    {
-      "Key": "0x3811DE3C",
-      "Value": "Random Sims forget their towel after showering in public.\\n<b>Fully Check</b> for Sims to forget their towel commonly.\\n<b>Half Check</b> for Sims to forget their towel rarely.\\n<b>Uncheck</b> for Sims to never forget their towel."
-    },
-    {
-      "Key": "0x8C41BCA9",
-      "Value": "Interaction Outfit Changing"
-    },
-    {
-      "Key": "0x0B94EAAA",
-      "Value": "Change interactions outfit changing behavior."
+      "Key": "0x86AA1E6E",
+      "Value": "Settings related to behavior of outfits used for interactions."
     },
     {
       "Key": "0xE36F7B5F",
@@ -385,16 +353,16 @@
       "Value": "Naked Workout"
     },
     {
-      "Key": "0x93DCE92F",
-      "Value": "Sims will get naked to workout at home.\\n<b>Fully Check</b> for Sims to always get naked to workout.\\n<b>Half Check</b> for Sims to sometimes get naked to workout.\\n<b>Uncheck</b> for Sims to never get naked to workout."
+      "Key": "0x915B9597",
+      "Value": "Sims will get naked to workout.\\n<b>Fully Check</b> for Sims to always get naked to workout.\\n<b>Half Check</b> for Sims to sometimes get naked to workout.\\n<b>Uncheck</b> for Sims to never get naked to workout."
     },
     {
       "Key": "0x1A82788C",
       "Value": "Naked in Water"
     },
     {
-      "Key": "0x052B99BA",
-      "Value": "Sims will get naked when getting into water*.\\n<b>Fully Check</b> for Sims to always get naked in water.\\n<b>Half Check</b> for Sims to sometimes get naked in water.\\n<b>Uncheck</b> for Sims to never get naked in water.\\n*(with the exception of gym, spa, and pool venues)"
+      "Key": "0x4CFD0F40",
+      "Value": "Sims will get naked when getting into water.\\n<b>Fully Check</b> for Sims to always get naked in water.\\n<b>Half Check</b> for Sims to sometimes get naked in water.\\n<b>Uncheck</b> for Sims to never get naked in water."
     },
     {
       "Key": "0x547210C1",
@@ -429,12 +397,36 @@
       "Value": "Check for Sims to dress up to correct outfit before performing activities that require outfit changing.\\nUncheck for Sims to keep their partially undressed outfit when performing activities that require outfit changing."
     },
     {
+      "Key": "0x5918AF2F",
+      "Value": "Occurrence Specifics"
+    },
+    {
+      "Key": "0x53B0C439",
+      "Value": "Settings related to spontaneous undressing and nudity occurrences."
+    },
+    {
+      "Key": "0x20673DDB",
+      "Value": "Random Swimwear Accidents"
+    },
+    {
+      "Key": "0x53A0BBF8",
+      "Value": "Random Sims swimwear related accidents.\\n<b>Fully Check</b> for Sims to experience swimwear accidents commonly.\\n<b>Half Check</b> for Sims to experience swimwear accidents rarely.\\n<b>Uncheck</b> for Sims to not experience swimwear accidents."
+    },
+    {
+      "Key": "0x490CA9AF",
+      "Value": "Random Missing Towel"
+    },
+    {
+      "Key": "0x3811DE3C",
+      "Value": "Random Sims forget their towel after showering in public.\\n<b>Fully Check</b> for Sims to forget their towel commonly.\\n<b>Half Check</b> for Sims to forget their towel rarely.\\n<b>Uncheck</b> for Sims to never forget their towel."
+    },
+    {
       "Key": "0xDB2FDAAA",
       "Value": "Autonomy Specifics"
     },
     {
-      "Key": "0x65A340A8",
-      "Value": "Change nudity autonomy behavior."
+      "Key": "0xAC08E980",
+      "Value": "Settings related to autonomous undressing and nudity."
     },
     {
       "Key": "0xB739DF8C",
@@ -467,6 +459,14 @@
     {
       "Key": "0xC35B866A",
       "Value": "Check for NPC Sims in the currently visiting household to randomly become undressed without any context when a player Sim is peeping through a window."
+    },
+    {
+      "Key": "0x24E20EC3",
+      "Value": "Autonomy Respects Underwear"
+    },
+    {
+      "Key": "0x7E210EB8",
+      "Value": "Check for Sims to first undress to underwear when performing an autonomous interaction before getting naked.\\nUncheck for Sims to undress directly to nudity when performing an autonomous interaction and skip showing underwear."
     },
     {
       "Key": "0x8A5200CE",
@@ -553,8 +553,8 @@
       "Value": "Native Undressing Behavior Switch"
     },
     {
-      "Key": "0x79FC565D",
-      "Value": "Check to use personalized undressing rules set within the Outfit Settings for Dancers during dancing.\\nUncheck to use specialized undressing rules for Dancers during dancing."
+      "Key": "0x130B1606",
+      "Value": "Check to use personalized undressing rules set within the Undressing Settings for Dancers during dancing.\\nUncheck to use specialized undressing rules for Dancers during dancing."
     },
     {
       "Key": "0x8EF60B90",
@@ -701,6 +701,22 @@
       "Value": "Cheats to change things that you find annoying."
     },
     {
+      "Key": "0xFB7BFCAF",
+      "Value": "Nudity Pressure Switch"
+    },
+    {
+      "Key": "0x019A7360",
+      "Value": "Check to make Sims gradually gain pressure from being naked and experience embarrassment.\\nUncheck to make Sims ignore pressure and not get embarrassed from nudity.\\n(both settings respect Sims nudity skills limitations)"
+    },
+    {
+      "Key": "0x1BA04D0C",
+      "Value": "All Sims Nudity Enthusiasts"
+    },
+    {
+      "Key": "0x864E61B3",
+      "Value": "Check to make all Sims Nudity Enthusiasts and ignore the 'Nudity Enthusiast' Wicked Attribute.\\nUncheck to only allow Sims with the 'Nudity Enthusiast' Wicked Attribute to participate in nudity activities."
+    },
+    {
       "Key": "0x949FD76A",
       "Value": "Nudity Privacy Switch"
     },
@@ -769,8 +785,8 @@
       "Value": "Modify <b>{0.SimFirstName}</b>'s Body Parts"
     },
     {
-      "Key": "0xBF2E395E",
-      "Value": "Random Sims ({0.String})"
+      "Key": "0x83187880",
+      "Value": "Selected Sims ({0.String})"
     },
     {
       "Key": "0x35D9B282",
@@ -797,6 +813,14 @@
       "Value": "The Body Selector is used for picking custom naked body parts on Sims.\\n\\nAvailable body parts to select depend on the Sim CAS Gender Settings. <b>Please note that Sims with altered Physical Frame can select body parts incompatible for their gender which will result in random clothing appearing when undressed.</b>\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and made to be supported by WickedWhims."
     },
     {
+      "Key": "0xC3700E5D",
+      "Value": "{0.SimFirstName} now uses the selected body parts."
+    },
+    {
+      "Key": "0x7A112C2D",
+      "Value": "Selected body parts have been applied to {0.Number} Sim{P0.s}."
+    },
+    {
       "Key": "0xF2E32E78",
       "Value": "Body Selector"
     },
@@ -809,8 +833,8 @@
       "Value": "All Sims Body Selector"
     },
     {
-      "Key": "0x7928B76B",
-      "Value": "Random Sims Body Selector"
+      "Key": "0xA1D56A61",
+      "Value": "Selected Sims Body Selector"
     },
     {
       "Key": "0x4C0FF0E3",
@@ -865,16 +889,16 @@
       "Value": "Female Body Feet"
     },
     {
-      "Key": "0x543167DD",
-      "Value": "New Default"
-    },
-    {
       "Key": "0xF8C92227",
       "Value": "Default"
     },
     {
       "Key": "0x4922982E",
       "Value": "Default (Textureless)"
+    },
+    {
+      "Key": "0xA0195C40",
+      "Value": "Default Alternative"
     },
     {
       "Key": "0x91F92694",
@@ -1105,56 +1129,12 @@
       "Value": "(From Being Around Naked Sims)"
     },
     {
-      "Key": "0xF954074E",
-      "Value": "<font color='#340658'>Morning Wood</font>"
-    },
-    {
-      "Key": "0xF6A65AA4",
-      "Value": "{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. <i>Knock on wood</i> it gets taken care of soon."
-    },
-    {
-      "Key": "0x7A35453F",
-      "Value": "<font color='#340658'>Morning Dew</font>"
-    },
-    {
-      "Key": "0x7E950972",
-      "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
-    },
-    {
       "Key": "0x7E2A95E8",
       "Value": "<font color='#340658'>Uncomfortable Clothing</font>"
     },
     {
       "Key": "0xA1D6550E",
       "Value": "{0.SimFirstName} is feeling uncomfortable wearing clothing. {M0.He}{F0.She} must be naked. Now."
-    },
-    {
-      "Key": "0x35715025",
-      "Value": "---------- Whims ----------"
-    },
-    {
-      "Key": "0x05301777",
-      "Value": "Admire Yourself Sexually"
-    },
-    {
-      "Key": "0x85EE2242",
-      "Value": "Click on a mirror and select 'Admire Your Body'."
-    },
-    {
-      "Key": "0xD814E42A",
-      "Value": "Get Naked"
-    },
-    {
-      "Key": "0x7DF58EB2",
-      "Value": "Click on your Sim and select any outfit undressing option from Wicked Naturism/Exhibitionism category."
-    },
-    {
-      "Key": "0x536FFA1C",
-      "Value": "Talk About Nudity"
-    },
-    {
-      "Key": "0x1615EB9A",
-      "Value": "Click on a Sim and select any social naturism/exhibitionism option from Wicked Naturism/Exhibitionism category."
     },
     {
       "Key": "0x6DC533A2",
@@ -1285,6 +1265,14 @@
       "Value": "Go Streaking!"
     },
     {
+      "Key": "0xE8EDC2A5",
+      "Value": "Discuss Interest in Naturism"
+    },
+    {
+      "Key": "0x37EB11BC",
+      "Value": "{1.SimFirstName} Is Discussing Interest in Naturism"
+    },
+    {
       "Key": "0x583E5D8C",
       "Value": "Compliment {1.SimFirstName}'s Body"
     },
@@ -1305,6 +1293,14 @@
       "Value": "{1.SimFirstName} Is Expressing Joy Of Nudity"
     },
     {
+      "Key": "0x53FA710D",
+      "Value": "Share the Thrill of Exhibitionism"
+    },
+    {
+      "Key": "0x5AEB939C",
+      "Value": "{1.SimFirstName} Is Sharing Thrill Of Exhibitionism"
+    },
+    {
       "Key": "0x23C8B1CD",
       "Value": "Convince to Practice Naturism"
     },
@@ -1315,6 +1311,10 @@
     {
       "Key": "0x20B61951",
       "Value": "{1.SimFirstName} Convinces Me to Practice Nudity"
+    },
+    {
+      "Key": "0xA52CCBCA",
+      "Value": "Uh, that sounds interesting, but I don't think I'm ready to try that yet."
     },
     {
       "Key": "0x70303D14",
@@ -1629,6 +1629,10 @@
       "Value": "Irresistible Command to Undress"
     },
     {
+      "Key": "0x542BFEDF",
+      "Value": "<font color='#340658'>Commanded</font>"
+    },
+    {
       "Key": "0xD38AA793",
       "Value": "Strangely...compelled...to...get...naked."
     },
@@ -1901,6 +1905,10 @@
       "Value": "---------- Flashing ----------"
     },
     {
+      "Key": "0x36B4C889",
+      "Value": "Flash"
+    },
+    {
       "Key": "0x34365938",
       "Value": "Flash Boobs"
     },
@@ -1909,72 +1917,36 @@
       "Value": "Flash Pussy"
     },
     {
-      "Key": "0xED38B4F2",
-      "Value": "Flash Dick"
+      "Key": "0xD06A4E70",
+      "Value": "Flash Penis"
     },
     {
       "Key": "0x439B9F1A",
       "Value": "Flash Butt"
     },
     {
-      "Key": "0x576B25F6",
-      "Value": "Flash Everything"
+      "Key": "0xA8241ECA",
+      "Value": "<font color='#340658'>Flash!</font>"
     },
     {
-      "Key": "0x0B6ED1FD",
-      "Value": "Flashing"
+      "Key": "0xD59E758F",
+      "Value": "{0.SimFirstName}'s heart beats wildly with excitement as {F0.she}{M0.he} brazenly flashes another Sim, relishing in the rush of adrenaline from the daring act."
     },
     {
-      "Key": "0x711A7823",
-      "Value": "Be Flashed by {1.SimFirstName}"
+      "Key": "0x156226BE",
+      "Value": "<font color='#340658'>Unexpected Flash</font>"
     },
     {
-      "Key": "0xFC1E4165",
-      "Value": "Show Off Flashing"
+      "Key": "0x47EAD09C",
+      "Value": "{0.SimFirstName} is left in shock as another Sim flashed their naked body towards them, unsure of how to react to the unexpected and inappropriate behavior."
     },
     {
-      "Key": "0xB086D469",
-      "Value": "Compliment Flashing"
+      "Key": "0x8305977C",
+      "Value": "<font color='#340658'>Unforgettable Flashback</font>"
     },
     {
-      "Key": "0x19DBBC62",
-      "Value": "Disregard Flashing"
-    },
-    {
-      "Key": "0xF5FDC808",
-      "Value": "<font color='#340658'>Flashed a Sim</font>"
-    },
-    {
-      "Key": "0x1BD49A54",
-      "Value": "Sims that are experienced with Exhibitionism get a lot of joy from flashing others."
-    },
-    {
-      "Key": "0x77A6756D",
-      "Value": "Flash a Sim"
-    },
-    {
-      "Key": "0x0005DD74",
-      "Value": "Click on a Sim and select any flashing option from the Wicked Exhibitionism category."
-    },
-    {
-      "Key": "0xC1BF0BD5",
-      "Value": "{0.SimName} flashed her pussy to {1.SimName}."
-    },
-    {
-      "Key": "0x809E1B48",
-      "Value": "{0.SimName} flashed her boobs to {1.SimName}."
-    },
-    {
-      "Key": "0xC124F925",
-      "Value": "{0.SimName} flashed his dick to {1.SimName}."
-    },
-    {
-      "Key": "0xF24149F9",
-      "Value": "{0.SimName} flashed his butt to {1.SimName}."
-    },
-    {
-      "Key": "0x005802F5",
-      "Value": "{0.SimName} flashed everything to {1.SimName}."
+      "Key": "0xEF784F69",
+      "Value": "{0.SimFirstName} feels a rush of pleasure as another Sim flashes their naked body towards them, reveling in the unexpected yet welcome display of deviance."
     },
     {
       "Key": "0x702399C0",
@@ -2217,20 +2189,20 @@
       "Value": "Randomize Selected Sims"
     },
     {
-      "Key": "0x599FCECB",
-      "Value": "Gender: {0.String}\\nAuthor: {1.String}\\nSupported Hair Colors: {2.String}"
+      "Key": "0xBBBB2B9A",
+      "Value": "Genitalia: {0.String}\\nAuthor: {1.String}\\nSupported Hair Colors: {2.String}"
     },
     {
-      "Key": "0x9700EE72",
-      "Value": "Gender: {0.String}\\nAuthor: {1.String}\\nHair Color: {2.String}"
+      "Key": "0x6B03B1F5",
+      "Value": "Genitalia: {0.String}\\nAuthor: {1.String}\\nHair Color: {2.String}"
     },
     {
-      "Key": "0x8C896BAD",
-      "Value": "Male"
+      "Key": "0x7B16B117",
+      "Value": "Penis"
     },
     {
-      "Key": "0xD669CA38",
-      "Value": "Female"
+      "Key": "0xE932A51C",
+      "Value": "Vagina"
     },
     {
       "Key": "0xD21A6103",
@@ -3527,6 +3499,10 @@
     {
       "Key": "0xECF6EC79",
       "Value": "Remove Clothing Changing Block"
+    },
+    {
+      "Key": "0x220DBAB9",
+      "Value": "Change Into Work Outfit"
     },
     {
       "Key": "0x62F967BC",

@@ -181,20 +181,20 @@
       "Value": "Adjust newly generated Sims gender preference.\\n\\nThe values below represent the game gender preference chance of getting picked."
     },
     {
-      "Key": "0xB3B39F1C",
-      "Value": "Likes Neither Distribution Value"
+      "Key": "0x0EB9B5FC",
+      "Value": "Is Attracted to Males Distribution Value"
     },
     {
-      "Key": "0x3B811666",
-      "Value": "Heterosexual Distribution Value"
+      "Key": "0xD3755273",
+      "Value": "Is Not Attracted to Males Distribution Value"
     },
     {
-      "Key": "0x16BED458",
-      "Value": "Homosexual Distribution Value"
+      "Key": "0x6CF973D7",
+      "Value": "Is Attracted to Females Distribution Value"
     },
     {
-      "Key": "0xD543F140",
-      "Value": "Bisexual Distribution Value"
+      "Key": "0x7D137A84",
+      "Value": "Is Not Attracted to Females Distribution Value"
     },
     {
       "Key": "0xC92B951F",
@@ -509,6 +509,34 @@
       "Value": "Booty Call"
     },
     {
+      "Key": "0xAC871A26",
+      "Value": "---------- Lewd Dreams ----------"
+    },
+    {
+      "Key": "0x767480AD",
+      "Value": "Tell About Lewd Dream"
+    },
+    {
+      "Key": "0x546E71EC",
+      "Value": "Listen to {1.SimFirstName}'s Lewd Dream"
+    },
+    {
+      "Key": "0x0DA175CF",
+      "Value": "<font color='#340658'>Morning Wood</font>"
+    },
+    {
+      "Key": "0xECAA29A1",
+      "Value": "{0.SimFirstName} must have had some erotic dream! At least that's how it appears from the aroused state {M0.he}{F0.she} is in. <i>Knock on wood</i> it gets taken care of soon."
+    },
+    {
+      "Key": "0x7205070A",
+      "Value": "<font color='#340658'>Morning Dew</font>"
+    },
+    {
+      "Key": "0x4CA91CBB",
+      "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
+    },
+    {
       "Key": "0x6DF9B78B",
       "Value": "---------- Protocols ----------"
     },
@@ -579,6 +607,10 @@
     {
       "Key": "0x19351F49",
       "Value": "Impregnated"
+    },
+    {
+      "Key": "0x65A1300E",
+      "Value": "First Time"
     },
     {
       "Key": "0x1A2EC93E",
@@ -2011,6 +2043,10 @@
     {
       "Key": "0x23C14ECF",
       "Value": "Male"
+    },
+    {
+      "Key": "0xC4F7DE8A",
+      "Value": "Nonbinary"
     },
     {
       "Key": "0xEA098A49",
@@ -3847,6 +3883,10 @@
     {
       "Key": "0xEECFFD95",
       "Value": "Select Male Sims"
+    },
+    {
+      "Key": "0xAE67267A",
+      "Value": "Select Nonbinary Sims"
     },
     {
       "Key": "0x573037CF",

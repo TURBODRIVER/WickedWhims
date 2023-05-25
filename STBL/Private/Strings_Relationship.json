@@ -181,20 +181,20 @@
       "Value": "Adjust newly generated Sims gender preference.\\n\\nThe values below represent the game gender preference chance of getting picked."
     },
     {
-      "Key": "0xB3B39F1C",
-      "Value": "Likes Neither Distribution Value"
+      "Key": "0x0EB9B5FC",
+      "Value": "Is Attracted to Males Distribution Value"
     },
     {
-      "Key": "0x3B811666",
-      "Value": "Heterosexual Distribution Value"
+      "Key": "0xD3755273",
+      "Value": "Is Not Attracted to Males Distribution Value"
     },
     {
-      "Key": "0x16BED458",
-      "Value": "Homosexual Distribution Value"
+      "Key": "0x6CF973D7",
+      "Value": "Is Attracted to Females Distribution Value"
     },
     {
-      "Key": "0xD543F140",
-      "Value": "Bisexual Distribution Value"
+      "Key": "0x7D137A84",
+      "Value": "Is Not Attracted to Females Distribution Value"
     },
     {
       "Key": "0xC92B951F",
@@ -227,6 +227,10 @@
     {
       "Key": "0x30379E84",
       "Value": "Stop Being Romantically Attached to {1.SimFirstName}"
+    },
+    {
+      "Key": "0x37A81EDC",
+      "Value": "Ask to Join in Bed"
     },
     {
       "Key": "0xCD865ABF",
@@ -267,6 +271,146 @@
     {
       "Key": "0x81AA4B1D",
       "Value": "Socially Avoidant Sims are simply not interested in talking to anybody unless they have to."
+    },
+    {
+      "Key": "0xDE618EFC",
+      "Value": "Shy"
+    },
+    {
+      "Key": "0xB18B8F2F",
+      "Value": "Shy"
+    },
+    {
+      "Key": "0x64C36BF9",
+      "Value": "Shy Sims are highly self-conscious in intimate situations, preferring privacy and modesty. They avoid nudity in public places, sex in risky locations, and struggle with flirting around others, often becoming easily embarrassed."
+    },
+    {
+      "Key": "0xCE2650DE",
+      "Value": "<font color='#340658'>Blushing Bashfulness</font>"
+    },
+    {
+      "Key": "0xD652929A",
+      "Value": "(From Shy Wicked Attribute)"
+    },
+    {
+      "Key": "0x6DD59E13",
+      "Value": "{0.SimFirstName} is feeling quite embarrassed from displaying affection so openly. The warmth of their rosy cheeks serves as a reminder to be more cautious and discreet with romantic gestures in the future."
+    },
+    {
+      "Key": "0x2311BE7B",
+      "Value": "Insatiably Lustful"
+    },
+    {
+      "Key": "0xA426239C",
+      "Value": "Insatiably Lustful"
+    },
+    {
+      "Key": "0x6D30B694",
+      "Value": "Insatiably Lustful Sims are driven by an irrationally insatiable desire for romantic encounters, with their minds ever preoccupied by the anticipation of their next sexual conquest, regardless of the satisfaction or lack thereof in their current and future relationships."
+    },
+    {
+      "Key": "0x43D8D649",
+      "Value": "(From Insatiably Lustful Wicked Attribute)"
+    },
+    {
+      "Key": "0x231BB614",
+      "Value": "<font color='#340658'>Craving Connection</font>"
+    },
+    {
+      "Key": "0x85EF0BA6",
+      "Value": "It's been a while since {0.SimFirstName} shared a special moment with someone, and their unmet needs are starting to take a toll on {0.SimPronounPossessiveDependent} mental well-being."
+    },
+    {
+      "Key": "0x354F623B",
+      "Value": "<font color='#340658'>Intimacy Deprivation</font>"
+    },
+    {
+      "Key": "0x042885AE",
+      "Value": "The lack of intimate physical connections has left {0.SimFirstName} feeling on edge, restless, and irritable, making it difficult for {0.SimPronounObjective} to focus on anything else."
+    },
+    {
+      "Key": "0x5C9E7810",
+      "Value": "<font color='#340658'>Sensual Starvation</font>"
+    },
+    {
+      "Key": "0xE493D294",
+      "Value": "The lack of intimate connection with another has put {0.SimFirstName} on edge, making it very difficult for {0.SimPronounObjective} to fully enjoy {0.SimPronounPossessiveDependent} day-to-day life."
+    },
+    {
+      "Key": "0x03CD5B44",
+      "Value": "<font color='#340658'>Hollow Victory?</font>"
+    },
+    {
+      "Key": "0x4B29441B",
+      "Value": "Despite successfully taking the edge off, {0.SimFirstName} remains caught in a cycle of irrational thinking. {M0.He}{F0.She} can't help but trouble {0.SimPronounReflexive} with the idea that {0.SimPronounPossessiveDependent} sexual encounter would have been more fulfilling if {M0.he}{F0.she} had taken the time to develop a deeper connection first."
+    },
+    {
+      "Key": "0xB2322D26",
+      "Value": "<font color='#340658'>Tedium Tango?</font>"
+    },
+    {
+      "Key": "0x0A013116",
+      "Value": "Even after {0.SimPronounPossessiveDependent} recent sexual encounter, {0.SimFirstName}'s irrational thinking leaves {0.SimPronounObjective} somewhat disinterested, trapped in a cycle of yearning for an elusive spark of passion that seems perpetually ignited by thoughts of a new sexual partner."
+    },
+    {
+      "Key": "0x01093AD3",
+      "Value": "Cheeky Compliment"
+    },
+    {
+      "Key": "0xDAE16B13",
+      "Value": "Daring Suggestion"
+    },
+    {
+      "Key": "0xACC64616",
+      "Value": "Are you a magician? Because every time I look at you, everyone else disappears... and I like it that way."
+    },
+    {
+      "Key": "0x23C8BFDF",
+      "Value": "Can I follow you home? Cause my parents always told me to follow my dreams."
+    },
+    {
+      "Key": "0x61975E29",
+      "Value": "Are you a camera? Every time I look at you, I just can't help but smile... and snap a photo or two."
+    },
+    {
+      "Key": "0x18691B45",
+      "Value": "Do you have a map? I keep getting lost in your eyes... and I'd like to explore the rest of you too."
+    },
+    {
+      "Key": "0x630A459B",
+      "Value": "Do you believe in love at first sight or should I walk by again? I'd walk by a thousand times if it meant you'd notice me."
+    },
+    {
+      "Key": "0x3D98D17E",
+      "Value": "Are you a parking ticket? Because you've got '<i>FINE</i>' written all over you, and I'd love to pay the price."
+    },
+    {
+      "Key": "0xDE5086F7",
+      "Value": "Are you an alien? Because you just abducted my heart, and I can't wait to be probed by your love."
+    },
+    {
+      "Key": "0x9E0A8352",
+      "Value": "Are you a vampire? Because I'd let you take a bite anytime."
+    },
+    {
+      "Key": "0x6EE551DB",
+      "Value": "If you were a ghost, you'd be the only boo I'd ever need."
+    },
+    {
+      "Key": "0xBE0E68C1",
+      "Value": "Your lips look lonely; would they like to meet mine? We can make them inseparable, so they'll never be alone again."
+    },
+    {
+      "Key": "0x197718FD",
+      "Value": "Your lips look so soft, I can't help but imagine their taste."
+    },
+    {
+      "Key": "0x1B356889",
+      "Value": "Your skin seems so flawless, I'd love to explore every inch."
+    },
+    {
+      "Key": "0xDFC94F34",
+      "Value": "Your presence is magnetic, I find myself drawn to you, unable to resist."
     },
     {
       "Key": "0x165FA249",
@@ -565,24 +709,24 @@
       "Value": "(From Taking a Shower Together)"
     },
     {
-      "Key": "0x332D170A",
-      "Value": "Clean Dirty Fun"
+      "Key": "0x353B924A",
+      "Value": "<font color='#340658'>Clean Dirty Fun</font>"
     },
     {
       "Key": "0x06FFAD1F",
       "Value": "Showering together gave even more opportunity to explore each other’s naked, wet bodies. After sudsing each other up and getting clean, {0.SimFirstName} is ready to get down and dirty again."
     },
     {
-      "Key": "0x70865156",
-      "Value": "A Shower Shared"
+      "Key": "0xFEA2BBDA",
+      "Value": "<font color='#340658'>A Shower Shared</font>"
     },
     {
       "Key": "0x808A78E0",
       "Value": "Warm water, soapy caresses, comforting bubbles, and sharing even more time together in the afterglow is a simple but effective pleasure."
     },
     {
-      "Key": "0x76E23987",
-      "Value": "Twice the Shower Thoughts"
+      "Key": "0x70B756FD",
+      "Value": "<font color='#340658'>Twice the Shower Thoughts</font>"
     },
     {
       "Key": "0x5CAAA3B5",
@@ -2215,6 +2359,10 @@
     {
       "Key": "0x23C14ECF",
       "Value": "Male"
+    },
+    {
+      "Key": "0xC4F7DE8A",
+      "Value": "Nonbinary"
     },
     {
       "Key": "0xEA098A49",
@@ -4051,6 +4199,10 @@
     {
       "Key": "0xEECFFD95",
       "Value": "Select Male Sims"
+    },
+    {
+      "Key": "0xAE67267A",
+      "Value": "Select Nonbinary Sims"
     },
     {
       "Key": "0x573037CF",
