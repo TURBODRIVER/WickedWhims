@@ -837,6 +837,50 @@
       "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
     },
     {
+      "Key": "0xBE429B57",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0x52F70CB0",
+      "Value": "Relationship Tuner"
+    },
+    {
+      "Key": "0xA0C58731",
+      "Value": "Tune {0.SimFirstName}'s relationship variables."
+    },
+    {
+      "Key": "0xD45F18BD",
+      "Value": "Allow Desire"
+    },
+    {
+      "Key": "0xA81CC06B",
+      "Value": "Check for {0.SimFirstName} to follow Desire settings.\\nUncheck to prevent {0.SimFirstName} from gaining desire and feeling effects of desire."
+    },
+    {
+      "Key": "0xA085F5B4",
+      "Value": "Attractiveness Tuner"
+    },
+    {
+      "Key": "0x9AA1EB05",
+      "Value": "Tune {0.SimFirstName}'s attractiveness variables."
+    },
+    {
+      "Key": "0xFE7C67B3",
+      "Value": "Allow Suggestive Looks"
+    },
+    {
+      "Key": "0xAB3DE873",
+      "Value": "Check for {0.SimFirstName} to follow Suggestive Looks settings.\\nUncheck to prevent {0.SimFirstName} from performing suggestive looks."
+    },
+    {
+      "Key": "0x3FDBAEC6",
+      "Value": "Perceived Attractiveness Level Cheat"
+    },
+    {
+      "Key": "0xF5343828",
+      "Value": "Increase/Decrease the attractiveness level of how other Sims perceive {0.SimFirstName}. This value is added to {0.SimFirstName}'s Attractiveness level, which ranges from -2 to 3. Higher values make other Sims perceive {0.SimFirstName} as more attractive."
+    },
+    {
       "Key": "0x94C8C365",
       "Value": "--------- Reputation ---------"
     },

@@ -77,32 +77,32 @@
       "Value": "Auto Undress Gloves with Top"
     },
     {
-      "Key": "0x9E3ACE3B",
-      "Value": "Check for gloves to be undressed with the top part of Sim outfit."
+      "Key": "0xFBDE6A16",
+      "Value": "Check for gloves to be undressed with the outfit top."
     },
     {
       "Key": "0x38A25BA9",
       "Value": "Auto Undress Shoes with Bottom"
     },
     {
-      "Key": "0x6D83B6FD",
-      "Value": "Check for shoes to be undressed with the bottom part of Sim outfit."
+      "Key": "0xF0927692",
+      "Value": "Check for shoes to be undressed with the outfit bottom."
     },
     {
       "Key": "0x8E22D933",
       "Value": "Auto Undress Socks with Shoes"
     },
     {
-      "Key": "0x26470B08",
-      "Value": "Check for socks to be undressed with shoes."
+      "Key": "0xEC7AFD51",
+      "Value": "Check for socks to be undressed with outfit shoes."
     },
     {
       "Key": "0xCF0B8F13",
       "Value": "Auto Undress Leggings with Bottom"
     },
     {
-      "Key": "0xAAA8117F",
-      "Value": "Check for leggings to be undressed with the bottom part of Sim outfit."
+      "Key": "0x21CE54C4",
+      "Value": "Check for leggings to be undressed with the outfit bottom."
     },
     {
       "Key": "0x92A8ED33",
@@ -113,8 +113,8 @@
       "Value": "Check for Sims to undress bottom part of outfit when peeing."
     },
     {
-      "Key": "0xE6D0E27A",
-      "Value": "Breast Feeding Undressing Switch"
+      "Key": "0x57083E54",
+      "Value": "Breastfeeding Undressing Switch"
     },
     {
       "Key": "0xE9BA76CE",
@@ -143,6 +143,22 @@
     {
       "Key": "0x4D542A5B",
       "Value": "Check to make naked Sims dress up before leaving any residential lot."
+    },
+    {
+      "Key": "0x634CBD87",
+      "Value": "Dress Up After Flashing"
+    },
+    {
+      "Key": "0x32DE56CB",
+      "Value": "Check for Sims to dress up after performing a flashing interaction.\\nUncheck for Sims to keep their partially undressed outfit after performing a flashing interaction."
+    },
+    {
+      "Key": "0xA5D9A8F8",
+      "Value": "Keep Shoes for Workout"
+    },
+    {
+      "Key": "0xC73CD434",
+      "Value": "Check for Sims to keep shoes on when working out.\\nUncheck for Sims to undress shoes when working out."
     },
     {
       "Key": "0x01FD2F3A",
@@ -625,8 +641,8 @@
       "Value": "Window Peeping NPC Sims Spawn Probability"
     },
     {
-      "Key": "0xFD1531C5",
-      "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.40, Minimum: 0.01)"
+      "Key": "0x718FA4C5",
+      "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.35, Minimum: 0.01)"
     },
     {
       "Key": "0xF31897EE",
@@ -827,6 +843,162 @@
     {
       "Key": "0x99F38ABB",
       "Value": "Sims within this group are prevented from reacting to nudity of other Sims outside of this group."
+    },
+    {
+      "Key": "0x24325B86",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0x3F9427C0",
+      "Value": "Nudity Tuner"
+    },
+    {
+      "Key": "0xE422B85F",
+      "Value": "Tune {0.SimFirstName}'s nudity variables."
+    },
+    {
+      "Key": "0x22A84AAC",
+      "Value": "Nudity Occurrences Inclusion"
+    },
+    {
+      "Key": "0x86309A47",
+      "Value": "Check for {0.SimFirstName} to follow the Nudity Occurrences Inclusion settings.\\nUncheck to prevent {0.SimFirstName} from being included in spontaneous nudity occurrences."
+    },
+    {
+      "Key": "0x9B89145C",
+      "Value": "Reaction to Nudity"
+    },
+    {
+      "Key": "0x0F134316",
+      "Value": "Check for {0.SimFirstName} to follow Nudity Reaction settings.\\nUncheck to prevent {0.SimFirstName} from reacting to nudity."
+    },
+    {
+      "Key": "0x9B202C30",
+      "Value": "Undress to Pee"
+    },
+    {
+      "Key": "0x089D5C85",
+      "Value": "Check for {0.SimFirstName} to follow Peeing Undressing settings.\\nUncheck for {0.SimFirstName} to not undress outfit bottom when peeing."
+    },
+    {
+      "Key": "0x5D3B71E7",
+      "Value": "Undress to Breastfeed"
+    },
+    {
+      "Key": "0xCD2CCA8D",
+      "Value": "Check for {0.SimFirstName} to follow Breastfeeding Undressing settings.\\nUncheck for {0.SimFirstName} to not undress outfit top when breastfeeding."
+    },
+    {
+      "Key": "0x0944E828",
+      "Value": "Auto Undress Gloves with Top"
+    },
+    {
+      "Key": "0x35C4E861",
+      "Value": "Check for {0.SimFirstName} to follow Auto Undressing settings.\\nUncheck for {0.SimFirstName} to undress gloves when undressing outfit top."
+    },
+    {
+      "Key": "0xE80E80C6",
+      "Value": "Auto Undress Shoes with Bottom"
+    },
+    {
+      "Key": "0x22403005",
+      "Value": "Check for {0.SimFirstName} to follow Auto Undressing settings.\\nUncheck for {0.SimFirstName} to undress shoes when undressing outfit bottom."
+    },
+    {
+      "Key": "0xD475EB24",
+      "Value": "Auto Undress Socks with Shoes"
+    },
+    {
+      "Key": "0x7AE351FF",
+      "Value": "Check for {0.SimFirstName} to follow Auto Undressing settings.\\nUncheck for {0.SimFirstName} to undress socks when undressing outfit shoes."
+    },
+    {
+      "Key": "0x27947804",
+      "Value": "Auto Undress Leggings with Bottom"
+    },
+    {
+      "Key": "0xF4E1CB39",
+      "Value": "Check for {0.SimFirstName} to follow Auto Undressing settings.\\nUncheck for {0.SimFirstName} to undress leggings when undressing outfit bottom."
+    },
+    {
+      "Key": "0xFFB7FD3B",
+      "Value": "Keep Shoes for Workout"
+    },
+    {
+      "Key": "0xE61E4555",
+      "Value": "Check for {0.SimFirstName} to follow Shoes Undressing settings.\\nUncheck for {0.SimFirstName} to not undress shoes for workout."
+    },
+    {
+      "Key": "0x612CE785",
+      "Value": "Auto Reset Bathing Outfit"
+    },
+    {
+      "Key": "0x799AB1DA",
+      "Value": "Check for {0.SimFirstName} to follow the Auto Reset Bathing Outfit settings.\\nUncheck for {0.SimFirstName} bathing outfits to stay untouched, for technical use purposes."
+    },
+    {
+      "Key": "0x496FB411",
+      "Value": "Strip Club Tuner"
+    },
+    {
+      "Key": "0x38DCF4E4",
+      "Value": "Tune {0.SimFirstName}'s strip club variables."
+    },
+    {
+      "Key": "0x82CFB90B",
+      "Value": "Prevent Visiting Strip Clubs"
+    },
+    {
+      "Key": "0xAE39E1A0",
+      "Value": "Check for {0.SimFirstName} to not be allowed to visit strip clubs.\\nUncheck to allow {0.SimFirstName} to visit strip clubs."
+    },
+    {
+      "Key": "0x8572AEF7",
+      "Value": "Body Tuner"
+    },
+    {
+      "Key": "0x7EAACA32",
+      "Value": "Tune {0.SimFirstName}'s body variables."
+    },
+    {
+      "Key": "0xD1FE3CFA",
+      "Value": "Facial Hair Growth"
+    },
+    {
+      "Key": "0x2BA42648",
+      "Value": "Check to enable {0.SimFirstName}'s facial hair growth.\\nUncheck to remove {0.SimFirstName}'s facial hair and disable growth."
+    },
+    {
+      "Key": "0x9B145270",
+      "Value": "Arm Hair Growth"
+    },
+    {
+      "Key": "0xF29E0262",
+      "Value": "Check to enable {0.SimFirstName}'s arm hair growth.\\nUncheck to remove {0.SimFirstName}'s arm hair and disable growth."
+    },
+    {
+      "Key": "0x09E0DBDE",
+      "Value": "Leg Hair Growth"
+    },
+    {
+      "Key": "0xE973B416",
+      "Value": "Check to enable {0.SimFirstName}'s leg hair growth.\\nUncheck to remove {0.SimFirstName}'s leg hair and disable growth."
+    },
+    {
+      "Key": "0xFBC95837",
+      "Value": "Torso Hair Growth"
+    },
+    {
+      "Key": "0x592C7F98",
+      "Value": "Check to enable {0.SimFirstName}'s torso hair growth.\\nUncheck to remove {0.SimFirstName}'s torso hair and disable growth."
+    },
+    {
+      "Key": "0x78271437",
+      "Value": "Back Hair Growth"
+    },
+    {
+      "Key": "0x2FF1DA08",
+      "Value": "Check to enable {0.SimFirstName}'s back hair growth.\\nUncheck to remove {0.SimFirstName}'s back hair and disable growth."
     },
     {
       "Key": "0x14F7CDC6",

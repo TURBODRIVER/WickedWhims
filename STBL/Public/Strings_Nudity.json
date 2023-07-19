@@ -77,32 +77,32 @@
       "Value": "Auto Undress Gloves with Top"
     },
     {
-      "Key": "0x9E3ACE3B",
-      "Value": "Check for gloves to be undressed with the top part of Sim outfit."
+      "Key": "0xFBDE6A16",
+      "Value": "Check for gloves to be undressed with the outfit top."
     },
     {
       "Key": "0x38A25BA9",
       "Value": "Auto Undress Shoes with Bottom"
     },
     {
-      "Key": "0x6D83B6FD",
-      "Value": "Check for shoes to be undressed with the bottom part of Sim outfit."
+      "Key": "0xF0927692",
+      "Value": "Check for shoes to be undressed with the outfit bottom."
     },
     {
       "Key": "0x8E22D933",
       "Value": "Auto Undress Socks with Shoes"
     },
     {
-      "Key": "0x26470B08",
-      "Value": "Check for socks to be undressed with shoes."
+      "Key": "0xEC7AFD51",
+      "Value": "Check for socks to be undressed with outfit shoes."
     },
     {
       "Key": "0xCF0B8F13",
       "Value": "Auto Undress Leggings with Bottom"
     },
     {
-      "Key": "0xAAA8117F",
-      "Value": "Check for leggings to be undressed with the bottom part of Sim outfit."
+      "Key": "0x21CE54C4",
+      "Value": "Check for leggings to be undressed with the outfit bottom."
     },
     {
       "Key": "0x92A8ED33",
@@ -113,8 +113,8 @@
       "Value": "Check for Sims to undress bottom part of outfit when peeing."
     },
     {
-      "Key": "0xE6D0E27A",
-      "Value": "Breast Feeding Undressing Switch"
+      "Key": "0x57083E54",
+      "Value": "Breastfeeding Undressing Switch"
     },
     {
       "Key": "0xE9BA76CE",
@@ -143,6 +143,14 @@
     {
       "Key": "0x4D542A5B",
       "Value": "Check to make naked Sims dress up before leaving any residential lot."
+    },
+    {
+      "Key": "0x634CBD87",
+      "Value": "Dress Up After Flashing"
+    },
+    {
+      "Key": "0x32DE56CB",
+      "Value": "Check for Sims to dress up after performing a flashing interaction.\\nUncheck for Sims to keep their partially undressed outfit after performing a flashing interaction."
     },
     {
       "Key": "0x01FD2F3A",
@@ -617,8 +625,8 @@
       "Value": "Window Peeping NPC Sims Spawn Probability"
     },
     {
-      "Key": "0xFD1531C5",
-      "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.40, Minimum: 0.01)"
+      "Key": "0x718FA4C5",
+      "Value": "Set a unit interval value for chance of Peeping NPC Sims showing up at the active household. Value 1.0 is 100% chance.\\n(Default: 0.35, Minimum: 0.01)"
     },
     {
       "Key": "0xF31897EE",

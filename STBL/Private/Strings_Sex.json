@@ -1201,8 +1201,8 @@
       "Value": "Crab Lice Sleeper Agents Population"
     },
     {
-      "Key": "0x2114B69F",
-      "Value": "Set a number of population percentage that will become Crab Lice Sleeper Agents.\\n(Default: 22.5%)"
+      "Key": "0xDD848899",
+      "Value": "Set a number of population percentage that will become Crab Lice Sleeper Agents.\\n(Default: 18.0%)"
     },
     {
       "Key": "0xE6FB18A8",
@@ -1293,20 +1293,28 @@
       "Value": "Check to include teen Sims in experiencing menstrual cycle."
     },
     {
-      "Key": "0x9D5DA45C",
-      "Value": "Player Sims Pregnancy Chance"
+      "Key": "0xCFA2AC9E",
+      "Value": "Simple Pregnancy Settings"
     },
     {
-      "Key": "0x3B87E494",
-      "Value": "Choose percentage chance of Player Sims getting pregnant from sex."
+      "Key": "0x0D9C8509",
+      "Value": "Settings for adjusting simple pregnancy chances."
     },
     {
-      "Key": "0xDB4B89D2",
-      "Value": "NPC Sims Pregnancy Chance"
+      "Key": "0x49C7EC96",
+      "Value": "Simple Pregnancy Player Sims Chance"
     },
     {
-      "Key": "0xF6E17392",
-      "Value": "Choose percentage chance of NPC Sims getting pregnant from sex."
+      "Key": "0x5E0F4464",
+      "Value": "Choose percentage chance for Simple Pregnancy Player Sims getting pregnant from sex.\\n(This setting has no effect on Menstrual Cycle.)"
+    },
+    {
+      "Key": "0xD4507C76",
+      "Value": "Simple Pregnancy NPC Sims Chance"
+    },
+    {
+      "Key": "0xA174E974",
+      "Value": "Choose percentage chance for Simple Pregnancy NPC Sims getting pregnant from sex.\\n(This setting has no effect on Menstrual Cycle.)"
     },
     {
       "Key": "0x0AE70696",
@@ -1961,6 +1969,10 @@
       "Value": "Remove animations from this playlist."
     },
     {
+      "Key": "0xC9541A1A",
+      "Value": "Pick animation to remove."
+    },
+    {
       "Key": "0x31CCB051",
       "Value": "Reorder Animations in Playlist"
     },
@@ -2405,6 +2417,82 @@
       "Value": "Sims within this group are prevented from reacting to sex of other Sims outside of this group."
     },
     {
+      "Key": "0x73B426BB",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0xE9EE4C7C",
+      "Value": "Sex Tuner"
+    },
+    {
+      "Key": "0x9963D0FF",
+      "Value": "Tune {0.SimFirstName}'s sex variables."
+    },
+    {
+      "Key": "0x4C56C8CC",
+      "Value": "Auto Undress in Sex"
+    },
+    {
+      "Key": "0x0E37DB8D",
+      "Value": "Check for {0.SimFirstName} to follow Sex Outfit Undressing settings.\\nUncheck to prevent {0.SimFirstName} from automatically undressing during sex."
+    },
+    {
+      "Key": "0xBA258490",
+      "Value": "Reaction to Sex"
+    },
+    {
+      "Key": "0xA4323A93",
+      "Value": "Check for {0.SimFirstName} to follow Sex Reaction settings.\\nUncheck to prevent {0.SimFirstName} from reacting to sex."
+    },
+    {
+      "Key": "0xCF3A3B1A",
+      "Value": "Disallow Sex Progression"
+    },
+    {
+      "Key": "0x4C3F8545",
+      "Value": "Check for sex that {0.SimFirstName} is participating in be disallowed sex progression.\\nUncheck for sex that {0.SimFirstName} is participating in to follow Sex Progression settings."
+    },
+    {
+      "Key": "0x2A123FE3",
+      "Value": "Pregnancy Tuner"
+    },
+    {
+      "Key": "0xD4B3EA52",
+      "Value": "Tune {0.SimFirstName}'s pregnancy variables."
+    },
+    {
+      "Key": "0x829DF8C6",
+      "Value": "Can Sim Get Pregnant"
+    },
+    {
+      "Key": "0x81968E16",
+      "Value": "Check to make {0.SimFirstName} able to get pregnant.\\nUncheck to prevent {0.SimFirstName} from being able to get pregnant."
+    },
+    {
+      "Key": "0x65AE15F5",
+      "Value": "Can Sim Impregnate"
+    },
+    {
+      "Key": "0x78178929",
+      "Value": "Check to make {0.SimFirstName} able get others pregnant.\\nUncheck to prevent {0.SimFirstName} from being able to get others pregnant."
+    },
+    {
+      "Key": "0x57DCFD27",
+      "Value": "Use Simple Pregnancy Mode"
+    },
+    {
+      "Key": "0xD0738D09",
+      "Value": "Check to make {0.SimFirstName} use Simple Pregnancy mode instead of Menstrual Cycle mode.\\nUncheck for {0.SimFirstName} to follow Pregnancy Settings."
+    },
+    {
+      "Key": "0x36190C20",
+      "Value": "Fertility Modifier Cheat"
+    },
+    {
+      "Key": "0x829F4A04",
+      "Value": "Adjust {0.SimFirstName}'s chance modifier of getting pregnant or impregnating. {0.SimFirstName}'s fertility chance is multiplied by this variable."
+    },
+    {
       "Key": "0x3C06D868",
       "Value": "---------- SEX GENERAL ----------"
     },
@@ -2437,6 +2525,10 @@
       "Value": "Context"
     },
     {
+      "Key": "0x367BFFE8",
+      "Value": "Sex Category"
+    },
+    {
       "Key": "0x6A3A3959",
       "Value": "Teasing"
     },
@@ -2467,6 +2559,10 @@
     {
       "Key": "0x70AAE6BB",
       "Value": "Random"
+    },
+    {
+      "Key": "0x6F7A1F93",
+      "Value": "Context..."
     },
     {
       "Key": "0x2B6E2038",
@@ -3673,6 +3769,14 @@
       "Value": "There doesn't seem to be a good spot for sex around here.\\n\\n • You have installed {0.Number} sex animations and disabled {1.Number}% of them.\\n • And you have disabled {2.Number}% of sex animations from being used by sex autonomy.\\n • There are {3.Number} sex locations available nearby.\\n • And there are {4.Number} sex animations available for your Sims on all nearby sex locations.\\n"
     },
     {
+      "Key": "0xEA9098CA",
+      "Value": "That's unfortunate..."
+    },
+    {
+      "Key": "0x7D155507",
+      "Value": "There doesn't seem to be any Sims available nearby that {0.SimFirstName} knows and that might have sex with {0.SimPronounObjective}."
+    },
+    {
       "Key": "0xCAD24D5F",
       "Value": "Join in Shower"
     },
@@ -3795,6 +3899,10 @@
     {
       "Key": "0xABA0F852",
       "Value": "Disallow It"
+    },
+    {
+      "Key": "0x21A23839",
+      "Value": "Hide Prop"
     },
     {
       "Key": "0xE67893E0",
@@ -7177,6 +7285,46 @@
       "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom."
     },
     {
+      "Key": "0x83B93A76",
+      "Value": "Have Sex"
+    },
+    {
+      "Key": "0x75CB3001",
+      "Value": "Okay, let's do it. Lead the way."
+    },
+    {
+      "Key": "0xC6613A0E",
+      "Value": "Sorry, I'm not sure I understand what you're asking for so the answer is no."
+    },
+    {
+      "Key": "0x9257FB05",
+      "Value": "Umm.. I'm uncertain about this. No."
+    },
+    {
+      "Key": "0xA812F6B5",
+      "Value": "That's an interesting idea, but what does that have to do with me?"
+    },
+    {
+      "Key": "0xAC86C050",
+      "Value": "Could you explain what you mean again? Actually, never mind, I don't have the time for that."
+    },
+    {
+      "Key": "0x65EA61B2",
+      "Value": "I'm having trouble making sense of what you're saying, so I guess... no."
+    },
+    {
+      "Key": "0xC4B1325C",
+      "Value": "I'm not sure I understand the concept you're proposing. Uh, no?"
+    },
+    {
+      "Key": "0x079B9A62",
+      "Value": "Oh, let me think about it and get back to you never."
+    },
+    {
+      "Key": "0xF35B96E7",
+      "Value": "I'm struggling to understand why are you talking to me about this."
+    },
+    {
       "Key": "0x964DE219",
       "Value": "---------- CRABS ----------"
     },
@@ -7617,12 +7765,20 @@
       "Value": "Terminate Pregnancy"
     },
     {
-      "Key": "0x61612C84",
-      "Value": "{0.SimFirstName} is not able to do this while not pregnant."
+      "Key": "0xB9FA91CE",
+      "Value": "{0.SimFirstName} can't get pregnant."
     },
     {
-      "Key": "0x9FAD3609",
-      "Value": "{0.SimFirstName} is not able to do this so late in pregnancy."
+      "Key": "0x3E899822",
+      "Value": "{0.SimFirstName} is not pregnant."
+    },
+    {
+      "Key": "0x48B9BD74",
+      "Value": "{0.SimFirstName} can't terminate pregnancy at this stage."
+    },
+    {
+      "Key": "0x497229DE",
+      "Value": "Ask to Consider Terminating Pregnancy"
     },
     {
       "Key": "0xF4ACC50B",
@@ -7645,8 +7801,16 @@
       "Value": "(From Pregnancy Termination)"
     },
     {
-      "Key": "0xE7CC1AF7",
-      "Value": "{0.SimName} is not pregnant anymore.\\nIt would be cheaper to think about protection before the next time."
+      "Key": "0x0AF88FBB",
+      "Value": "{0.SimFirstName} is no longer pregnant!\\n\\nRemember, {0.SimFirstName} and their partners can use different methods of birth control to avoid unwanted or unexpected pregnancy."
+    },
+    {
+      "Key": "0x663540FC",
+      "Value": "Thank you for sharing your perspective! I was considering this myself and I have come to the decision that terminating this pregnancy is the best choice for me at this time."
+    },
+    {
+      "Key": "0xD3FE7BA6",
+      "Value": "Thank you for being open and honest with me about your thoughts. I have considered your perspective, but I have made up my mind and I cannot go through with terminating this pregnancy."
     },
     {
       "Key": "0xEB0E1F5E",
