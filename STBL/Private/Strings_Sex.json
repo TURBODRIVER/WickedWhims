@@ -517,14 +517,6 @@
       "Value": "Check to detect Height Slider mods and adjust Sims height during sex.\\nUncheck to ignore Height Slider mods."
     },
     {
-      "Key": "0x1D5A800A",
-      "Value": "Animated Tongue In Sex Switch"
-    },
-    {
-      "Key": "0xB980C78B",
-      "Value": "Check to display the animated tongue during sex.\\nUncheck to prevent displaying the animated tongue during sex."
-    },
-    {
       "Key": "0xA8D13968",
       "Value": "Orgasm Visual Effect Switch"
     },
@@ -2917,6 +2909,10 @@
       "Value": "Bunk Bed"
     },
     {
+      "Key": "0x75FE38C3",
+      "Value": "Bed Roll"
+    },
+    {
       "Key": "0x54AB6321",
       "Value": "Hot Tub"
     },
@@ -3903,18 +3899,6 @@
     {
       "Key": "0x21A23839",
       "Value": "Hide Prop"
-    },
-    {
-      "Key": "0xE67893E0",
-      "Value": "Hide Tongue"
-    },
-    {
-      "Key": "0xEBF874A3",
-      "Value": "Hide Tongue Until Next Animation"
-    },
-    {
-      "Key": "0x4C31B17B",
-      "Value": "Show Tongue"
     },
     {
       "Key": "0x7D5724A6",

@@ -189,10 +189,6 @@
       "Value": "<p align=\"center\"><b>FATAL ERROR - RIG CONFLICT</b></p>\\n\\nYou have a conflicting mod containing the \"Sim Animating Rig\" file.\\n\\n<b>Only one \"Sim Animating Rig\" file can be loaded at the same time or sex animations will appear stretched and misaligned.</b>\\n\\nHow to fix:\\n  1. Find and delete all mods containing the \"Sim Animating Rig\" file from the Mods folder.\\n  2. Be confused about what is the \"Sim Animating Rig\" file. \\n  3. Visit the website below for details."
     },
     {
-      "Key": "0x6E70DDF8",
-      "Value": "<p align=\"center\"><b>FATAL ERROR - UNSUPPORTED TONGUE MODS</b></p>\\n\\nYou have unsupported tongue mods installed in the 'Mods' folder.\\n\\n<b>Mods that provide a CAS tongue can appear floating around the Sim. You are required to delete these mods.</b>\\n\\nHow to fix:\\n  1. Find and delete all old tongue mods from the Mods folder."
-    },
-    {
       "Key": "0x4FAFD845",
       "Value": "Visual Bug Warning"
     },
@@ -321,8 +317,8 @@
       "Value": "Open your web browser to download WickedWhims"
     },
     {
-      "Key": "0xE6B32A7A",
-      "Value": "Don't ask me again"
+      "Key": "0x27F88434",
+      "Value": "Don't ask me again until next update"
     },
     {
       "Key": "0xC291D1F2",
