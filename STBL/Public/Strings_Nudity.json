@@ -141,8 +141,8 @@
       "Value": "Dress Up When Going Off Home Lot"
     },
     {
-      "Key": "0x4D542A5B",
-      "Value": "Check to make naked Sims dress up before leaving any residential lot."
+      "Key": "0x7AA298E8",
+      "Value": "Naked Sims will dress up before leaving home.\\n<b>Fully Check</b> for Sims to dress up when leaving residential unit or lot.\\n<b>Half Check</b> for Sims to dress up when leaving residential lot.\\n<b>Uncheck</b> for Sims to not dress up when leaving home."
     },
     {
       "Key": "0x634CBD87",
@@ -1357,8 +1357,8 @@
       "Value": "---------- Tanning ----------"
     },
     {
-      "Key": "0xC3984F06",
-      "Value": "Go to Tanning Salon"
+      "Key": "0x18C2D95A",
+      "Value": "Visit Tanning Salon"
     },
     {
       "Key": "0xB1063430",

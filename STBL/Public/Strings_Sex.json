@@ -897,24 +897,24 @@
       "Value": "Random Sex Frequency Modifier"
     },
     {
-      "Key": "0xD2C9EEC8",
-      "Value": "Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\\n(Default: 1.2, Minimum: 0.01)"
+      "Key": "0xB81B5FCB",
+      "Value": "Set a multiplier value of the random sex timer. Higher values make autonomy slower, lower values make autonomy faster.\\n(Default: 1.25, Minimum: 0.01)"
     },
     {
       "Key": "0x22971499",
       "Value": "Random Solo Sex Probability"
     },
     {
-      "Key": "0x6BB588AA",
-      "Value": "Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\\n(Default: 0.45, Minimum: 0.0)"
+      "Key": "0x2D61FCA3",
+      "Value": "Set a unit interval value for chance of random solo sex occurring. Value 1.0 is 100% chance.\\n(Default: 0.35, Minimum: 0.0)"
     },
     {
       "Key": "0x125F7F2B",
       "Value": "Travel Sex Probability"
     },
     {
-      "Key": "0x836ACD2A",
-      "Value": "Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\\n(Default: 0.50, Minimum: 0.0)"
+      "Key": "0xBB591534",
+      "Value": "Set a unit interval value for chance of random sex occurring when travelling to a location. Value 1.0 is 100% chance.\\n(Default: 0.45, Minimum: 0.0)"
     },
     {
       "Key": "0x331EC4F5",
@@ -937,8 +937,8 @@
       "Value": "Watching Sex Random Solo Probability"
     },
     {
-      "Key": "0x781607CD",
-      "Value": "Set a unit interval value for chance of random solo sex occurring from watching sex. Value 1.0 is 100% chance.\\n(Default: 0.10, Minimum: 0.0)"
+      "Key": "0x8D319AEF",
+      "Value": "Set a unit interval value for chance of random solo sex occurring from watching sex. Value 1.0 is 100% chance.\\n(Default: 0.45, Minimum: 0.0)"
     },
     {
       "Key": "0x60D9AD86",
@@ -1157,12 +1157,12 @@
       "Value": "Check to display an asking dialog when a Player Sim asks an NPC Sim to join sex."
     },
     {
-      "Key": "0xB88A7BEE",
-      "Value": "STD Settings"
+      "Key": "0x0AB79352",
+      "Value": "Sexual Diseases & Issues Settings"
     },
     {
-      "Key": "0x1603CACF",
-      "Value": "Change STD related settings."
+      "Key": "0xB62539FF",
+      "Value": "Settings related to sexually transmitted diseases and sexual problems."
     },
     {
       "Key": "0x3FC7DC0F",
@@ -1181,12 +1181,12 @@
       "Value": "Check to enable Sims contracting Crabs Lice through infested bedding."
     },
     {
-      "Key": "0xDEEF4C08",
-      "Value": "Crab Lice Sleeper Agents Population"
+      "Key": "0x5BB87070",
+      "Value": "STD Sleeper Agents Population"
     },
     {
-      "Key": "0xDD848899",
-      "Value": "Set a number of population percentage that will become Crab Lice Sleeper Agents.\\n(Default: 18.0%)"
+      "Key": "0x4E2C9308",
+      "Value": "Set a number of population percentage that will become STD Sleeper Agents able to spread diseases.\\n(Default: 18.0%)"
     },
     {
       "Key": "0xE6FB18A8",
@@ -2801,6 +2801,10 @@
       "Value": "Public Bathroom"
     },
     {
+      "Key": "0x15C736EE",
+      "Value": "Squat Toilet"
+    },
+    {
       "Key": "0xEC96B9A3",
       "Value": "Double Bed"
     },
@@ -2875,6 +2879,10 @@
     {
       "Key": "0x7638DE41",
       "Value": "Closed Murphy Bed"
+    },
+    {
+      "Key": "0x7F19B92F",
+      "Value": "Swing Set"
     },
     {
       "Key": "0x54DEC061",
@@ -6053,8 +6061,8 @@
       "Value": "Thanks for ordering! The Wicked items {0.SimFirstName} purchased will be delivered to {M0.his}{F0.her} mailbox."
     },
     {
-      "Key": "0xA97C2B7E",
-      "Value": "Go to the Wicked Store"
+      "Key": "0x75709FAF",
+      "Value": "Visit Wicked Store"
     },
     {
       "Key": "0x960B30AD",
@@ -7069,8 +7077,32 @@
       "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom."
     },
     {
-      "Key": "0x964DE219",
-      "Value": "---------- CRABS ----------"
+      "Key": "0xF54814B2",
+      "Value": "---------- CRABS STD ----------"
+    },
+    {
+      "Key": "0x048C606E",
+      "Value": "Ask about Health"
+    },
+    {
+      "Key": "0xD0DE5909",
+      "Value": "I'm all clean, no need to fear catching anything nasty from me."
+    },
+    {
+      "Key": "0x51A42F8C",
+      "Value": "I.. think I'm fine. Maybe? I might need to get tested to be sure."
+    },
+    {
+      "Key": "0x0AD2B541",
+      "Value": "Oh no, I'm not doing well. I caught something nasty recently."
+    },
+    {
+      "Key": "0x492CB7AF",
+      "Value": "I'm doing well, thank you for asking. That's what you meant, right?"
+    },
+    {
+      "Key": "0x7128AEB2",
+      "Value": "What's it to you? I'm feeling just fine, I don't understand why you would ask that."
     },
     {
       "Key": "0xDC8DF765",
@@ -7117,32 +7149,8 @@
       "Value": "Acquired Crab Lice!"
     },
     {
-      "Key": "0xB12E89B9",
-      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\nLice Killer Shampoo can be ordered from a computer."
-    },
-    {
-      "Key": "0x1E297E6F",
-      "Value": " Ask about Health"
-    },
-    {
-      "Key": "0xD0DE5909",
-      "Value": "I'm all clean, no need to fear catching anything nasty from me."
-    },
-    {
-      "Key": "0x51A42F8C",
-      "Value": "I.. think I'm fine. Maybe? I might need to get tested to be sure."
-    },
-    {
-      "Key": "0x0AD2B541",
-      "Value": "Oh no, I'm not doing well. I caught something nasty recently."
-    },
-    {
-      "Key": "0x492CB7AF",
-      "Value": "I'm doing well, thank you for asking. That's what you meant, right?"
-    },
-    {
-      "Key": "0x7128AEB2",
-      "Value": "What's it to you? I'm feeling just fine, I don't understand why you would ask that."
+      "Key": "0x01886BE8",
+      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store via phone or computer."
     },
     {
       "Key": "0xB27675D1",

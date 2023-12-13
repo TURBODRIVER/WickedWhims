@@ -117,8 +117,8 @@
       "Value": "Game saved, a new save slot with name '{0.String}' has been created."
     },
     {
-      "Key": "0x4EF8829D",
-      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
+      "Key": "0x4CAC27A7",
+      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n • If you started a new game, this is a false alarm and you can ignore this message.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress."
     },
     {
       "Key": "0xDD42329B",
