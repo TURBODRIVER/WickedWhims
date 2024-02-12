@@ -49,6 +49,34 @@
       "Value": "{0.ObjectDescription}"
     },
     {
+      "Key": "0xC510C54A",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0xD2A9509E",
+      "Value": "Sim Tuner"
+    },
+    {
+      "Key": "0x92DC2C36",
+      "Value": "Tune {0.SimFirstName}'s variables."
+    },
+    {
+      "Key": "0x020563AC",
+      "Value": "Reset to Default"
+    },
+    {
+      "Key": "0x7159FB6E",
+      "Value": "◈ {0.String}"
+    },
+    {
+      "Key": "0x69764770",
+      "Value": "{0.String} (Default: {1.String})"
+    },
+    {
+      "Key": "0xFC03AC69",
+      "Value": "Sim Tuner allows for adjusting specific Sim settings and variables.\\nChanged settings and variables only apply to the clicked Sim and can be recognized by the diamond (◈) symbol.\\n\\n<b>It is not recommended to change anything unless you know what you want to do.</b>"
+    },
+    {
       "Key": "0x146EE69C",
       "Value": "--------------- Statistics ---------------"
     },
@@ -169,6 +197,10 @@
       "Value": "This Sims Selector Menu will incorrectly display which Sims are selected.\\n\\nSims that do not appear as selected, but should be selected, are actually selected, you just can't see it visually."
     },
     {
+      "Key": "0xC2F9BC20",
+      "Value": "Hey! This newest release of WickedWhims replaces birth control pills objects with a new object, so you will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for the inconvenience and have fun!"
+    },
+    {
       "Key": "0x9AF804FA",
       "Value": "--------------- Settings ---------------"
     },
@@ -241,12 +273,24 @@
       "Value": "More Information"
     },
     {
-      "Key": "0x56CDF362",
-      "Value": "Information about this modification."
+      "Key": "0x9331D7BD",
+      "Value": "Information about WickedWhims."
     },
     {
-      "Key": "0xC7AB2E8F",
-      "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+      "Key": "0x887F7154",
+      "Value": "Do you want to visit the WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+    },
+    {
+      "Key": "0x093C0020",
+      "Value": "Get More Wicked Content"
+    },
+    {
+      "Key": "0xFCDEC025",
+      "Value": "Looking to get more wicked content? Visit WickedCC."
+    },
+    {
+      "Key": "0x55E739CF",
+      "Value": "Do you want to visit the WickedCC website? (https://wicked.cc/)\\n\\nThis will open your web browser!"
     },
     {
       "Key": "0x50095834",

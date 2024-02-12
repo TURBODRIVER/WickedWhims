@@ -1581,10 +1581,6 @@
       "Value": "{1.SimFirstName} Asks Me to Dress Up"
     },
     {
-      "Key": "0xA6B882D7",
-      "Value": "Everyone But Nudity Enthusiasts"
-    },
-    {
       "Key": "0xBF19388E",
       "Value": "---------- Selfies ----------"
     },
@@ -3785,6 +3781,10 @@
       "Value": "No Sims are present in the peeped room."
     },
     {
+      "Key": "0x2D786445",
+      "Value": "Shoo Peeping Sim Away"
+    },
+    {
       "Key": "0x16BDAE0C",
       "Value": "Sell Peeping Pictures"
     },
@@ -3939,6 +3939,14 @@
     {
       "Key": "0xB5913578",
       "Value": "Take Sex Photo of {1.SimFirstName}"
+    },
+    {
+      "Key": "0x394AC898",
+      "Value": "Quick Snap Photo"
+    },
+    {
+      "Key": "0x0C3744B0",
+      "Value": "You need a SimHub Creator account to take Quick Snap photos."
     },
     {
       "Key": "0xE6E7674C",
@@ -4249,6 +4257,22 @@
       "Value": "Hey @{1.String}, we're currently running extended promotion on your recently uploaded photos! Your account will continue to receive extra exposure without the need to share any new content for the rest of the day. We hope you will enjoy your little break time!"
     },
     {
+      "Key": "0xFC0E536C",
+      "Value": "Premium Analytics Access (Cost: 100★)"
+    },
+    {
+      "Key": "0x01F661A5",
+      "Value": "Hey @{1.String}, thank you for choosing the Premium Analytics Access package! Your decision just opened up a new world of advanced insights, and with how great you're already doing, it's hard to even imagine you might do any better. We're looking forward to seeing your progress!\\n\\nCheck Creator Dashboard to view new analytics."
+    },
+    {
+      "Key": "0xA01758E8",
+      "Value": "Premium SimHub Analytics"
+    },
+    {
+      "Key": "0x66B78CA6",
+      "Value": "Welcome to your Premium Analytics Dashboard @{1.String}!\\n\\nHere are the current hottest trends on SimHub: {2.String}\\n\\nTaking pictures with trending tags should result in better ratings."
+    },
+    {
       "Key": "0xCD03A2C6",
       "Value": "#NoTags"
     },
@@ -4403,6 +4427,10 @@
     {
       "Key": "0xC176D9A2",
       "Value": "#Threesome"
+    },
+    {
+      "Key": "0x7234B9E4",
+      "Value": "#Foursome"
     },
     {
       "Key": "0x9DB72693",

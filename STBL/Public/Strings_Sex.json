@@ -197,8 +197,8 @@
       "Value": "Sex Progression Key Shortcut (Experimental)"
     },
     {
-      "Key": "0xDB139EF2",
-      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: Q)"
+      "Key": "0x4BA8481D",
+      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: F)"
     },
     {
       "Key": "0x69C596E4",
@@ -475,6 +475,210 @@
     {
       "Key": "0xB06AA36B",
       "Value": "Check to display the Animations Sorting Button on the top of the animations list.\\nUncheck to display the Animations Sorting Button on the bottom of the animations list."
+    },
+    {
+      "Key": "0x0CDEE5D4",
+      "Value": "Sex Devices Settings"
+    },
+    {
+      "Key": "0x09257A8E",
+      "Value": "Settings related to supported sex devices that interact with ongoing sex."
+    },
+    {
+      "Key": "0xB3481A1A",
+      "Value": "Lovense Sex Devices Support Switch"
+    },
+    {
+      "Key": "0x0E1F2937",
+      "Value": "Check to enable support for sex devices from Lovense."
+    },
+    {
+      "Key": "0x4ECC1952",
+      "Value": "Proceed to the 'Sex Devices Controls' menu at the main Settings menu to connect your devices."
+    },
+    {
+      "Key": "0x7378CEED",
+      "Value": "Lovense Pattern Strength"
+    },
+    {
+      "Key": "0x0F9B5862",
+      "Value": "Adjust patterns strength of all Lovense devices.\\n(Default: 100%)"
+    },
+    {
+      "Key": "0xA4709763",
+      "Value": "Lovense Pattern Speed"
+    },
+    {
+      "Key": "0x7F60C7E0",
+      "Value": "Adjust patterns speed of all Lovense devices.\\n(Default: 100%)"
+    },
+    {
+      "Key": "0x68AFA54D",
+      "Value": "Lovense Vibration Devices Function"
+    },
+    {
+      "Key": "0xF722886C",
+      "Value": "Check to allow sex devices from Lovense to use the Vibration function."
+    },
+    {
+      "Key": "0x9157FC97",
+      "Value": "Lovense Contraction Devices Function"
+    },
+    {
+      "Key": "0xDB3229EA",
+      "Value": "Check to allow sex devices from Lovense to use the Contraction function."
+    },
+    {
+      "Key": "0x08527F99",
+      "Value": "Lovense Rotation Devices Function"
+    },
+    {
+      "Key": "0x7C30CEA8",
+      "Value": "Check to allow sex devices from Lovense to use the Rotation function."
+    },
+    {
+      "Key": "0xB97DF136",
+      "Value": "Lovense Fingering Devices Function"
+    },
+    {
+      "Key": "0x2D685651",
+      "Value": "Check to allow sex devices from Lovense to use the Fingering function."
+    },
+    {
+      "Key": "0xDA84D276",
+      "Value": "Lovense Suction Devices Function"
+    },
+    {
+      "Key": "0x39227551",
+      "Value": "Check to allow sex devices from Lovense to use the Suction function."
+    },
+    {
+      "Key": "0x71D966AD",
+      "Value": "Lovense Thrusting Devices Function"
+    },
+    {
+      "Key": "0x6534F7B0",
+      "Value": "Check to allow sex devices from Lovense to use the Thrusting function."
+    },
+    {
+      "Key": "0xCFF3B66C",
+      "Value": "Lovense Depth Devices Function"
+    },
+    {
+      "Key": "0xA8C5EF73",
+      "Value": "Check to allow sex devices from Lovense to use the Depth function."
+    },
+    {
+      "Key": "0xA279DD33",
+      "Value": "Sex Devices Controls"
+    },
+    {
+      "Key": "0x78E86BF1",
+      "Value": "Connect, control, and adjust your sex devices."
+    },
+    {
+      "Key": "0x1F05689F",
+      "Value": "Connect Lovense Devices"
+    },
+    {
+      "Key": "0xEBE386A5",
+      "Value": "Connect Lovense devices to WickedWhims via mobile app or computer app."
+    },
+    {
+      "Key": "0xCE45499B",
+      "Value": "Disconnect Lovense Devices"
+    },
+    {
+      "Key": "0x95706475",
+      "Value": "Disconnect all Lovense devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}"
+    },
+    {
+      "Key": "0xC56CC748",
+      "Value": "Visit Lovense Store"
+    },
+    {
+      "Key": "0x6430A225",
+      "Value": "Open Lovense store website in browser to view available Lovense sex toys.\\n(Referral Link)"
+    },
+    {
+      "Key": "0x193A1FD9",
+      "Value": "Get Lovense Remove App"
+    },
+    {
+      "Key": "0xE529EB20",
+      "Value": "Open Lovense website in browser to download Lovense Remote app and connect sex toys to WickedWhims.\\n(Referral Link)"
+    },
+    {
+      "Key": "0x41C11769",
+      "Value": "Select Connection Method"
+    },
+    {
+      "Key": "0xE6C462B5",
+      "Value": "Connect with Lovense via Mobile App"
+    },
+    {
+      "Key": "0x6D3FEC76",
+      "Value": "Use Lovense Remote app on Android or iOS."
+    },
+    {
+      "Key": "0x22987A7E",
+      "Value": "Connect with Lovense via Computer App"
+    },
+    {
+      "Key": "0xAA449CA5",
+      "Value": "Use Lovense Remote app on Windows or Mac.\\n<b>Requires the Lovense USB Bluetooth Adapter.</b>"
+    },
+    {
+      "Key": "0x08A2D115",
+      "Value": "Enter Game Mode Local IP"
+    },
+    {
+      "Key": "0x0F1D1C1F",
+      "Value": "<b>1.</b> Enable Wi-Fi and Bluetooth.\\n<b>2.</b> In Lovense Remote app go to Discover -> Game Mode and Enable LAN.\\n<b>3.</b> Input Local IP below."
+    },
+    {
+      "Key": "0x6A4AD5D0",
+      "Value": "Connect"
+    },
+    {
+      "Key": "0x055F5874",
+      "Value": "Cancel"
+    },
+    {
+      "Key": "0xCFC0B3DF",
+      "Value": "192.168.XXX.XXX"
+    },
+    {
+      "Key": "0x395BF4D9",
+      "Value": "Incorrect Local IP"
+    },
+    {
+      "Key": "0xDB0A30EB",
+      "Value": "The IP address you entered is incorrect."
+    },
+    {
+      "Key": "0x38BCD0A0",
+      "Value": "Success!"
+    },
+    {
+      "Key": "0x01D35A8F",
+      "Value": "Your Lovense devices are now connected!\\n\\n<b>Devices Names:</b> {0.String}\\n\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again."
+    },
+    {
+      "Key": "0xE460823B",
+      "Value": "No Devices Found!"
+    },
+    {
+      "Key": "0xA7E6BE88",
+      "Value": "Connection with Lovense was successful, but there are no devices to use. Make sure your devices are turned on and added to the Lovense Remote app."
+    },
+    {
+      "Key": "0xC23B335A",
+      "Value": "No Connection!"
+    },
+    {
+      "Key": "0xF71D6E71",
+      "Value": "Unable to connect with Lovense Remote app or your devices. Make sure everything is still turned on. If you entered the Game Mode Local IP, try again and check if the Local IP was correctly entered."
     },
     {
       "Key": "0x4E854CF3",
@@ -869,6 +1073,14 @@
       "Value": "Check for Sims to ignore relationship and sexual preferences when Always Accept is enabled."
     },
     {
+      "Key": "0xAD12B633",
+      "Value": "Only Allow Floor Sex on Floor Sex Markers"
+    },
+    {
+      "Key": "0x52F79ABD",
+      "Value": "Check for Sims to only use placed Floor Sex Marker objects for floor sex.\\nUncheck for Sims to use placed Floor Sex Marker objects and dynamic floor spots."
+    },
+    {
       "Key": "0x51D16545",
       "Value": "Block Around Children"
     },
@@ -883,6 +1095,18 @@
     {
       "Key": "0x03CB60FA",
       "Value": "Check for Sims to assess risk of attempting to initiate sex by their age, number of other Sims around, number of underage Sims around, and family relations."
+    },
+    {
+      "Key": "0x1853B322",
+      "Value": "Sex Autonomy Allowed Venues"
+    },
+    {
+      "Key": "0xBFE480C6",
+      "Value": "Choose which venue types are allowed for performing sex autonomy."
+    },
+    {
+      "Key": "0xE7123BCE",
+      "Value": "Select to allow venue: {0.String}."
     },
     {
       "Key": "0x0DA0B6C1",
@@ -965,28 +1189,36 @@
       "Value": "Set a unit interval value for chance of random sex from positive reaction to a peeping Sim. Value 1.0 is 100% chance.\\n(Default: 0.50, Minimum: 0.0)"
     },
     {
-      "Key": "0x52EDB46D",
-      "Value": "Trigger Attempts Count"
+      "Key": "0x53A345B2",
+      "Value": "Sims Sex Pairs Minimum Sample Size"
     },
     {
-      "Key": "0x704D76EC",
-      "Value": "Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\\n(Default: 5, Minimum: 1, Maximum: 120)"
+      "Key": "0x177C30AB",
+      "Value": "Set a minimum number of Sims Sex Pairs that will be included in Sims Sex Pairs Sample Size.\\n(Default: 0.67, Minimum: 0.01)"
     },
     {
       "Key": "0xD3A5F7EE",
       "Value": "Sims Sex Pairs Sample Size"
     },
     {
-      "Key": "0x5285DD51",
-      "Value": "Set a number of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\\n(Default: 8, Minimum: 1)"
+      "Key": "0x8239D7CC",
+      "Value": "Set a percentage size of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\\n(Default: 0.67, Minimum: 0.01)"
+    },
+    {
+      "Key": "0xDF951D27",
+      "Value": "Sex Locations Minimum Sample Size"
+    },
+    {
+      "Key": "0x87EABC1D",
+      "Value": "Set a minimum number of Sex Locations that will be included in Sex Locations Sample Size.\\n(Default: 3, Minimum: 1)"
     },
     {
       "Key": "0xBA43CAC3",
       "Value": "Sex Locations Sample Size"
     },
     {
-      "Key": "0x9DFD6EF3",
-      "Value": "Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\\n(Default: 8, Minimum: 1)"
+      "Key": "0x7A3A9172",
+      "Value": "Set a percentage size of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\\n(Default: 0.34, Minimum: 0.01)"
     },
     {
       "Key": "0x90B95FD1",
@@ -1013,62 +1245,6 @@
       "Value": "Set a maximum number of distance units for Sims to consider a sex location to be in range of consideration.\\n\\n(Default: 100, Maximum: 100000)"
     },
     {
-      "Key": "0x5C733BDD",
-      "Value": "Autonomy Location Styles"
-    },
-    {
-      "Key": "0x3A583A16",
-      "Value": "Choose and Set allowed for autonomy location styles."
-    },
-    {
-      "Key": "0xFA48E2A4",
-      "Value": "Outside Lots Style Locations"
-    },
-    {
-      "Key": "0x5F59051C",
-      "Value": "Check to allow picking of sex locations outside of the lot boundaries."
-    },
-    {
-      "Key": "0xDF5B9BA0",
-      "Value": "Outdoors Style Locations"
-    },
-    {
-      "Key": "0xF7448F33",
-      "Value": "Check to allow picking of sex locations outdoors within lot boundaries"
-    },
-    {
-      "Key": "0x3A19652B",
-      "Value": "Risky Style Locations"
-    },
-    {
-      "Key": "0x36EBB258",
-      "Value": "Check to allow picking of risky sex locations."
-    },
-    {
-      "Key": "0x47290295",
-      "Value": "Comfort Style Locations"
-    },
-    {
-      "Key": "0x31F1764A",
-      "Value": "Check to allow picking of comfortable sex locations."
-    },
-    {
-      "Key": "0xF38596DA",
-      "Value": "Private Style Locations"
-    },
-    {
-      "Key": "0x2355180F",
-      "Value": "Check to allow picking of private sex locations."
-    },
-    {
-      "Key": "0xFADD3551",
-      "Value": "Sims Risky Factor"
-    },
-    {
-      "Key": "0x89B72B19",
-      "Value": "Set a multiplier value per 'Sim In Room' that increases the likeliness of the room being considered as risky.\\n(Default: 2.0, Minimum: 0.0)"
-    },
-    {
       "Key": "0xFB0C4D05",
       "Value": "NPC Household Relationship Modifier"
     },
@@ -1089,8 +1265,8 @@
       "Value": "Random Sex Minimum Cooldown Time"
     },
     {
-      "Key": "0x192829D9",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 90, Minimum: 0)"
+      "Key": "0x26D6DD49",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 100, Minimum: 0)"
     },
     {
       "Key": "0xF3F7320F",
@@ -2401,6 +2577,90 @@
       "Value": "Sims within this group are prevented from reacting to sex of other Sims outside of this group."
     },
     {
+      "Key": "0x73B426BB",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0xE9EE4C7C",
+      "Value": "Sex Tuner"
+    },
+    {
+      "Key": "0x9963D0FF",
+      "Value": "Tune {0.SimFirstName}'s sex variables."
+    },
+    {
+      "Key": "0x4C56C8CC",
+      "Value": "Auto Undress in Sex"
+    },
+    {
+      "Key": "0x0E37DB8D",
+      "Value": "Check for {0.SimFirstName} to follow Sex Outfit Undressing settings.\\nUncheck to prevent {0.SimFirstName} from automatically undressing during sex."
+    },
+    {
+      "Key": "0xBA258490",
+      "Value": "Reaction to Sex"
+    },
+    {
+      "Key": "0xA4323A93",
+      "Value": "Check for {0.SimFirstName} to follow Sex Reaction settings.\\nUncheck to prevent {0.SimFirstName} from reacting to sex."
+    },
+    {
+      "Key": "0xCF3A3B1A",
+      "Value": "Disallow Sex Progression"
+    },
+    {
+      "Key": "0x4C3F8545",
+      "Value": "Check for sex that {0.SimFirstName} is participating in be disallowed sex progression.\\nUncheck for sex that {0.SimFirstName} is participating in to follow Sex Progression settings."
+    },
+    {
+      "Key": "0x2A123FE3",
+      "Value": "Pregnancy Tuner"
+    },
+    {
+      "Key": "0xD4B3EA52",
+      "Value": "Tune {0.SimFirstName}'s pregnancy variables."
+    },
+    {
+      "Key": "0x829DF8C6",
+      "Value": "Can Sim Get Pregnant"
+    },
+    {
+      "Key": "0x81968E16",
+      "Value": "Check to make {0.SimFirstName} able to get pregnant.\\nUncheck to prevent {0.SimFirstName} from being able to get pregnant."
+    },
+    {
+      "Key": "0x65AE15F5",
+      "Value": "Can Sim Impregnate"
+    },
+    {
+      "Key": "0x78178929",
+      "Value": "Check to make {0.SimFirstName} able get others pregnant.\\nUncheck to prevent {0.SimFirstName} from being able to get others pregnant."
+    },
+    {
+      "Key": "0x57DCFD27",
+      "Value": "Use Simple Pregnancy Mode"
+    },
+    {
+      "Key": "0xD0738D09",
+      "Value": "Check to make {0.SimFirstName} use Simple Pregnancy mode instead of Menstrual Cycle mode.\\nUncheck for {0.SimFirstName} to follow Pregnancy Settings."
+    },
+    {
+      "Key": "0x29B56B17",
+      "Value": "Menstrual Cycle Day Shift"
+    },
+    {
+      "Key": "0x175F9B59",
+      "Value": "Adjust {0.SimFirstName}'s menstrual cycle day by shifting it forward by a number of days. This variable is the number of days {0.SimFirstName}'s menstrual cycle is shifted by."
+    },
+    {
+      "Key": "0x36190C20",
+      "Value": "Fertility Modifier Cheat"
+    },
+    {
+      "Key": "0x829F4A04",
+      "Value": "Adjust {0.SimFirstName}'s chance modifier of getting pregnant or impregnating. {0.SimFirstName}'s fertility chance is multiplied by this variable."
+    },
+    {
       "Key": "0x3C06D868",
       "Value": "---------- SEX GENERAL ----------"
     },
@@ -2895,6 +3155,10 @@
     {
       "Key": "0x11AADC0A",
       "Value": "Mirror"
+    },
+    {
+      "Key": "0x8FB2B49A",
+      "Value": "Sink"
     },
     {
       "Key": "0x8354C142",
@@ -3519,6 +3783,22 @@
     {
       "Key": "0x2864952F",
       "Value": "{0.SimFirstName} cannot get {M0.his}{F0.her} eyes off of {M0.his}{F0.her} partner's incredibly chiseled body. Every move highlights a different muscle and it's all so very hypnotizing and arousing for {0.SimFirstName}."
+    },
+    {
+      "Key": "0x0583198C",
+      "Value": "<font color='#340658'>Fruit Basket</font>"
+    },
+    {
+      "Key": "0x88D6D4BB",
+      "Value": "{0.SimFirstName} was craving a banana really bad, and this one is perfectly ripe. It’s hitting just the right spot. {M0.He}{F0.She} doesn’t mind that it’s getting a little messy, {M0.he}{F0.she} can’t help but want all of it."
+    },
+    {
+      "Key": "0xD060918F",
+      "Value": "<font color='#340658'>Juicy Strawberry</font>"
+    },
+    {
+      "Key": "0xCDE181F4",
+      "Value": "{0.SimFirstName} was feeling very thirsty, and this mouth-watering strawberry is just what {M0.he}{F0.she} desired. {0.SimFirstName} is enjoying every moment of indulgence in the sweet and satisfying juice of such a divine fruit."
     },
     {
       "Key": "0xB3EAB2BF",
@@ -5781,6 +6061,10 @@
       "Value": "{1.SimFirstName} is sexually abstinent."
     },
     {
+      "Key": "0x324D7FE9",
+      "Value": "{1.SimFirstName} is shy."
+    },
+    {
       "Key": "0xEA6DA426",
       "Value": "Conversation feels distasteful."
     },
@@ -7077,6 +7361,50 @@
       "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom."
     },
     {
+      "Key": "0x83B93A76",
+      "Value": "Have Sex"
+    },
+    {
+      "Key": "0x75CB3001",
+      "Value": "Okay, let's do it. Lead the way."
+    },
+    {
+      "Key": "0xC6613A0E",
+      "Value": "Sorry, I'm not sure I understand what you're asking for so the answer is no."
+    },
+    {
+      "Key": "0x9257FB05",
+      "Value": "Umm.. I'm uncertain about this. No."
+    },
+    {
+      "Key": "0xA812F6B5",
+      "Value": "That's an interesting idea, but what does that have to do with me?"
+    },
+    {
+      "Key": "0xAC86C050",
+      "Value": "Could you explain what you mean again? Actually, never mind, I don't have the time for that."
+    },
+    {
+      "Key": "0x65EA61B2",
+      "Value": "I'm having trouble making sense of what you're saying, so I guess... no."
+    },
+    {
+      "Key": "0xC4B1325C",
+      "Value": "I'm not sure I understand the concept you're proposing. Uh, no?"
+    },
+    {
+      "Key": "0x079B9A62",
+      "Value": "Oh, let me think about it and get back to you never."
+    },
+    {
+      "Key": "0xF35B96E7",
+      "Value": "I'm struggling to understand why are you talking to me about this."
+    },
+    {
+      "Key": "0x912CEE93",
+      "Value": "Sorry, I am not interested in doing that kind of thing with {M0.men}{F0.women}."
+    },
+    {
       "Key": "0xF54814B2",
       "Value": "---------- CRABS STD ----------"
     },
@@ -7529,6 +7857,10 @@
       "Value": "{0.SimFirstName} can't terminate pregnancy at this stage."
     },
     {
+      "Key": "0x497229DE",
+      "Value": "Ask to Consider Terminating Pregnancy"
+    },
+    {
       "Key": "0xF4ACC50B",
       "Value": "<font color='#340658'>Pregnancy Termination</font>"
     },
@@ -7551,6 +7883,14 @@
     {
       "Key": "0x0AF88FBB",
       "Value": "{0.SimFirstName} is no longer pregnant!\\n\\nRemember, {0.SimFirstName} and their partners can use different methods of birth control to avoid unwanted or unexpected pregnancy."
+    },
+    {
+      "Key": "0x663540FC",
+      "Value": "Thank you for sharing your perspective! I was considering this myself and I have come to the decision that terminating this pregnancy is the best choice for me at this time."
+    },
+    {
+      "Key": "0xD3FE7BA6",
+      "Value": "Thank you for being open and honest with me about your thoughts. I have considered your perspective, but I have made up my mind and I cannot go through with terminating this pregnancy."
     },
     {
       "Key": "0xEB0E1F5E",
@@ -8467,6 +8807,14 @@
     {
       "Key": "0x97E4F95F",
       "Value": "Specialized invisible wall marking area that is used by Sims to know where to have sex against the wall.\\n\\nPut this object in places where Sims are meant to have sex against the wall."
+    },
+    {
+      "Key": "0x054CD84F",
+      "Value": "Wicked Floor Sex Marker (Invisible)"
+    },
+    {
+      "Key": "0xFBB3E2C0",
+      "Value": "Specialized invisible floor marking point that is used by Sims to know where is a good spot to have sex on the floor.\\n\\nPut this object in places where Sims are meant to have sex on the floor. Note that using this marker is not necessary as Sims will attempt to find a good spot to have sex on the floor on their own too."
     },
     {
       "Key": "0x31D17D1E",

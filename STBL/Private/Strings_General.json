@@ -197,6 +197,10 @@
       "Value": "This Sims Selector Menu will incorrectly display which Sims are selected.\\n\\nSims that do not appear as selected, but should be selected, are actually selected, you just can't see it visually."
     },
     {
+      "Key": "0xC2F9BC20",
+      "Value": "Hey! This newest release of WickedWhims replaces birth control pills objects with a new object, so you will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for the inconvenience and have fun!"
+    },
+    {
       "Key": "0x9AF804FA",
       "Value": "--------------- Settings ---------------"
     },
@@ -269,12 +273,24 @@
       "Value": "More Information"
     },
     {
-      "Key": "0x56CDF362",
-      "Value": "Information about this modification."
+      "Key": "0x9331D7BD",
+      "Value": "Information about WickedWhims."
     },
     {
-      "Key": "0xC7AB2E8F",
-      "Value": "Do you want to visit WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+      "Key": "0x887F7154",
+      "Value": "Do you want to visit the WickedWhims website? (https://wickedwhimsmod.com/)\\n\\nThis will open your web browser!"
+    },
+    {
+      "Key": "0x093C0020",
+      "Value": "Get More Wicked Content"
+    },
+    {
+      "Key": "0xFCDEC025",
+      "Value": "Looking to get more wicked content? Visit WickedCC."
+    },
+    {
+      "Key": "0x55E739CF",
+      "Value": "Do you want to visit the WickedCC website? (https://wicked.cc/)\\n\\nThis will open your web browser!"
     },
     {
       "Key": "0x50095834",
@@ -647,6 +663,22 @@
     {
       "Key": "0xECF035D6",
       "Value": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}."
+    },
+    {
+      "Key": "0x5780FABA",
+      "Value": "--------------- Trait Door Lock ---------------"
+    },
+    {
+      "Key": "0xA10301ED",
+      "Value": "Everyone but Sims with Specific Wicked Attributes"
+    },
+    {
+      "Key": "0x8E0DD322",
+      "Value": "Wicked Attributes Lock"
+    },
+    {
+      "Key": "0x94F04993",
+      "Value": "Select Wicked Attributes that are allowed to enter."
     },
     {
       "Key": "0x24656CCB",

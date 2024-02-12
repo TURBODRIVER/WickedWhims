@@ -217,6 +217,22 @@
       "Value": "You do not have high enough Friendship to ask this."
     },
     {
+      "Key": "0xFAF3B626",
+      "Value": "Casual Romance"
+    },
+    {
+      "Key": "0x6D2BEDC2",
+      "Value": "Become Romantically Attached to {1.SimFirstName}"
+    },
+    {
+      "Key": "0x30379E84",
+      "Value": "Stop Being Romantically Attached to {1.SimFirstName}"
+    },
+    {
+      "Key": "0x37A81EDC",
+      "Value": "Ask to Join in Bed"
+    },
+    {
       "Key": "0xCD865ABF",
       "Value": "--------- Traits ---------"
     },
@@ -257,6 +273,146 @@
       "Value": "Socially Avoidant Sims are simply not interested in talking to anybody unless they have to."
     },
     {
+      "Key": "0xDE618EFC",
+      "Value": "Shy"
+    },
+    {
+      "Key": "0xB18B8F2F",
+      "Value": "Shy"
+    },
+    {
+      "Key": "0x64C36BF9",
+      "Value": "Shy Sims are highly self-conscious in intimate situations, preferring privacy and modesty. They avoid nudity in public places, sex in risky locations, and struggle with flirting around others, often becoming easily embarrassed."
+    },
+    {
+      "Key": "0xCE2650DE",
+      "Value": "<font color='#340658'>Blushing Bashfulness</font>"
+    },
+    {
+      "Key": "0xD652929A",
+      "Value": "(From Shy Wicked Attribute)"
+    },
+    {
+      "Key": "0x6DD59E13",
+      "Value": "{0.SimFirstName} is feeling quite embarrassed from displaying affection so openly. The warmth of their rosy cheeks serves as a reminder to be more cautious and discreet with romantic gestures in the future."
+    },
+    {
+      "Key": "0x2311BE7B",
+      "Value": "Insatiably Lustful"
+    },
+    {
+      "Key": "0xA426239C",
+      "Value": "Insatiably Lustful"
+    },
+    {
+      "Key": "0x6D30B694",
+      "Value": "Insatiably Lustful Sims are driven by an irrationally insatiable desire for romantic encounters, with their minds ever preoccupied by the anticipation of their next sexual conquest, regardless of the satisfaction or lack thereof in their current and future relationships."
+    },
+    {
+      "Key": "0x43D8D649",
+      "Value": "(From Insatiably Lustful Wicked Attribute)"
+    },
+    {
+      "Key": "0x231BB614",
+      "Value": "<font color='#340658'>Craving Connection</font>"
+    },
+    {
+      "Key": "0x85EF0BA6",
+      "Value": "It's been a while since {0.SimFirstName} shared a special moment with someone, and their unmet needs are starting to take a toll on {0.SimPronounPossessiveDependent} mental well-being."
+    },
+    {
+      "Key": "0x354F623B",
+      "Value": "<font color='#340658'>Intimacy Deprivation</font>"
+    },
+    {
+      "Key": "0x042885AE",
+      "Value": "The lack of intimate physical connections has left {0.SimFirstName} feeling on edge, restless, and irritable, making it difficult for {0.SimPronounObjective} to focus on anything else."
+    },
+    {
+      "Key": "0x5C9E7810",
+      "Value": "<font color='#340658'>Sensual Starvation</font>"
+    },
+    {
+      "Key": "0xE493D294",
+      "Value": "The lack of intimate connection with another has put {0.SimFirstName} on edge, making it very difficult for {0.SimPronounObjective} to fully enjoy {0.SimPronounPossessiveDependent} day-to-day life."
+    },
+    {
+      "Key": "0x03CD5B44",
+      "Value": "<font color='#340658'>Hollow Victory?</font>"
+    },
+    {
+      "Key": "0x4B29441B",
+      "Value": "Despite successfully taking the edge off, {0.SimFirstName} remains caught in a cycle of irrational thinking. {M0.He}{F0.She} can't help but trouble {0.SimPronounReflexive} with the idea that {0.SimPronounPossessiveDependent} sexual encounter would have been more fulfilling if {M0.he}{F0.she} had taken the time to develop a deeper connection first."
+    },
+    {
+      "Key": "0xB2322D26",
+      "Value": "<font color='#340658'>Tedium Tango?</font>"
+    },
+    {
+      "Key": "0x0A013116",
+      "Value": "Even after {0.SimPronounPossessiveDependent} recent sexual encounter, {0.SimFirstName}'s irrational thinking leaves {0.SimPronounObjective} somewhat disinterested, trapped in a cycle of yearning for an elusive spark of passion that seems perpetually ignited by thoughts of a new sexual partner."
+    },
+    {
+      "Key": "0x01093AD3",
+      "Value": "Cheeky Compliment"
+    },
+    {
+      "Key": "0xDAE16B13",
+      "Value": "Daring Suggestion"
+    },
+    {
+      "Key": "0xACC64616",
+      "Value": "Are you a magician? Because every time I look at you, everyone else disappears... and I like it that way."
+    },
+    {
+      "Key": "0x23C8BFDF",
+      "Value": "Can I follow you home? Cause my parents always told me to follow my dreams."
+    },
+    {
+      "Key": "0x61975E29",
+      "Value": "Are you a camera? Every time I look at you, I just can't help but smile... and snap a photo or two."
+    },
+    {
+      "Key": "0x18691B45",
+      "Value": "Do you have a map? I keep getting lost in your eyes... and I'd like to explore the rest of you too."
+    },
+    {
+      "Key": "0x630A459B",
+      "Value": "Do you believe in love at first sight or should I walk by again? I'd walk by a thousand times if it meant you'd notice me."
+    },
+    {
+      "Key": "0x3D98D17E",
+      "Value": "Are you a parking ticket? Because you've got '<i>FINE</i>' written all over you, and I'd love to pay the price."
+    },
+    {
+      "Key": "0xDE5086F7",
+      "Value": "Are you an alien? Because you just abducted my heart, and I can't wait to be probed by your love."
+    },
+    {
+      "Key": "0x9E0A8352",
+      "Value": "Are you a vampire? Because I'd let you take a bite anytime."
+    },
+    {
+      "Key": "0x6EE551DB",
+      "Value": "If you were a ghost, you'd be the only boo I'd ever need."
+    },
+    {
+      "Key": "0xBE0E68C1",
+      "Value": "Your lips look lonely; would they like to meet mine? We can make them inseparable, so they'll never be alone again."
+    },
+    {
+      "Key": "0x197718FD",
+      "Value": "Your lips look so soft, I can't help but imagine their taste."
+    },
+    {
+      "Key": "0x1B356889",
+      "Value": "Your skin seems so flawless, I'd love to explore every inch."
+    },
+    {
+      "Key": "0xDFC94F34",
+      "Value": "Your presence is magnetic, I find myself drawn to you, unable to resist."
+    },
+    {
       "Key": "0x165FA249",
       "Value": "Eternally Faithful"
     },
@@ -287,6 +443,26 @@
     {
       "Key": "0x9BA7C00F",
       "Value": "There's no one in the world that {0.SimFirstName} adores more than {M0.his}{F0.her} beloved spouse.\\n\\nHard work and care have built a rock-solid relationship based around trust, companionship and love. After all that they've been through together, {0.SimFirstName}'s love is now at a stage where they are unable to even think about romance with any other Sim than their partner in life.\\n\\nAlso, the very presence of {M0.his}{F0.her} spouse in the same room will invigorate and strengthen {0.SimFirstName} as they know they have someone who has their back."
+    },
+    {
+      "Key": "0xE44E5896",
+      "Value": "Casual Romantic"
+    },
+    {
+      "Key": "0x724F6369",
+      "Value": "Casual Romantic"
+    },
+    {
+      "Key": "0x7EE5AB51",
+      "Value": "Casual Romantics are usually not interested in serious romantic relationships and instead are capable of building casual romantic connections. All of the romance in the world with no strings attached."
+    },
+    {
+      "Key": "0x5501DCA4",
+      "Value": "Casual Romantic Tutorial"
+    },
+    {
+      "Key": "0xDB1A4D60",
+      "Value": "Sims with the Casual Romantic Wicked Attribute are not able to increase the romance bar with other Sims by default. That's because they aren't interested in serious romantic relationships.\\n\\nWhen flirting with Sims, a casual romantic relationship is developed that works similar to typical romance, while staying just friends.\\n\\nCasual Romantics can still form serious relationships by becoming attached. Simply click on another Sim and use 'Become Romantically Attached' under the Romance category."
     },
     {
       "Key": "0x7B4646A5",
@@ -509,6 +685,62 @@
       "Value": "Booty Call"
     },
     {
+      "Key": "0x6F836BB5",
+      "Value": "---------- Extra Romance ----------"
+    },
+    {
+      "Key": "0x1C142ABE",
+      "Value": "Long Kiss"
+    },
+    {
+      "Key": "0x059BCCD5",
+      "Value": "Passionate Groping"
+    },
+    {
+      "Key": "0x846AA24E",
+      "Value": "Butt Spank"
+    },
+    {
+      "Key": "0xCEFB9936",
+      "Value": "Squeeze"
+    },
+    {
+      "Key": "0x54F64704",
+      "Value": "{0.SimFirstName} is already passionately boosted ({1.Number} hour{P1.s} left)."
+    },
+    {
+      "Key": "0x594A8610",
+      "Value": "<font color='#340658'>Felt the Spark!</font>"
+    },
+    {
+      "Key": "0xB73727B7",
+      "Value": "The touch that {0.SimFirstName} shared with {M0.his}{F0.her} lover felt like a strike of lightning! A touch like that could jump-start a heart. It sent shivers down their spine and {0.SimFirstName} still feels {M0.his}{F0.her} skin tingling with excitement when thinking about it."
+    },
+    {
+      "Key": "0xB895F87E",
+      "Value": "(From Experiencing a Passionate Moment)"
+    },
+    {
+      "Key": "0x972B8A72",
+      "Value": "<font color='#340658'>Passion Withdrawal</font>"
+    },
+    {
+      "Key": "0xDF8E7A6B",
+      "Value": "{0.SimFirstName} is longing for a special kind of closeness. It's been a while since {0.SimFirstName} shared a passionate moment with {M0.his}{F0.her} lover."
+    },
+    {
+      "Key": "0xCD75E313",
+      "Value": "(From Lack of Passionate Moments)"
+    },
+    {
+      "Key": "0xCC8E8F6C",
+      "Value": "Passionate Romance"
+    },
+    {
+      "Key": "0xB88A5C98",
+      "Value": "Butterflies in the sky? {0.SimName} feels just as high after that sizzling moment spent with {1.SimName}! {0.SimFirstName} has a full heart and {M0.his}{F0.her} head in the clouds, {M0.he}{F0.she} will be daydreaming about {1.SimFirstName}’s electrifying touch for a while.\\n\\n{0.SimFirstName} can take pleasure of up to two passionate moments a few times a day. Every passionate moment boosts {0.SimFirstName}'s well-being and helps {0.SimPronounObjective} stay happy with special lucky effects."
+    },
+    {
       "Key": "0xAC871A26",
       "Value": "---------- Lewd Dreams ----------"
     },
@@ -555,6 +787,50 @@
     {
       "Key": "0xF00BF39C",
       "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
+    },
+    {
+      "Key": "0xBE429B57",
+      "Value": "--------------- Sim Tuner ---------------"
+    },
+    {
+      "Key": "0x52F70CB0",
+      "Value": "Relationship Tuner"
+    },
+    {
+      "Key": "0xA0C58731",
+      "Value": "Tune {0.SimFirstName}'s relationship variables."
+    },
+    {
+      "Key": "0xD45F18BD",
+      "Value": "Allow Desire"
+    },
+    {
+      "Key": "0xA81CC06B",
+      "Value": "Check for {0.SimFirstName} to follow Desire settings.\\nUncheck to prevent {0.SimFirstName} from gaining desire and feeling effects of desire."
+    },
+    {
+      "Key": "0xA085F5B4",
+      "Value": "Attractiveness Tuner"
+    },
+    {
+      "Key": "0x9AA1EB05",
+      "Value": "Tune {0.SimFirstName}'s attractiveness variables."
+    },
+    {
+      "Key": "0xFE7C67B3",
+      "Value": "Allow Suggestive Looks"
+    },
+    {
+      "Key": "0xAB3DE873",
+      "Value": "Check for {0.SimFirstName} to follow Suggestive Looks settings.\\nUncheck to prevent {0.SimFirstName} from performing suggestive looks."
+    },
+    {
+      "Key": "0x3FDBAEC6",
+      "Value": "Perceived Attractiveness Level Cheat"
+    },
+    {
+      "Key": "0xF5343828",
+      "Value": "Increase/Decrease the attractiveness level of how other Sims perceive {0.SimFirstName}. This value is added to {0.SimFirstName}'s Attractiveness level, which ranges from -2 to 3. Higher values make other Sims perceive {0.SimFirstName} as more attractive."
     },
     {
       "Key": "0x538F4709",

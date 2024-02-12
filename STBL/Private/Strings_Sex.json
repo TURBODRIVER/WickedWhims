@@ -197,8 +197,8 @@
       "Value": "Sex Progression Key Shortcut (Experimental)"
     },
     {
-      "Key": "0xDB139EF2",
-      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: Q)"
+      "Key": "0x4BA8481D",
+      "Value": "Set a keyboard key (4-9, A-Z) for progressing the sex interaction.\\n(Default: F)"
     },
     {
       "Key": "0x69C596E4",
@@ -475,6 +475,210 @@
     {
       "Key": "0xB06AA36B",
       "Value": "Check to display the Animations Sorting Button on the top of the animations list.\\nUncheck to display the Animations Sorting Button on the bottom of the animations list."
+    },
+    {
+      "Key": "0x0CDEE5D4",
+      "Value": "Sex Devices Settings"
+    },
+    {
+      "Key": "0x09257A8E",
+      "Value": "Settings related to supported sex devices that interact with ongoing sex."
+    },
+    {
+      "Key": "0xB3481A1A",
+      "Value": "Lovense Sex Devices Support Switch"
+    },
+    {
+      "Key": "0x0E1F2937",
+      "Value": "Check to enable support for sex devices from Lovense."
+    },
+    {
+      "Key": "0x4ECC1952",
+      "Value": "Proceed to the 'Sex Devices Controls' menu at the main Settings menu to connect your devices."
+    },
+    {
+      "Key": "0x7378CEED",
+      "Value": "Lovense Pattern Strength"
+    },
+    {
+      "Key": "0x0F9B5862",
+      "Value": "Adjust patterns strength of all Lovense devices.\\n(Default: 100%)"
+    },
+    {
+      "Key": "0xA4709763",
+      "Value": "Lovense Pattern Speed"
+    },
+    {
+      "Key": "0x7F60C7E0",
+      "Value": "Adjust patterns speed of all Lovense devices.\\n(Default: 100%)"
+    },
+    {
+      "Key": "0x68AFA54D",
+      "Value": "Lovense Vibration Devices Function"
+    },
+    {
+      "Key": "0xF722886C",
+      "Value": "Check to allow sex devices from Lovense to use the Vibration function."
+    },
+    {
+      "Key": "0x9157FC97",
+      "Value": "Lovense Contraction Devices Function"
+    },
+    {
+      "Key": "0xDB3229EA",
+      "Value": "Check to allow sex devices from Lovense to use the Contraction function."
+    },
+    {
+      "Key": "0x08527F99",
+      "Value": "Lovense Rotation Devices Function"
+    },
+    {
+      "Key": "0x7C30CEA8",
+      "Value": "Check to allow sex devices from Lovense to use the Rotation function."
+    },
+    {
+      "Key": "0xB97DF136",
+      "Value": "Lovense Fingering Devices Function"
+    },
+    {
+      "Key": "0x2D685651",
+      "Value": "Check to allow sex devices from Lovense to use the Fingering function."
+    },
+    {
+      "Key": "0xDA84D276",
+      "Value": "Lovense Suction Devices Function"
+    },
+    {
+      "Key": "0x39227551",
+      "Value": "Check to allow sex devices from Lovense to use the Suction function."
+    },
+    {
+      "Key": "0x71D966AD",
+      "Value": "Lovense Thrusting Devices Function"
+    },
+    {
+      "Key": "0x6534F7B0",
+      "Value": "Check to allow sex devices from Lovense to use the Thrusting function."
+    },
+    {
+      "Key": "0xCFF3B66C",
+      "Value": "Lovense Depth Devices Function"
+    },
+    {
+      "Key": "0xA8C5EF73",
+      "Value": "Check to allow sex devices from Lovense to use the Depth function."
+    },
+    {
+      "Key": "0xA279DD33",
+      "Value": "Sex Devices Controls"
+    },
+    {
+      "Key": "0x78E86BF1",
+      "Value": "Connect, control, and adjust your sex devices."
+    },
+    {
+      "Key": "0x1F05689F",
+      "Value": "Connect Lovense Devices"
+    },
+    {
+      "Key": "0xEBE386A5",
+      "Value": "Connect Lovense devices to WickedWhims via mobile app or computer app."
+    },
+    {
+      "Key": "0xCE45499B",
+      "Value": "Disconnect Lovense Devices"
+    },
+    {
+      "Key": "0x95706475",
+      "Value": "Disconnect all Lovense devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}"
+    },
+    {
+      "Key": "0xC56CC748",
+      "Value": "Visit Lovense Store"
+    },
+    {
+      "Key": "0x6430A225",
+      "Value": "Open Lovense store website in browser to view available Lovense sex toys.\\n(Referral Link)"
+    },
+    {
+      "Key": "0x193A1FD9",
+      "Value": "Get Lovense Remove App"
+    },
+    {
+      "Key": "0xE529EB20",
+      "Value": "Open Lovense website in browser to download Lovense Remote app and connect sex toys to WickedWhims.\\n(Referral Link)"
+    },
+    {
+      "Key": "0x41C11769",
+      "Value": "Select Connection Method"
+    },
+    {
+      "Key": "0xE6C462B5",
+      "Value": "Connect with Lovense via Mobile App"
+    },
+    {
+      "Key": "0x6D3FEC76",
+      "Value": "Use Lovense Remote app on Android or iOS."
+    },
+    {
+      "Key": "0x22987A7E",
+      "Value": "Connect with Lovense via Computer App"
+    },
+    {
+      "Key": "0xAA449CA5",
+      "Value": "Use Lovense Remote app on Windows or Mac.\\n<b>Requires the Lovense USB Bluetooth Adapter.</b>"
+    },
+    {
+      "Key": "0x08A2D115",
+      "Value": "Enter Game Mode Local IP"
+    },
+    {
+      "Key": "0x0F1D1C1F",
+      "Value": "<b>1.</b> Enable Wi-Fi and Bluetooth.\\n<b>2.</b> In Lovense Remote app go to Discover -> Game Mode and Enable LAN.\\n<b>3.</b> Input Local IP below."
+    },
+    {
+      "Key": "0x6A4AD5D0",
+      "Value": "Connect"
+    },
+    {
+      "Key": "0x055F5874",
+      "Value": "Cancel"
+    },
+    {
+      "Key": "0xCFC0B3DF",
+      "Value": "192.168.XXX.XXX"
+    },
+    {
+      "Key": "0x395BF4D9",
+      "Value": "Incorrect Local IP"
+    },
+    {
+      "Key": "0xDB0A30EB",
+      "Value": "The IP address you entered is incorrect."
+    },
+    {
+      "Key": "0x38BCD0A0",
+      "Value": "Success!"
+    },
+    {
+      "Key": "0x01D35A8F",
+      "Value": "Your Lovense devices are now connected!\\n\\n<b>Devices Names:</b> {0.String}\\n\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again."
+    },
+    {
+      "Key": "0xE460823B",
+      "Value": "No Devices Found!"
+    },
+    {
+      "Key": "0xA7E6BE88",
+      "Value": "Connection with Lovense was successful, but there are no devices to use. Make sure your devices are turned on and added to the Lovense Remote app."
+    },
+    {
+      "Key": "0xC23B335A",
+      "Value": "No Connection!"
+    },
+    {
+      "Key": "0xF71D6E71",
+      "Value": "Unable to connect with Lovense Remote app or your devices. Make sure everything is still turned on. If you entered the Game Mode Local IP, try again and check if the Local IP was correctly entered."
     },
     {
       "Key": "0x4E854CF3",
@@ -877,6 +1081,14 @@
       "Value": "Check for Sims to ignore relationship and sexual preferences when Always Accept is enabled."
     },
     {
+      "Key": "0xAD12B633",
+      "Value": "Only Allow Floor Sex on Floor Sex Markers"
+    },
+    {
+      "Key": "0x52F79ABD",
+      "Value": "Check for Sims to only use placed Floor Sex Marker objects for floor sex.\\nUncheck for Sims to use placed Floor Sex Marker objects and dynamic floor spots."
+    },
+    {
       "Key": "0x51D16545",
       "Value": "Block Around Children"
     },
@@ -891,6 +1103,18 @@
     {
       "Key": "0x03CB60FA",
       "Value": "Check for Sims to assess risk of attempting to initiate sex by their age, number of other Sims around, number of underage Sims around, and family relations."
+    },
+    {
+      "Key": "0x1853B322",
+      "Value": "Sex Autonomy Allowed Venues"
+    },
+    {
+      "Key": "0xBFE480C6",
+      "Value": "Choose which venue types are allowed for performing sex autonomy."
+    },
+    {
+      "Key": "0xE7123BCE",
+      "Value": "Select to allow venue: {0.String}."
     },
     {
       "Key": "0x0DA0B6C1",
@@ -973,28 +1197,36 @@
       "Value": "Set a unit interval value for chance of random sex from positive reaction to a peeping Sim. Value 1.0 is 100% chance.\\n(Default: 0.50, Minimum: 0.0)"
     },
     {
-      "Key": "0x52EDB46D",
-      "Value": "Trigger Attempts Count"
+      "Key": "0x53A345B2",
+      "Value": "Sims Sex Pairs Minimum Sample Size"
     },
     {
-      "Key": "0x704D76EC",
-      "Value": "Set a number of attempts for autonomy picking a Sims Sex Pair and Sex Location Style. Higher values decrease the failure rate.\\n(Default: 5, Minimum: 1, Maximum: 120)"
+      "Key": "0x177C30AB",
+      "Value": "Set a minimum number of Sims Sex Pairs that will be included in Sims Sex Pairs Sample Size.\\n(Default: 0.67, Minimum: 0.01)"
     },
     {
       "Key": "0xD3A5F7EE",
       "Value": "Sims Sex Pairs Sample Size"
     },
     {
-      "Key": "0x5285DD51",
-      "Value": "Set a number of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\\n(Default: 8, Minimum: 1)"
+      "Key": "0x8239D7CC",
+      "Value": "Set a percentage size of Sims Sex Pairs that will be considered for autonomy. Lower values mean more precision in picking ideal sex pairs.\\n(Default: 0.67, Minimum: 0.01)"
+    },
+    {
+      "Key": "0xDF951D27",
+      "Value": "Sex Locations Minimum Sample Size"
+    },
+    {
+      "Key": "0x87EABC1D",
+      "Value": "Set a minimum number of Sex Locations that will be included in Sex Locations Sample Size.\\n(Default: 3, Minimum: 1)"
     },
     {
       "Key": "0xBA43CAC3",
       "Value": "Sex Locations Sample Size"
     },
     {
-      "Key": "0x9DFD6EF3",
-      "Value": "Set a number of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\\n(Default: 8, Minimum: 1)"
+      "Key": "0x7A3A9172",
+      "Value": "Set a percentage size of Sex Locations that will be considered for autonomy. Lower values mean more precision in picking ideal locations.\\n(Default: 0.34, Minimum: 0.01)"
     },
     {
       "Key": "0x90B95FD1",
@@ -1021,62 +1253,6 @@
       "Value": "Set a maximum number of distance units for Sims to consider a sex location to be in range of consideration.\\n\\n(Default: 100, Maximum: 100000)"
     },
     {
-      "Key": "0x5C733BDD",
-      "Value": "Autonomy Location Styles"
-    },
-    {
-      "Key": "0x3A583A16",
-      "Value": "Choose and Set allowed for autonomy location styles."
-    },
-    {
-      "Key": "0xFA48E2A4",
-      "Value": "Outside Lots Style Locations"
-    },
-    {
-      "Key": "0x5F59051C",
-      "Value": "Check to allow picking of sex locations outside of the lot boundaries."
-    },
-    {
-      "Key": "0xDF5B9BA0",
-      "Value": "Outdoors Style Locations"
-    },
-    {
-      "Key": "0xF7448F33",
-      "Value": "Check to allow picking of sex locations outdoors within lot boundaries"
-    },
-    {
-      "Key": "0x3A19652B",
-      "Value": "Risky Style Locations"
-    },
-    {
-      "Key": "0x36EBB258",
-      "Value": "Check to allow picking of risky sex locations."
-    },
-    {
-      "Key": "0x47290295",
-      "Value": "Comfort Style Locations"
-    },
-    {
-      "Key": "0x31F1764A",
-      "Value": "Check to allow picking of comfortable sex locations."
-    },
-    {
-      "Key": "0xF38596DA",
-      "Value": "Private Style Locations"
-    },
-    {
-      "Key": "0x2355180F",
-      "Value": "Check to allow picking of private sex locations."
-    },
-    {
-      "Key": "0xFADD3551",
-      "Value": "Sims Risky Factor"
-    },
-    {
-      "Key": "0x89B72B19",
-      "Value": "Set a multiplier value per 'Sim In Room' that increases the likeliness of the room being considered as risky.\\n(Default: 2.0, Minimum: 0.0)"
-    },
-    {
       "Key": "0xFB0C4D05",
       "Value": "NPC Household Relationship Modifier"
     },
@@ -1097,8 +1273,8 @@
       "Value": "Random Sex Minimum Cooldown Time"
     },
     {
-      "Key": "0x192829D9",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 90, Minimum: 0)"
+      "Key": "0x26D6DD49",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy sex again.\\n(Default: 100, Minimum: 0)"
     },
     {
       "Key": "0xF3F7320F",
@@ -1171,6 +1347,14 @@
     {
       "Key": "0xB62539FF",
       "Value": "Settings related to sexually transmitted diseases and sexual problems."
+    },
+    {
+      "Key": "0x6770BD83",
+      "Value": "Burning Bladder Switch"
+    },
+    {
+      "Key": "0x09893323",
+      "Value": "Check to enable Sims contracting Burning Bladder Infection STD."
     },
     {
       "Key": "0x3FC7DC0F",
@@ -2477,6 +2661,14 @@
       "Value": "Check to make {0.SimFirstName} use Simple Pregnancy mode instead of Menstrual Cycle mode.\\nUncheck for {0.SimFirstName} to follow Pregnancy Settings."
     },
     {
+      "Key": "0x29B56B17",
+      "Value": "Menstrual Cycle Day Shift"
+    },
+    {
+      "Key": "0x175F9B59",
+      "Value": "Adjust {0.SimFirstName}'s menstrual cycle day by shifting it forward by a number of days. This variable is the number of days {0.SimFirstName}'s menstrual cycle is shifted by."
+    },
+    {
       "Key": "0x36190C20",
       "Value": "Fertility Modifier Cheat"
     },
@@ -2979,6 +3171,10 @@
     {
       "Key": "0x11AADC0A",
       "Value": "Mirror"
+    },
+    {
+      "Key": "0x8FB2B49A",
+      "Value": "Sink"
     },
     {
       "Key": "0x8354C142",
@@ -3655,6 +3851,14 @@
     {
       "Key": "0xD4E642D6",
       "Value": "---------- SEX PREFERENCES ----------"
+    },
+    {
+      "Key": "0x47FF7266",
+      "Value": "Compliment Sex Performance"
+    },
+    {
+      "Key": "0x28451430",
+      "Value": "Criticize Sex Performance"
     },
     {
       "Key": "0x1C94B897",
@@ -6541,6 +6745,70 @@
       "Value": "Lube has been applied for pleasure to all participants."
     },
     {
+      "Key": "0xBB67F611",
+      "Value": "---------- ERECTILE DYSFUNCTION ----------"
+    },
+    {
+      "Key": "0xBFE3DAFF",
+      "Value": "Erectile Dysfunction"
+    },
+    {
+      "Key": "0xCA60DADD",
+      "Value": "Erectile Dysfunction"
+    },
+    {
+      "Key": "0x88EC6516",
+      "Value": "Sims with Erectile Dysfunction are unable to have sex without potency medication."
+    },
+    {
+      "Key": "0x7D4CDA26",
+      "Value": "That's unfortunate, {0.SimFirstName} is unable to participate in sex activities due to Erectile Dysfunction.\\n\\nConsider purchasing medication that can treat Erectile Dysfunction."
+    },
+    {
+      "Key": "0x5FBEB0D6",
+      "Value": "That's unfortunate, {0.SimFirstName} is unable to participate in sex activities due to Erectile Dysfunction."
+    },
+    {
+      "Key": "0x4B30A9BA",
+      "Value": "Sims with Erectile Dysfunction are disallowed masturbation."
+    },
+    {
+      "Key": "0x9F18226B",
+      "Value": "WickedMax Purple Pills"
+    },
+    {
+      "Key": "0x316E8D37",
+      "Value": "WickedMax is a proven and extremely effective brand for treating erectile dysfunction. Just one pill is enough to turn those soft moments into rock-hard triumphs. WickedMax purple pills will make your erection feel significantly more powerful than what blue pills or any other brand offers. <i>Remember, it's not just about lasting longer; it's about feeling like a champion.</i>\\n\\nWickedMax Purple Pills are automatically used when attempting to have sex."
+    },
+    {
+      "Key": "0x244BB219",
+      "Value": "Uses Left: {0.Number}"
+    },
+    {
+      "Key": "0x7B97C966",
+      "Value": "{0.SimFirstName} took a WickedMax pill."
+    },
+    {
+      "Key": "0xFD69941E",
+      "Value": "(From Erectile Dysfunction)"
+    },
+    {
+      "Key": "0x680502FD",
+      "Value": "<font color='#340658'>Boner Pill-Powered Passion</font>"
+    },
+    {
+      "Key": "0x255DF714",
+      "Value": "Thanks to a tiny miracle in pill form, {0.SimFirstName} was able to build a rock-solid foundation for a spectacular performance."
+    },
+    {
+      "Key": "0x7FCA4560",
+      "Value": "<font color='#340658'>Missed Opportunity</font>"
+    },
+    {
+      "Key": "0x29C30263",
+      "Value": "Well, that was awkward! {0.SimFirstName} stumbled at the starting line, failing an attempt to kickstart an intimate encounter due to \"equipment malfunction\"."
+    },
+    {
       "Key": "0x52EE8454",
       "Value": "---------- SEX SATISFACTION ----------"
     },
@@ -7393,8 +7661,8 @@
       "Value": "Acquired Crab Lice!"
     },
     {
-      "Key": "0x01886BE8",
-      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store via phone or computer."
+      "Key": "0xAF794EE8",
+      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store or acquired from a Medical Specialist."
     },
     {
       "Key": "0xB27675D1",
@@ -7419,6 +7687,302 @@
     {
       "Key": "0xFDC6BB2D",
       "Value": "{0.SimName} used the Lice Killing Shampoo and repelled all of the crabby looking bugs living around {M0.his}{F0.her} genitalia. With the powerful effect of the shampoo, {M0.he}{F0.she} doesn't have to fear contracting Crab Lice again for some time."
+    },
+    {
+      "Key": "0x366B50EE",
+      "Value": "---------- BLADDER BURN STD ----------"
+    },
+    {
+      "Key": "0x96664A24",
+      "Value": "Burning Bladder Infection"
+    },
+    {
+      "Key": "0xD6423E7F",
+      "Value": "Turn into Burning Bladder Sleeper Agent"
+    },
+    {
+      "Key": "0x8099BB9E",
+      "Value": "Infect with Burning Bladder"
+    },
+    {
+      "Key": "0x9EB2817F",
+      "Value": "Acquired Burning Bladder Infection!"
+    },
+    {
+      "Key": "0xE0641C5B",
+      "Value": "{0.SimName} acquired Burning Bladder Infection, bacteria that affects the bladder causing burning pain after urination. Typically contracted through sexual intercourse with infected Sims.\\n\\nBurning Bladder Infection requires proper treatment from a medical specialist.\\nVisit a Medical Specialist using Sim phone under the Wicked category."
+    },
+    {
+      "Key": "0xDA54A399",
+      "Value": "<font color='#340658'>Burning Sensation</font>"
+    },
+    {
+      "Key": "0xC9D0FACF",
+      "Value": "(From Burning Bladder Infection)"
+    },
+    {
+      "Key": "0xE5579C62",
+      "Value": "Ouch! {0.SimFirstName} is experiencing a burning sensation after peeing, suggesting an infection. Seeking the expertise of a medical specialist is essential to address this discomfort."
+    },
+    {
+      "Key": "0x4899F7F2",
+      "Value": "Burning Bladder Immune"
+    },
+    {
+      "Key": "0xC84554BB",
+      "Value": "Burning Bladder Immune"
+    },
+    {
+      "Key": "0x485B4E92",
+      "Value": "Sims immune to Burning Bladder no longer contract the Burning Bladder Infection."
+    },
+    {
+      "Key": "0x6BE46929",
+      "Value": "Visit Medical Specialist"
+    },
+    {
+      "Key": "0x73F5A953",
+      "Value": "Visiting Medical Specialist"
+    },
+    {
+      "Key": "0x57420EE1",
+      "Value": "Medical Specialists will be available again between 7 AM and 9 PM."
+    },
+    {
+      "Key": "0x71652B9F",
+      "Value": "Medical Specialists Services"
+    },
+    {
+      "Key": "0x323CC6B3",
+      "Value": "Select medical service for {0.SimFirstName} to visit."
+    },
+    {
+      "Key": "0x360B21BD",
+      "Value": "{0.String} ({1.Money})"
+    },
+    {
+      "Key": "0xFC797EFE",
+      "Value": "Cancel Visit?"
+    },
+    {
+      "Key": "0xBDA12D36",
+      "Value": "{0.SimFirstName} is currently at the medical appointment. Leaving will cancel the service free of charge.\\n\\nAre you sure {0.SimFirstName} should leave?"
+    },
+    {
+      "Key": "0x0EC69573",
+      "Value": "(From Medical Service)"
+    },
+    {
+      "Key": "0xE2B08E7C",
+      "Value": "Erectile Dysfunction Consultation"
+    },
+    {
+      "Key": "0x6DF46D6D",
+      "Value": "Visit an expert sexologist to address issues related to erectile dysfunction."
+    },
+    {
+      "Key": "0xC5B5E2CB",
+      "Value": "{0.SimFirstName} visited an expert sexologist to get help for {0.SimPronounPossessiveDependent} Erectile Dysfunction. After a thorough examination and some rather personal questions, {0.SimFirstName} left with a prescription that promises to turn their love life from lackluster to legendary! WickedMax Purple Pills have been added to {0.SimFirstName}'s inventory."
+    },
+    {
+      "Key": "0xEFB9A16C",
+      "Value": "{0.SimFirstName} visited an expert sexologist with a worry regarding Erectile Dysfunction. After a series of eyebrow-raising questions and blush-inducing tests, the expert sexologist declared that {0.SimFirstName} is as fit as a fiddle down under. No pills needed here! Keep doing what you're doing, and maybe even a bit more, for good measure!"
+    },
+    {
+      "Key": "0xDFC11DDA",
+      "Value": "<font color='#340658'>Doctor's Orders</font>"
+    },
+    {
+      "Key": "0x57AFA682",
+      "Value": "The doctor says {0.SimFirstName} is more than okay - they're exceptional! With this medical stamp of approval on sexual prowess, it's time to embrace it and enjoy the fruits of being worry-free and ready to impress!"
+    },
+    {
+      "Key": "0x66EF467D",
+      "Value": "Burning Bladder Infection Consultation"
+    },
+    {
+      "Key": "0x2B4A9833",
+      "Value": "Visit a sexual health professional to address concerns related to Burning Bladder Infection and receive treatment to remedy this condition effectively."
+    },
+    {
+      "Key": "0x73954B49",
+      "Value": "{0.SimFirstName} visited a sexual health professional for a thorough consultation regarding Burning Bladder Infection. After some blush-worthy probing and a procedure that's best left to the imagination, {0.SimFirstName} is now free from the fiery clutches of the infection!"
+    },
+    {
+      "Key": "0xBE5DE844",
+      "Value": "{0.SimFirstName} visited a sexual health professional about potential Burning Bladder Infection, but it turns out {0.SimFirstName}'s visit wasn't necessary. After a consultation about the feared infection, it appears that {0.SimFirstName} is as clean as a whistle down there!"
+    },
+    {
+      "Key": "0x740CA6FA",
+      "Value": "<font color='#340658'>Burning No More!</font>"
+    },
+    {
+      "Key": "0xF77A524D",
+      "Value": "Ahh, relief at last! The fiery sensation is a thing of the past, and now {0.SimFirstName} can experience the simple joy of a pain-free bathroom break."
+    },
+    {
+      "Key": "0xCDB895F2",
+      "Value": "Crab Lice Consultation"
+    },
+    {
+      "Key": "0x2C154E23",
+      "Value": "Visit a certified healthcare provider to address concerns related to Crab Lice and receive medication or treatment for this infestation."
+    },
+    {
+      "Key": "0x19D668C5",
+      "Value": "In a small, well-lit clinic room, {0.SimFirstName} discusses {0.SimPronounPossessiveIndependent} concern about a possible crab lice infestation with a healthcare provider. The provider, wearing a white coat and a compassionate expression, examines {0.SimFirstName} carefully and confirms the presence of crab lice. She then presents a bottle of specialized shampoo, explaining that it's specifically formulated to treat crab lice. She locks eyes with {0.SimFirstName} and offers two options: {0.SimPronounSubjective|xxUpper} can use the shampoo right there in the clinic with her assistance, ensuring proper application, or {0.SimPronounSubjective} can take the shampoo and use it at home."
+    },
+    {
+      "Key": "0x478121AE",
+      "Value": "In a small, well-lit clinic room, {0.SimFirstName} discusses {0.SimPronounPossessiveIndependent} concern about a possible crab lice infestation with a healthcare provider. The provider, wearing a white coat and a compassionate expression, examines {0.SimFirstName} carefully and confirms the presence of crab lice. He then presents a bottle of specialized shampoo, explaining that it's specifically formulated to treat crab lice. He locks eyes with {0.SimFirstName} and offers two options: {0.SimPronounSubjective|xxUpper} can use the shampoo right there in the clinic with his assistance, ensuring proper application, or {0.SimPronounSubjective} can take the shampoo and use it at home."
+    },
+    {
+      "Key": "0x08CC2D9B",
+      "Value": "Use the Shampoo at the Clinic"
+    },
+    {
+      "Key": "0x3F56BD2C",
+      "Value": "Take the Shampoo Home"
+    },
+    {
+      "Key": "0x4130C362",
+      "Value": "{0.SimFirstName} agreed to the idea of using the specialized shampoo at the clinic. The healthcare provider gently guides {0.SimPronounObjective} to a private area in the clinic, then asks to undress and step into the shower. She puts on latex gloves and begins to gently but firmly apply the shampoo to {0.SimFirstName}'s sensitive pubic area. Her touch is clinical yet intimate, as she methodically works the shampoo into {0.SimFirstName}'s skin. {0.SimFirstName} finds {0.SimPronounReflexive} caught between the professionalism of the situation and the arousing nature of the contact. The healthcare provider hands move expertly, ensuring the shampoo reaches every affected area. As the treatment concludes, she steps back and cheerfully informs {0.SimFirstName} that {0.SimPronounPossessiveDependent} crab lice has been successfully treated!"
+    },
+    {
+      "Key": "0x68B1B8DC",
+      "Value": "{0.SimFirstName} agreed to the idea of using the specialized shampoo at the clinic. The healthcare provider gently guides {0.SimPronounObjective} to a private area in the clinic, then asks to undress and step into the shower. He puts on latex gloves and begins to gently but firmly apply the shampoo to {0.SimFirstName}'s sensitive pubic area. His touch is clinical yet intimate, as he methodically works the shampoo into {0.SimFirstName}'s skin. {0.SimFirstName} finds {0.SimPronounReflexive} caught between the professionalism of the situation and the arousing nature of the contact. The healthcare provider hands move expertly, ensuring the shampoo reaches every affected area. As the treatment concludes, he steps back and cheerfully informs {0.SimFirstName} that {0.SimPronounPossessiveDependent} crab lice has been successfully treated!"
+    },
+    {
+      "Key": "0xA8F5699C",
+      "Value": "{0.SimFirstName} has visited a certified healthcare provider for a consultation regarding the uncomfortable itching around {M0.his}{F0.her} genital area. After a thorough examination, {0.SimFirstName} has been diagnosed with Crab Lice. Fortunately, the healthcare provider has prescribed a specialized shampoo to treat the condition that has been added to {0.SimFirstName}'s inventory. The prescribed shampoo can only be used while taking a shower or a bath."
+    },
+    {
+      "Key": "0x412F1255",
+      "Value": "{0.SimFirstName} visited a certified healthcare provider for a thorough examination due to concerns about potential Crab Lice infection. After a detailed inspection, it turns out that {0.SimFirstName} is not infected with Crab Lice and does not require any treatment."
+    },
+    {
+      "Key": "0x010028A3",
+      "Value": "<font color='#340658'>Uncomfortably Grateful</font>"
+    },
+    {
+      "Key": "0xB542174F",
+      "Value": "{0.SimFirstName} is relieved to be free from the discomfort of crab lice, but the blend of clinical professionalism and unexpected intimacy in the treatment has left {0.SimPronounObjective} feeling both grateful and awkwardly embarrassed."
+    },
+    {
+      "Key": "0xC8E1BB78",
+      "Value": "<font color='#340658'>Flirty Provocation</font>"
+    },
+    {
+      "Key": "0x9E5B2FA5",
+      "Value": "The close and personal attention {0.SimFirstName} received during his successful crab lice \"medical procedure\" has sparked a flirtatious feeling, making {0.SimPronounObjective} wonder about the \"what-ifs\" that could have happened."
+    },
+    {
+      "Key": "0x999A551A",
+      "Value": "Intrauterine Device (IUD) Insertion"
+    },
+    {
+      "Key": "0x5D6AABC9",
+      "Value": "Visit a healthcare provider to discuss and undergo the hormonal Intrauterine Device (IUD) insertion procedure. This reliable form of contraception offers long-term prevention of getting pregnant and significantly reduces discomfort during periods."
+    },
+    {
+      "Key": "0xF38EEE00",
+      "Value": "Sims with a penis can't get an IUD inserted."
+    },
+    {
+      "Key": "0x3A01A98F",
+      "Value": "Intrauterine Device (IUD) Removal"
+    },
+    {
+      "Key": "0xFAC2882F",
+      "Value": "Visit a healthcare provider to have your Intrauterine Device (IUD) safely removed."
+    },
+    {
+      "Key": "0x178DB6A2",
+      "Value": "{0.SimFirstName} visited a healthcare provider to undergo the Intrauterine Device (IUD) insertion procedure. They're now equipped with a reliable form of birth control that completely prevents pregnancy and significantly reduces discomfort during periods!"
+    },
+    {
+      "Key": "0x6323922B",
+      "Value": "{0.SimFirstName} visited a healthcare provider to undergo the Intrauterine Device (IUD) removal procedure. They're now ready to move forward with new life decisions!"
+    },
+    {
+      "Key": "0xC187494B",
+      "Value": "<font color='#340658'>Unsettled Sensations</font>"
+    },
+    {
+      "Key": "0x9B441D73",
+      "Value": "The IUD insertion has left {0.SimFirstName} feeling somewhat sore and crampy. It's a small price to pay for long-term peace of mind, but right now, {0.SimPronounSubjective}'s just looking forward to feeling comfortable again."
+    },
+    {
+      "Key": "0xFAFA81EE",
+      "Value": "Vas-Occlusive Contraception Injection"
+    },
+    {
+      "Key": "0xC7EE5ED6",
+      "Value": "Visit a specialist clinic to undergo the non-surgical vas-occlusion contraceptive injection procedure into the ejaculatory ducts that uses an advanced hydrogel which effectively blocks sperm flow and completely deactivates sperm from fertilization."
+    },
+    {
+      "Key": "0x419F9388",
+      "Value": "Sims that don't produce sperm can't undergo this procedure."
+    },
+    {
+      "Key": "0xBFDBBB2E",
+      "Value": "Vas-Occlusive Contraception Dissolvement"
+    },
+    {
+      "Key": "0xA90D0328",
+      "Value": "Visit a specialist clinic to undergo the non-surgical injection of a dissolving agent into the ejaculatory ducts to remove the vas-occlusive contraceptive hydrogel and restore sperm flow and fertility."
+    },
+    {
+      "Key": "0x07378995",
+      "Value": "{0.SimFirstName} visited a specialist clinic and underwent a procedure of injecting vas-occlusion contraceptive hydrogel into {0.SimPronounPossessiveDependent} ejaculatory ducts. This cutting-edge non-surgical method has effectively blocked sperm flow and deactivated sperm from fertilization without any need for recovery period. From now on, {0.SimFirstName} will not be able to cause pregnancy unless this procedure is reversed."
+    },
+    {
+      "Key": "0x2853BF94",
+      "Value": "{0.SimFirstName} visited a specialist clinic and underwent a non-surgical injection of a dissolving agent into {0.SimPronounPossessiveDependent} ejaculatory ducts, specifically designed to reverse the effects of the vas-occlusive contraceptive hydrogel. The procedure has successfully restored sperm flow and fertility, {0.SimFirstName} is now able to impregnate once again."
+    },
+    {
+      "Key": "0x40A1B3AD",
+      "Value": "Pregnancy Termination"
+    },
+    {
+      "Key": "0x5BB5B759",
+      "Value": "Visit a professional reproductive healthcare clinic to safely undergo a pregnancy termination procedure, effectively ending the pregnancy."
+    },
+    {
+      "Key": "0xB9FA91CE",
+      "Value": "{0.SimFirstName} can't get pregnant."
+    },
+    {
+      "Key": "0x3E899822",
+      "Value": "{0.SimFirstName} is not pregnant."
+    },
+    {
+      "Key": "0x48B9BD74",
+      "Value": "{0.SimFirstName} can't terminate pregnancy at this stage."
+    },
+    {
+      "Key": "0x24735C34",
+      "Value": "{0.SimFirstName} visited a professional reproductive healthcare clinic to resolve a matter involving {0.SimPronounPossessiveDependent} pregnancy. After some serious consultations and a procedure involving colorful pamphlets and reassuring nods, {0.SimFirstName} successfully underwent pregnancy termination and is no longer pregnant!"
+    },
+    {
+      "Key": "0xF4ACC50B",
+      "Value": "<font color='#340658'>Pregnancy Termination</font>"
+    },
+    {
+      "Key": "0xEE68D90B",
+      "Value": "When certain choices leave you with the burden of guilt..."
+    },
+    {
+      "Key": "0xBBBEF0D9",
+      "Value": "<font color='#340658'>Hasta La Vista, Baby</font>"
+    },
+    {
+      "Key": "0x8278FDEA",
+      "Value": "When the stress is gone, the party can go on."
+    },
+    {
+      "Key": "0xCD272010",
+      "Value": "(From Pregnancy Termination)"
     },
     {
       "Key": "0xBA28EA39",
@@ -7761,44 +8325,8 @@
       "Value": "Terminate Pregnancy"
     },
     {
-      "Key": "0xB9FA91CE",
-      "Value": "{0.SimFirstName} can't get pregnant."
-    },
-    {
-      "Key": "0x3E899822",
-      "Value": "{0.SimFirstName} is not pregnant."
-    },
-    {
-      "Key": "0x48B9BD74",
-      "Value": "{0.SimFirstName} can't terminate pregnancy at this stage."
-    },
-    {
       "Key": "0x497229DE",
       "Value": "Ask to Consider Terminating Pregnancy"
-    },
-    {
-      "Key": "0xF4ACC50B",
-      "Value": "<font color='#340658'>Pregnancy Termination</font>"
-    },
-    {
-      "Key": "0xEE68D90B",
-      "Value": "When certain choices leave you with the burden of guilt..."
-    },
-    {
-      "Key": "0xBBBEF0D9",
-      "Value": "<font color='#340658'>Hasta La Vista, Baby</font>"
-    },
-    {
-      "Key": "0x8278FDEA",
-      "Value": "When the stress is gone, the party can go on."
-    },
-    {
-      "Key": "0xCD272010",
-      "Value": "(From Pregnancy Termination)"
-    },
-    {
-      "Key": "0x0AF88FBB",
-      "Value": "{0.SimFirstName} is no longer pregnant!\\n\\nRemember, {0.SimFirstName} and their partners can use different methods of birth control to avoid unwanted or unexpected pregnancy."
     },
     {
       "Key": "0x663540FC",
@@ -7983,6 +8511,34 @@
     {
       "Key": "0x519E5BF5",
       "Value": "{0.SimFirstName} is on {M0.his}{F0.her} birth control."
+    },
+    {
+      "Key": "0xD87B49E2",
+      "Value": "Has IUD"
+    },
+    {
+      "Key": "0xD37F49ED",
+      "Value": "Has IUD"
+    },
+    {
+      "Key": "0x283682CB",
+      "Value": "Sims with a hormonal Intrauterine Device (IUD) are completely safe from getting pregnant and experience significantly less discomfort during periods."
+    },
+    {
+      "Key": "0x859AFE3E",
+      "Value": "(From Wicked Medical Service)"
+    },
+    {
+      "Key": "0xBDB50437",
+      "Value": "Has Vas-Occlusive Contraceptive"
+    },
+    {
+      "Key": "0x3F0BE9A0",
+      "Value": "Has Vas-Occlusive Contraceptive"
+    },
+    {
+      "Key": "0xBA1CD30E",
+      "Value": "Sims after the vas-occlusive contraceptive injection ejaculate deactivated sperm which makes them unable to cause pregnancy."
     },
     {
       "Key": "0x7E84555B",
@@ -8723,6 +9279,14 @@
     {
       "Key": "0x97E4F95F",
       "Value": "Specialized invisible wall marking area that is used by Sims to know where to have sex against the wall.\\n\\nPut this object in places where Sims are meant to have sex against the wall."
+    },
+    {
+      "Key": "0x054CD84F",
+      "Value": "Wicked Floor Sex Marker (Invisible)"
+    },
+    {
+      "Key": "0xFBB3E2C0",
+      "Value": "Specialized invisible floor marking point that is used by Sims to know where is a good spot to have sex on the floor.\\n\\nPut this object in places where Sims are meant to have sex on the floor. Note that using this marker is not necessary as Sims will attempt to find a good spot to have sex on the floor on their own too."
     },
     {
       "Key": "0x31D17D1E",

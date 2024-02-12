@@ -133,6 +133,14 @@
       "Value": "Check to enable Sims gaining desire from romance interactions.\\nUncheck to disable Sims gaining desire and desire moodlets."
     },
     {
+      "Key": "0xC4ECC26C",
+      "Value": "Sex Cheating Moodlets Switch"
+    },
+    {
+      "Key": "0x6513FCA6",
+      "Value": "Check to allow cheating moodlets to appear after sex."
+    },
+    {
       "Key": "0x0FD93394",
       "Value": "Relationship Utilities"
     },
@@ -815,6 +823,98 @@
     {
       "Key": "0x4CA91CBB",
       "Value": "{0.SimFirstName} seems to be experiencing some arousing effects after waking up. Was it an erotic dream or did {M0.he}{F0.she} <i>wet</i> the bed by mistake?"
+    },
+    {
+      "Key": "0x9BBDD9AE",
+      "Value": "---------- Dirty Dancing ----------"
+    },
+    {
+      "Key": "0xF0C20DB5",
+      "Value": "Bump and Grind with"
+    },
+    {
+      "Key": "0x4C631267",
+      "Value": "Bump and Grind"
+    },
+    {
+      "Key": "0x712783D4",
+      "Value": "Slow Back Grind"
+    },
+    {
+      "Key": "0x93ED700B",
+      "Value": "Fast Back Grind"
+    },
+    {
+      "Key": "0x3EC51D21",
+      "Value": "Front Grind"
+    },
+    {
+      "Key": "0xE09CC4A1",
+      "Value": "Front Bump"
+    },
+    {
+      "Key": "0xBABBC149",
+      "Value": "Front Bump Together"
+    },
+    {
+      "Key": "0xDFB94973",
+      "Value": "Close Dance"
+    },
+    {
+      "Key": "0x2AC8E787",
+      "Value": "Bump and Grind"
+    },
+    {
+      "Key": "0x685C342E",
+      "Value": "As the music pulses and bodies sway in passionate rhythm, {0.SimFirstName} feels the energy rise. There's a magnetic connection, a fiery chemistry in the air that electrifies the moment."
+    },
+    {
+      "Key": "0xCCF4020A",
+      "Value": "Energized Euphoria"
+    },
+    {
+      "Key": "0xAC636350",
+      "Value": "After an electric session of grinding and bumping on the dance floor, {0.SimFirstName} is feeling charged with energy and excitement."
+    },
+    {
+      "Key": "0xA14E887D",
+      "Value": "---------- Sex Bragging ----------"
+    },
+    {
+      "Key": "0x75855892",
+      "Value": "Brag About Having Sex With..."
+    },
+    {
+      "Key": "0x45634EBC",
+      "Value": "{0.SimFirstName} didn't have sex with anyone recently."
+    },
+    {
+      "Key": "0x8E4BB570",
+      "Value": "Brag About Having Sex"
+    },
+    {
+      "Key": "0x3958F23E",
+      "Value": "Learn about {1.SimFirstName}'s Sex Life"
+    },
+    {
+      "Key": "0xC72ED27C",
+      "Value": "{0.SimFirstName} just bragged about having sex. Doing it again so soon won't have the impact {M0.he}{F0.she}'s expecting."
+    },
+    {
+      "Key": "0x9CE6A3E6",
+      "Value": "<font color='#340658'>Sexual Pride</font>"
+    },
+    {
+      "Key": "0x84C14C47",
+      "Value": "{0.SimFirstName} feels a subtle sense of pride after bragging about {M0.his}{F0.hers} sexual encounters."
+    },
+    {
+      "Key": "0x0F28B535",
+      "Value": "<font color='#340658'>Pride Slide</font>"
+    },
+    {
+      "Key": "0xF46248F5",
+      "Value": "Yikes, the air thickened around {0.SimFirstName} as {0.SimPronounPossessiveDependent} story about a sexual encounter lead to an unexpected reception."
     },
     {
       "Key": "0x6DF9B78B",
