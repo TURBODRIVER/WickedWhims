@@ -597,16 +597,16 @@
       "Value": "Visit Lovense Store"
     },
     {
-      "Key": "0x6430A225",
-      "Value": "Open Lovense store website in browser to view available Lovense sex toys.\\n(Referral Link)"
+      "Key": "0x1C8C876D",
+      "Value": "Open Lovense store website in browser to view available Lovense sex toys.\\n(This is a referral link which earns the WickedWhims creator commission from purchases.)"
     },
     {
-      "Key": "0x193A1FD9",
-      "Value": "Get Lovense Remove App"
+      "Key": "0xE0ADA98F",
+      "Value": "Get Lovense Remote App"
     },
     {
-      "Key": "0xE529EB20",
-      "Value": "Open Lovense website in browser to download Lovense Remote app and connect sex toys to WickedWhims.\\n(Referral Link)"
+      "Key": "0x4BC141B2",
+      "Value": "Open Lovense website in browser to download Lovense Remote app and connect sex toys to WickedWhims.\\n(This is a referral link which earns the WickedWhims creator commission from purchases.)"
     },
     {
       "Key": "0x41C11769",
@@ -663,6 +663,10 @@
     {
       "Key": "0x01D35A8F",
       "Value": "Your Lovense devices are now connected!\\n\\n<b>Devices Names:</b> {0.String}\\n\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again."
+    },
+    {
+      "Key": "0x20856F92",
+      "Value": "Sex Devices Auto Connected!"
     },
     {
       "Key": "0xE460823B",
@@ -1927,6 +1931,14 @@
     {
       "Key": "0xB6B16360",
       "Value": "Change all of the unrelated settings."
+    },
+    {
+      "Key": "0x7B654876",
+      "Value": "Panties Collecting Switch"
+    },
+    {
+      "Key": "0x7B66D796",
+      "Value": "Check to allow collecting and stealing panties."
     },
     {
       "Key": "0xD4E78AE0",
@@ -3973,8 +3985,8 @@
       "Value": "Select a Sim to initiate sex by Making a Move."
     },
     {
-      "Key": "0xBF664B40",
-      "Value": "There doesn't seem to be a good spot for sex around here.\\n\\n • You have installed {0.Number} sex animations and disabled {1.Number}% of them.\\n • And you have disabled {2.Number}% of sex animations from being used by sex autonomy.\\n • There are {3.Number} sex locations available nearby.\\n • And there are {4.Number} sex animations available for your Sims on all nearby sex locations.\\n"
+      "Key": "0x16E02D02",
+      "Value": "Oh... {0.SimFirstName} and {1.SimFirstName} are unable to find a good spot for sex on this lot.\\n\\n • Installed Sex Animations: {2.Number}\\n • Disabled Sex Animations: {3.Number}%\\n • Disabled Sex Autonomy Animations: {4.Number}%\\n • Available Sex Locations: {5.Number}\\n • Available Locations Sex Animations: {6.Number}\\n"
     },
     {
       "Key": "0xEA9098CA",
@@ -6761,8 +6773,8 @@
       "Value": "Sims with Erectile Dysfunction are unable to have sex without potency medication."
     },
     {
-      "Key": "0x7D4CDA26",
-      "Value": "That's unfortunate, {0.SimFirstName} is unable to participate in sex activities due to Erectile Dysfunction.\\n\\nConsider purchasing medication that can treat Erectile Dysfunction."
+      "Key": "0x8E4C8798",
+      "Value": "That's unfortunate, {0.SimFirstName} is unable to participate in sex activities due to Erectile Dysfunction.\\n\\nConsider visiting a Medical Specialist that can provide Erectile Dysfunction treatment."
     },
     {
       "Key": "0x5FBEB0D6",
@@ -9291,6 +9303,226 @@
     {
       "Key": "0x31D17D1E",
       "Value": "---------- POSE PLAYER ----------"
+    },
+    {
+      "Key": "0x05FB2A3C",
+      "Value": "Open Panties Collection"
+    },
+    {
+      "Key": "0x30296E2E",
+      "Value": "Collect Panties"
+    },
+    {
+      "Key": "0x713C8EA3",
+      "Value": "Steal Panties"
+    },
+    {
+      "Key": "0x3F62312F",
+      "Value": "It appears there are no more panties to steal at this place."
+    },
+    {
+      "Key": "0xB11A50F8",
+      "Value": "Catch Stealing Panties"
+    },
+    {
+      "Key": "0x77DE9850",
+      "Value": "Sniff Panties"
+    },
+    {
+      "Key": "0xCB8932F7",
+      "Value": "{0.SimFirstName} has already sniffed panties."
+    },
+    {
+      "Key": "0x7D8E0470",
+      "Value": "Panties Thief"
+    },
+    {
+      "Key": "0x1F098410",
+      "Value": "(From Getting Caught Stealing Panties)"
+    },
+    {
+      "Key": "0xAA6BA5B9",
+      "Value": "Sifting through someone's laundry to find panties is a pretty risky venture. Make sure to be more sneaky next time."
+    },
+    {
+      "Key": "0x5C1EABDB",
+      "Value": "(From Sniffing Panties)"
+    },
+    {
+      "Key": "0xDEE2AD9E",
+      "Value": "Scented Reverie"
+    },
+    {
+      "Key": "0xC8A28C08",
+      "Value": "Ah... the familiar scent brings a flood of memories from {0.SimFirstName}'s steamy sexual encounter, leaving {0.SimPronounObjective} feeling a mix of nostalgia and desire."
+    },
+    {
+      "Key": "0x414F9724",
+      "Value": "Whiff of Regret"
+    },
+    {
+      "Key": "0xF3AC35F2",
+      "Value": "Despite {0.SimFirstName}'s attempt to relive past moments, the scent brought a wave of regret and repulsion, leaving {0.SimPronounObjective} feeling disappointed from the memories of {0.SimPronounPossessiveIndependent} sexual encounter."
+    },
+    {
+      "Key": "0x0B1457CD",
+      "Value": "Vivid Fragrance"
+    },
+    {
+      "Key": "0xE95BA654",
+      "Value": "As {0.SimFirstName} inhales the enticing scent, vivid fantasies of a passionate sexual encounter dance through {0.SimPronounPossessiveDependent} mind, painting arousing pictures of what could be."
+    },
+    {
+      "Key": "0x862F86AC",
+      "Value": "Futile Fragrance"
+    },
+    {
+      "Key": "0x9EA792CB",
+      "Value": "Despite taking a hopeful whiff, {0.SimFirstName} finds {0.SimPronounReflexive} unable to picture any arousing fantasies, confronted instead with a blunt realization of temporarily mismatched desires."
+    },
+    {
+      "Key": "0x637B06BC",
+      "Value": "Uh Oh, Stinky"
+    },
+    {
+      "Key": "0x0E6DFF87",
+      "Value": "{0.SimFirstName} took a gamble with a whiff of some questionable underwear, only to recoil in horror at the pungent poop punch packed within."
+    },
+    {
+      "Key": "0x1FCEC5C3",
+      "Value": "Panties Acquired!"
+    },
+    {
+      "Key": "0x582B9D7F",
+      "Value": "{0.SimFirstName} found {1.String} panties!"
+    },
+    {
+      "Key": "0x7404C8B1",
+      "Value": "{0.SimFirstName} couldn't find any panties here..."
+    },
+    {
+      "Key": "0xF14955D2",
+      "Value": "{0.SimFirstName} found {1.String} panties owned by {2.SimName}."
+    },
+    {
+      "Key": "0x5A204E02",
+      "Value": "Panties Collection Complete!"
+    },
+    {
+      "Key": "0xA415C23F",
+      "Value": "Wowie, {0.SimFirstName} found all of the collectable panties!\\n\\nSniffing panties now comes with an extra happiness boost... as long as they smell nice."
+    },
+    {
+      "Key": "0xECE8A984",
+      "Value": "{0.SimFirstName}'s Panties Collection"
+    },
+    {
+      "Key": "0x0EA49CEE",
+      "Value": "Collect dropped panties from Sims having sex or steal panties from dressers and laundry."
+    },
+    {
+      "Key": "0x6AB800DE",
+      "Value": "<font size=\"14\">{0.String}</font>\\n<font color='#1A81E1'>{1.String}</font>"
+    },
+    {
+      "Key": "0x3BB0B331",
+      "Value": "These panties have not been found yet! Continue the hunt!"
+    },
+    {
+      "Key": "0x0E7005EB",
+      "Value": "Panties Owner: {0.SimName}"
+    },
+    {
+      "Key": "0x77D7CA3D",
+      "Value": "<font color='#EC262E'>Dirty Panties</font>"
+    },
+    {
+      "Key": "0x911CAEC1",
+      "Value": "<font color='#10A317'>Worn Panties</font>"
+    },
+    {
+      "Key": "0xAA8562BA",
+      "Value": "<font color='#10A317'>Clean Panties</font>"
+    },
+    {
+      "Key": "0xD9EFE90B",
+      "Value": "Cute Pink Thong Panties"
+    },
+    {
+      "Key": "0xF194B8BF",
+      "Value": "Gracefully wrapping your curves into an alluring gift, making you the special occasion."
+    },
+    {
+      "Key": "0x2D163E72",
+      "Value": "Bedtime Bunny Bikini Panties"
+    },
+    {
+      "Key": "0x509DF2A1",
+      "Value": "Whimsical appearance promises sweet dreams, yet beneath this playful facade hides an adventurous fantasy that strays far from innocence."
+    },
+    {
+      "Key": "0xCC2AC325",
+      "Value": "Purple Floral Boyshorts"
+    },
+    {
+      "Key": "0x00EBD03D",
+      "Value": "For a sophisticated woman who orchestrates boardroom takeovers by day and blooms by night."
+    },
+    {
+      "Key": "0xAA94B2A6",
+      "Value": "Cheeky Strawberry Panties"
+    },
+    {
+      "Key": "0x986944C4",
+      "Value": "Nibble your way past the strawberry sweetness and unveil the real cheeky dessert waiting underneath."
+    },
+    {
+      "Key": "0x910591DB",
+      "Value": "Granny Panties"
+    },
+    {
+      "Key": "0x27B7810B",
+      "Value": "These spacious old-school undergarments might prioritize comfort over style, but they come with an uncanny knack for turning first dates into steamy love stories."
+    },
+    {
+      "Key": "0x4DCB20E5",
+      "Value": "Eggplant Trunks"
+    },
+    {
+      "Key": "0x776D9B97",
+      "Value": "Perfect for men who wield their sense of humor with confidence, believing that a good laugh is the most potent aphrodisiac. After all, the quickest way to the heart is through the funny bone."
+    },
+    {
+      "Key": "0xC01E4ACE",
+      "Value": "Military Camo Briefs"
+    },
+    {
+      "Key": "0xC0E9F360",
+      "Value": "Designed for undercover operations, these are the perfect choice when you ironically need to <i>go commando</i>."
+    },
+    {
+      "Key": "0xD457D1ED",
+      "Value": "Blue Boxer Shorts"
+    },
+    {
+      "Key": "0x0F7ABAFB",
+      "Value": "With their spacious fit and breezy circulation, these are the go-to for dads everywhere. Perfect for those who carry not just wisdom, but everything else in generous proportions."
+    },
+    {
+      "Key": "0x97235400",
+      "Value": "Gray Wicked Jockstraps"
+    },
+    {
+      "Key": "0x3F7848B9",
+      "Value": "When your physical endeavors push the boundaries of endurance, this is your go-to underwear choice, blending performance with a dash of provocative charm."
+    },
+    {
+      "Key": "0xAA5F4D10",
+      "Value": "Bright Green G-String"
+    },
+    {
+      "Key": "0x8447F496",
+      "Value": "Fitting for the ultimate show-stopper, where less means infinitely more, guaranteeing all eyes on your prize."
     },
     {
       "Key": "0xC06C2DAD",

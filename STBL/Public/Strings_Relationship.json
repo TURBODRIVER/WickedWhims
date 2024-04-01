@@ -273,6 +273,66 @@
       "Value": "Socially Avoidant Sims are simply not interested in talking to anybody unless they have to."
     },
     {
+      "Key": "0x0FC4EC94",
+      "Value": "Weirdo"
+    },
+    {
+      "Key": "0x11723F87",
+      "Value": "Weirdo"
+    },
+    {
+      "Key": "0xE23A262E",
+      "Value": "Weirdo Sims embrace their interests with an unconventional style that may seem puzzling to some but is genuinely authentic.\\n\\n<i>Intended for Non-Playable Sims. Allows for spawning at night in the world and on lots with the Weirdos Hangout Lot Trait.</i>"
+    },
+    {
+      "Key": "0x5CF4FDAB",
+      "Value": "Weirdos Hangout"
+    },
+    {
+      "Key": "0x6F1AEC35",
+      "Value": "The unconventional appeal is like a magnet for Weirdo Sims who are looking for a place to engage in their quirky interests."
+    },
+    {
+      "Key": "0x2B05FD97",
+      "Value": "Weirdo Oasis"
+    },
+    {
+      "Key": "0x6B2BE7AA",
+      "Value": "(From Weirdo Hangout Lot Trait)"
+    },
+    {
+      "Key": "0x3BE39FFB",
+      "Value": "{0.SimFirstName} feels a deep resonance with {0.SimPronounPossessiveDependent} surroundings. Every corner of this place seems to echo {0.SimPronounPossessiveIndependent} unique inclinations."
+    },
+    {
+      "Key": "0xC99FE85E",
+      "Value": "Ask to Trade Panties"
+    },
+    {
+      "Key": "0x511D4038",
+      "Value": "Trade Panties"
+    },
+    {
+      "Key": "0x7FE51499",
+      "Value": "{0.SimFirstName} traded {M0.his}{F0.her} {1.ObjectName} for {2.ObjectName} that were owned by {3.SimName}."
+    },
+    {
+      "Key": "0x03C66CEB",
+      "Value": "{0.SimFirstName} doesn't have any panties to trade."
+    },
+    {
+      "Key": "0x758D8CAE",
+      "Value": "This Sim doesn't want to trade panties right now."
+    },
+    {
+      "Key": "0x7AEF6CDE",
+      "Value": "Looks like {0.SimFirstName} doesn't want to trade panties right now."
+    },
+    {
+      "Key": "0x6D360ACC",
+      "Value": "This Sim doesn't have any panties to trade right now."
+    },
+    {
       "Key": "0xDE618EFC",
       "Value": "Shy"
     },
