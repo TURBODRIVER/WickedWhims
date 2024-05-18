@@ -1885,6 +1885,22 @@
       "Value": "Check to allow the possibility of a Sim with a penis impregnating another Sim with a penis via anal sex."
     },
     {
+      "Key": "0x876942E6",
+      "Value": "NPC-NPC Pregnancy Switch"
+    },
+    {
+      "Key": "0xB7A29134",
+      "Value": "Check to allow NPC Sims pregnancy with other NPC Sims from sex.\\nUncheck to prevent NPC Sims pregnancy with other NPC Sims from sex."
+    },
+    {
+      "Key": "0x4A924311",
+      "Value": "Elder Pregnancy Switch"
+    },
+    {
+      "Key": "0xDF705B04",
+      "Value": "Check to allow elder age Sims to get pregnant with disabled Menstrual Cycle mode.\\nUncheck to disallow elder age Sims from getting pregnant with disabled Menstrual Cycle mode."
+    },
+    {
       "Key": "0xA9E7B26F",
       "Value": "Pregnancy Notifications"
     },
@@ -2073,6 +2089,10 @@
       "Value": "Play Playlist"
     },
     {
+      "Key": "0x32E454CB",
+      "Value": "Playlists Controls"
+    },
+    {
       "Key": "0x74C77E7C",
       "Value": "Animations Playlists"
     },
@@ -2223,6 +2243,14 @@
     {
       "Key": "0xCDF50736",
       "Value": "Playlist will be used when starting sex interactions using random."
+    },
+    {
+      "Key": "0x6B167A66",
+      "Value": "Erectile Dysfunction Available Behavior"
+    },
+    {
+      "Key": "0xE8265196",
+      "Value": "Animations on the playlist are allowed to be used by Sims with Erectile Dysfunction."
     },
     {
       "Key": "0x1FA02F74",
@@ -9393,16 +9421,16 @@
       "Value": "Panties Acquired!"
     },
     {
-      "Key": "0x582B9D7F",
-      "Value": "{0.SimFirstName} found {1.String} panties!"
+      "Key": "0x08CC5B43",
+      "Value": "{0.SimFirstName} found {1.String}!"
     },
     {
       "Key": "0x7404C8B1",
       "Value": "{0.SimFirstName} couldn't find any panties here..."
     },
     {
-      "Key": "0xF14955D2",
-      "Value": "{0.SimFirstName} found {1.String} panties owned by {2.SimName}."
+      "Key": "0xA74A2B0E",
+      "Value": "{0.SimFirstName} found {1.String} owned by {2.SimName}."
     },
     {
       "Key": "0x5A204E02",

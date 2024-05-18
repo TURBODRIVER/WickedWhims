@@ -549,6 +549,10 @@
       "Value": "--------------- Wicked Attributes ---------------"
     },
     {
+      "Key": "0xA1F51206",
+      "Value": "Did you know there are additional unique traits that you can give to your Sims?\\n\\nCheck it out! We call them Wicked Attributes!"
+    },
+    {
       "Key": "0xAE144D45",
       "Value": "Give <b>{0.SimFirstName}</b> Wicked Attributes"
     },
@@ -557,20 +561,60 @@
       "Value": "Take Away <b>{0.SimFirstName}</b>'s Wicked Attributes"
     },
     {
-      "Key": "0x3B39AE27",
-      "Value": "Randomize All Sims Wicked Attributes"
-    },
-    {
-      "Key": "0x26300DAD",
-      "Value": "Give All Sims Wicked Attributes"
-    },
-    {
       "Key": "0xE794E4BA",
       "Value": "{0.SimFirstName} has no Wicked Attributes assigned."
     },
     {
-      "Key": "0xA4C7F35F",
-      "Value": "Take Away All Sims Wicked Attributes"
+      "Key": "0xA9EF0289",
+      "Value": "Wicked Attributes Controls"
+    },
+    {
+      "Key": "0x59783F4A",
+      "Value": "Give Sims Wicked Attributes"
+    },
+    {
+      "Key": "0x572C66BC",
+      "Value": "Give any number of Sims any kind of Wicked Attributes you want."
+    },
+    {
+      "Key": "0x102D87F4",
+      "Value": "Take Away Sims Wicked Attributes"
+    },
+    {
+      "Key": "0x9A4551A8",
+      "Value": "Take away any kind of Wicked Attributes from any number of Sims you want."
+    },
+    {
+      "Key": "0xEF2875DC",
+      "Value": "Randomize Sims Wicked Attributes"
+    },
+    {
+      "Key": "0x505FE846",
+      "Value": "Randomize Wicked Attributes on any number of Sims you want."
+    },
+    {
+      "Key": "0xBF976BAC",
+      "Value": "Wicked Attributes Default Distribution"
+    },
+    {
+      "Key": "0x2187CDFC",
+      "Value": "Configure default Wicked Attributes distribution for newly created Sims."
+    },
+    {
+      "Key": "0x283D220A",
+      "Value": "Default Distribution on Played Sims"
+    },
+    {
+      "Key": "0x756A96BF",
+      "Value": "Check to allow Wicked Attributes default distribution on newly created played Sims."
+    },
+    {
+      "Key": "0xA940E989",
+      "Value": "Default Distribution on Age Up"
+    },
+    {
+      "Key": "0x30025B6F",
+      "Value": "Check to allow Wicked Attributes default distribution when Sims age up.\\n(Only applies for distribution groups that specify age.)"
     },
     {
       "Key": "0xED308368",
@@ -657,6 +701,198 @@
       "Value": "No selected Sims have any Wicked Attributes assigned to them."
     },
     {
+      "Key": "0x8DE97AE5",
+      "Value": "Randomizing {0.String} selected Wicked Attributes on {1.String} selected Sims."
+    },
+    {
+      "Key": "0xF58EC90F",
+      "Value": "Number of Wicked Attributes to distribute per Sim (1-{0.String})"
+    },
+    {
+      "Key": "0x3B28AC1D",
+      "Value": "Percentage of Sims population to distribute Wicked Attributes on (1-100%)\\n(Examples: 100% of {0.String} Sims = {0.String} Sims, 33% of {0.String} Sims = {1.String} Sims)"
+    },
+    {
+      "Key": "0xD9C267E5",
+      "Value": "One or more of the inputted values are not numbers."
+    },
+    {
+      "Key": "0x3C95298F",
+      "Value": "Randomizing {0.String} selected Wicked Attributes on {1.String} selected Sims.\\n\\n{2.String}\\n\\nAround {3.String}% of selected Sims ({4.String}) will receive {5.String} selected Wicked Attribute{P5.s}.\\n\\nDo you wish to randomize?"
+    },
+    {
+      "Key": "0xBFC0D83A",
+      "Value": "Select types of Sims to distribute Wicked Attributes on."
+    },
+    {
+      "Key": "0x05DF78FC",
+      "Value": "Create Sims Distribution Group"
+    },
+    {
+      "Key": "0xDA85CEC3",
+      "Value": "Select any combination of gender, genitals, age, and occult of Sims for distributing Wicked Attributes."
+    },
+    {
+      "Key": "0x1F295240",
+      "Value": "Wicked Attributes Sims Types"
+    },
+    {
+      "Key": "0x86D5FCE7",
+      "Value": "Select any combination of gender, genitals, age, and occult."
+    },
+    {
+      "Key": "0xE38F1B5C",
+      "Value": "Include Female Sims"
+    },
+    {
+      "Key": "0x9516375D",
+      "Value": "Include Male Sims"
+    },
+    {
+      "Key": "0x3AFCE966",
+      "Value": "Include Nonbinary Sims"
+    },
+    {
+      "Key": "0x0726A893",
+      "Value": "Include Penis Genitalia Sims"
+    },
+    {
+      "Key": "0xD6D921F0",
+      "Value": "Include Vagina Genitalia Sims"
+    },
+    {
+      "Key": "0x4171AAB3",
+      "Value": "Include Teen Age Sims"
+    },
+    {
+      "Key": "0xCB103F57",
+      "Value": "Include Young Adult Age Sims"
+    },
+    {
+      "Key": "0x1772E9EF",
+      "Value": "Include Adult Age Sims"
+    },
+    {
+      "Key": "0xE2D3A91B",
+      "Value": "Include Elder Age Sims"
+    },
+    {
+      "Key": "0xEB2E90BF",
+      "Value": "Include Alien Occult Sims"
+    },
+    {
+      "Key": "0xA7E18D6C",
+      "Value": "Include Vampire Occult Sims"
+    },
+    {
+      "Key": "0xE50B40FB",
+      "Value": "Include Mermaid Occult Sims"
+    },
+    {
+      "Key": "0x00BCAD78",
+      "Value": "Include Spellcaster Occult Sims"
+    },
+    {
+      "Key": "0xA91A2669",
+      "Value": "Include Werewolf Occult Sims"
+    },
+    {
+      "Key": "0xF2362EE5",
+      "Value": "Include Servo Occult Sims"
+    },
+    {
+      "Key": "0xF021B26F",
+      "Value": "Include Ghost Occult Sims"
+    },
+    {
+      "Key": "0x951671ED",
+      "Value": "Sims Types: {0.String}"
+    },
+    {
+      "Key": "0x8A4BF62F",
+      "Value": "Male"
+    },
+    {
+      "Key": "0x15F20E6C",
+      "Value": "Female"
+    },
+    {
+      "Key": "0x6AF474A1",
+      "Value": "Penis"
+    },
+    {
+      "Key": "0x8ABDDD58",
+      "Value": "Vagina"
+    },
+    {
+      "Key": "0x651E7CF8",
+      "Value": "Teen"
+    },
+    {
+      "Key": "0xD3EFCF64",
+      "Value": "Young Adult"
+    },
+    {
+      "Key": "0x8D2A1D7C",
+      "Value": "Adult"
+    },
+    {
+      "Key": "0xABACCED8",
+      "Value": "Elder"
+    },
+    {
+      "Key": "0x4971B069",
+      "Value": "Alien"
+    },
+    {
+      "Key": "0xEC96B8DA",
+      "Value": "Vampire"
+    },
+    {
+      "Key": "0xCDC85D55",
+      "Value": "Mermaid"
+    },
+    {
+      "Key": "0x41767B5E",
+      "Value": "Spellcaster"
+    },
+    {
+      "Key": "0x836DAAEF",
+      "Value": "Werewolf"
+    },
+    {
+      "Key": "0x5AD5301B",
+      "Value": "Servo"
+    },
+    {
+      "Key": "0x0AB9FCC9",
+      "Value": "Ghost"
+    },
+    {
+      "Key": "0xB3FBE814",
+      "Value": "{0.String}/{1.String}"
+    },
+    {
+      "Key": "0xD7F1B526",
+      "Value": "{0.String} and {1.String}"
+    },
+    {
+      "Key": "0xEC59EA07",
+      "Value": "Number of distributed Wicked Attributes: {0.String}"
+    },
+    {
+      "Key": "0x4F73C04C",
+      "Value": "Wicked Attribute Default Probability"
+    },
+    {
+      "Key": "0xE20282D4",
+      "Value": "{0.String} <b>(Probability: {1.String}%)</b>"
+    },
+    {
+      "Key": "0xE9910917",
+      "Value": "Percentage chance for the {0.String} Wicked Attribute to be added on newly created Sims (0-100%)"
+    },
+    {
       "Key": "0xE2252581",
       "Value": "The total of {0.Number} attribute{P0.s} has been added to {1.Number} Sim{P1.s}."
     },
@@ -707,6 +943,14 @@
     {
       "Key": "0x354613CF",
       "Value": "Select Nonbinary Sims"
+    },
+    {
+      "Key": "0x80CE8440",
+      "Value": "Select Penis Genitalia Sims"
+    },
+    {
+      "Key": "0x2EDD3A19",
+      "Value": "Select Vagina Genitalia Sims"
     },
     {
       "Key": "0xE2C1EBF0",
@@ -1363,6 +1607,86 @@
     {
       "Key": "0xC8095A99",
       "Value": "<p align=\"center\"><font size=\"15\"><b>Technical Creators</b></font></p><br><font size=\"10\"><p><b>Azmodan22</b> for animated penis rig support</p><p><a href='event:https://www.patreon.com/azmodan22'>https://www.patreon.com/azmodan22</a></p></font><br><font size=\"10\"><p><b>Denton47</b> for animated breasts rig support</p></font><br><font size=\"10\"><p><b>Khlas</b> for animated tongue, butt, vagina, and anus rig support</p></font><br><font size=\"10\"><p><b>Autobanned</b> for legacy animated tongue rig support and tongue model</p></font><br>"
+    },
+    {
+      "Key": "0xD6DC9216",
+      "Value": "--------------- Debug ---------------"
+    },
+    {
+      "Key": "0x47E163FA",
+      "Value": "Display Sim Information"
+    },
+    {
+      "Key": "0x4AC5B1AA",
+      "Value": "Display Object Information"
+    },
+    {
+      "Key": "0x5081B103",
+      "Value": "Soft Reset Sim"
+    },
+    {
+      "Key": "0xD2AA7E12",
+      "Value": "[Temporary Function]"
+    },
+    {
+      "Key": "0x8EB32D73",
+      "Value": "Display Sex Information"
+    },
+    {
+      "Key": "0x4581D135",
+      "Value": "Test Sex Autonomy"
+    },
+    {
+      "Key": "0xA5B16985",
+      "Value": "Test Sex Animation"
+    },
+    {
+      "Key": "0xBF1FB7C5",
+      "Value": "Clean Cum"
+    },
+    {
+      "Key": "0x1BAF423D",
+      "Value": "Apply Lube"
+    },
+    {
+      "Key": "0xDDC07C8C",
+      "Value": "Clean Lube"
+    },
+    {
+      "Key": "0x5EBEC5B6",
+      "Value": "Display Pregnancy Information"
+    },
+    {
+      "Key": "0x766BD305",
+      "Value": "Display Relationship Information"
+    },
+    {
+      "Key": "0x88920031",
+      "Value": "Display Attractiveness Information"
+    },
+    {
+      "Key": "0x59DA304C",
+      "Value": "Display Nudity Information"
+    },
+    {
+      "Key": "0x3844F338",
+      "Value": "Display Underwear Information"
+    },
+    {
+      "Key": "0x3ABC1AA0",
+      "Value": "Fix Nudity and Outfits"
+    },
+    {
+      "Key": "0x43E1A69B",
+      "Value": "Apply Sweat"
+    },
+    {
+      "Key": "0x6E5C459C",
+      "Value": "Clear Sweat"
+    },
+    {
+      "Key": "0xDAC4C2E9",
+      "Value": "Switch Penis State"
     },
     {
       "Key": "0x6B4D4B8C",
