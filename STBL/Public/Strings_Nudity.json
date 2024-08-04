@@ -2461,8 +2461,8 @@
       "Value": "There are no more available job positions in your club."
     },
     {
-      "Key": "0x72FE3B04",
-      "Value": "{0.SimFirstName} has fired {1.SimFirstName}. {M1.He}{F1.She} will no longer show up for work."
+      "Key": "0x95DDA89F",
+      "Value": "{0.SimFirstName} has fired {1.SimFirstName}. {1.SimPronounSubjective|xxUpper} will no longer show up for work."
     },
     {
       "Key": "0xFAB92E3E",

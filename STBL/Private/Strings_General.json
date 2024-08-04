@@ -1649,6 +1649,10 @@
       "Value": "Display Sex Information"
     },
     {
+      "Key": "0x1F28A305",
+      "Value": "Reset Sex State"
+    },
+    {
       "Key": "0x4581D135",
       "Value": "Test Sex Autonomy"
     },

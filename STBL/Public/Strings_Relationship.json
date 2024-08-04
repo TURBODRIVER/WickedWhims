@@ -73,6 +73,14 @@
       "Value": "Check to allow Sims attractiveness to influence relationship interactions.\\nUncheck to disallow Sims attractiveness from influencing relationship interactions."
     },
     {
+      "Key": "0x5DFA3C7A",
+      "Value": "Attractiveness Lovestruck Display Switch"
+    },
+    {
+      "Key": "0x67830CC1",
+      "Value": "Check to hide Lovestruck attraction and display Attractiveness attraction.\\nUncheck to display Lovestruck attraction and hide Attractiveness attraction."
+    },
+    {
       "Key": "0xF32F8DEF",
       "Value": "Attractiveness Memory Storytelling Switch"
     },
@@ -165,12 +173,28 @@
       "Value": "Check to enable family/incestuous relationships for all Sims.\\nUncheck to disable family/incestuous relationships for all Sims.\\n\\nUse the 'Incestuous' Wicked Attribute for individual Sims."
     },
     {
-      "Key": "0x72685E9C",
-      "Value": "Relationship Jealousy Switch"
+      "Key": "0xC15DAFF2",
+      "Value": "Emotional Jealousy Switch"
     },
     {
-      "Key": "0x52DE9579",
-      "Value": "Check to keep the default jealousy from cheating behavior of Sims.\\nUncheck to disable any jealousy from cheating behavior of Sims.\\n\\nUse the 'Polyamorous' Wicked Attribute trait for individual Sims."
+      "Key": "0xB7E97602",
+      "Value": "Check to keep the default emotional jealousy from cheating behavior of Sims.\\nUncheck to disable emotional jealousy from cheating behavior of Sims."
+    },
+    {
+      "Key": "0xF49DB054",
+      "Value": "Physical Touch Jealousy Switch"
+    },
+    {
+      "Key": "0x945D88C6",
+      "Value": "Check to keep the default physical touch jealousy from cheating behavior of Sims.\\nUncheck to disable physical touch jealousy from cheating behavior of Sims."
+    },
+    {
+      "Key": "0x8BD1FA96",
+      "Value": "Sex Jealousy Switch"
+    },
+    {
+      "Key": "0xCD87E73A",
+      "Value": "Check to keep the default sex jealousy from cheating behavior of Sims.\\nUncheck to disable sex jealousy from cheating behavior of Sims."
     },
     {
       "Key": "0xEAB5E6C9",
@@ -1401,12 +1425,12 @@
       "Value": "{0.SimFirstName} is under the impression that another Sim has their gaze fixed directly upon {0.SimPronounObjective}. With a glimmer in their eyes it's plain to see that {1.SimFirstName} has an intense interest in {0.SimFirstName}.\\n\\nIf {0.SimFirstName} tries to push things to a more intimate level they may have a good chance at success.\\n\\nIs {0.SimFirstName} going to <b>accept</b> {1.SimFirstName}'s advances or <b>ignore</b> {1.SimPronounObjective}?"
     },
     {
-      "Key": "0x2EA54D7A",
-      "Value": "{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {M1.He}{F1.She} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {1.SimPronounObjective} for the next few hours."
+      "Key": "0x85818E4B",
+      "Value": "{0.SimFirstName} has accepted {1.SimFirstName}'s advances. {1.SimPronounSubjective|xxUpper} looks excited, anticipating the opportunity of experiencing a passionate moment with {0.SimFirstName}. {M0.He}{F0.She} can do whatever {M0.he}{F0.she} wants with {1.SimPronounObjective} for the next few hours."
     },
     {
-      "Key": "0x5D2DCF98",
-      "Value": "{0.SimFirstName} ignored {1.SimFirstName}'s advances. {M1.He}{F1.She} shouldn't bother {0.SimPronounObjective} with {M1.his}{F1.her} antics anymore."
+      "Key": "0xC03EBEC1",
+      "Value": "{0.SimFirstName} ignored {1.SimFirstName}'s advances. {1.SimPronounSubjective|xxUpper} shouldn't bother {0.SimPronounObjective} with {1.SimPronounPossessiveDependent} antics anymore."
     },
     {
       "Key": "0x668CEF72",

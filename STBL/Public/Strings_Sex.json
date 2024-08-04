@@ -3185,6 +3185,10 @@
       "Value": "Swing Set"
     },
     {
+      "Key": "0x1B1B6F06",
+      "Value": "Blanket"
+    },
+    {
       "Key": "0x54DEC061",
       "Value": "Window"
     },
@@ -4371,6 +4375,10 @@
     {
       "Key": "0x6500B60D",
       "Value": "---------- SEX INTERFACE ----------"
+    },
+    {
+      "Key": "0x4EBFC036",
+      "Value": "{0.String}"
     },
     {
       "Key": "0x049DEAEC",
@@ -6077,6 +6085,10 @@
       "Value": "Characteristics incompatibility."
     },
     {
+      "Key": "0xE22F0076",
+      "Value": "Romance Dynamics incompatibility."
+    },
+    {
       "Key": "0x6310F76F",
       "Value": "{1.SimFirstName} has a negative impression of {0.SimFirstName}."
     },
@@ -6103,6 +6115,10 @@
     {
       "Key": "0x324D7FE9",
       "Value": "{1.SimFirstName} is shy."
+    },
+    {
+      "Key": "0x6F9DE5B2",
+      "Value": "{1.SimFirstName} is romantically reserved."
     },
     {
       "Key": "0xEA6DA426",
@@ -6399,6 +6415,10 @@
     {
       "Key": "0x39F9182B",
       "Value": "Host a wicked evening of delightful sexual experiences to remember for a long time.. or at least until the next Sex Party. Choose the party flavor once it begins to make it a Sex Swingers party, Sex Watchers party, Impregnation party, Masturbation party, or the regular fun."
+    },
+    {
+      "Key": "0x5388E9B6",
+      "Value": "Sex Host"
     },
     {
       "Key": "0xDBA09510",
