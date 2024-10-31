@@ -16,5 +16,5 @@ JSON Validator: https://jsonlint.com
 4. Proceed to https://github.com/TURBODRIVER/WickedWhims/tree/master/String%20Tables
 5. Choose either Public or Patreon release folder, open each JSON file, and download them all to your translations folder
 6. Open the downloaded JSON files with any text editor and translate the text strings
-7. Run RunMeOnWindows.bat on Windows or RunMeOnMac.sh on MacOS
+7. Run RunMeOnWindows.bat on Windows or RunMeOnMac.sh on MacOS and follow the displayed instructions
 8. The created PACKAGE file is your ready to use translation

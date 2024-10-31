@@ -1,11 +1,12 @@
 @echo off
-python --version >nul 2>&1
 
 echo Welcome to the TURBODRIVER Translation Creator.
 echo This tool will convert your translated JSON files into a usable PACKAGE file mod.
 echo To use this tool you need to install Python and place translated JSON file into the folder you're running this tool from.
 echo If Python is installed and JSON files are present, input the language code you want to create the PACKAGE file for.
 echo.
+
+python --version >nul 2>&1
 
 IF ERRORLEVEL 1 (
     echo Error - Python is not installed on your system.
