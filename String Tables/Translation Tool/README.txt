@@ -10,9 +10,11 @@ JSON Validator: https://jsonlint.com
 
 --- HOW TO TRANSLATE ---
 
-1. Proceed to https://github.com/TURBODRIVER/WickedWhims/tree/master/String%20Tables
-2. Choose either Public or Patreon release folder, open each JSON file, and download them all
-3. Place the downloaded JSON files into the folder with this tool
-4. Open the downloaded JSON files with any text editor and translate the text strings
-5. Run RunMeOnWindows.bat on Windows or RunMeOnMac.sh on MacOS
-6. The created PACKAGE file is your ready to use translation
+1. Create a folder for translations on your computer
+2. Download the ConvertJSONtoPACKAGE.py file into your translations folder
+3. Download either RunMeOnWindows.bat if you're on Windows or RunMeOnMac.sh if you're on MacOS
+4. Proceed to https://github.com/TURBODRIVER/WickedWhims/tree/master/String%20Tables
+5. Choose either Public or Patreon release folder, open each JSON file, and download them all to your translations folder
+6. Open the downloaded JSON files with any text editor and translate the text strings
+7. Run RunMeOnWindows.bat on Windows or RunMeOnMac.sh on MacOS
+8. The created PACKAGE file is your ready to use translation
