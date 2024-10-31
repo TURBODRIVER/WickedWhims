@@ -81,6 +81,14 @@
       "Value": "Check to hide Lovestruck attraction and display Attractiveness attraction.\\nUncheck to display Lovestruck attraction and hide Attractiveness attraction."
     },
     {
+      "Key": "0x1824F34C",
+      "Value": "Attractiveness Lovestruck Influence Strength"
+    },
+    {
+      "Key": "0x8B3078EF",
+      "Value": "Set a unit interval value for strength of Lovestruck attraction altering Attractiveness scoring.\\n(Default: 0.30, Minimum: 0.0)"
+    },
+    {
       "Key": "0xF32F8DEF",
       "Value": "Attractiveness Memory Storytelling Switch"
     },
@@ -857,20 +865,52 @@
       "Value": "---------- Protocols ----------"
     },
     {
-      "Key": "0xCF336CF3",
-      "Value": "Disallow Jealousy Inside Protocol"
+      "Key": "0x2F403627",
+      "Value": "Disallow Emotional Jealousy Inside Protocol"
     },
     {
-      "Key": "0x259BC569",
-      "Value": "Sims within this group are prevented from jealousy towards other Sims inside of this group."
+      "Key": "0x994D4AB5",
+      "Value": "Sims within this group are prevented from emotional jealousy towards other Sims inside of this group."
     },
     {
-      "Key": "0xB301DAFE",
-      "Value": "Disallow Jealousy Outside Protocol"
+      "Key": "0x6018672A",
+      "Value": "Disallow Emotional Jealousy Outside Protocol"
     },
     {
-      "Key": "0xF00BF39C",
-      "Value": "Sims within this group are prevented from jealousy towards other Sims outside of this group."
+      "Key": "0xED98D450",
+      "Value": "Sims within this group are prevented from emotional jealousy towards other Sims outside of this group."
+    },
+    {
+      "Key": "0x8DDDAA17",
+      "Value": "Disallow Physical Touch Jealousy Inside Protocol"
+    },
+    {
+      "Key": "0xF82FDCF5",
+      "Value": "Sims within this group are prevented from physical touch jealousy towards other Sims inside of this group."
+    },
+    {
+      "Key": "0xA342273A",
+      "Value": "Disallow Physical Touch Jealousy Outside Protocol"
+    },
+    {
+      "Key": "0x8C944B90",
+      "Value": "Sims within this group are prevented from physical touch jealousy towards other Sims outside of this group."
+    },
+    {
+      "Key": "0x98973E77",
+      "Value": "Disallow Sex Jealousy Inside Protocol"
+    },
+    {
+      "Key": "0xD506F4B5",
+      "Value": "Sims within this group are prevented from sex jealousy towards other Sims inside of this group."
+    },
+    {
+      "Key": "0x93924D9A",
+      "Value": "Disallow Sex Jealousy Outside Protocol"
+    },
+    {
+      "Key": "0xF2DF7250",
+      "Value": "Sims within this group are prevented from sex jealousy towards other Sims outside of this group."
     },
     {
       "Key": "0xBE429B57",

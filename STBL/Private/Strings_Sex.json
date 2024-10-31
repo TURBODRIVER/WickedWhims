@@ -893,8 +893,8 @@
       "Value": "Autonomy Intensity Presets"
     },
     {
-      "Key": "0xEF9F53DB",
-      "Value": "Choose an intensity preset for autonomy.\\n(this alters the Autonomy Awareness settings, Autonomy Triggers settings, and Autonomy Specifics settings)"
+      "Key": "0x9C1FA9F6",
+      "Value": "Choose an intensity preset for autonomy.\\n(this alters the Autonomy Awareness settings, Autonomy Triggers settings, and Autonomy Complex settings)"
     },
     {
       "Key": "0xB2634FCE",

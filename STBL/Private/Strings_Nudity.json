@@ -4029,6 +4029,14 @@
       "Value": "Creator account @{1.String} has been shut down and all content associated with it has been deleted as well.\\nAlthough some of {0.SimFirstName}'s pictures are still lingering in the depths of the internet, {M0.he}{F0.she} can create a new SimHub creator account and start fresh."
     },
     {
+      "Key": "0x8972EB5F",
+      "Value": "Shut Down SimHub Account?"
+    },
+    {
+      "Key": "0x4F46E5F4",
+      "Value": "Do you really want to shut down your SimHub creator account? This action is permanent and all progress is will be lost."
+    },
+    {
       "Key": "0xF8A8561B",
       "Value": "<font color='#340658'>Flash for the Camera!</font>"
     },
