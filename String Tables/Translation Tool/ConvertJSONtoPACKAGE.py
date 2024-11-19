@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import struct
 import sys
 import traceback
@@ -48,13 +49,22 @@ except Exception as e:
 
 language_strings = {}
 
+
+def _correct_invalid_json_files(json_str):
+    # Remove trailing commas in dicts and lists
+    json_str = re.sub(r",\s*([\]}])", r"\1", json_str)
+    return json_str
+
+
 for file_name in os.listdir():
     if file_name.endswith('.json'):
         json_file_path = os.path.join(os.getcwd(), file_name)
 
         with open(json_file_path, 'r', encoding='utf-8') as file:
+            json_str = _correct_invalid_json_files(file.read())
+
             try:
-                json_file = json.load(file)
+                json_file = json.loads(json_str)
             except Exception as e:
                 print(">>> Error - Unable to load '{}' JSON file.".format(file_name))
                 print(">>> Verify if the JSON file is valid using any JSON validator website (https://jsonlint.com).\n")
