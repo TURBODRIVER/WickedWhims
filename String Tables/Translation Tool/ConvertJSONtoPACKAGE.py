@@ -53,6 +53,8 @@ language_strings = {}
 def _correct_invalid_json_files(json_str):
     # Remove trailing commas in dicts and lists
     json_str = re.sub(r",\s*([\]}])", r"\1", json_str)
+    # Remove any final trailing commas
+    json_str = re.sub(r",\s*\Z", "", json_str)
     return json_str
 
 
