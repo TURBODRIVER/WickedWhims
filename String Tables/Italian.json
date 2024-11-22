@@ -8592,8 +8592,6 @@
       "Key": "0x697E31B1",
       "Value": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT \\\\\\</font>",
       "Source": "Public",
-      "Original": "<font color='#FF0000'>\\\\\\ MISSING SEX TEXT \\\\\\</font>",
-      "Status": "Unchanged",
     },
     {
       "Key": "0x0F8958BF",
@@ -23298,15 +23296,11 @@
       "Key": "0x370CC7F7",
       "Value": "<font color='#3AAF69'>+{0.Number}</font>",
       "Source": "Patreon",
-      "Original": "<font color='#3AAF69'>+{0.Number}</font>",
-      "Status": "Unchanged",
     },
     {
       "Key": "0xECFE4D0B",
       "Value": "<font color='#A12E31'>{0.Number}</font>",
       "Source": "Patreon",
-      "Original": "<font color='#A12E31'>{0.Number}</font>",
-      "Status": "Unchanged",
     },
     {
       "Key": "0x3385E767",
@@ -29016,8 +29010,6 @@
       "Key": "0x86E8A167",
       "Value": "<font color='#FF0000'>\\\\\\ MISSING NUDITY TEXT \\\\\\</font>",
       "Source": "Public",
-      "Original": "<font color='#FF0000'>\\\\\\ MISSING NUDITY TEXT \\\\\\</font>",
-      "Status": "Unchanged",
     },
     {
       "Key": "0x5C6D86BF",
@@ -37079,8 +37071,6 @@
       "Key": "0xAFEFCF9F",
       "Value": "<font color='#FF0000'>\\\\\\ MISSING RELATIONSHIP TEXT \\\\\\</font>",
       "Source": "Public",
-      "Original": "<font color='#FF0000'>\\\\\\ MISSING RELATIONSHIP TEXT \\\\\\</font>",
-      "Status": "Unchanged",
     },
   ],
 },
