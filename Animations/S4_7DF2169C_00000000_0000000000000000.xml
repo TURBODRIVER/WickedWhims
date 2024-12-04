@@ -145,7 +145,7 @@
           <T n="event_type">UNDRESS</T> <!-- Event Type that defines the behavior of this event (EFFECT, CUM, REMOVE_CONDOM, UNDRESS, GEOMETRY_STATE, MATERIAL_STATE) -->
           <T n="event_start_timecode">1.23456</T> <!-- Decimal Number in animation duration of when this event triggers -->
           <T n="event_target">a1</T> <!-- Event Target that represents actor Numerical ID or the object used for sex ('a0' is Actor ID 0, 'o' is the object used for sex, 'p0' is Prop ID 0) -->
-          <T n="naked_type">BOTTOM</T> <!-- Naked Type the Event Target will undress to (NONE, TOP, BOTTOM, ALL, FORCE_ALL) -->
+          <T n="naked_type">BOTTOM</T> <!-- Naked Type the Event Target will undress to (NONE, TOP, TOP_UNDERWEAR, BOTTOM, BOTTOM_UNDERWEAR, SHOES, ALL, FORCE_ALL) -->
         </U> <!-- [END OF EVENT ENTRY] -->
 
         <U> <!-- [START OF EVENT ENTRY] -->
