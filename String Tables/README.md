@@ -6,12 +6,16 @@ JSON translation files contain all of the WickedWhims text strings.</p>
 # HOW TO TRANSLATE
 
 1. Choose the JSON translation file that corresponds with the language you want to translate for and download it.
-2. Open the downloaded JSON translation file with any text editor and translate each line that beings with the "Value" variable.
-3. If you're done with translating the JSON file, proceed to the [Translation Tool page](https://github.com/TURBODRIVER/WickedWhims/tree/master/String%20Tables/Translation%20Tool).
+2. Open the downloaded JSON translation file with any text editor and translate each line that beings with the "Value" variable or use the [Voky's Translator JSON tool](https://github.com/TURBODRIVER/sims4-translator/releases) for easier translating.
+3. If you're done with translating the JSON file, proceed to the [Translation Tool page](https://github.com/TURBODRIVER/WickedWhims/tree/master/String Tables/Translation Package Creator) or if you're using the [Voky's Translator JSON tool](https://github.com/TURBODRIVER/sims4-translator/releases) then export to a JSON file.
 
 <p>To find if a "Value" line still needs translating, look for {entries} that include "Status" as "Unchanged".<br>
 You can adjust/correct any line with "Value" regardless of any "Status" if you want to. The "Original" line contains the original English text string as reference.<br>
 Do not change the "Key", "Source", or "Original" line.</p>
+
+# SUPPORTED TRANSLATION TOOLS
+
+The [Voky's Translator JSON tool](https://github.com/TURBODRIVER/sims4-translator/releases) for Windows has been modified to load JSON files for translating.
 
 # HOW TO SUBMIT TRANSLATIONS
 
