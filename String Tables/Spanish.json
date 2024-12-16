@@ -265,13 +265,6 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xC6631C0F",
-      "Value": "WHAT",
-      "Source": "Public",
-      "Original": "WHAT",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0xC06B4EBB",
       "Value": "Romance apasionado",
       "Source": "Public",
@@ -1651,13 +1644,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xB146A9D9",
-      "Value": "Camera Operator\\n(Cost: §150)",
-      "Source": "Patreon",
-      "Original": "Camera Operator\\n(Cost: §150)",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0x8AECF108",
       "Value": "Camera Operator",
       "Source": "Patreon",
@@ -1690,6 +1676,13 @@
       "Value": "Allow or Disallow all Sims the ability to react to Sex Shoot participants sex.",
       "Source": "Patreon",
       "Original": "Allow or Disallow all Sims the ability to react to Sex Shoot participants sex.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB146A9D9",
+      "Value": "Camera Operator\\n(Cost: §150)",
+      "Source": "Patreon",
+      "Original": "Camera Operator\\n(Cost: §150)",
       "Status": "Unchanged"
     },
     {

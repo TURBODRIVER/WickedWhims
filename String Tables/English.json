@@ -191,11 +191,6 @@
       "Source": "Public"
     },
     {
-      "Key": "0xC6631C0F",
-      "Value": "WHAT",
-      "Source": "Public"
-    },
-    {
       "Key": "0xC06B4EBB",
       "Value": "Passionate Romance",
       "Source": "Public"
@@ -1181,11 +1176,6 @@
       "Source": "Public"
     },
     {
-      "Key": "0xB146A9D9",
-      "Value": "Camera Operator\\n(Cost: §150)",
-      "Source": "Patreon"
-    },
-    {
       "Key": "0x8AECF108",
       "Value": "Camera Operator",
       "Source": "Patreon"
@@ -1208,6 +1198,11 @@
     {
       "Key": "0xC466072E",
       "Value": "Allow or Disallow all Sims the ability to react to Sex Shoot participants sex.",
+      "Source": "Patreon"
+    },
+    {
+      "Key": "0xB146A9D9",
+      "Value": "Camera Operator\\n(Cost: §150)",
       "Source": "Patreon"
     },
     {
