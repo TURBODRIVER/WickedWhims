@@ -102,7 +102,7 @@
         <U> <!-- [START OF PROP ENTRY] -->
           <T n="prop_id">0</T> <!-- Numerical ID that represents this prop, should be 0 if this is the first prop -->
           <T n="prop_type">BASIC</T> <!-- Prop Type of this prop (BASIC) -->
-          <T n="prop_guids">123456789, 987654321</T> <!-- List of prop GUIDs -->
+          <T n="prop_guids">123456789, 987654321</T> <!-- List of prop DEFs -->
           <T n="prop_animation_clip_name">PropAnimationClipName</T> <!-- Prop animation ClipName -->
           <T n="prop_geometry_state"></T> <!-- [REMOVE IF UNUSED] Prop geometry state -->
           <T n="prop_material_state"></T> <!-- [REMOVE IF UNUSED] Prop material state -->
