@@ -2,8 +2,57 @@
   "Entries": [
     {
       "Key": "0x00000000",
-      "Value": "### L18N GROUP - Main ###",
+      "Value": "### L18N GROUP - SexPlaylist ###",
       "Source": "Public"
+    },
+    {
+      "Key": "0xF0A2873B",
+      "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x958CB131",
+      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data appears to be corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data appears to be corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x810DF2F3",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Get support to receive help with reading the lastException file.\\n\\nYou can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Get support to receive help with reading the lastException file.\\n\\nYou can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA656325F",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sims Household (Mod or Game).\\n\\nCreation of a Household is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sims Household (Mod or Game).\\n\\nCreation of a Household is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE6525401",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sim (Mod or Game).\\n\\nCreation of a Sim is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sim (Mod or Game).\\n\\nCreation of a Sim is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC895BEA7",
+      "Value": "Uh Oh!",
+      "Source": "Public",
+      "Original": "Uh Oh!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF7694739",
+      "Value": "Похоть",
+      "Source": "Public",
+      "Original": "Wicked",
+      "Status": "Changed"
     },
     {
       "Key": "0xF0842A22",
@@ -360,6 +409,34 @@
       "Value": "Check to allow window sex animations to be available on the wall marker object.",
       "Source": "Public",
       "Original": "Check to allow window sex animations to be available on the wall marker object.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB5B3F651",
+      "Value": "Always Keep Shoes on for Sex",
+      "Source": "Public",
+      "Original": "Always Keep Shoes on for Sex",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8B0D5687",
+      "Value": "Check for {0.SimFirstName} to always keep shoes on during sex.",
+      "Source": "Public",
+      "Original": "Check for {0.SimFirstName} to always keep shoes on during sex.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB0E2AB89",
+      "Value": "Always Keep Glasses on for Sex",
+      "Source": "Public",
+      "Original": "Always Keep Glasses on for Sex",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF8B49C0F",
+      "Value": "Check for {0.SimFirstName} to always keep glasses on during sex.",
+      "Source": "Public",
+      "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Status": "Unchanged"
     },
     {
@@ -1861,6 +1938,55 @@
       "Status": "Unchanged"
     },
     {
+      "Key": "0xFFC3620A",
+      "Value": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
+      "Source": "Public",
+      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC9935A97",
+      "Value": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
+      "Source": "Public",
+      "Original": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x87E5FFD2",
+      "Value": "(From Teacher Boosting Grade)",
+      "Source": "Public",
+      "Original": "(From Teacher Boosting Grade)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDFD24C88",
+      "Value": "<font color='#510061'>Extra Credits</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Extra Credits</font>",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB16EB098",
+      "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
+      "Source": "Public",
+      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA75510CE",
+      "Value": "<font color='#510061'>Exceptional Performance</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Exceptional Performance</font>",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9BC820D1",
+      "Value": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
+      "Source": "Public",
+      "Original": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xA3351666",
       "Value": "Show Hidden Objects",
       "Source": "Public",
@@ -2281,13 +2407,6 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xF7694739",
-      "Value": "Похоть",
-      "Source": "Public",
-      "Original": "Wicked",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x712B19E6",
       "Value": "--------------- Main ---------------",
       "Source": "Public"
@@ -2437,48 +2556,6 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xAF4F3E91",
-      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen in the past, that could have caused the game save to be incorrectly loaded.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen in the past, that could have caused the game save to be incorrectly loaded.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0x5898E4B1",
-      "Value": "Auto Fix: Save Into New Save Slot",
-      "Source": "Public",
-      "Original": "Auto Fix: Save Into New Save Slot",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0x4E2FF52A",
-      "Value": "Game saved, a new save slot with name '{0.String}' has been created.",
-      "Source": "Public",
-      "Original": "Game saved, a new save slot with name '{0.String}' has been created.",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0x4CAC27A7",
-      "Value": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n • If you started a new game, this is a false alarm and you can ignore this message.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n • If you started a new game, this is a false alarm and you can ignore this message.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0xDD42329B",
-      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data files were altered by external sources are now corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data files were altered by external sources are now corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0x3F19B7B5",
-      "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading/writing save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading/writing save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0x449C1DFF",
       "Value": "Произошла ошибка!\\nСоздан файл ошибки lastException.txt!\\n\\nСделайте глубокий вдох, создайте новое сохранение и выйдите из игры.\\n\\nНаиболее распространённая причина подобных ошибок - устаревшие/сломанные моды.\\nПроведите ревизию папки \"Mods\" на предмет обновления/удаления старых модов.\\nЭТА ОШИБКА ВЫЗВАНА НЕ WICKEDWHIMS. ОН ПРОСТО СООБЩАЕТ ВАМ О ДРУГИХ СЛОМАННЫХ МОДАХ.\\n\\nРасположение файла ошибки: {0.String}\\n\\nЭто сообщение доведено до Вас TURBODRIVER'ом.\\nВы можете найти больше информации здесь:\\nlastexception.com",
       "Source": "Public",
@@ -2599,9 +2676,23 @@
     },
     {
       "Key": "0xC2F9BC20",
-      "Value": "Hey! This newest release of WickedWhims replaces birth control pills objects with a new object, so you will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for the inconvenience and have fun!",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v180, the birth control pills objects are now replaced with a new object. You will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
       "Source": "Public",
-      "Original": "Hey! This newest release of WickedWhims replaces birth control pills objects with a new object, so you will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for the inconvenience and have fun!",
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v180, the birth control pills objects are now replaced with a new object. You will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAFBE453B",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v186, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Source": "Patreon",
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v186, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x22D5535D",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Source": "Public",
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
       "Status": "Unchanged"
     },
     {
@@ -3799,13 +3890,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xECF035D6",
-      "Value": "Всего {0.Number} {X0.особая черта была удалена}{Y0.особые черты были удалены}{P0.особых черт было удалено} у {1.Number} {X1.сима}{Y1.симов}{P1.симов}.",
-      "Source": "Public",
-      "Original": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x5780FABA",
       "Value": "--------------- Trait Door Lock ---------------",
       "Source": "Patreon"
@@ -3830,6 +3914,13 @@
       "Source": "Patreon",
       "Original": "Select Wicked Attributes that are allowed to enter.",
       "Status": "Unchanged"
+    },
+    {
+      "Key": "0xECF035D6",
+      "Value": "Всего {0.Number} {X0.особая черта была удалена}{Y0.особые черты были удалены}{P0.особых черт было удалено} у {1.Number} {X1.сима}{Y1.симов}{P1.симов}.",
+      "Source": "Public",
+      "Original": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}.",
+      "Status": "Changed"
     },
     {
       "Key": "0x24656CCB",
@@ -6216,6 +6307,20 @@
       "Value": "Check to allow sex devices from Lovense to use the Depth function.",
       "Source": "Public",
       "Original": "Check to allow sex devices from Lovense to use the Depth function.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x4AA7538D",
+      "Value": "Lovense Oscillate Devices Function",
+      "Source": "Public",
+      "Original": "Lovense Oscillate Devices Function",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x6B012A6C",
+      "Value": "Check to allow sex devices from Lovense to use the Oscillate function.",
+      "Source": "Public",
+      "Original": "Check to allow sex devices from Lovense to use the Oscillate function.",
       "Status": "Unchanged"
     },
     {
@@ -18394,27 +18499,6 @@
       "Source": "Public"
     },
     {
-      "Key": "0x118AE879",
-      "Value": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
-      "Source": "Public",
-      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0x0D4653EC",
-      "Value": "<font color='#510061'>Extra Credits</font>",
-      "Source": "Public",
-      "Original": "<font color='#510061'>Extra Credits</font>",
-      "Status": "Unchanged"
-    },
-    {
-      "Key": "0xC85E9E1D",
-      "Value": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
-      "Source": "Public",
-      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0x83B93A76",
       "Value": "Заниматься сексом",
       "Source": "Public",
@@ -20461,10 +20545,10 @@
     },
     {
       "Key": "0xB9C9FFA6",
-      "Value": "Коробка из 21 прочного и тонкого латексного презерватива для любого размера. Именно то, что нужно, чтобы избежать нежелательной беременности.\\n\\nРаспакуйте коробку и получите 21 готовый к использованию презерватив.",
+      "Value": "Box of 10 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 10 usable condoms.",
       "Source": "Public",
-      "Original": "Box of 21 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 21 usable condoms.",
-      "Status": "Changed"
+      "Original": "Box of 10 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 10 usable condoms.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xC05146E2",
@@ -29415,9 +29499,9 @@
     },
     {
       "Key": "0xD569418E",
-      "Value": "Premium Analytics Access (Cost: 50★)",
+      "Value": "Premium Analytics Access (Cost: 30★)",
       "Source": "Public",
-      "Original": "Premium Analytics Access (Cost: 50★)",
+      "Original": "Premium Analytics Access (Cost: 30★)",
       "Status": "Unchanged"
     },
     {

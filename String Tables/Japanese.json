@@ -2,8 +2,57 @@
   "Entries": [
     {
       "Key": "0x00000000",
-      "Value": "### L18N GROUP - Main ###",
+      "Value": "### L18N GROUP - SexPlaylist ###",
       "Source": "Public"
+    },
+    {
+      "Key": "0xF0A2873B",
+      "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x958CB131",
+      "Value": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data appears to be corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data appears to be corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x810DF2F3",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Get support to receive help with reading the lastException file.\\n\\nYou can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Get support to receive help with reading the lastException file.\\n\\nYou can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA656325F",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sims Household (Mod or Game).\\n\\nCreation of a Household is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sims Household (Mod or Game).\\n\\nCreation of a Household is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE6525401",
+      "Value": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sim (Mod or Game).\\n\\nCreation of a Sim is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Source": "Public",
+      "Original": "Looks like WickedWhims complex save data failed to be saved.\\n\\n<b>Why did this happen?</b>\\n • Something prevented creation of a Sim (Mod or Game).\\n\\nCreation of a Sim is a critical part of saving WickedWhims data. You can try waiting a few seconds and save again but if this issue repeats then you need the problem to be investigated.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC895BEA7",
+      "Value": "ええとああ！",
+      "Source": "Public",
+      "Original": "Uh Oh!",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF7694739",
+      "Value": "Wicked",
+      "Source": "Public",
+      "Original": "Wicked",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xF0842A22",
@@ -28,10 +77,10 @@
     },
     {
       "Key": "0x8238694A",
-      "Value": "Naked Sleeping",
+      "Value": "裸で眠る",
       "Source": "Public",
       "Original": "Naked Sleeping",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD221F2E2",
@@ -42,10 +91,10 @@
     },
     {
       "Key": "0xA73000E4",
-      "Value": "Naked Workout",
+      "Value": "裸のワークアウト",
       "Source": "Public",
       "Original": "Naked Workout",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x808D5824",
@@ -56,10 +105,10 @@
     },
     {
       "Key": "0x80C9901B",
-      "Value": "Naked in Water",
+      "Value": "水の中で裸",
       "Source": "Public",
       "Original": "Naked in Water",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAFD3031D",
@@ -70,10 +119,10 @@
     },
     {
       "Key": "0x9BC88138",
-      "Value": "Naked in Onsen Hot Springs",
+      "Value": "温泉で裸",
       "Source": "Public",
       "Original": "Naked in Onsen Hot Springs",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8B239369",
@@ -84,10 +133,10 @@
     },
     {
       "Key": "0x8211C007",
-      "Value": "Naked Yoga",
+      "Value": "裸ヨガ",
       "Source": "Public",
       "Original": "Naked Yoga",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBD01792E",
@@ -98,10 +147,10 @@
     },
     {
       "Key": "0xACB6F6C8",
-      "Value": "Naked Massage",
+      "Value": "裸マッサージ",
       "Source": "Public",
       "Original": "Naked Massage",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE2FBB7AC",
@@ -266,10 +315,10 @@
     },
     {
       "Key": "0xC06B4EBB",
-      "Value": "Passionate Romance",
+      "Value": "情熱的なロマンス",
       "Source": "Public",
       "Original": "Passionate Romance",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB5C38A69",
@@ -360,6 +409,34 @@
       "Value": "Check to allow window sex animations to be available on the wall marker object.",
       "Source": "Public",
       "Original": "Check to allow window sex animations to be available on the wall marker object.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB5B3F651",
+      "Value": "Always Keep Shoes on for Sex",
+      "Source": "Public",
+      "Original": "Always Keep Shoes on for Sex",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8B0D5687",
+      "Value": "Check for {0.SimFirstName} to always keep shoes on during sex.",
+      "Source": "Public",
+      "Original": "Check for {0.SimFirstName} to always keep shoes on during sex.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB0E2AB89",
+      "Value": "Always Keep Glasses on for Sex",
+      "Source": "Public",
+      "Original": "Always Keep Glasses on for Sex",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF8B49C0F",
+      "Value": "Check for {0.SimFirstName} to always keep glasses on during sex.",
+      "Source": "Public",
+      "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Status": "Unchanged"
     },
     {
@@ -1568,10 +1645,10 @@
     },
     {
       "Key": "0xB7FB6B72",
-      "Value": "Masturbation",
+      "Value": "オナニー",
       "Source": "Public",
       "Original": "Masturbation",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFB05B8E1",
@@ -1858,6 +1935,55 @@
       "Value": "Hide Chair Objects",
       "Source": "Public",
       "Original": "Hide Chair Objects",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFFC3620A",
+      "Value": "私は<i>誰でも</i>のためにこれをするつもりはありませんが...私たちの小さな性的冒険は秘密にしておく必要があります。あなたの優秀な成績を評価してこっそり成績を上げます、誰にも言わないでください。",
+      "Source": "Public",
+      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC9935A97",
+      "Value": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
+      "Source": "Public",
+      "Original": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x87E5FFD2",
+      "Value": "(From Teacher Boosting Grade)",
+      "Source": "Public",
+      "Original": "(From Teacher Boosting Grade)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDFD24C88",
+      "Value": "<font color='#340658'>追加クレジット</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Extra Credits</font>",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB16EB098",
+      "Value": "それは課題ではありませんでしたが、それでも追加の単位を取得する価値がありました。{0.SimFirstName} は、{M0.his}{F0.her} の教授に {M0.his}{F0.her} の成績を上げてもらっただけでなく、教室内の性的な緊張をさらに高めました。",
+      "Source": "Public",
+      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA75510CE",
+      "Value": "<font color='#510061'>Exceptional Performance</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Exceptional Performance</font>",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9BC820D1",
+      "Value": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
+      "Source": "Public",
+      "Original": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
       "Status": "Unchanged"
     },
     {
@@ -2281,13 +2407,6 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xF7694739",
-      "Value": "Wicked",
-      "Source": "Public",
-      "Original": "Wicked",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0x712B19E6",
       "Value": "--------------- Main ---------------",
       "Source": "Public"
@@ -2437,48 +2556,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xAF4F3E91",
-      "Value": "WickedWhims の複雑な保存データの読み込みに失敗した可能性があります。\\n\\n<b>なぜこのようなことが発生したのでしょうか?</b>\\n・過去にワールド管理画面で保存したことがある場合、ゲーム保存が誤って読み込まれた可能性があります。\\n\\n<b>ワールド管理画面ではなく、常にゲームプレイ中 (ライブ モード / ビルド モード) に保存するようにしてください。</b>\\n<b>今すぐ新しい保存スロットに保存すると、今後の問題を回避できます。</b>\\n\\nWickedWhims の保存データの大部分は複雑な保存データ ファイルに依存しないため、引き続きプレイできますが、一部の機能の進行状況が失われる可能性があります。",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you saved on the Manage Worlds screen in the past, that could have caused the game save to be incorrectly loaded.\\n\\n<b>Make sure to always save during gameplay (Live Mode / Build Mode), not on the Manage Worlds screen.</b>\\n<b>Saving right now into a new save slot should help avoid further issues.</b>\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x5898E4B1",
-      "Value": "自動修正: 新しい保存スロットに保存",
-      "Source": "Public",
-      "Original": "Auto Fix: Save Into New Save Slot",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4E2FF52A",
-      "Value": "ゲームが保存されました。「{0.String}」という名前の新しい保存スロットが作成されました。",
-      "Source": "Public",
-      "Original": "Game saved, a new save slot with name '{0.String}' has been created.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4CAC27A7",
-      "Value": "WickedWhims の複雑なセーブデータのロードに失敗した可能性があるようです。\\n\\n<b>なぜこのようなことが起こったのですか?</b>\\n  • 保存ファイルを元に戻す、リカバリする、または交換した場合、複雑なデータ ファイルの不一致が発生した可能性があります。\\n  • 新しいゲームを開始した場合、これは誤報であるため、このメッセージは無視してかまいません。\\n\\nWickedWhims のセーブデータの大部分は複雑なセーブデータファイルに依存していないため、プレイを続けることができますが、一部の機能は進行状況が失われる可能性があります。",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data might have failed to load.\\n\\n<b>Why did this happen?</b>\\n • If you reverted, recovered or swapped your save files, that could have caused a mismatch of complex data files.\\n • If you started a new game, this is a false alarm and you can ignore this message.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xDD42329B",
-      "Value": "WickedWhims の複合保存データの読み込みに失敗したようです。\\n\\n<b>なぜこのようなことが発生したのでしょうか?</b>\\n・外部ソースによって変更された WickedWhims の複合保存データ ファイルは破損しています。WickedWhims\\n\\nの保存データの大部分は複合保存データ ファイルに依存しないため、引き続きプレイできますが、一部の機能の進行状況が失われる可能性があります。",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data failed to be loaded.\\n\\n<b>Why did this happen?</b>\\n • WickedWhims complex save data files were altered by external sources are now corrupted.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x3F19B7B5",
-      "Value": "WickedWhims コンプレックスのセーブデータの処理に失敗したようです。\\n\\n<b>なぜこうなったのですか?</b>\\n• オペレーティング システムまたは他のアプリケーションが The Sims 4 のファイル アクセス許可を変更し、セーブ ファイル データの読み取り/書き込みを妨げている可能性があります。\\n\\nWickedWhims のセーブ データの大部分は、複雑なセーブ データ ファイルに依存していないため、引き続きプレイできますが、一部の機能が進行していない可能性があります。",
-      "Source": "Public",
-      "Original": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading/writing save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x449C1DFF",
       "Value": "エラーが発生しました!\\n例外ファイル (lastException.txt) が作成されました!\\n\\n深呼吸して、新しいセーブを作成し、ゲームを終了してください。\\n\\nこのようなエラーの最も一般的な原因は、古くなった/壊れた MOD です。\\n「Mods」フォルダを確認し、古い MOD を更新/削除することを検討してください。\\nこれは WICKEDWHIMS が原因ではありません。 WICKEDWHIMS は、他の壊れた MOD について通知する MOD です。\\n\\n例外ファイルの場所: {0.String}\\n\\nこのメッセージは TURBODRIVER によって提供されています。詳細については、 lastexception.com\\nを参照してください。",
       "Source": "Public",
@@ -2599,10 +2676,24 @@
     },
     {
       "Key": "0xC2F9BC20",
-      "Value": "へい！ WickedWhims のこの最新リリースでは、避妊薬のオブジェクトが新しいオブジェクトに置き換えられるため、シム用に避妊薬を再度購入する必要があります。\\n\\nご迷惑をおかけして申し訳ありませんが、楽しんでください！",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v180, the birth control pills objects are now replaced with a new object. You will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
       "Source": "Public",
-      "Original": "Hey! This newest release of WickedWhims replaces birth control pills objects with a new object, so you will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for the inconvenience and have fun!",
-      "Status": "Changed"
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v180, the birth control pills objects are now replaced with a new object. You will have to purchase birth control pills for your Sims again.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAFBE453B",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v186, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Source": "Patreon",
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v186, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x22D5535D",
+      "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Source": "Public",
+      "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x9AF804FA",
@@ -3648,7 +3739,7 @@
     },
     {
       "Key": "0x8A4BF62F",
-      "Value": "男性",
+      "Value": "男",
       "Source": "Public",
       "Original": "Male",
       "Status": "Changed"
@@ -3662,7 +3753,7 @@
     },
     {
       "Key": "0x6AF474A1",
-      "Value": "ペニス",
+      "Value": "陰茎",
       "Source": "Public",
       "Original": "Penis",
       "Status": "Changed"
@@ -3711,7 +3802,7 @@
     },
     {
       "Key": "0xEC96B8DA",
-      "Value": "吸血鬼",
+      "Value": "ヴァンパイア",
       "Source": "Public",
       "Original": "Vampire",
       "Status": "Changed"
@@ -3799,13 +3890,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xECF035D6",
-      "Value": "合計 {0.Number} 個の属性 {P0.s} が {1.Number} Sim{P1.s} から削除されました。",
-      "Source": "Public",
-      "Original": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x5780FABA",
       "Value": "--------------- Trait Door Lock ---------------",
       "Source": "Patreon"
@@ -3830,6 +3914,13 @@
       "Source": "Patreon",
       "Original": "Select Wicked Attributes that are allowed to enter.",
       "Status": "Unchanged"
+    },
+    {
+      "Key": "0xECF035D6",
+      "Value": "合計 {0.Number} 個の属性 {P0.s} が {1.Number} Sim{P1.s} から削除されました。",
+      "Source": "Public",
+      "Original": "The total of {0.Number} attribute{P0.s} have been removed from {1.Number} Sim{P1.s}.",
+      "Status": "Changed"
     },
     {
       "Key": "0x24656CCB",
@@ -6219,6 +6310,20 @@
       "Status": "Changed"
     },
     {
+      "Key": "0x4AA7538D",
+      "Value": "Lovense Oscillate Devices Function",
+      "Source": "Public",
+      "Original": "Lovense Oscillate Devices Function",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x6B012A6C",
+      "Value": "Check to allow sex devices from Lovense to use the Oscillate function.",
+      "Source": "Public",
+      "Original": "Check to allow sex devices from Lovense to use the Oscillate function.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xA279DD33",
       "Value": "セックスデバイスコントロール",
       "Source": "Public",
@@ -6477,7 +6582,7 @@
     },
     {
       "Key": "0x9E42147A",
-      "Value": "ハイトスライダーMods対応",
+      "Value": "高さスライダーModのサポート",
       "Source": "Public",
       "Original": "Height Slider Mods Support",
       "Status": "Changed"
@@ -9452,7 +9557,7 @@
     },
     {
       "Key": "0x0AB2B430",
-      "Value": "性別区分",
+      "Value": "性別カテゴリー",
       "Source": "Public",
       "Original": "Sex Category",
       "Status": "Changed"
@@ -10060,21 +10165,21 @@
     },
     {
       "Key": "0x0748F0BB",
-      "Value": "フットジョブ",
+      "Value": "足コキ",
       "Source": "Public",
       "Original": "Footjob",
       "Status": "Changed"
     },
     {
       "Key": "0x438CC4E7",
-      "Value": "オーラルジョブ",
+      "Value": "口コキ",
       "Source": "Public",
       "Original": "Oraljob",
       "Status": "Changed"
     },
     {
       "Key": "0xAB5B8B84",
-      "Value": "ベージナル",
+      "Value": "膣",
       "Source": "Public",
       "Original": "Vaginal",
       "Status": "Changed"
@@ -10270,7 +10375,7 @@
     },
     {
       "Key": "0x82CB7566",
-      "Value": "男性",
+      "Value": "男",
       "Source": "Public",
       "Original": "Male",
       "Status": "Changed"
@@ -13058,7 +13163,7 @@
     },
     {
       "Key": "0x8590154D",
-      "Value": "男性",
+      "Value": "男",
       "Source": "Public",
       "Original": "Male",
       "Status": "Changed"
@@ -17095,10 +17200,10 @@
     },
     {
       "Key": "0x244BB219",
-      "Value": "Uses Left: {0.Number}",
+      "Value": "用途 左： {0.Number｝",
       "Source": "Patreon",
       "Original": "Uses Left: {0.Number}",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x7B97C966",
@@ -18394,27 +18499,6 @@
       "Source": "Public"
     },
     {
-      "Key": "0x118AE879",
-      "Value": "私は<i>誰でも</i>のためにこれをするつもりはありませんが...私たちの小さな性的冒険は秘密にしておく必要があります。あなたの優秀な成績を評価してこっそり成績を上げます、誰にも言わないでください。",
-      "Source": "Public",
-      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x0D4653EC",
-      "Value": "<font color='#340658'>追加クレジット</font>",
-      "Source": "Public",
-      "Original": "<font color='#510061'>Extra Credits</font>",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC85E9E1D",
-      "Value": "それは課題ではありませんでしたが、それでも追加の単位を取得する価値がありました。{0.SimFirstName} は、{M0.his}{F0.her} の教授に {M0.his}{F0.her} の成績を上げてもらっただけでなく、教室内の性的な緊張をさらに高めました。",
-      "Source": "Public",
-      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x83B93A76",
       "Value": "セックスをする",
       "Source": "Public",
@@ -19316,7 +19400,7 @@
     },
     {
       "Key": "0xAC82A7B5",
-      "Value": "脱衣所",
+      "Value": "服を脱ぐ",
       "Source": "Public",
       "Original": "Undress Outfit",
       "Status": "Changed"
@@ -19414,21 +19498,21 @@
     },
     {
       "Key": "0x2B227E62",
-      "Value": "脱衣可能",
+      "Value": "脱げない",
       "Source": "Public",
       "Original": "Undressable",
       "Status": "Changed"
     },
     {
       "Key": "0x1C99A214",
-      "Value": "服を脱ぐトップ",
+      "Value": "服を脱ぐ上着",
       "Source": "Public",
       "Original": "Undress Outfit Top",
       "Status": "Changed"
     },
     {
       "Key": "0xD951B662",
-      "Value": "服を脱ぐボトム",
+      "Value": "服を脱ぐ衣装ボトム",
       "Source": "Public",
       "Original": "Undress Outfit Bottom",
       "Status": "Changed"
@@ -19482,7 +19566,7 @@
     },
     {
       "Key": "0x67313761",
-      "Value": "著者{0.String}。",
+      "Value": "著者: {0.String}",
       "Source": "Public",
       "Original": "Author: {0.String}",
       "Status": "Changed"
@@ -19529,7 +19613,7 @@
     },
     {
       "Key": "0x692117C5",
-      "Value": "著者{0.String}。",
+      "Value": "著者: {0.String}",
       "Source": "Public",
       "Original": "Author: {0.String}",
       "Status": "Changed"
@@ -19592,7 +19676,7 @@
     },
     {
       "Key": "0x8D518588",
-      "Value": "ヴァギナ",
+      "Value": "膣",
       "Source": "Public",
       "Original": "Vagina",
       "Status": "Changed"
@@ -20461,10 +20545,10 @@
     },
     {
       "Key": "0xB9C9FFA6",
-      "Value": "あらゆるサイズに対応する、強くて薄いラテックス製コンドーム21個入りボックス。望まない妊娠を避けるために、まさに必要なものです。\\n\\n箱を開けると、21個の使用可能なコンドームがあります。",
+      "Value": "Box of 10 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 10 usable condoms.",
       "Source": "Public",
-      "Original": "Box of 21 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 21 usable condoms.",
-      "Status": "Changed"
+      "Original": "Box of 10 strong and thin latex condoms for any size. Exactly what you need to avoid unwanted pregnancy.\\n\\nUnpack the box and get 10 usable condoms.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xC05146E2",
@@ -21423,7 +21507,7 @@
     },
     {
       "Key": "0x789293FA",
-      "Value": "オブジェクトをクリックし、WickedカテゴリーからSexを選択します。シムがセックスできるようになるには、良い関係が必要です。",
+      "Value": "オブジェクトをクリックし、WickedカテゴリからSexを選択します。シムがセックスできるようになるには、良い関係が必要です。",
       "Source": "Public",
       "Original": "Click on an object and select Sex from the Wicked category. Sims need to have a good relationship to be able to have sex.",
       "Status": "Changed"
@@ -22136,7 +22220,7 @@
     },
     {
       "Key": "0xAA59D56F",
-      "Value": "トップ付き自動脱衣手袋",
+      "Value": "トップ付きオートアンドレスグローブ",
       "Source": "Public",
       "Original": "Auto Undress Gloves with Top",
       "Status": "Changed"
@@ -22150,7 +22234,7 @@
     },
     {
       "Key": "0x38A25BA9",
-      "Value": "自動脱ぎ靴底付き",
+      "Value": "動作設定",
       "Source": "Public",
       "Original": "Auto Undress Shoes with Bottom",
       "Status": "Changed"
@@ -22164,7 +22248,7 @@
     },
     {
       "Key": "0x8E22D933",
-      "Value": "自動脱衣靴下と靴",
+      "Value": "靴で自動脱衣靴下",
       "Source": "Public",
       "Original": "Auto Undress Socks with Shoes",
       "Status": "Changed"
@@ -22178,7 +22262,7 @@
     },
     {
       "Key": "0xCF0B8F13",
-      "Value": "ボトム付き自動脱衣レギンス",
+      "Value": "ボトム付き自動アンドレスレギンス",
       "Source": "Public",
       "Original": "Auto Undress Leggings with Bottom",
       "Status": "Changed"
@@ -24377,14 +24461,14 @@
     },
     {
       "Key": "0x9D68D735",
-      "Value": "脱衣トップ",
+      "Value": "服を脱ぐ上着",
       "Source": "Public",
       "Original": "Undress Outfit Top",
       "Status": "Changed"
     },
     {
       "Key": "0x00953657",
-      "Value": "服を脱ぐ下",
+      "Value": "服を脱ぐ衣装ボトム",
       "Source": "Public",
       "Original": "Undress Outfit Bottom",
       "Status": "Changed"
@@ -25898,7 +25982,7 @@
     },
     {
       "Key": "0x1EC5DEB8",
-      "Value": "閃光",
+      "Value": "フラッシュ",
       "Source": "Public",
       "Original": "Flash",
       "Status": "Changed"
@@ -26439,7 +26523,7 @@
     },
     {
       "Key": "0xFD7837FA",
-      "Value": "汗をかかない",
+      "Value": "汗かいていない",
       "Source": "Public",
       "Original": "No Sweat",
       "Status": "Changed"
@@ -27595,7 +27679,7 @@
     },
     {
       "Key": "0x5F23E6CE",
-      "Value": "魅力的",
+      "Value": "チャーミング",
       "Source": "Public",
       "Original": "Charming",
       "Status": "Changed"
@@ -27812,7 +27896,7 @@
     },
     {
       "Key": "0x2BAF7088",
-      "Value": "管理人",
+      "Value": "用務員",
       "Source": "Public",
       "Original": "Janitor",
       "Status": "Changed"
@@ -28601,7 +28685,7 @@
     },
     {
       "Key": "0xEA90054F",
-      "Value": "窓のぞきマニア",
+      "Value": "窓のぞき見愛好家",
       "Source": "Public",
       "Original": "Window Peeping Enthusiast",
       "Status": "Changed"
@@ -29415,9 +29499,9 @@
     },
     {
       "Key": "0xD569418E",
-      "Value": "Premium Analytics Access (Cost: 50★)",
+      "Value": "Premium Analytics Access (Cost: 30★)",
       "Source": "Public",
-      "Original": "Premium Analytics Access (Cost: 50★)",
+      "Original": "Premium Analytics Access (Cost: 30★)",
       "Status": "Unchanged"
     },
     {
