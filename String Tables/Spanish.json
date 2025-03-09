@@ -2693,7 +2693,7 @@
       "Value": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
       "Source": "Public",
       "Original": "Hey, TURBODRIVER here!\\n\\nWith the release of WickedWhims v184, the Sex Progression Key Shortcut used to quickly progress sex animations no longer works due to technical/system limitations.\\n\\nI'm sorry for this inconvenience and I hope you have fun playing!",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x9AF804FA",
@@ -6150,7 +6150,7 @@
     },
     {
       "Key": "0x0CDEE5D4",
-      "Value": "Configuración de Dispositivos Sexuales",
+      "Value": "Configuración de dispositivos sexuales",
       "Source": "Public",
       "Original": "Sex Devices Settings",
       "Status": "Changed"
@@ -6164,7 +6164,7 @@
     },
     {
       "Key": "0xB3481A1A",
-      "Value": "Interruptor de Soporte para dispositivos sexuales Lovense",
+      "Value": "Interruptor de soporte para dispositivos sexuales Lovense",
       "Source": "Public",
       "Original": "Lovense Sex Devices Support Switch",
       "Status": "Changed"
@@ -9950,14 +9950,14 @@
     },
     {
       "Key": "0xE9EE4C7C",
-      "Value": "Optimizador de embarazo",
+      "Value": "Optimizador de sexo",
       "Source": "Public",
       "Original": "Sex Tuner",
       "Status": "Changed"
     },
     {
       "Key": "0x9963D0FF",
-      "Value": "Permite ajustar variables que influyen en las funciones del sexo de {0.SimFirstName}.",
+      "Value": "Permite ajustar las variables que influyen en las funciones del sexo de {0.SimFirstName}.",
       "Source": "Public",
       "Original": "Tune {0.SimFirstName}'s sex variables.",
       "Status": "Changed"
@@ -10013,7 +10013,7 @@
     },
     {
       "Key": "0xD4B3EA52",
-      "Value": "Permite ajustar variables que influyen en las funciones del embarazo de {0.SimFirstName}.",
+      "Value": "Permite ajustar las variables que influyen en las funciones del embarazo de {0.SimFirstName}.",
       "Source": "Public",
       "Original": "Tune {0.SimFirstName}'s pregnancy variables.",
       "Status": "Changed"
@@ -16591,7 +16591,7 @@
     },
     {
       "Key": "0xDA9DAA2D",
-      "Value": "{M0.Incestuoso}{F0.Incestuosa}",
+      "Value": "Incestuoso",
       "Source": "Public",
       "Original": "Incest",
       "Status": "Changed"
@@ -16612,7 +16612,7 @@
     },
     {
       "Key": "0x19747008",
-      "Value": "Sexualmente {M0.atractivo}{F0.atractiva}",
+      "Value": "Sexualmente atractivo",
       "Source": "Public",
       "Original": "Sexually Alluring",
       "Status": "Changed"
@@ -16675,7 +16675,7 @@
     },
     {
       "Key": "0x856A56F9",
-      "Value": "Amante {M0.generoso}{F0.generosa}",
+      "Value": "Amante generoso",
       "Source": "Public",
       "Original": "Generous Lover",
       "Status": "Changed"
@@ -16696,7 +16696,7 @@
     },
     {
       "Key": "0x9D418ADC",
-      "Value": "Sexualmente {M0.aventurero}{F0.aventurera}",
+      "Value": "Sexualmente aventurero",
       "Source": "Patreon",
       "Original": "Sexually Adventurous",
       "Status": "Changed"
@@ -16884,7 +16884,7 @@
     },
     {
       "Key": "0x48A55A2C",
-      "Value": "{M0.Cornudo}{F0.Cornuda}",
+      "Value": "Cornudo",
       "Source": "Public",
       "Original": "Cuckold",
       "Status": "Changed"
@@ -19777,7 +19777,7 @@
     },
     {
       "Key": "0xBDEC4A74",
-      "Value": "{M0.Tragador}{F0.Tragadora} de semen",
+      "Value": "Tragador de semen",
       "Source": "Public",
       "Original": "Cum Slut",
       "Status": "Changed"
@@ -22556,7 +22556,7 @@
     },
     {
       "Key": "0xED938BE2",
-      "Value": "Traje de baño (no recomendado)",
+      "Value": "Traje de baño (No recomendado)",
       "Source": "Public",
       "Original": "Bathing Outfit (Not Recommended)",
       "Status": "Changed"
@@ -22759,7 +22759,7 @@
     },
     {
       "Key": "0x547210C1",
-      "Value": "Desnudos en aguas termales",
+      "Value": "Desnudo en aguas termales onsen",
       "Source": "Public",
       "Original": "Naked in Onsen Hot Springs",
       "Status": "Changed"
@@ -23581,7 +23581,7 @@
     },
     {
       "Key": "0xE422B85F",
-      "Value": "Permite ajustar variables que influyen en las funciones de la desnudez de {0.SimFirstName}.",
+      "Value": "Permite ajustar las variables que influyen en las funciones de la desnudez de {0.SimFirstName}.",
       "Source": "Public",
       "Original": "Tune {0.SimFirstName}'s nudity variables.",
       "Status": "Changed"
@@ -23735,7 +23735,7 @@
     },
     {
       "Key": "0x38DCF4E4",
-      "Value": "Permite ajustar variables que influyen en las funciones de los clubes de striptease de {0.SimFirstName}.",
+      "Value": "Permite ajustar las variables que influyen en las funciones de los clubes de striptease de {0.SimFirstName}.",
       "Source": "Public",
       "Original": "Tune {0.SimFirstName}'s strip club variables.",
       "Status": "Changed"
@@ -23763,7 +23763,7 @@
     },
     {
       "Key": "0x7EAACA32",
-      "Value": "Permite ajustar variables que influyen en las funciones del cuerpo de {0.SimFirstName}.",
+      "Value": "Permite ajustar las variables que influyen en las funciones del cuerpo de {0.SimFirstName}.",
       "Source": "Public",
       "Original": "Tune {0.SimFirstName}'s body variables.",
       "Status": "Changed"
@@ -24250,7 +24250,7 @@
     },
     {
       "Key": "0xCED7904E",
-      "Value": "{M0.Aficionado}{F0.Aficionada} a la desnudez",
+      "Value": "Aficionado a la desnudez",
       "Source": "Public",
       "Original": "Nudity Enthusiast",
       "Status": "Changed"
@@ -24271,7 +24271,7 @@
     },
     {
       "Key": "0x4293376F",
-      "Value": "{M0.Gimnofóbico}{F0.Gimnofóbica}",
+      "Value": "Gimnofóbico",
       "Source": "Public",
       "Original": "Fears Nudity",
       "Status": "Changed"
@@ -27882,7 +27882,7 @@
     },
     {
       "Key": "0xC7E1DC0D",
-      "Value": "Diseño de atuendo Masculino",
+      "Value": "Diseño de atuendo masculino",
       "Source": "Public",
       "Original": "Design Male Outfit",
       "Status": "Changed"
@@ -28029,7 +28029,7 @@
     },
     {
       "Key": "0x9D438C13",
-      "Value": "Asignar {M0.Bailarín}{F0.Bailarina}",
+      "Value": "Asignar bailarín",
       "Source": "Public",
       "Original": "Assign Dancer",
       "Status": "Changed"
@@ -36410,7 +36410,7 @@
     },
     {
       "Key": "0xD054832F",
-      "Value": "{M0.Poliamoroso}{F0.Poliamorosa}",
+      "Value": "Poliamoroso",
       "Source": "Public",
       "Original": "Polyamorous",
       "Status": "Changed"
@@ -36431,7 +36431,7 @@
     },
     {
       "Key": "0x49F26021",
-      "Value": "{M0.Adúltero}{F0.Adúltera}",
+      "Value": "Adúltero",
       "Source": "Public",
       "Original": "Adulterer",
       "Status": "Changed"
@@ -36578,7 +36578,7 @@
     },
     {
       "Key": "0xB18B8F2F",
-      "Value": "{M0.Tímido}{F0.Tímida}",
+      "Value": "Tímido",
       "Source": "Public",
       "Original": "Shy",
       "Status": "Changed"
@@ -36620,7 +36620,7 @@
     },
     {
       "Key": "0xA426239C",
-      "Value": "Insaciablemente {M0.lujurioso}{F0.lujuriosa}",
+      "Value": "Insaciablemente lujurioso",
       "Source": "Public",
       "Original": "Insatiably Lustful",
       "Status": "Changed"
@@ -36879,7 +36879,7 @@
     },
     {
       "Key": "0x724F6369",
-      "Value": "{M0.Romántico}{F0.Romántica} ocasional",
+      "Value": "Romántico ocasional",
       "Source": "Public",
       "Original": "Casual Romantic",
       "Status": "Changed"
@@ -37792,7 +37792,7 @@
     },
     {
       "Key": "0xD45F18BD",
-      "Value": "Permitir Deseo",
+      "Value": "Permitir deseo",
       "Source": "Public",
       "Original": "Allow Desire",
       "Status": "Changed"
