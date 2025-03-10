@@ -2,7 +2,7 @@
   "Entries": [
     {
       "Key": "0x00000000",
-      "Value": "### L18N GROUP - SexPlaylist ###",
+      "Value": "### L18N GROUP - SexActivities ###",
       "Source": "Public"
     },
     {
@@ -296,6 +296,46 @@
       "Source": "Public"
     },
     {
+      "Key": "0xBCB96517",
+      "Value": "Small Business Sex",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA07AEAE7",
+      "Value": "Check to allow Sims to initiate sex interactions when at a small business with sex activities.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xCA846283",
+      "Value": "Random Small Business Sex Probability",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xED2087F1",
+      "Value": "Set a unit interval value for chance of random small business sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x97E40AF9",
+      "Value": "Small Business Sex Minimum Cooldown Time",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xEFF9222C",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x94D218EF",
+      "Value": "Small Business Sex Maximum Cooldown Time",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x821E11F1",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Source": "Public"
+    },
+    {
       "Key": "0xB5B3F651",
       "Value": "Always Keep Shoes on for Sex",
       "Source": "Public"
@@ -313,6 +353,66 @@
     {
       "Key": "0xF8B49C0F",
       "Value": "Check for {0.SimFirstName} to always keep glasses on during sex.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xD78649B7",
+      "Value": "Are you interested in spending some time together?",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA1BF2DE2",
+      "Value": "Of course.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x92370160",
+      "Value": "Maybe not at this moment.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x9C328EAF",
+      "Value": "Are there any specific things you would like to do with me?",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xF97B1680",
+      "Value": "Oh yes, let me just show you what I would like.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xD96A61E8",
+      "Value": "Sorry, nothing is coming to mind.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xCBF70D76",
+      "Value": "Do you like what you see?",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xB86CCD89",
+      "Value": "I do, but I'm not here just to look.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x9B012CD8",
+      "Value": "Sorry, I can't see well, I forgot my glasses.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xFD12D2B1",
+      "Value": "You look like you would be a lot of fun. Care to entertain me?",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x85373B47",
+      "Value": "Oh you will find out how fun I am.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xDC7558CC",
+      "Value": "Uh.. no.",
       "Source": "Public"
     },
     {
@@ -1711,6 +1811,21 @@
       "Source": "Patreon"
     },
     {
+      "Key": "0xA3A82AE6",
+      "Value": "Get Naked",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xDF685AE6",
+      "Value": "Sims will get completely naked.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xECAAE440",
+      "Value": "Don't Get Naked",
+      "Source": "Public"
+    },
+    {
       "Key": "0xC09AE7D1",
       "Value": "Ask to Clean in Nude",
       "Source": "Patreon"
@@ -1719,6 +1834,41 @@
       "Key": "0x85B48FFC",
       "Value": "{0.SimFirstName} doesn't have the necessary amount to pay.",
       "Source": "Patreon"
+    },
+    {
+      "Key": "0xF60DE64A",
+      "Value": "Have Sex",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xDEB2AB15",
+      "Value": "Sims will offer to have sex with other Sims.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xE00156C0",
+      "Value": "Don't Have Sex",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xFF14DD27",
+      "Value": "Sims will accept received offers from other Sims to have sex.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xDA75D015",
+      "Value": "Watch Sex",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xE599D763",
+      "Value": "Don't Watch Sex",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xCFC1F802",
+      "Value": "Sims will watch other Sims having sex.",
+      "Source": "Public"
     },
     {
       "Key": "0x712B19E6",
