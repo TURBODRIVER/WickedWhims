@@ -666,9 +666,7 @@
     {
       "Key": "0x84627650",
       "Value": "{0.String} {1.String}",
-      "Source": "Patreon",
-      "Original": "{0.String} {1.String}",
-      "Status": "Unchanged"
+      "Source": "Patreon"
     },
     {
       "Key": "0xD67A6E41",
@@ -736,9 +734,7 @@
     {
       "Key": "0x9BFE46F0",
       "Value": "<font color='#808080' size='10'><i>{0.String}</i></font>",
-      "Source": "Patreon",
-      "Original": "<font color='#808080' size='10'><i>{0.String}</i></font>",
-      "Status": "Unchanged"
+      "Source": "Patreon"
     },
     {
       "Key": "0xDDE7017F",
@@ -2933,9 +2929,7 @@
     {
       "Key": "0x0A1D278B",
       "Value": "<font color='#199C2C'>{0.String}</font>",
-      "Source": "Public",
-      "Original": "<font color='#199C2C'>{0.String}</font>",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x5733628A",
