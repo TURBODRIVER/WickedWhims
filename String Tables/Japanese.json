@@ -49,10 +49,10 @@
     },
     {
       "Key": "0xF7694739",
-      "Value": "Wicked",
+      "Value": "ウィキッド",
       "Source": "Public",
       "Original": "Wicked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF0842A22",
@@ -413,59 +413,59 @@
     },
     {
       "Key": "0xBCB96517",
-      "Value": "Small Business Sex",
+      "Value": "小規模店舗でのセックス",
       "Source": "Public",
       "Original": "Small Business Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA07AEAE7",
-      "Value": "Check to allow Sims to initiate sex interactions when at a small business with sex activities.",
+      "Value": "チェックすると、シムはセックス行為が可能な小規模店舗でセックスを開始できるようになります。",
       "Source": "Public",
       "Original": "Check to allow Sims to initiate sex interactions when at a small business with sex activities.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCA846283",
-      "Value": "Random Small Business Sex Probability",
+      "Value": "小規模店舗でのランダムセックス確率",
       "Source": "Public",
       "Original": "Random Small Business Sex Probability",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xED2087F1",
-      "Value": "Set a unit interval value for chance of random small business sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Value": "小規模店舗でのランダムなセックス行為が発生する確率を0から1の間で設定します。1.0は100%の確率を意味します。\\n（デフォルト：1.0、最小値：0.0）",
       "Source": "Public",
       "Original": "Set a unit interval value for chance of random small business sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x97E40AF9",
-      "Value": "Small Business Sex Minimum Cooldown Time",
+      "Value": "小規模店舗でのセックス最小クールダウン時間",
       "Source": "Public",
       "Original": "Small Business Sex Minimum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEFF9222C",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Value": "シムが自律的に小規模店舗でのセックスを再試行するまでの最小待機時間を実時間（秒）で設定します。\\n（デフォルト：45、最小値：0）",
       "Source": "Public",
       "Original": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x94D218EF",
-      "Value": "Small Business Sex Maximum Cooldown Time",
+      "Value": "小規模店舗でのセックス最大クールダウン時間",
       "Source": "Public",
       "Original": "Small Business Sex Maximum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x821E11F1",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Value": "シムが自律的に小規模店舗でのセックスを再試行するまでの最大待機時間を実時間（秒）で設定します。\\n（デフォルト：90、最小値：1）",
       "Source": "Public",
       "Original": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB5B3F651",
@@ -497,87 +497,87 @@
     },
     {
       "Key": "0xD78649B7",
-      "Value": "Are you interested in spending some time together?",
+      "Value": "一緒に時間を過ごしませんか？",
       "Source": "Public",
       "Original": "Are you interested in spending some time together?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA1BF2DE2",
-      "Value": "Of course.",
+      "Value": "もちろんです。",
       "Source": "Public",
       "Original": "Of course.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x92370160",
-      "Value": "Maybe not at this moment.",
+      "Value": "今はちょっと…",
       "Source": "Public",
       "Original": "Maybe not at this moment.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9C328EAF",
-      "Value": "Are there any specific things you would like to do with me?",
+      "Value": "私と何か特別なことをしたいですか？",
       "Source": "Public",
       "Original": "Are there any specific things you would like to do with me?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF97B1680",
-      "Value": "Oh yes, let me just show you what I would like.",
+      "Value": "ええ、私の望みをお見せしましょう。",
       "Source": "Public",
       "Original": "Oh yes, let me just show you what I would like.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD96A61E8",
-      "Value": "Sorry, nothing is coming to mind.",
+      "Value": "すみません、特に思いつきません。",
       "Source": "Public",
       "Original": "Sorry, nothing is coming to mind.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCBF70D76",
-      "Value": "Do you like what you see?",
+      "Value": "気に入りましたか？",
       "Source": "Public",
       "Original": "Do you like what you see?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB86CCD89",
-      "Value": "I do, but I'm not here just to look.",
+      "Value": "はい、でも見るだけじゃないんです。",
       "Source": "Public",
       "Original": "I do, but I'm not here just to look.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9B012CD8",
-      "Value": "Sorry, I can't see well, I forgot my glasses.",
+      "Value": "すみません、メガネを忘れたので、よく見えないんです。",
       "Source": "Public",
       "Original": "Sorry, I can't see well, I forgot my glasses.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFD12D2B1",
-      "Value": "You look like you would be a lot of fun. Care to entertain me?",
+      "Value": "楽しそうな人ですね。私を楽しませてくれませんか？",
       "Source": "Public",
       "Original": "You look like you would be a lot of fun. Care to entertain me?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x85373B47",
-      "Value": "Oh you will find out how fun I am.",
+      "Value": "ああ、私がどれだけ楽しいか分かりますよ。",
       "Source": "Public",
       "Original": "Oh you will find out how fun I am.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDC7558CC",
-      "Value": "Uh.. no.",
+      "Value": "えー…いいえ。",
       "Source": "Public",
       "Original": "Uh.. no.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA01AD42F",
@@ -2043,7 +2043,7 @@
       "Value": "<b>{0.String}</b>",
       "Source": "Public",
       "Original": "<b>{0.String}</b>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCB1D16DF",
@@ -2530,24 +2530,24 @@
     },
     {
       "Key": "0xA3A82AE6",
-      "Value": "Get Naked",
+      "Value": "裸になる",
       "Source": "Public",
       "Original": "Get Naked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDF685AE6",
-      "Value": "Sims will get completely naked.",
+      "Value": "シムは完全に裸になります。",
       "Source": "Public",
       "Original": "Sims will get completely naked.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xECAAE440",
-      "Value": "Don't Get Naked",
+      "Value": "裸にならない",
       "Source": "Public",
       "Original": "Don't Get Naked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC09AE7D1",
@@ -2572,24 +2572,24 @@
     },
     {
       "Key": "0xDEB2AB15",
-      "Value": "Sims will offer to have sex with other Sims.",
+      "Value": "シムは他のシムにセックスを誘います。",
       "Source": "Public",
       "Original": "Sims will offer to have sex with other Sims.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE00156C0",
-      "Value": "Don't Have Sex",
+      "Value": "セックスしない",
       "Source": "Public",
       "Original": "Don't Have Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFF14DD27",
-      "Value": "Sims will accept received offers from other Sims to have sex.",
+      "Value": "シムは他のシムからのセックスの誘いを受け入れます。",
       "Source": "Public",
       "Original": "Sims will accept received offers from other Sims to have sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA75D015",
@@ -2600,17 +2600,17 @@
     },
     {
       "Key": "0xE599D763",
-      "Value": "Don't Watch Sex",
+      "Value": "セックスを見ない",
       "Source": "Public",
       "Original": "Don't Watch Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCFC1F802",
-      "Value": "Sims will watch other Sims having sex.",
+      "Value": "シムは他のシムがセックスをしているのを見ます。",
       "Source": "Public",
       "Original": "Sims will watch other Sims having sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x712B19E6",
@@ -5180,49 +5180,49 @@
       "Value": "Hello!",
       "Source": "Public",
       "Original": "Hello!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8441AF1A",
       "Value": "Hallo!",
       "Source": "Public",
       "Original": "Hallo!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFE9E12ED",
       "Value": "Olá!",
       "Source": "Public",
       "Original": "Olá!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x160F99C1",
       "Value": "¡Hola!",
       "Source": "Public",
       "Original": "¡Hola!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x22F011E1",
       "Value": "Hej!",
       "Source": "Public",
       "Original": "Hej!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2F242017",
       "Value": "Aloha!",
       "Source": "Public",
       "Original": "Aloha!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x48507FE0",
       "Value": "Saluto!",
       "Source": "Public",
       "Original": "Saluto!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF4DB20E1",
@@ -5236,70 +5236,70 @@
       "Value": "你好",
       "Source": "Public",
       "Original": "你好",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2D19430B",
       "Value": "안녕",
       "Source": "Public",
       "Original": "안녕",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE434C431",
       "Value": "Bonjour!",
       "Source": "Public",
       "Original": "Bonjour!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x767EEE4F",
       "Value": "Вітаю!",
       "Source": "Public",
       "Original": "Вітаю!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE448FF2E",
       "Value": "Ahoj!",
       "Source": "Public",
       "Original": "Ahoj!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x266CD790",
       "Value": "Привет!",
       "Source": "Public",
       "Original": "Привет!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA095FE2",
       "Value": "Ciao!",
       "Source": "Public",
       "Original": "Ciao!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x55451640",
       "Value": "Hai!",
       "Source": "Public",
       "Original": "Hai!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAAE412D4",
       "Value": "Hei!",
       "Source": "Public",
       "Original": "Hei!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5071CAEA",
       "Value": "Oi!",
       "Source": "Public",
       "Original": "Oi!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x16C4589E",
@@ -19841,7 +19841,7 @@
       "Value": "{0.String} (x{1.String})",
       "Source": "Public",
       "Original": "{0.String} (x{1.String})",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC8F6D759",
@@ -25926,7 +25926,7 @@
       "Value": "Only Fans",
       "Source": "Public",
       "Original": "Only Fans",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD1E57AA7",
@@ -28537,35 +28537,35 @@
       "Value": "0%",
       "Source": "Public",
       "Original": "0%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x64BAAE63",
       "Value": "25%",
       "Source": "Public",
       "Original": "25%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x1FA7D8AF",
       "Value": "50%",
       "Source": "Public",
       "Original": "50%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAF907CDE",
       "Value": "75%",
       "Source": "Public",
       "Original": "75%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCE143019",
       "Value": "100%",
       "Source": "Public",
       "Original": "100%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0092BBE0",
@@ -29213,7 +29213,7 @@
       "Value": "SimHub",
       "Source": "Public",
       "Original": "SimHub",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x20C008AD",
@@ -35016,10 +35016,10 @@
     },
     {
       "Key": "0xDDE2CF1A",
-      "Value": "Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that duo sex pictures are going to become popular soon! Plan accordingly!",
+      "Value": "こんにちは@{1.String}、SimHubメディアグルーです。ユーザーベースで少し調査を行ったところ、2人でのセックス写真が近々人気になりそうです！それに向けて準備してください！",
       "Source": "Public",
       "Original": "Hello @{1.String} SimHub Media Guru here. We've conducted a little research within our userbase, and it seems to suggest that duo sex pictures are going to become popular soon! Plan accordingly!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x889B80C8",
@@ -35031,7 +35031,8 @@
     {
       "Key": "0x326231EC",
       "Value": "# SEX_THREESOME",
-      "Source": "Public"
+      "Source": "Public",
+      "Status": "Changed"
     },
     {
       "Key": "0x4292E9DF",
@@ -40634,7 +40635,7 @@
       "Value": "<font color='#0CAB19'>{0.String}</font>",
       "Source": "Public",
       "Original": "<font color='#0CAB19'>{0.String}</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x812C8432",
@@ -40648,7 +40649,7 @@
       "Value": "<font color='#AB0C10'>{0.String}</font>",
       "Source": "Public",
       "Original": "<font color='#AB0C10'>{0.String}</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6E544663",
