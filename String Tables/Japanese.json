@@ -2041,9 +2041,7 @@
     {
       "Key": "0xD5BCEFF1",
       "Value": "<b>{0.String}</b>",
-      "Source": "Public",
-      "Original": "<b>{0.String}</b>",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xCB1D16DF",
@@ -5177,129 +5175,93 @@
     },
     {
       "Key": "0x798AD3D6",
-      "Value": "Hello!",
-      "Source": "Public",
-      "Original": "Hello!",
-      "Status": "Unchanged"
+      "Value": "Hallå!",
+      "Source": "Public"
     },
     {
       "Key": "0x8441AF1A",
-      "Value": "Hallo!",
-      "Source": "Public",
-      "Original": "Hallo!",
-      "Status": "Unchanged"
+      "Value": "Oi!",
+      "Source": "Public"
     },
     {
       "Key": "0xFE9E12ED",
-      "Value": "Olá!",
-      "Source": "Public",
-      "Original": "Olá!",
-      "Status": "Unchanged"
+      "Value": "嘿！",
+      "Source": "Public"
     },
     {
       "Key": "0x160F99C1",
-      "Value": "¡Hola!",
-      "Source": "Public",
-      "Original": "¡Hola!",
-      "Status": "Unchanged"
+      "Value": "Ahoj!",
+      "Source": "Public"
     },
     {
       "Key": "0x22F011E1",
       "Value": "Hej!",
-      "Source": "Public",
-      "Original": "Hej!",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x2F242017",
-      "Value": "Aloha!",
-      "Source": "Public",
-      "Original": "Aloha!",
-      "Status": "Unchanged"
+      "Value": "Hoi!",
+      "Source": "Public"
     },
     {
       "Key": "0x48507FE0",
-      "Value": "Saluto!",
-      "Source": "Public",
-      "Original": "Saluto!",
-      "Status": "Unchanged"
+      "Value": "Hey!",
+      "Source": "Public"
     },
     {
       "Key": "0xF4DB20E1",
-      "Value": "こんにちは！",
-      "Source": "Public",
-      "Original": "今日は",
-      "Status": "Changed"
+      "Value": "Hei!",
+      "Source": "Public"
     },
     {
       "Key": "0xA132A319",
-      "Value": "你好",
-      "Source": "Public",
-      "Original": "你好",
-      "Status": "Unchanged"
+      "Value": "Salut!",
+      "Source": "Public"
     },
     {
       "Key": "0x2D19430B",
-      "Value": "안녕",
-      "Source": "Public",
-      "Original": "안녕",
-      "Status": "Unchanged"
+      "Value": "Hallo!",
+      "Source": "Public"
     },
     {
       "Key": "0xE434C431",
-      "Value": "Bonjour!",
-      "Source": "Public",
-      "Original": "Bonjour!",
-      "Status": "Unchanged"
+      "Value": "Ehi!",
+      "Source": "Public"
     },
     {
       "Key": "0x767EEE4F",
-      "Value": "Вітаю!",
-      "Source": "Public",
-      "Original": "Вітаю!",
-      "Status": "Unchanged"
+      "Value": "やあ！",
+      "Source": "Public"
     },
     {
       "Key": "0xE448FF2E",
-      "Value": "Ahoj!",
-      "Source": "Public",
-      "Original": "Ahoj!",
-      "Status": "Unchanged"
+      "Value": "야!",
+      "Source": "Public"
     },
     {
       "Key": "0x266CD790",
       "Value": "Привет!",
-      "Source": "Public",
-      "Original": "Привет!",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xDA095FE2",
-      "Value": "Ciao!",
-      "Source": "Public",
-      "Original": "Ciao!",
-      "Status": "Unchanged"
+      "Value": "¡Hola!",
+      "Source": "Public"
     },
     {
       "Key": "0x55451640",
-      "Value": "Hai!",
-      "Source": "Public",
-      "Original": "Hai!",
-      "Status": "Unchanged"
+      "Value": "Siema!",
+      "Source": "Public"
     },
     {
       "Key": "0xAAE412D4",
-      "Value": "Hei!",
-      "Source": "Public",
-      "Original": "Hei!",
-      "Status": "Unchanged"
+      "Value": "หวัดดี!",
+      "Source": "Public"
     },
     {
       "Key": "0x5071CAEA",
-      "Value": "Oi!",
-      "Source": "Public",
-      "Original": "Oi!",
-      "Status": "Unchanged"
+      "Value": "नमस्ते!",
+      "Source": "Public"
     },
     {
       "Key": "0x16C4589E",
@@ -19839,9 +19801,7 @@
     {
       "Key": "0x3E8E2F24",
       "Value": "{0.String} (x{1.String})",
-      "Source": "Public",
-      "Original": "{0.String} (x{1.String})",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xC8F6D759",
@@ -28535,37 +28495,27 @@
     {
       "Key": "0xB67898BE",
       "Value": "0%",
-      "Source": "Public",
-      "Original": "0%",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x64BAAE63",
       "Value": "25%",
-      "Source": "Public",
-      "Original": "25%",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x1FA7D8AF",
       "Value": "50%",
-      "Source": "Public",
-      "Original": "50%",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xAF907CDE",
       "Value": "75%",
-      "Source": "Public",
-      "Original": "75%",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xCE143019",
       "Value": "100%",
-      "Source": "Public",
-      "Original": "100%",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x0092BBE0",
@@ -40632,9 +40582,7 @@
     {
       "Key": "0x8F24BB53",
       "Value": "<font color='#0CAB19'>{0.String}</font>",
-      "Source": "Public",
-      "Original": "<font color='#0CAB19'>{0.String}</font>",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x812C8432",
@@ -40646,9 +40594,7 @@
     {
       "Key": "0x02C170DC",
       "Value": "<font color='#AB0C10'>{0.String}</font>",
-      "Source": "Public",
-      "Original": "<font color='#AB0C10'>{0.String}</font>",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0x6E544663",
