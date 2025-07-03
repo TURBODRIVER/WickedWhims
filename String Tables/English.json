@@ -2851,6 +2851,11 @@
       "Source": "Public"
     },
     {
+      "Key": "0x4E31E561",
+      "Value": "Include Fairy Occult Sims",
+      "Source": "Public"
+    },
+    {
       "Key": "0x951671ED",
       "Value": "Sims Types: {0.String}",
       "Source": "Public"
@@ -2928,6 +2933,11 @@
     {
       "Key": "0x0AB9FCC9",
       "Value": "Ghost",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA654A7DF",
+      "Value": "Fairy",
       "Source": "Public"
     },
     {
@@ -3098,6 +3108,11 @@
     {
       "Key": "0xCA387D46",
       "Value": "Select Werewolf Occult Sims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x2240A586",
+      "Value": "Select Fairy Occult Sims",
       "Source": "Public"
     },
     {
@@ -3498,6 +3513,16 @@
     {
       "Key": "0x39EFC250",
       "Value": "Include All Sims with Werewolf occult in this Protocol.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xDE909636",
+      "Value": "Fairy Occult Sims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x6D631FB6",
+      "Value": "Include All Sims with Fairy occult in this Protocol.",
       "Source": "Public"
     },
     {
@@ -7656,6 +7681,11 @@
       "Source": "Public"
     },
     {
+      "Key": "0xCF42760D",
+      "Value": "Fairy Male",
+      "Source": "Public"
+    },
+    {
       "Key": "0x418B86CF",
       "Value": "Female",
       "Source": "Public"
@@ -7696,6 +7726,11 @@
       "Source": "Public"
     },
     {
+      "Key": "0xAEFC2914",
+      "Value": "Fairy Female",
+      "Source": "Public"
+    },
+    {
       "Key": "0x30F547CC",
       "Value": "Both",
       "Source": "Public"
@@ -7733,6 +7768,11 @@
     {
       "Key": "0xC68E3F23",
       "Value": "Werewolf Both",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xD1755253",
+      "Value": "Fairy Both",
       "Source": "Public"
     },
     {
@@ -29481,6 +29521,11 @@
       "Source": "Public"
     },
     {
+      "Key": "0x13FB67FB",
+      "Value": "Fairy Occult",
+      "Source": "Public"
+    },
+    {
       "Key": "0xEABFF419",
       "Value": "Black",
       "Source": "Public"
@@ -30108,6 +30153,16 @@
     {
       "Key": "0x5A711A66",
       "Value": "{0.SimFirstName} dislikes Werewolves.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x277D8915",
+      "Value": "I dislike Fairies.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xD35E2A7F",
+      "Value": "{0.SimFirstName} dislikes Fairies.",
       "Source": "Public"
     },
     {
@@ -31753,6 +31808,11 @@
     {
       "Key": "0x74F4B6A1",
       "Value": "Select Werewolf Occult Sims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC7E9E3E1",
+      "Value": "Select Fairy Occult Sims",
       "Source": "Public"
     },
     {

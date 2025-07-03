@@ -3933,6 +3933,13 @@
       "Status": "Changed"
     },
     {
+      "Key": "0x4E31E561",
+      "Value": "Include Fairy Occult Sims",
+      "Source": "Public",
+      "Original": "Include Fairy Occult Sims",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x951671ED",
       "Value": "シムの種類: {0.String}",
       "Source": "Public",
@@ -4043,6 +4050,13 @@
       "Source": "Public",
       "Original": "Ghost",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xA654A7DF",
+      "Value": "Fairy",
+      "Source": "Public",
+      "Original": "Fairy",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xB3FBE814",
@@ -4275,6 +4289,13 @@
       "Source": "Public",
       "Original": "Select Werewolf Occult Sims",
       "Status": "Changed"
+    },
+    {
+      "Key": "0x2240A586",
+      "Value": "Select Fairy Occult Sims",
+      "Source": "Public",
+      "Original": "Select Fairy Occult Sims",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xDA0A4DF2",
@@ -4833,6 +4854,20 @@
       "Source": "Public",
       "Original": "Include All Sims with Werewolf occult in this Protocol.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xDE909636",
+      "Value": "Fairy Occult Sims",
+      "Source": "Public",
+      "Original": "Fairy Occult Sims",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x6D631FB6",
+      "Value": "Include All Sims with Fairy occult in this Protocol.",
+      "Source": "Public",
+      "Original": "Include All Sims with Fairy occult in this Protocol.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x4AD537D4",
@@ -10596,6 +10631,13 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xCF42760D",
+      "Value": "Fairy Male",
+      "Source": "Public",
+      "Original": "Fairy Male",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x418B86CF",
       "Value": "女性",
       "Source": "Public",
@@ -10652,6 +10694,13 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xAEFC2914",
+      "Value": "Fairy Female",
+      "Source": "Public",
+      "Original": "Fairy Female",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x30F547CC",
       "Value": "両方",
       "Source": "Public",
@@ -10706,6 +10755,13 @@
       "Source": "Public",
       "Original": "Werewolf Both",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xD1755253",
+      "Value": "Fairy Both",
+      "Source": "Public",
+      "Original": "Fairy Both",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x478A67FF",
@@ -40723,6 +40779,13 @@
       "Status": "Changed"
     },
     {
+      "Key": "0x13FB67FB",
+      "Value": "Fairy Occult",
+      "Source": "Public",
+      "Original": "Fairy Occult",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xEABFF419",
       "Value": "黒",
       "Source": "Public",
@@ -41601,6 +41664,20 @@
       "Source": "Public",
       "Original": "{0.SimFirstName} dislikes Werewolves.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0x277D8915",
+      "Value": "I dislike Fairies.",
+      "Source": "Public",
+      "Original": "I dislike Fairies.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD35E2A7F",
+      "Value": "{0.SimFirstName} dislikes Fairies.",
+      "Source": "Public",
+      "Original": "{0.SimFirstName} dislikes Fairies.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xFD72C8AD",
@@ -43902,6 +43979,13 @@
       "Source": "Public",
       "Original": "Select Werewolf Occult Sims",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xC7E9E3E1",
+      "Value": "Select Fairy Occult Sims",
+      "Source": "Public",
+      "Original": "Select Fairy Occult Sims",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x73DDF9DE",
