@@ -174,6 +174,1453 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xFB3A598B",
+      "Value": "デフォルト",
+      "Source": "Public",
+      "Original": "Default",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC53679F6",
+      "Value": "ネイティブ / オーバーライド",
+      "Source": "Public",
+      "Original": "Native / Override",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB7D13EE4",
+      "Value": "デフォルト（テクスチャなし）",
+      "Source": "Public",
+      "Original": "Default (Textureless)",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xDF174B2D",
+      "Value": "Default (Alternative)",
+      "Source": "Public",
+      "Original": "Default (Alternative)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAFF33CBB",
+      "Value": "Penis Size Manipulation Setting (Nudity > Body Settings) has to be enabled to adjust penis size.",
+      "Source": "Public",
+      "Original": "Penis Size Manipulation Setting (Nudity > Body Settings) has to be enabled to adjust penis size.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC376959A",
+      "Value": "Change Sims Penis Size",
+      "Source": "Public",
+      "Original": "Change Sims Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCD86A297",
+      "Value": "Select Sims for penis size adjustments.",
+      "Source": "Public",
+      "Original": "Select Sims for penis size adjustments.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB471209E",
+      "Value": "Penis Size Adjustments",
+      "Source": "Public",
+      "Original": "Penis Size Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB579A2D9",
+      "Value": "Applied penis size adjustments to {0.Number} Sim{P0.s}.",
+      "Source": "Public",
+      "Original": "Applied penis size adjustments to {0.Number} Sim{P0.s}.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCC814DDE",
+      "Value": "{0.SimFirstName}'s Alien Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Alien Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF9DC578D",
+      "Value": "{0.SimFirstName}'s Vampire Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Vampire Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDFBB718B",
+      "Value": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE3505D0E",
+      "Value": "{0.SimFirstName}'s Werewolf Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Werewolf Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x896E3274",
+      "Value": "{0.SimFirstName}'s Fairy Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Fairy Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA4CC7436",
+      "Value": "{0.SimFirstName}'s Succubus Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Succubus Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEC83D3E8",
+      "Value": "{0.SimFirstName}'s Human Penis Adjustments",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Human Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA4AABB31",
+      "Value": "Selected Sims Alien Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Alien Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAB29D2F6",
+      "Value": "Selected Sims Vampire Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Vampire Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFDDBC152",
+      "Value": "Selected Sims Merfolk Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Merfolk Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD67DDA17",
+      "Value": "Selected Sims Werewolf Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Werewolf Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFA69D29F",
+      "Value": "Selected Sims Fairy Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Fairy Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC53F1C03",
+      "Value": "Selected Sims Succubus Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Succubus Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE0EAB27F",
+      "Value": "Selected Sims Human Penis Adjustments",
+      "Source": "Public",
+      "Original": "Selected Sims Human Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDA2E9B04",
+      "Value": "陰茎の長さを調整する",
+      "Source": "Public",
+      "Original": "Adjust Penis Length",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB1A3EFE8",
+      "Value": "ペニスの長さの値を選択してください。",
+      "Source": "Public",
+      "Original": "Select penis length value.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x9F076D58",
+      "Value": "Select penis length value.\\n<b>Current:</b> {0.Number}%",
+      "Source": "Public",
+      "Original": "Select penis length value.\\n<b>Current:</b> {0.Number}%",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE135E1B8",
+      "Value": "陰茎の胴回りを調整する",
+      "Source": "Public",
+      "Original": "Adjust Penis Girth",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xD028D582",
+      "Value": "ペニスの周囲の値を選択してください。",
+      "Source": "Public",
+      "Original": "Select penis girth value.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x97BA4ACE",
+      "Value": "Select penis girth value.\\n<b>Current:</b> {0.Number}%",
+      "Source": "Public",
+      "Original": "Select penis girth value.\\n<b>Current:</b> {0.Number}%",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x880D2FA4",
+      "Value": "Adjust Testicles Size",
+      "Source": "Public",
+      "Original": "Adjust Testicles Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD3F2C464",
+      "Value": "睾丸のサイズの値を選択します。",
+      "Source": "Public",
+      "Original": "Select testicles size value.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB0C6019A",
+      "Value": "Select esticles size value.\\n<b>Current:</b> {0.Number}%",
+      "Source": "Public",
+      "Original": "Select esticles size value.\\n<b>Current:</b> {0.Number}%",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF1B1F541",
+      "Value": "陰茎のサイズをランダム化",
+      "Source": "Public",
+      "Original": "Randomize Penis Size",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xE434E4FA",
+      "Value": "Randomize penis length, girth and testicles size.",
+      "Source": "Public",
+      "Original": "Randomize penis length, girth and testicles size.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC561CE8B",
+      "Value": "Custom Penis Size Adjustments",
+      "Source": "Public",
+      "Original": "Custom Penis Size Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBF47AE51",
+      "Value": "Input penis length, girth and testicles size values.",
+      "Source": "Public",
+      "Original": "Input penis length, girth and testicles size values.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9F0066B2",
+      "Value": "Cosmetic Penis Adjustments",
+      "Source": "Public",
+      "Original": "Cosmetic Penis Adjustments",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD7427A74",
+      "Value": "ペニスの美容値を入力します。",
+      "Source": "Public",
+      "Original": "Input penis cosmetic values.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xBE575025",
+      "Value": "{0.Number}% 陰茎の長さ",
+      "Source": "Public",
+      "Original": "{0.Number}% Penis Length",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x85D5C4D8",
+      "Value": "ペニスの長さを通常サイズより {0.Number}% 高く設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis length {0.Number}% above regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF4E214BA",
+      "Value": "陰茎の長さを通常のサイズに設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis length at regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB60C01F8",
+      "Value": "ペニスの長さを通常サイズより {0.Number}% 低く設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis length {0.Number}% below regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xE94796FF",
+      "Value": "{0.Number}% 陰茎周囲",
+      "Source": "Public",
+      "Original": "{0.Number}% Penis Girth",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xCD62323C",
+      "Value": "ペニスの周囲を通常サイズより {0.Number}% 大きく設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis girth {0.Number}% above regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF280749E",
+      "Value": "陰茎の周囲を通常のサイズに設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis girth at regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xED42F224",
+      "Value": "ペニスの周囲を通常サイズより {0.Number}% 小さく設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set penis girth {0.Number}% below regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x937D5F75",
+      "Value": "{0.Number}% 精巣サイズ",
+      "Source": "Public",
+      "Original": "{0.Number}% Testicles Size",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x850F3D30",
+      "Value": "睾丸のサイズを通常サイズより {0.Number}% 大きく設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set testicles size {0.Number}% above regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xBB8FEBE2",
+      "Value": "睾丸のサイズを通常のサイズに設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set testicles size at regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC9076B60",
+      "Value": "睾丸のサイズを通常サイズより {0.Number}% 小さく設定する場合に選択します。",
+      "Source": "Public",
+      "Original": "Select to set testicles size {0.Number}% below regular size.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x871B7677",
+      "Value": "Select a size to apply to the Sim{P0.s}.",
+      "Source": "Public",
+      "Original": "Select a size to apply to the Sim{P0.s}.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC802957B",
+      "Value": "Invalid values inputted, failed to adjust Sim{P0.s} penis size.",
+      "Source": "Public",
+      "Original": "Invalid values inputted, failed to adjust Sim{P0.s} penis size.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x99E625CC",
+      "Value": "Adjust Custom Penis Size Values",
+      "Source": "Public",
+      "Original": "Adjust Custom Penis Size Values",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAE57AD85",
+      "Value": "Input values, from 0 to 100, to apply to the Sim{P0.s}.",
+      "Source": "Public",
+      "Original": "Input values, from 0 to 100, to apply to the Sim{P0.s}.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB591A9D6",
+      "Value": "陰茎の長さの値",
+      "Source": "Public",
+      "Original": "Penis Length Value",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA0AD848C",
+      "Value": "ペニスの周囲長の値",
+      "Source": "Public",
+      "Original": "Penis Girth Value",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC35FB106",
+      "Value": "睾丸サイズ値",
+      "Source": "Public",
+      "Original": "Testicles Size Value",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB255D944",
+      "Value": "Invalid values inputted, failed to adjust Sim{P0.s} penis cosmetics.",
+      "Source": "Public",
+      "Original": "Invalid values inputted, failed to adjust Sim{P0.s} penis cosmetics.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC1796E2B",
+      "Value": "Adjust Penis Cosmetic Values",
+      "Source": "Public",
+      "Original": "Adjust Penis Cosmetic Values",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAAE154D4",
+      "Value": "睾丸非対称値",
+      "Source": "Public",
+      "Original": "Testicles Asymmetry Value",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xD9F2E5D1",
+      "Value": "ペニス垂直傾斜値",
+      "Source": "Public",
+      "Original": "Penis Vertical Tilt Value",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xACE8936F",
+      "Value": "ボディセレクター",
+      "Source": "Public",
+      "Original": "Body Selector",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xCBE72110",
+      "Value": "Use the <b>Body Selector</b> to pick custom naked body parts for Sims. Available to select body parts depend on the Sim CAS Gender Settings.\\n\\nOnly body mods that were made to be compatible with WickedWhims will be available in the Body Selector.\\n\\n<b>Please note that Sims with altered Physical Frame in CAS Gender Settings can select body parts incompatible for their gender which might result in random clothing appearing on them when undressing.</b>",
+      "Source": "Public",
+      "Original": "Use the <b>Body Selector</b> to pick custom naked body parts for Sims. Available to select body parts depend on the Sim CAS Gender Settings.\\n\\nOnly body mods that were made to be compatible with WickedWhims will be available in the Body Selector.\\n\\n<b>Please note that Sims with altered Physical Frame in CAS Gender Settings can select body parts incompatible for their gender which might result in random clothing appearing on them when undressing.</b>",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8D5C3826",
+      "Value": "Select Sims for body modifications.",
+      "Source": "Public",
+      "Original": "Select Sims for body modifications.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEC441A56",
+      "Value": "Saved selected default body parts for Sims.\\n\\nNewly created Sims will use the selected body parts.",
+      "Source": "Public",
+      "Original": "Saved selected default body parts for Sims.\\n\\nNewly created Sims will use the selected body parts.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD47EFEF9",
+      "Value": "Choose {0.SimFirstName}'s occult state to modify.",
+      "Source": "Public",
+      "Original": "Choose {0.SimFirstName}'s occult state to modify.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD6513D8D",
+      "Value": "Choose occult state to modify newly created Sims default body parts.",
+      "Source": "Public",
+      "Original": "Choose occult state to modify newly created Sims default body parts.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDD1D89D1",
+      "Value": "Choose Sims occult state to modify.",
+      "Source": "Public",
+      "Original": "Choose Sims occult state to modify.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA7952169",
+      "Value": "Modify Human Form",
+      "Source": "Public",
+      "Original": "Modify Human Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC80CC115",
+      "Value": "Modify Sim{P0.s} naked body when in human form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in human form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBEB7FF67",
+      "Value": "Modify Alien Form",
+      "Source": "Public",
+      "Original": "Modify Alien Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x92A4B95B",
+      "Value": "Modify Sim{P0.s} naked body when in alien form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in alien form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC90EF046",
+      "Value": "Modify Vampire Form",
+      "Source": "Public",
+      "Original": "Modify Vampire Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC894E0FC",
+      "Value": "Modify Sim{P0.s} naked body when in vampire form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in vampire form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8DFF1A92",
+      "Value": "Modify Merfolk Form",
+      "Source": "Public",
+      "Original": "Modify Merfolk Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x885B7070",
+      "Value": "Modify Sim{P0.s} naked body when in merfolk form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in merfolk form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFC1887B3",
+      "Value": "Modify Werewolf Form",
+      "Source": "Public",
+      "Original": "Modify Werewolf Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD6AC4F63",
+      "Value": "Modify Sim{P0.s} naked body when in werewolf form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in werewolf form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8F410249",
+      "Value": "Modify Fairy Form",
+      "Source": "Public",
+      "Original": "Modify Fairy Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC31119E9",
+      "Value": "Modify Sim{P0.s} naked body when in fairy form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in fairy form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDA431963",
+      "Value": "Modify Succubus Form",
+      "Source": "Public",
+      "Original": "Modify Succubus Form",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9A617A6B",
+      "Value": "Modify Sim{P0.s} naked body when in succubus form.",
+      "Source": "Public",
+      "Original": "Modify Sim{P0.s} naked body when in succubus form.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8EF9BB9C",
+      "Value": "{0.SimFirstName}'s Alien Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Alien Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB0999E3F",
+      "Value": "{0.SimFirstName}'s Vampire Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Vampire Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFE30DC85",
+      "Value": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEB7C5D2C",
+      "Value": "{0.SimFirstName}'s Werewolf Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Werewolf Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEDACE292",
+      "Value": "{0.SimFirstName}'s Fairy Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Fairy Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x86B448A4",
+      "Value": "{0.SimFirstName}'s Succubus Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Succubus Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF7B2D406",
+      "Value": "{0.SimFirstName}'s Human Body Selector",
+      "Source": "Public",
+      "Original": "{0.SimFirstName}'s Human Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE3621203",
+      "Value": "Selected Sims Alien Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Alien Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA8FFDA64",
+      "Value": "Selected Sims Vampire Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Vampire Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDAF5BE70",
+      "Value": "Selected Sims Merfolk Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Merfolk Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE799DC11",
+      "Value": "Selected Sims Werewolf Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Werewolf Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE5A82D89",
+      "Value": "Selected Sims Fairy Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Fairy Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC8963F2D",
+      "Value": "Selected Sims Succubus Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Succubus Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x946C7F69",
+      "Value": "Selected Sims Human Body Selector",
+      "Source": "Public",
+      "Original": "Selected Sims Human Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8CDA21EB",
+      "Value": "Sims Default Alien Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Alien Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9BB323FC",
+      "Value": "Sims Default Vampire Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Vampire Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC4F30DE8",
+      "Value": "Sims Default Merfolk Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Merfolk Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF24EACF9",
+      "Value": "Sims Default Werewolf Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Werewolf Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDD213AA1",
+      "Value": "Sims Default Fairy Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Fairy Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEB57D8B5",
+      "Value": "Sims Default Succubus Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Succubus Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDDCC7A91",
+      "Value": "Sims Default Human Body Selector",
+      "Source": "Public",
+      "Original": "Sims Default Human Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD4939C62",
+      "Value": "Alien Body Selector",
+      "Source": "Public",
+      "Original": "Alien Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCB59A771",
+      "Value": "Vampire Body Selector",
+      "Source": "Public",
+      "Original": "Vampire Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBACA1F05",
+      "Value": "Merfolk Body Selector",
+      "Source": "Public",
+      "Original": "Merfolk Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9F92A6B5",
+      "Value": "Werwolf Body Selector",
+      "Source": "Public",
+      "Original": "Werwolf Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCE94EB3C",
+      "Value": "Fairy Body Selector",
+      "Source": "Public",
+      "Original": "Fairy Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x91B47E76",
+      "Value": "Succubus Body Selector",
+      "Source": "Public",
+      "Original": "Succubus Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x999356DC",
+      "Value": "Human Body Selector",
+      "Source": "Public",
+      "Original": "Human Body Selector",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF76E9D60",
+      "Value": "<b>Selected:</b> {0.String} by {1.String}",
+      "Source": "Public",
+      "Original": "<b>Selected:</b> {0.String} by {1.String}",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAF155805",
+      "Value": "<b>Selected:</b> Nothing",
+      "Source": "Public",
+      "Original": "<b>Selected:</b> Nothing",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA64E9FC1",
+      "Value": "Servo Erect Penis",
+      "Source": "Public",
+      "Original": "Servo Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9647D0D3",
+      "Value": "Adjust Sim{P0.s} penis size.",
+      "Source": "Public",
+      "Original": "Adjust Sim{P0.s} penis size.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB7A65C73",
+      "Value": "<font color='#199C2C'>◈ {0.String}</font>",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC9EFFD49",
+      "Value": "<b>Author:</b> {0.String}",
+      "Source": "Public",
+      "Original": "<b>Author:</b> {0.String}",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE99ECD91",
+      "Value": "Alien Tongue",
+      "Source": "Public",
+      "Original": "Alien Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE3055EB8",
+      "Value": "Vampire Tongue",
+      "Source": "Public",
+      "Original": "Vampire Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9448D10C",
+      "Value": "Merfolk Tongue",
+      "Source": "Public",
+      "Original": "Merfolk Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xADAF9DDC",
+      "Value": "Werwolf Tongue",
+      "Source": "Public",
+      "Original": "Werwolf Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB77E0CA3",
+      "Value": "Fairy Tongue",
+      "Source": "Public",
+      "Original": "Fairy Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEE2C9E95",
+      "Value": "Succubus Tongue",
+      "Source": "Public",
+      "Original": "Succubus Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFE5C2EC3",
+      "Value": "Human Tongue",
+      "Source": "Public",
+      "Original": "Human Tongue",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDC0A375F",
+      "Value": "Alien Masculine Top",
+      "Source": "Public",
+      "Original": "Alien Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x834391A8",
+      "Value": "Vampire Masculine Top",
+      "Source": "Public",
+      "Original": "Vampire Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD65629C0",
+      "Value": "Merman Masculine Top",
+      "Source": "Public",
+      "Original": "Merman Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBAB2BDDC",
+      "Value": "Werwolf Masculine Top",
+      "Source": "Public",
+      "Original": "Werwolf Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9E333A41",
+      "Value": "Fairy Masculine Top",
+      "Source": "Public",
+      "Original": "Fairy Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x80146583",
+      "Value": "Succubus Masculine Top",
+      "Source": "Public",
+      "Original": "Succubus Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCFFD8C61",
+      "Value": "Human Masculine Top",
+      "Source": "Public",
+      "Original": "Human Masculine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA1958891",
+      "Value": "Alien Feminine Top",
+      "Source": "Public",
+      "Original": "Alien Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC356C020",
+      "Value": "Vampire Feminine Top",
+      "Source": "Public",
+      "Original": "Vampire Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x92A49005",
+      "Value": "Mermaid Feminine Top",
+      "Source": "Public",
+      "Original": "Mermaid Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF6AFA784",
+      "Value": "Werwolf Feminine Top",
+      "Source": "Public",
+      "Original": "Werwolf Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xED597E0F",
+      "Value": "Fairy Feminine Top",
+      "Source": "Public",
+      "Original": "Fairy Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCFF6AB75",
+      "Value": "Succubus Feminine Top",
+      "Source": "Public",
+      "Original": "Succubus Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x90D5E02F",
+      "Value": "Human Feminine Top",
+      "Source": "Public",
+      "Original": "Human Feminine Top",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9B557B69",
+      "Value": "Alien Masculine Bottom",
+      "Source": "Public",
+      "Original": "Alien Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x85CA2AF4",
+      "Value": "Vampire Masculine Bottom",
+      "Source": "Public",
+      "Original": "Vampire Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF0B1759C",
+      "Value": "Merman Masculine Bottom",
+      "Source": "Public",
+      "Original": "Merman Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD31301B8",
+      "Value": "Werwolf Masculine Bottom",
+      "Source": "Public",
+      "Original": "Werwolf Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE8323267",
+      "Value": "Fairy Masculine Bottom",
+      "Source": "Public",
+      "Original": "Fairy Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x830DD19D",
+      "Value": "Succubus Masculine Bottom",
+      "Source": "Public",
+      "Original": "Succubus Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFAD4F307",
+      "Value": "Human Masculine Bottom",
+      "Source": "Public",
+      "Original": "Human Masculine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF8DFE957",
+      "Value": "Alien Feminine Bottom",
+      "Source": "Public",
+      "Original": "Alien Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9F57DF7C",
+      "Value": "Vampire Feminine Bottom",
+      "Source": "Public",
+      "Original": "Vampire Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9F507BFB",
+      "Value": "Mermaid Feminine Bottom",
+      "Source": "Public",
+      "Original": "Mermaid Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x928C6DB0",
+      "Value": "Werwolf Feminine Bottom",
+      "Source": "Public",
+      "Original": "Werwolf Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE9AED779",
+      "Value": "Fairy Feminine Bottom",
+      "Source": "Public",
+      "Original": "Fairy Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEA2E108B",
+      "Value": "Succubus Feminine Bottom",
+      "Source": "Public",
+      "Original": "Succubus Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8F541C19",
+      "Value": "Human Feminine Bottom",
+      "Source": "Public",
+      "Original": "Human Feminine Bottom",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAC15B934",
+      "Value": "Alien Masculine Feet",
+      "Source": "Public",
+      "Original": "Alien Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8A59B8F5",
+      "Value": "Vampire Masculine Feet",
+      "Source": "Public",
+      "Original": "Vampire Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAFC7660D",
+      "Value": "Merman Masculine Feet",
+      "Source": "Public",
+      "Original": "Merman Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE72A96B1",
+      "Value": "Werwolf Masculine Feet",
+      "Source": "Public",
+      "Original": "Werwolf Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x81829A82",
+      "Value": "Fairy Masculine Feet",
+      "Source": "Public",
+      "Original": "Fairy Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA2543A30",
+      "Value": "Succubus Masculine Feet",
+      "Source": "Public",
+      "Original": "Succubus Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBCA93422",
+      "Value": "Human Masculine Feet",
+      "Source": "Public",
+      "Original": "Human Masculine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA8A15BD2",
+      "Value": "Alien Feminine Feet",
+      "Source": "Public",
+      "Original": "Alien Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB9D45DED",
+      "Value": "Vampire Feminine Feet",
+      "Source": "Public",
+      "Original": "Vampire Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF0417B5E",
+      "Value": "Mermaid Feminine Feet",
+      "Source": "Public",
+      "Original": "Mermaid Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBE8B5859",
+      "Value": "Werwolf Feminine Feet",
+      "Source": "Public",
+      "Original": "Werwolf Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x85B670E4",
+      "Value": "Fairy Feminine Feet",
+      "Source": "Public",
+      "Original": "Fairy Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x802DF90E",
+      "Value": "Succubus Feminine Feet",
+      "Source": "Public",
+      "Original": "Succubus Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8D557584",
+      "Value": "Human Feminine Feet",
+      "Source": "Public",
+      "Original": "Human Feminine Feet",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x89177915",
+      "Value": "Alien Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Alien Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB7AC544A",
+      "Value": "Vampire Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Vampire Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE5C42392",
+      "Value": "Merman Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Merman Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD26906B6",
+      "Value": "Werwolf Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Werwolf Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x91D1E7D7",
+      "Value": "Fairy Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Fairy Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFB5856F1",
+      "Value": "Succubus Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Succubus Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEF62D0F7",
+      "Value": "Human Masculine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Human Masculine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x93531267",
+      "Value": "Alien Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Alien Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF991E4F2",
+      "Value": "Vampire Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Vampire Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA52B5D43",
+      "Value": "Mermaid Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Mermaid Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCBDCC9AE",
+      "Value": "Werwolf Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Werwolf Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8710FFC5",
+      "Value": "Fairy Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Fairy Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB88AD033",
+      "Value": "Succubus Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Succubus Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD15A5AE5",
+      "Value": "Human Feminine Flaccid Penis",
+      "Source": "Public",
+      "Original": "Human Feminine Flaccid Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x93145B8C",
+      "Value": "Alien Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Alien Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE5279F67",
+      "Value": "Vampire Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Vampire Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x864CE6CF",
+      "Value": "Merman Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Merman Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8D0DAAC3",
+      "Value": "Werwolf Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Werwolf Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA549F8EA",
+      "Value": "Fairy Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Fairy Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBBA22F88",
+      "Value": "Succubus Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Succubus Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9621D88A",
+      "Value": "Human Masculine Erect Penis",
+      "Source": "Public",
+      "Original": "Human Masculine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xE51AD73A",
+      "Value": "Alien Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Alien Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x867384AF",
+      "Value": "Vampire Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Vampire Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9B815E66",
+      "Value": "Mermaid Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Mermaid Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA001BD7B",
+      "Value": "Werwolf Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Werwolf Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAB10EA3C",
+      "Value": "Fairy Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Fairy Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD6DBC796",
+      "Value": "Succubus Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Succubus Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB90FA05C",
+      "Value": "Human Feminine Erect Penis",
+      "Source": "Public",
+      "Original": "Human Feminine Erect Penis",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC49B9327",
+      "Value": "Change Alien Penis Size",
+      "Source": "Public",
+      "Original": "Change Alien Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD3CE255A",
+      "Value": "Change Vampire Penis Size",
+      "Source": "Public",
+      "Original": "Change Vampire Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD78C3AAE",
+      "Value": "Change Merfolk Penis Size",
+      "Source": "Public",
+      "Original": "Change Merfolk Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC253DBCA",
+      "Value": "Change Werwolf Penis Size",
+      "Source": "Public",
+      "Original": "Change Werwolf Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCB974549",
+      "Value": "Change Fairy Penis Size",
+      "Source": "Public",
+      "Original": "Change Fairy Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC4948397",
+      "Value": "Change Succubus Penis Size",
+      "Source": "Public",
+      "Original": "Change Succubus Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA01D8A45",
+      "Value": "Change Human Penis Size",
+      "Source": "Public",
+      "Original": "Change Human Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBA4F36DE",
+      "Value": "Unidentified Flesh",
+      "Source": "Public",
+      "Original": "Unidentified Flesh",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x9CC3F5EC",
+      "Value": "Applied selected body parts to {0.Number} Sim{P0.s}.",
+      "Source": "Public",
+      "Original": "Applied selected body parts to {0.Number} Sim{P0.s}.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA98B9962",
+      "Value": "Modify All Sims Default Body Parts",
+      "Source": "Public",
+      "Original": "Modify All Sims Default Body Parts",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCC2BB6CC",
+      "Value": "Modify Select Sims Body Parts",
+      "Source": "Public",
+      "Original": "Modify Select Sims Body Parts",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCEC23BD9",
+      "Value": "<b>{0.SimFirstName}</b>の体の部位を変更する",
+      "Source": "Public",
+      "Original": "Modify <b>{0.SimFirstName}</b>'s Body Parts",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC076B37F",
+      "Value": "Adjust {0.SimFirstName}'s Penis Size",
+      "Source": "Public",
+      "Original": "Adjust {0.SimFirstName}'s Penis Size",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF4197712",
+      "Value": "Adjust All Sims Penis Size",
+      "Source": "Public",
+      "Original": "Adjust All Sims Penis Size",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xE6265D7B",
       "Value": "グループ内での自律的なフレンドリー交流を禁止",
       "Source": "Public",
@@ -328,6 +1775,20 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xF2493779",
+      "Value": "Instant Sexuality Preference Knowledge",
+      "Source": "Public",
+      "Original": "Instant Sexuality Preference Knowledge",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD06D5EC2",
+      "Value": "Check to reveal newly met Sims sexuality preferences without the need to ask.\\nUncheck to keep the default behavior of needing to ask about sexuality preferences.",
+      "Source": "Public",
+      "Original": "Check to reveal newly met Sims sexuality preferences without the need to ask.\\nUncheck to keep the default behavior of needing to ask about sexuality preferences.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xF8A2148E",
       "Value": "性的アニメーション設定",
       "Source": "Public",
@@ -412,6 +1873,34 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xA0580AE6",
+      "Value": "Sex Positioning Saving (Unstable)",
+      "Source": "Patreon",
+      "Original": "Sex Positioning Saving (Unstable)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBAAEB1F7",
+      "Value": "Check to enable the ability to save modified positioning of sex animations. This feature is unstable and will produce inconsistent results depending on used locations rotation/positioning variations.",
+      "Source": "Patreon",
+      "Original": "Check to enable the ability to save modified positioning of sex animations. This feature is unstable and will produce inconsistent results depending on used locations rotation/positioning variations.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xDC001BAA",
+      "Value": "Single-Loop Climax Sex Animations Override",
+      "Source": "Public",
+      "Original": "Single-Loop Climax Sex Animations Override",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEB9BABE4",
+      "Value": "Check to override climax sex animations duration to play only a single loop.\\nUncheck to use the default climax sex animation duration that was defined by the authors.",
+      "Source": "Public",
+      "Original": "Check to override climax sex animations duration to play only a single loop.\\nUncheck to use the default climax sex animation duration that was defined by the authors.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xBCB96517",
       "Value": "小規模店舗でのセックス",
       "Source": "Public",
@@ -468,6 +1957,132 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xEB803B6A",
+      "Value": "Connect Custom Sex Devices",
+      "Source": "Public",
+      "Original": "Connect Custom Sex Devices",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xED43F8FB",
+      "Value": "Connect custom sex devices to WickedWhims via local address.",
+      "Source": "Public",
+      "Original": "Connect custom sex devices to WickedWhims via local address.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC93B18E5",
+      "Value": "Disconnect Sex Devices",
+      "Source": "Public",
+      "Original": "Disconnect Sex Devices",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC4185B6F",
+      "Value": "Disconnect all sex devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}",
+      "Source": "Public",
+      "Original": "Disconnect all sex devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA6FDC27B",
+      "Value": "Incorrect Local IP or Port.",
+      "Source": "Public",
+      "Original": "Incorrect Local IP or Port.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x867196CF",
+      "Value": "The IP address or Port you entered is incorrect.",
+      "Source": "Public",
+      "Original": "The IP address or Port you entered is incorrect.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC22DA720",
+      "Value": "Enter Local IP and Port",
+      "Source": "Public",
+      "Original": "Enter Local IP and Port",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEF2AD74D",
+      "Value": "Follow instructions provided by the intended sex device compatibility software.",
+      "Source": "Public",
+      "Original": "Follow instructions provided by the intended sex device compatibility software.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF2E6B748",
+      "Value": "接続する",
+      "Source": "Public",
+      "Original": "Connect",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xFE95BD22",
+      "Value": "キャンセル",
+      "Source": "Public",
+      "Original": "Cancel",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA356EC3B",
+      "Value": "127.0.0.1",
+      "Source": "Public",
+      "Original": "127.0.0.1",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xABF0C489",
+      "Value": "60069",
+      "Source": "Public",
+      "Original": "60069",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF8986262",
+      "Value": "成功！",
+      "Source": "Public",
+      "Original": "Success!",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF316BB23",
+      "Value": "Your sex devices are now connected!\\\\n\\\\n<b>Devices Names:</b> {0.String}\\\\n\\\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again.",
+      "Source": "Public",
+      "Original": "Your sex devices are now connected!\\\\n\\\\n<b>Devices Names:</b> {0.String}\\\\n\\\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA4F197D9",
+      "Value": "デバイスが見つかりません!",
+      "Source": "Public",
+      "Original": "No Devices Found!",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA67B3CF9",
+      "Value": "Connection with sex devices software was successful, but there are no devices to use. Make sure your devices are turned on and added to the used software.",
+      "Source": "Public",
+      "Original": "Connection with sex devices software was successful, but there are no devices to use. Make sure your devices are turned on and added to the used software.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xEABF6EAC",
+      "Value": "接続がありません!",
+      "Source": "Public",
+      "Original": "No Connection!",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF50C332F",
+      "Value": "Unable to connect with sex devices software. Make sure everything is still turned on.",
+      "Source": "Public",
+      "Original": "Unable to connect with sex devices software. Make sure everything is still turned on.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xB5B3F651",
       "Value": "性的行為中は常に靴を履いたままにする",
       "Source": "Public",
@@ -494,6 +2109,130 @@
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xE05BDE46",
+      "Value": "Animation Number of Loops",
+      "Source": "Public",
+      "Original": "Animation Number of Loops",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD93E5CCA",
+      "Value": "Single Loop Duration: {1.String}s",
+      "Source": "Public",
+      "Original": "Single Loop Duration: {1.String}s",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xD5BCEFF1",
+      "Value": "<b>{0.String}</b>",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x8AFA59E9",
+      "Value": "Conceal Fairy Wings",
+      "Source": "Public",
+      "Original": "Conceal Fairy Wings",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xC7126B7F",
+      "Value": "Reveal Fairy Wings",
+      "Source": "Public",
+      "Original": "Reveal Fairy Wings",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCB1D16DF",
+      "Value": "表面オブジェクトを非表示",
+      "Source": "Public",
+      "Original": "Hide Surface Object",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x9C9DDFA4",
+      "Value": "表面オブジェクトを非表示",
+      "Source": "Public",
+      "Original": "Hide Surface Objects",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xCDE34FAD",
+      "Value": "椅子オブジェクトを非表示",
+      "Source": "Public",
+      "Original": "Hide Chair Object",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xD0A05E1A",
+      "Value": "椅子オブジェクトを非表示",
+      "Source": "Public",
+      "Original": "Hide Chair Objects",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xFFC3620A",
+      "Value": "私は<i>誰でも</i>のためにこれをするつもりはありませんが...私たちの小さな性的冒険は秘密にしておく必要があります。あなたの優秀な成績を評価してこっそり成績を上げます、誰にも言わないでください。",
+      "Source": "Public",
+      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xC9935A97",
+      "Value": "あなたの成績には満足していませんが...より良くなりたいという努力は評価します。成績を少し上げましょう。私たちの小さな性的な冒険は秘密にしておきましょう。",
+      "Source": "Public",
+      "Original": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x87E5FFD2",
+      "Value": "(教師による成績上昇)",
+      "Source": "Public",
+      "Original": "(From Teacher Boosting Grade)",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xDFD24C88",
+      "Value": "<font color='#340658'>追加クレジット</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Extra Credits</font>",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xB16EB098",
+      "Value": "それは課題ではありませんでしたが、それでも追加の単位を取得する価値がありました。{0.SimFirstName} は、{M0.his}{F0.her} の教授に {M0.his}{F0.her} の成績を上げてもらっただけでなく、教室内の性的な緊張をさらに高めました。",
+      "Source": "Public",
+      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA75510CE",
+      "Value": "<font color='#510061'>素晴らしい成績</font>",
+      "Source": "Public",
+      "Original": "<font color='#510061'>Exceptional Performance</font>",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x9BC820D1",
+      "Value": "これは課題の一部ではありませんでしたが、{0.SimFirstName}が良い成績をどれだけ大切にしているかを示しています！{0.SimPronounSubjective|xxUpper}は教師に成績を上げてもらっただけでなく、教室の性的な緊張感も高めました。",
+      "Source": "Public",
+      "Original": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA3351666",
+      "Value": "非表示オブジェクトを表示",
+      "Source": "Public",
+      "Original": "Show Hidden Objects",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xD874EBA6",
+      "Value": "Modify Currently Playing Animation Number of Loops",
+      "Source": "Public",
+      "Original": "Modify Currently Playing Animation Number of Loops",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xD78649B7",
@@ -1836,17 +3575,17 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xC5799565",
+      "Value": "イベント参加者にここに来るよう依頼する",
+      "Source": "Public",
+      "Original": "Ask Event Participants to Go Here",
+      "Status": "Changed"
+    },
+    {
       "Key": "0xE3026B1C",
       "Value": "（セックスパーティーイベントから）",
       "Source": "Public",
       "Original": "(From Sex Party Event)",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC5799565",
-      "Value": "イベント参加者にここに来るよう依頼する",
-      "Source": "Patreon",
-      "Original": "Ask Event Participants to Go Here",
       "Status": "Changed"
     },
     {
@@ -2036,95 +3775,6 @@
       "Value": "え...いいえ。自分でどうにかするわ。",
       "Source": "Patreon",
       "Original": "Uh.. no. You can handle it yourself.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xD5BCEFF1",
-      "Value": "<b>{0.String}</b>",
-      "Source": "Public"
-    },
-    {
-      "Key": "0xCB1D16DF",
-      "Value": "表面オブジェクトを非表示",
-      "Source": "Public",
-      "Original": "Hide Surface Object",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x9C9DDFA4",
-      "Value": "表面オブジェクトを非表示",
-      "Source": "Public",
-      "Original": "Hide Surface Objects",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xCDE34FAD",
-      "Value": "椅子オブジェクトを非表示",
-      "Source": "Public",
-      "Original": "Hide Chair Object",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xD0A05E1A",
-      "Value": "椅子オブジェクトを非表示",
-      "Source": "Public",
-      "Original": "Hide Chair Objects",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xFFC3620A",
-      "Value": "私は<i>誰でも</i>のためにこれをするつもりはありませんが...私たちの小さな性的冒険は秘密にしておく必要があります。あなたの優秀な成績を評価してこっそり成績を上げます、誰にも言わないでください。",
-      "Source": "Public",
-      "Original": "I wouldn't do this for just <i>anyone</i>, but... Our little sexual adventure has to stay a secret. I will quietly boost your grades for your excellent performance, just don't tell anyone.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC9935A97",
-      "Value": "あなたの成績には満足していませんが...より良くなりたいという努力は評価します。成績を少し上げましょう。私たちの小さな性的な冒険は秘密にしておきましょう。",
-      "Source": "Public",
-      "Original": "I'm not satisfied with your performance but... I admire your effort in wanting to do better. I will slightly boost your grades, just keep our little sexual adventure a secret.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x87E5FFD2",
-      "Value": "(教師による成績上昇)",
-      "Source": "Public",
-      "Original": "(From Teacher Boosting Grade)",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xDFD24C88",
-      "Value": "<font color='#340658'>追加クレジット</font>",
-      "Source": "Public",
-      "Original": "<font color='#510061'>Extra Credits</font>",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB16EB098",
-      "Value": "それは課題ではありませんでしたが、それでも追加の単位を取得する価値がありました。{0.SimFirstName} は、{M0.his}{F0.her} の教授に {M0.his}{F0.her} の成績を上げてもらっただけでなく、教室内の性的な緊張をさらに高めました。",
-      "Source": "Public",
-      "Original": "That wasn't an assignment, but it was still worth extra credits! {0.SimFirstName} not only got {M0.his}{F0.her} professor to boost {M0.his}{F0.her} grades, but it further boosted the sexual tension in the classroom.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA75510CE",
-      "Value": "<font color='#510061'>素晴らしい成績</font>",
-      "Source": "Public",
-      "Original": "<font color='#510061'>Exceptional Performance</font>",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x9BC820D1",
-      "Value": "これは課題の一部ではありませんでしたが、{0.SimFirstName}が良い成績をどれだけ大切にしているかを示しています！{0.SimPronounSubjective|xxUpper}は教師に成績を上げてもらっただけでなく、教室の性的な緊張感も高めました。",
-      "Source": "Public",
-      "Original": "That wasn't part of the assigned homework, but it still demonstrated how much {0.SimFirstName} cares about {0.SimPronounPossessiveDependent} good grades! {0.SimPronounSubjective|xxUpper} not only got {0.SimPronounPossessiveDependent} teacher to boost {0.SimPronounPossessiveDependent} grades, but it further boosted the sexual tension in the classroom.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA3351666",
-      "Value": "非表示オブジェクトを表示",
-      "Source": "Public",
-      "Original": "Show Hidden Objects",
       "Status": "Changed"
     },
     {
@@ -3901,7 +5551,7 @@
       "Key": "0xE50B40FB",
       "Value": "人魚のオカルト シムを含める",
       "Source": "Public",
-      "Original": "Include Mermaid Occult Sims",
+      "Original": "Include Merfolk Occult Sims",
       "Status": "Changed"
     },
     {
@@ -4020,7 +5670,7 @@
       "Key": "0xCDC85D55",
       "Value": "人魚",
       "Source": "Public",
-      "Original": "Mermaid",
+      "Original": "Merfolk",
       "Status": "Changed"
     },
     {
@@ -4273,7 +5923,7 @@
       "Key": "0xDCCC09D8",
       "Value": "人魚のオカルト シムを選択",
       "Source": "Public",
-      "Original": "Select Mermaid Occult Sims",
+      "Original": "Select Merfolk Occult Sims",
       "Status": "Changed"
     },
     {
@@ -4376,7 +6026,7 @@
       "Key": "0xD45AD672",
       "Value": "既存のプロトコルを作成、変更、マージ、または削除します。",
       "Source": "Public",
-      "Original": "Create, Modify, Merge, or Remove existing Protocols.",
+      "Original": "Create, Modify, Clone, Merge, or Remove existing Protocols.",
       "Status": "Changed"
     },
     {
@@ -4406,6 +6056,20 @@
       "Source": "Public",
       "Original": "Modify an existing group of Sims.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xAC8B1942",
+      "Value": "Clone an Existing Protocol",
+      "Source": "Public",
+      "Original": "Clone an Existing Protocol",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x28DEA0A8",
+      "Value": "Clone an existing group of Sims.",
+      "Source": "Public",
+      "Original": "Clone an existing group of Sims.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xACAE054F",
@@ -4476,6 +6140,20 @@
       "Source": "Public",
       "Original": "Add Sims to this group or Remove Sims from this group.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xCA4E8808",
+      "Value": "Add Sim by Name in Protocol",
+      "Source": "Public",
+      "Original": "Add Sim by Name in Protocol",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x3922EE95",
+      "Value": "Add Sim by name to this group.",
+      "Source": "Public",
+      "Original": "Add Sim by name to this group.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x2C4C418F",
@@ -4595,6 +6273,34 @@
       "Source": "Public",
       "Original": "Select Sims on left to add them to this Protocol.\\nSelect Sims on right to remove them from this Protocol.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0x35D656E7",
+      "Value": "Add Sim by Name",
+      "Source": "Public",
+      "Original": "Add Sim by Name",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xBC1527EC",
+      "Value": "Type in the full name of the Sim to add.",
+      "Source": "Public",
+      "Original": "Type in the full name of the Sim to add.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x2ACBC6DF",
+      "Value": "Sim with the name <b>{0.String}</b> was not found.",
+      "Source": "Public",
+      "Original": "Sim with the name <b>{0.String}</b> was not found.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x99BC6200",
+      "Value": "Do you want to add Sim with the name <b>{0.String}</b> to the <b>{1.String}</b> protocol?",
+      "Source": "Public",
+      "Original": "Do you want to add Sim with the name <b>{0.String}</b> to the <b>{1.String}</b> protocol?",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x4FE375EE",
@@ -4817,14 +6523,14 @@
       "Key": "0x0D0DC264",
       "Value": "マーメイドオカルトシムズ",
       "Source": "Public",
-      "Original": "Mermaid Occult Sims",
+      "Original": "Merfolk Occult Sims",
       "Status": "Changed"
     },
     {
       "Key": "0x2ABDA934",
       "Value": "人魚のオカルトを持つすべてのシムをこのプロトコルに含めます。",
       "Source": "Public",
-      "Original": "Include All Sims with Mermaid occult in this Protocol.",
+      "Original": "Include All Sims with Merfolk occult in this Protocol.",
       "Status": "Changed"
     },
     {
@@ -4945,6 +6651,20 @@
       "Source": "Public",
       "Original": "Select the new icon for this Protocol.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xE235D37D",
+      "Value": "Clone This Protocol?",
+      "Source": "Public",
+      "Original": "Clone This Protocol?",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x59211A1D",
+      "Value": "Select Protocol to clone.",
+      "Source": "Public",
+      "Original": "Select Protocol to clone.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xE8AE8DB4",
@@ -6367,14 +8087,14 @@
       "Key": "0xB3481A1A",
       "Value": "Lovense セックス デバイス サポート スイッチ",
       "Source": "Public",
-      "Original": "Lovense Sex Devices Support Switch",
+      "Original": "Sex Devices Support Switch",
       "Status": "Changed"
     },
     {
       "Key": "0x0E1F2937",
       "Value": "Lovense のセックス デバイスのサポートを有効にする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to enable support for sex devices from Lovense.",
+      "Original": "Check to enable support for Lovense and custom sex devices.",
       "Status": "Changed"
     },
     {
@@ -6388,140 +8108,140 @@
       "Key": "0x7378CEED",
       "Value": "ラベンスパターンの強さ",
       "Source": "Public",
-      "Original": "Lovense Pattern Strength",
+      "Original": "Sex Devices Pattern Strength",
       "Status": "Changed"
     },
     {
       "Key": "0x0F9B5862",
       "Value": "すべての Lovense デバイスのパターンの強さを調整します。\\n(デフォルト: 100%)",
       "Source": "Public",
-      "Original": "Adjust patterns strength of all Lovense devices.\\n(Default: 100%)",
+      "Original": "Adjust patterns strength of all sex devices.\\n(Default: 100%)",
       "Status": "Changed"
     },
     {
       "Key": "0xA4709763",
       "Value": "ラベンスパターンスピード",
       "Source": "Public",
-      "Original": "Lovense Pattern Speed",
+      "Original": "Sex Devices Pattern Speed",
       "Status": "Changed"
     },
     {
       "Key": "0x7F60C7E0",
       "Value": "すべての Lovense デバイスのパターン速度を調整します。\\n(デフォルト: 100%)",
       "Source": "Public",
-      "Original": "Adjust patterns speed of all Lovense devices.\\n(Default: 100%)",
+      "Original": "Adjust patterns speed of all sex devices.\\n(Default: 100%)",
       "Status": "Changed"
     },
     {
       "Key": "0x68AFA54D",
       "Value": "Lovense 振動デバイスの機能",
       "Source": "Public",
-      "Original": "Lovense Vibration Devices Function",
+      "Original": "Sex Devices Vibration Function",
       "Status": "Changed"
     },
     {
       "Key": "0xF722886C",
       "Value": "Lovense のセックス デバイスが振動機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Vibration function.",
+      "Original": "Check to enable sex devices to use the Vibration function.",
       "Status": "Changed"
     },
     {
       "Key": "0x9157FC97",
       "Value": "Lovense 収縮装置の機能",
       "Source": "Public",
-      "Original": "Lovense Contraction Devices Function",
+      "Original": "Sex Devices Contraction Function",
       "Status": "Changed"
     },
     {
       "Key": "0xDB3229EA",
       "Value": "Lovense のセックス デバイスが収縮機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Contraction function.",
+      "Original": "Check to enable sex devices to use the Contraction function.",
       "Status": "Changed"
     },
     {
       "Key": "0x08527F99",
       "Value": "Lovense 回転装置の機能",
       "Source": "Public",
-      "Original": "Lovense Rotation Devices Function",
+      "Original": "Sex Devices Rotation Function",
       "Status": "Changed"
     },
     {
       "Key": "0x7C30CEA8",
       "Value": "Lovense のセックス デバイスが回転機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Rotation function.",
+      "Original": "Check to enable sex devices to use the Rotation function.",
       "Status": "Changed"
     },
     {
       "Key": "0xB97DF136",
       "Value": "Lovense 運指デバイスの機能",
       "Source": "Public",
-      "Original": "Lovense Fingering Devices Function",
+      "Original": "Sex Devices Fingering Function",
       "Status": "Changed"
     },
     {
       "Key": "0x2D685651",
       "Value": "Lovense のセックス デバイスが手マン機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Fingering function.",
+      "Original": "Check to enable sex devices to use the Fingering function.",
       "Status": "Changed"
     },
     {
       "Key": "0xDA84D276",
       "Value": "Lovense 吸引装置の機能",
       "Source": "Public",
-      "Original": "Lovense Suction Devices Function",
+      "Original": "Sex Devices Suction Function",
       "Status": "Changed"
     },
     {
       "Key": "0x39227551",
       "Value": "Lovense のセックス デバイスが吸引機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Suction function.",
+      "Original": "Check to enable sex devices to use the Suction function.",
       "Status": "Changed"
     },
     {
       "Key": "0x71D966AD",
       "Value": "ラベンス突き装置の機能",
       "Source": "Public",
-      "Original": "Lovense Thrusting Devices Function",
+      "Original": "Sex Devices Thrusting Function",
       "Status": "Changed"
     },
     {
       "Key": "0x6534F7B0",
       "Value": "Lovense のセックス デバイスが Thrusting 機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Thrusting function.",
+      "Original": "Check to enable sex devices to use the Thrusting function.",
       "Status": "Changed"
     },
     {
       "Key": "0xCFF3B66C",
       "Value": "Lovense Depth デバイスの機能",
       "Source": "Public",
-      "Original": "Lovense Depth Devices Function",
+      "Original": "Sex Devices Depth Function",
       "Status": "Changed"
     },
     {
       "Key": "0xA8C5EF73",
       "Value": "Lovense のセックス デバイスが Depth 機能を使用できるようにする場合にチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Depth function.",
+      "Original": "Check to enable sex devices to use the Depth function.",
       "Status": "Changed"
     },
     {
       "Key": "0x4AA7538D",
       "Value": "Lovense振動デバイスの機能",
       "Source": "Public",
-      "Original": "Lovense Oscillate Devices Function",
+      "Original": "Sex Devices Oscillate Function",
       "Status": "Changed"
     },
     {
       "Key": "0x6B012A6C",
       "Value": "Lovenseのセックスデバイスが振動機能を使用できるようにする場合はチェックを入れます。",
       "Source": "Public",
-      "Original": "Check to allow sex devices from Lovense to use the Oscillate function.",
+      "Original": "Check to enable sex devices to use the Oscillate function.",
       "Status": "Changed"
     },
     {
@@ -6542,7 +8262,7 @@
       "Key": "0x1F05689F",
       "Value": "Lovense デバイスを接続する",
       "Source": "Public",
-      "Original": "Connect Lovense Devices",
+      "Original": "Connect <font color='#F20C7F'>Lovense</font> Devices",
       "Status": "Changed"
     },
     {
@@ -6553,24 +8273,10 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xCE45499B",
-      "Value": "Lovense デバイスの接続を解除する",
-      "Source": "Public",
-      "Original": "Disconnect Lovense Devices",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x95706475",
-      "Value": "WickedWhims からすべての Lovense デバイスを切断します。\\n<b>接続されているデバイス:</b> {0.String}",
-      "Source": "Public",
-      "Original": "Disconnect all Lovense devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xC56CC748",
       "Value": "Lovenseのストアを表示",
       "Source": "Public",
-      "Original": "Visit Lovense Store",
+      "Original": "Visit <font color='#F20C7F'>Lovense</font> Store",
       "Status": "Changed"
     },
     {
@@ -6584,7 +8290,7 @@
       "Key": "0xE0ADA98F",
       "Value": "Lovense リモート アプリを入手",
       "Source": "Public",
-      "Original": "Get Lovense Remote App",
+      "Original": "Get <font color='#F20C7F'>Lovense</font> Remote App",
       "Status": "Changed"
     },
     {
@@ -6876,42 +8582,42 @@
       "Key": "0x014E7511",
       "Value": "セックスアニメーションの継続時間をリアルタイムで秒単位で上書きします。",
       "Source": "Public",
-      "Original": "Override of sex animations duration in realtime seconds.",
+      "Original": "Settings related to overriding sex animations duration.",
       "Status": "Changed"
     },
     {
       "Key": "0xB641582F",
       "Value": "デフォルトの持続時間",
       "Source": "Public",
-      "Original": "Default Duration",
+      "Original": "Default Sex Animations Duration",
       "Status": "Changed"
     },
     {
       "Key": "0x032AF84B",
       "Value": "作者が定義したアニメーションの継続時間を使用する。",
       "Source": "Public",
-      "Original": "Use animations duration time defined by the author.",
+      "Original": "Check to use the sex animation duration that was defined by the author.",
       "Status": "Changed"
     },
     {
       "Key": "0x63604AD4",
       "Value": "オーバーライド時間",
       "Source": "Public",
-      "Original": "Override Duration",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4B584CEA",
-      "Value": "アニメーションのオーバーライド時間",
-      "Source": "Public",
-      "Original": "Animation Override Duration",
+      "Original": "Overridden Sex Animations Duration Duration",
       "Status": "Changed"
     },
     {
       "Key": "0xD01E6927",
       "Value": "すべてのSEXアニメーションの再生時間を秒単位で設定します。\\n\\nアニメーションは設定された時間通りに再生されるわけではありません。設定された時間のおおよそのループ数で再生されます。",
       "Source": "Public",
-      "Original": "Override duration for all sex animations in realtime seconds.\\n\\nAnimations will not play exactly for the set amount out time. They will play for the approximate number of loops for the set time.",
+      "Original": "Check to override duration for all sex animations in realtime seconds.\\n\\nAnimations will not play exactly for the set amount out time. They will play for the approximate number of loops for the set time.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x4B584CEA",
+      "Value": "アニメーションのオーバーライド時間",
+      "Source": "Public",
+      "Original": "Sex Animation Override Duration",
       "Status": "Changed"
     },
     {
@@ -10606,7 +12312,7 @@
       "Key": "0xB740C99B",
       "Value": "マーメイド 男性",
       "Source": "Public",
-      "Original": "Mermaid Male",
+      "Original": "Merfolk Male",
       "Status": "Changed"
     },
     {
@@ -10669,7 +12375,7 @@
       "Key": "0xEDAC99E6",
       "Value": "マーメイド 女性",
       "Source": "Public",
-      "Original": "Mermaid Female",
+      "Original": "Merfolk Female",
       "Status": "Changed"
     },
     {
@@ -10732,7 +12438,7 @@
       "Key": "0xED79E251",
       "Value": "マーメイド両方",
       "Source": "Public",
-      "Original": "Mermaid Both",
+      "Original": "Merfolk Both",
       "Status": "Changed"
     },
     {
@@ -16644,6 +18350,13 @@
       "Source": "Public",
       "Original": "{0.SimFirstName} smells.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0x1C522CAD",
+      "Value": "{0.SimFirstName} is having bad luck.",
+      "Source": "Public",
+      "Original": "{0.SimFirstName} is having bad luck.",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xDA3271AA",
@@ -23510,20 +25223,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xC253C9B6",
-      "Value": "陰毛インスタントインタラクションスイッチ",
-      "Source": "Public",
-      "Original": "Pubic Hair Instant Interactions Switch",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x7336A0CB",
-      "Value": "チェックを入れると、染色とスタイル設定のインタラクションでミラーの使用が不要になります。\\nチェックを外すと、染色とスタイル設定のインタラクションにミラーの使用が必要になります。",
-      "Source": "Public",
-      "Original": "Check to make dyeing and stylizing interactions not require the use of mirrors.\\nUncheck to make dyeing and stylizing interactions require the use of mirrors.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xCD36E14B",
       "Value": "陰毛成長スイッチ",
       "Source": "Public",
@@ -24059,240 +25758,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0x14F7CDC6",
-      "Value": "---------- Body Selector ----------",
-      "Source": "Public"
-    },
-    {
-      "Key": "0xF956ED5E",
-      "Value": "<b>{0.SimFirstName}</b>の体の部位を変更する",
-      "Source": "Public",
-      "Original": "Modify <b>{0.SimFirstName}</b>'s Body Parts",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x83187880",
-      "Value": "選択したシム ({0.String})",
-      "Source": "Public",
-      "Original": "Selected Sims ({0.String})",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x35D9B282",
-      "Value": "すべてのシム ({0.String})",
-      "Source": "Public",
-      "Original": "All Sims ({0.String})",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xAF2164B4",
-      "Value": "ペニス/男性",
-      "Source": "Public",
-      "Original": "Penis/Masculine",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB8E175DA",
-      "Value": "ペニス/女性",
-      "Source": "Public",
-      "Original": "Penis/Feminine",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xBDA0C081",
-      "Value": "ヴァギナ/男性",
-      "Source": "Public",
-      "Original": "Vagina/Masculine",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x71698E39",
-      "Value": "膣/女性",
-      "Source": "Public",
-      "Original": "Vagina/Feminine",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC3DA0208",
-      "Value": "ボディ セレクターは、シムのカスタムの裸のボディ パーツを選択するために使用されます。\\n\\n選択できるボディ パーツは、Sim CAS の性別設定によって異なります。<b>体格が変更されたシムは、性別に適合しない体の部分を選択できることに注意してください。その結果、服を脱ぐとランダムな衣服が表示されます.</b>\\n\\n選択する体の部分は、「Mods」フォルダに配置されている場合にのみ使用できます。 WickedW彼s によってサポートされるようになりました。",
-      "Source": "Public",
-      "Original": "The Body Selector is used for picking custom naked body parts on Sims.\\n\\nAvailable body parts to select depend on the Sim CAS Gender Settings. <b>Please note that Sims with altered Physical Frame can select body parts incompatible for their gender which will result in random clothing appearing when undressed.</b>\\n\\nBody parts to select are only available if they are placed in your 'Mods' folder and made to be supported by WickedWhims.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC3700E5D",
-      "Value": "{0.SimFirstName} は選択された体の部位を使用するようになりました。",
-      "Source": "Public",
-      "Original": "{0.SimFirstName} now uses the selected body parts.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x7A112C2D",
-      "Value": "選択した体の部位が {0.Number} Sim{P0.s} に適用されました。",
-      "Source": "Public",
-      "Original": "Selected body parts have been applied to {0.Number} Sim{P0.s}.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xF2E32E78",
-      "Value": "ボディセレクター",
-      "Source": "Public",
-      "Original": "Body Selector",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xE62AC460",
-      "Value": "{0.SimName} ボディセレクター",
-      "Source": "Public",
-      "Original": "{0.SimName} Body Selector",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x974053C7",
-      "Value": "すべてのシムのボディセレクター",
-      "Source": "Public",
-      "Original": "All Sims Body Selector",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA1D56A61",
-      "Value": "選択されたシムのボディセレクター",
-      "Source": "Public",
-      "Original": "Selected Sims Body Selector",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4C0FF0E3",
-      "Value": "舌",
-      "Source": "Public",
-      "Original": "Tongue",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x84AC0683",
-      "Value": "男性ボディトップ",
-      "Source": "Public",
-      "Original": "Male Body Top",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xFD4ABCD6",
-      "Value": "女性ボディトップ",
-      "Source": "Public",
-      "Original": "Female Body Top",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x947D2471",
-      "Value": "男性の体の下部",
-      "Source": "Public",
-      "Original": "Male Body Bottom",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xAC34CECE",
-      "Value": "女性のボディボトム",
-      "Source": "Public",
-      "Original": "Female Body Bottom",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB6E78B0B",
-      "Value": "男性のソフトペニス",
-      "Source": "Public",
-      "Original": "Male Soft Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xF4E4960E",
-      "Value": "女性の柔らかいペニス",
-      "Source": "Public",
-      "Original": "Female Soft Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x96ABA888",
-      "Value": "男性の硬いペニス",
-      "Source": "Public",
-      "Original": "Male Hard Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xBE402CE5",
-      "Value": "女性の硬いペニス",
-      "Source": "Public",
-      "Original": "Female Hard Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x74784EFC",
-      "Value": "サーボハードペニス",
-      "Source": "Public",
-      "Original": "Servo Hard Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x1F237F48",
-      "Value": "狼男の硬いペニス",
-      "Source": "Public",
-      "Original": "Werewolf Hard Penis",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x5A86D77C",
-      "Value": "男性の体の足",
-      "Source": "Public",
-      "Original": "Male Body Feet",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x169A2707",
-      "Value": "女性の体の足",
-      "Source": "Public",
-      "Original": "Female Body Feet",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xF8C92227",
-      "Value": "デフォルト",
-      "Source": "Public",
-      "Original": "Default",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4922982E",
-      "Value": "デフォルト（テクスチャなし）",
-      "Source": "Public",
-      "Original": "Default (Textureless)",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA0195C40",
-      "Value": "デフォルトの代替案",
-      "Source": "Public",
-      "Original": "Default Alternative",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x91F92694",
-      "Value": "ネイティブ / オーバーライド",
-      "Source": "Public",
-      "Original": "Native / Override",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x00E09124",
-      "Value": "<font color='#199C2C'>◈ {0.String}</font>",
-      "Source": "Public"
-    },
-    {
-      "Key": "0x2E4B0A57",
-      "Value": "著者: {0.String}",
-      "Source": "Public",
-      "Original": "Author: {0.String}",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xF765D503",
       "Value": "---------- General ----------",
       "Source": "Public"
@@ -24322,7 +25787,7 @@
       "Key": "0x0FED2090",
       "Value": "解剖学と衣類",
       "Source": "Public",
-      "Original": "Anatomy & Clothing",
+      "Original": "Body & Clothing",
       "Status": "Changed"
     },
     {
@@ -25276,305 +26741,6 @@
       "Value": "入浴後のタオル使用を停止する",
       "Source": "Public",
       "Original": "Stop Using Towel After Bathing",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB1063430",
-      "Value": "---------- Penis Adjustments ----------",
-      "Source": "Public"
-    },
-    {
-      "Key": "0x865B8B03",
-      "Value": "{0.SimFirstName}の陰茎のサイズを変更",
-      "Source": "Public",
-      "Original": "Change {0.SimFirstName}'s Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xFB4CD6BE",
-      "Value": "すべてのシムのペニスサイズを変更する",
-      "Source": "Public",
-      "Original": "Change All Sims Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x02420EF3",
-      "Value": "陰茎サイズ操作設定を有効にして、陰茎サイズを調整する必要があります。",
-      "Source": "Public",
-      "Original": "Penis Size Manipulation Setting has to be enabled to adjust penis size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x8E04BCC6",
-      "Value": "ペニス調整",
-      "Source": "Public",
-      "Original": "Penis Adjustments",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xE5CDC5D3",
-      "Value": "陰茎のサイズを変更する",
-      "Source": "Public",
-      "Original": "Change Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x9100186A",
-      "Value": "ペニスの調整方法を選択してください。",
-      "Source": "Public",
-      "Original": "Select penis adjustment method.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA530B333",
-      "Value": "陰茎のサイズを調整するためのシムを選んでください。",
-      "Source": "Public",
-      "Original": "Pick Sims for adjusting of penis size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x31C95287",
-      "Value": "選択したシムに適用するサイズを選択します。",
-      "Source": "Public",
-      "Original": "Select the size that will be applied on picked Sims.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC7CBF64B",
-      "Value": "陰茎の長さを調整する",
-      "Source": "Public",
-      "Original": "Adjust Penis Length",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x31012E2D",
-      "Value": "ペニスの長さの値を選択してください。",
-      "Source": "Public",
-      "Original": "Select penis length value.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xEB236F05",
-      "Value": "陰茎の胴回りを調整する",
-      "Source": "Public",
-      "Original": "Adjust Penis Girth",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA4F09CF9",
-      "Value": "ペニスの周囲の値を選択してください。",
-      "Source": "Public",
-      "Original": "Select penis girth value.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xF6CB0C86",
-      "Value": "睾丸のサイズを調整する",
-      "Source": "Public",
-      "Original": "Adjust Testicle Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x04D357CD",
-      "Value": "睾丸のサイズの値を選択します。",
-      "Source": "Public",
-      "Original": "Select testicles size value.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x1313CF9C",
-      "Value": "カスタムペニスサイズ",
-      "Source": "Public",
-      "Original": "Custom Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x1D457FB6",
-      "Value": "ペニスの長さ、胴回り、睾丸の正確な値を入力します。",
-      "Source": "Public",
-      "Original": "Input penis length, girth, and testicles precise values.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xF0FA8583",
-      "Value": "陰茎の化粧品を調整する",
-      "Source": "Public",
-      "Original": "Adjust Penis Cosmetics",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x23F1F77D",
-      "Value": "ペニスの美容値を入力します。",
-      "Source": "Public",
-      "Original": "Input penis cosmetic values.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x60EAF8E8",
-      "Value": "陰茎のサイズをランダム化",
-      "Source": "Public",
-      "Original": "Randomize Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC06C1A35",
-      "Value": "ペニスの長さ、胴回り、睾丸のサイズをランダム化します。",
-      "Source": "Public",
-      "Original": "Randomize penis length, girth, and testicles size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x918B17A8",
-      "Value": "{0.Number}% 陰茎の長さ",
-      "Source": "Public",
-      "Original": "{0.Number}% Penis Length",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xE684D60D",
-      "Value": "ペニスの長さを通常サイズより {0.Number}% 高く設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis length {0.Number}% above regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xD6D52521",
-      "Value": "陰茎の長さを通常のサイズに設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis length at regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xE19DDE19",
-      "Value": "ペニスの長さを通常サイズより {0.Number}% 低く設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis length {0.Number}% below regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x41912C24",
-      "Value": "{0.Number}% 陰茎周囲",
-      "Source": "Public",
-      "Original": "{0.Number}% Penis Girth",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x9CBCAD6B",
-      "Value": "ペニスの周囲を通常サイズより {0.Number}% 大きく設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis girth {0.Number}% above regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x6B06C203",
-      "Value": "陰茎の周囲を通常のサイズに設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis girth at regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x89A01097",
-      "Value": "ペニスの周囲を通常サイズより {0.Number}% 小さく設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set penis girth {0.Number}% below regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x4177CB20",
-      "Value": "{0.Number}% 精巣サイズ",
-      "Source": "Public",
-      "Original": "{0.Number}% Testicles Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x12E6A955",
-      "Value": "睾丸のサイズを通常サイズより {0.Number}% 大きく設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set testicles size {0.Number}% above regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xBBA51F59",
-      "Value": "睾丸のサイズを通常のサイズに設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set testicles size at regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x681B99F1",
-      "Value": "睾丸のサイズを通常サイズより {0.Number}% 小さく設定する場合に選択します。",
-      "Source": "Public",
-      "Original": "Select to set testicles size {0.Number}% below regular size.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xA327C796",
-      "Value": "カスタムペニスサイズ",
-      "Source": "Public",
-      "Original": "Custom Penis Size",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xE0C985DF",
-      "Value": "選択したシムに適用される 0 から 100 までの値を入力します。",
-      "Source": "Public",
-      "Original": "Input values, from 0 to 100, that will be applied on picked Sims.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xCA94286F",
-      "Value": "陰茎の長さの値",
-      "Source": "Public",
-      "Original": "Penis Length Value",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xC1A3D81B",
-      "Value": "ペニスの周囲長の値",
-      "Source": "Public",
-      "Original": "Penis Girth Value",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x726B941F",
-      "Value": "睾丸サイズ値",
-      "Source": "Public",
-      "Original": "Testicles Size Value",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB27BE07C",
-      "Value": "ペニス化粧品",
-      "Source": "Public",
-      "Original": "Penis Cosmetics",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x80CC77CF",
-      "Value": "睾丸非対称値",
-      "Source": "Public",
-      "Original": "Testicles Asymmetry Value",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xDBC4E92C",
-      "Value": "ペニス垂直傾斜値",
-      "Source": "Public",
-      "Original": "Penis Vertical Tilt Value",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0xB361B051",
-      "Value": "選択したシムの陰茎のサイズが、選択したオプションに変更されました。",
-      "Source": "Public",
-      "Original": "Penis Size of the picked Sims has been changed to the selected option.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x37321772",
-      "Value": "無効なカスタム値のため、選択したシムのペニス サイズを変更できませんでした。",
-      "Source": "Public",
-      "Original": "Failed to change picked Sims Penis Size due to invalid custom values.",
       "Status": "Changed"
     },
     {
@@ -26934,13 +28100,6 @@
       "Status": "Changed"
     },
     {
-      "Key": "0x4605ED0D",
-      "Value": "任意の鏡を使用して、{0.SimFirstName} の陰毛をスタイリングします。",
-      "Source": "Public",
-      "Original": "Use any mirror to stylize {0.SimFirstName}'s pubic hair.",
-      "Status": "Changed"
-    },
-    {
       "Key": "0x5D962F7F",
       "Value": "染料＆スタイライズ",
       "Source": "Public",
@@ -27071,6 +28230,18 @@
       "Value": "膣",
       "Source": "Public",
       "Original": "Vagina",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0x00E09124",
+      "Value": "<font color='#199C2C'>◈ {0.String}</font>",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x2E4B0A57",
+      "Value": "著者: {0.String}",
+      "Source": "Public",
+      "Original": "Author: {0.String}",
       "Status": "Changed"
     },
     {
@@ -40761,7 +41932,7 @@
       "Key": "0xB3403A8D",
       "Value": "人魚のオカルト",
       "Source": "Public",
-      "Original": "Mermaid Occult",
+      "Original": "Merfolk Occult",
       "Status": "Changed"
     },
     {
@@ -41627,14 +42798,14 @@
       "Key": "0x4B0022FE",
       "Value": "私は人魚が嫌いです。",
       "Source": "Public",
-      "Original": "I dislike Mermaids.",
+      "Original": "I dislike Merfolk.",
       "Status": "Changed"
     },
     {
       "Key": "0xAA4C0574",
       "Value": "{0.SimFirstName} は人魚が嫌いです。",
       "Source": "Public",
-      "Original": "{0.SimFirstName} dislikes Mermaids.",
+      "Original": "{0.SimFirstName} dislikes Merfolk.",
       "Status": "Changed"
     },
     {
@@ -43963,7 +45134,7 @@
       "Key": "0xB4182027",
       "Value": "人魚のオカルト シムを選択",
       "Source": "Public",
-      "Original": "Select Mermaid Occult Sims",
+      "Original": "Select Mermolk Occult Sims",
       "Status": "Changed"
     },
     {
