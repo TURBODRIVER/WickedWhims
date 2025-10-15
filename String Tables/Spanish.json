@@ -6,6 +6,32 @@
       "Source": "Public"
     },
     {
+      "Key": "0x91D106F1",
+      "Value": "WickedWhims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC21918F5",
+      "Value": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF9421FE7",
+      "Value": "WickedWhims is sad...",
+      "Source": "Public",
+      "Original": "WickedWhims is sad...",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA66FFF3C",
+      "Value": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xF0A2873B",
       "Value": "Parece que los complejos datos de guardado de WickedWhims no han podido ser procesados.\\n\\n<b>¿Por qué ocurre esto?</b>\\n • Tu sistema operativo u otras aplicaciones podrían estar alterando los permisos de acceso a los archivos de Los Sims 4, lo que podría estar impidiendo la lectura de los datos del archivo de guardado.\\n\\nLa mayoría de los datos de guardado de WickedWhims no dependen de archivos de guardado complejos, por lo que puedes seguir jugando, pero puede que algunas funciones no progresen.",
       "Source": "Public",
@@ -46,6 +72,20 @@
       "Source": "Public",
       "Original": "Uh Oh!",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xB407F97E",
+      "Value": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Source": "Public",
+      "Original": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFBB16F6B",
+      "Value": "Save Game",
+      "Source": "Public",
+      "Original": "Save Game",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xF7694739",
@@ -1929,6 +1969,20 @@
       "Status": "Unchanged"
     },
     {
+      "Key": "0xC65D5EA0",
+      "Value": "Random Custom Venue Sex Probability",
+      "Source": "Public",
+      "Original": "Random Custom Venue Sex Probability",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8C320862",
+      "Value": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Source": "Public",
+      "Original": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x97E40AF9",
       "Value": "Small Business Sex Minimum Cooldown Time",
       "Source": "Public",
@@ -1936,10 +1990,10 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xEFF9222C",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Key": "0x8403D18E",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Source": "Public",
-      "Original": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Status": "Unchanged"
     },
     {
@@ -1950,10 +2004,38 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0x821E11F1",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Key": "0x9B57F65B",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Source": "Public",
-      "Original": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x939F5032",
+      "Value": "Custom Venue Sex Minimum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Minimum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFB153713",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Source": "Public",
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB70CC1A0",
+      "Value": "Custom Venue Sex Maximum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Maximum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x804E1646",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Source": "Public",
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Status": "Unchanged"
     },
     {
@@ -2029,16 +2111,12 @@
     {
       "Key": "0xA356EC3B",
       "Value": "127.0.0.1",
-      "Source": "Public",
-      "Original": "127.0.0.1",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xABF0C489",
       "Value": "60069",
-      "Source": "Public",
-      "Original": "60069",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xF8986262",
@@ -2109,6 +2187,55 @@
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xA0D790FA",
+      "Value": "Spinning Bike",
+      "Source": "Public",
+      "Original": "Spinning Bike",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x94E4D500",
+      "Value": "Free Weights",
+      "Source": "Public",
+      "Original": "Free Weights",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x807F8C71",
+      "Value": "Treadmill",
+      "Source": "Public",
+      "Original": "Treadmill",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCA1E5EBF",
+      "Value": "Punching Bag",
+      "Source": "Public",
+      "Original": "Punching Bag",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA1849FD1",
+      "Value": "Hot Tub In Ground",
+      "Source": "Public",
+      "Original": "Hot Tub In Ground",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8F5DC65B",
+      "Value": "Tall Diving Board",
+      "Source": "Public",
+      "Original": "Tall Diving Board",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAEAC1F46",
+      "Value": "Diving Board",
+      "Source": "Public",
+      "Original": "Diving Board",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xE05BDE46",
@@ -2590,9 +2717,7 @@
     {
       "Key": "0xB3653BA1",
       "Value": "#69",
-      "Source": "Patreon",
-      "Original": "#69",
-      "Status": "Unchanged"
+      "Source": "Patreon"
     },
     {
       "Key": "0xDAABA155",
@@ -4177,17 +4302,17 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xA3A82AE6",
-      "Value": "Get Naked",
-      "Source": "Public",
-      "Original": "Get Naked",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0xDF685AE6",
       "Value": "Sims will get completely naked.",
       "Source": "Public",
       "Original": "Sims will get completely naked.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA3A82AE6",
+      "Value": "Get Naked",
+      "Source": "Public",
+      "Original": "Get Naked",
       "Status": "Unchanged"
     },
     {
@@ -4212,18 +4337,18 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xF60DE64A",
-      "Value": "Tener sexo",
-      "Source": "Public",
-      "Original": "Have Sex",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xDEB2AB15",
       "Value": "Sims will offer to have sex with other Sims.",
       "Source": "Public",
       "Original": "Sims will offer to have sex with other Sims.",
       "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF60DE64A",
+      "Value": "Tener sexo",
+      "Source": "Public",
+      "Original": "Have Sex",
+      "Status": "Changed"
     },
     {
       "Key": "0xE00156C0",
@@ -4484,13 +4609,6 @@
       "Value": "<b>¡Se ha producido un error grave!</b>\\n\\nEl archivo con extensión </b>ts4script</b> de WickedWhims no se encuentra en la carpeta mods o no puede ser cargado.\\n\\nEstos archivos solo pueden ser colocados en una carpeta principal y no en varias subcarpetas, ya que el juego podría no llegar a encontrarlos.\\n\\nAsegúrate de permitir los mods de script en los ajustes del juego.\\n\\nPosiblemente sea necesario reinstalar WickedWhims para que funcione correctamente.",
       "Source": "Public",
       "Original": "<p align=\"center\"><font size=\"30\"><b>SCRIPT MISSING ERROR!</b></font></p>\\n\\nThe '<b>TURBODRIVER_WickedWhims_Scripts.ts4script</b>' file was not loaded! The WickedWhims mod will not work.\\n\\nThe WickedWhims script file is missing or cannot be loaded. Here are the potential reasons for this:\\n<ul><li>Bad installation, the game is unable to find the script file. Don't place script files (TS4SCRIPT) into too many folders. Script files can only be placed one-folder deep.</li><li>Script Mods are not enabled. Open Game Options and go into the 'Other' menu, Script Mods need to be allowed.</li></ul>\\nTry correcting this issue and restart the game or visit <b>wickedwhimsmod.com</b> for help.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x64FC48C1",
-      "Value": "<p align=\"center\"><b>ERROR FATAL - WONDERFUL Y WICKED</b></p>\\n\\n¡No puedes instalar WickedWhims y WonderfulWhims al mismo tiempo!\\nWickedWhims contiene todas las funciones de WonderfulWhims.\\n\\n<b>¡Tienes que eliminar WonderfulWhims!</b>\\n\\nCómo arreglar:\\n  1. Busque y elimine todos los archivos de WonderfulWhims de la carpeta Mods.\\n  2. Listo.",
-      "Source": "Public",
-      "Original": "<p align=\"center\"><b>CONFLICTING MODS ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done.",
       "Status": "Changed"
     },
     {

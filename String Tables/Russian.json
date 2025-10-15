@@ -6,6 +6,32 @@
       "Source": "Public"
     },
     {
+      "Key": "0x91D106F1",
+      "Value": "WickedWhims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC21918F5",
+      "Value": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF9421FE7",
+      "Value": "WickedWhims is sad...",
+      "Source": "Public",
+      "Original": "WickedWhims is sad...",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA66FFF3C",
+      "Value": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xF0A2873B",
       "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
       "Source": "Public",
@@ -45,6 +71,20 @@
       "Value": "Uh Oh!",
       "Source": "Public",
       "Original": "Uh Oh!",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB407F97E",
+      "Value": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Source": "Public",
+      "Original": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFBB16F6B",
+      "Value": "Save Game",
+      "Source": "Public",
+      "Original": "Save Game",
       "Status": "Unchanged"
     },
     {
@@ -1929,6 +1969,20 @@
       "Status": "Unchanged"
     },
     {
+      "Key": "0xC65D5EA0",
+      "Value": "Random Custom Venue Sex Probability",
+      "Source": "Public",
+      "Original": "Random Custom Venue Sex Probability",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8C320862",
+      "Value": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Source": "Public",
+      "Original": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x97E40AF9",
       "Value": "Small Business Sex Minimum Cooldown Time",
       "Source": "Public",
@@ -1936,10 +1990,10 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xEFF9222C",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Key": "0x8403D18E",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Source": "Public",
-      "Original": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Status": "Unchanged"
     },
     {
@@ -1950,10 +2004,38 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0x821E11F1",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Key": "0x9B57F65B",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Source": "Public",
-      "Original": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x939F5032",
+      "Value": "Custom Venue Sex Minimum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Minimum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFB153713",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Source": "Public",
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB70CC1A0",
+      "Value": "Custom Venue Sex Maximum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Maximum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x804E1646",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Source": "Public",
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Status": "Unchanged"
     },
     {
@@ -2029,16 +2111,12 @@
     {
       "Key": "0xA356EC3B",
       "Value": "127.0.0.1",
-      "Source": "Public",
-      "Original": "127.0.0.1",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xABF0C489",
       "Value": "60069",
-      "Source": "Public",
-      "Original": "60069",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xF8986262",
@@ -2108,6 +2186,55 @@
       "Value": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA0D790FA",
+      "Value": "Spinning Bike",
+      "Source": "Public",
+      "Original": "Spinning Bike",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x94E4D500",
+      "Value": "Free Weights",
+      "Source": "Public",
+      "Original": "Free Weights",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x807F8C71",
+      "Value": "Treadmill",
+      "Source": "Public",
+      "Original": "Treadmill",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCA1E5EBF",
+      "Value": "Punching Bag",
+      "Source": "Public",
+      "Original": "Punching Bag",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA1849FD1",
+      "Value": "Hot Tub In Ground",
+      "Source": "Public",
+      "Original": "Hot Tub In Ground",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8F5DC65B",
+      "Value": "Tall Diving Board",
+      "Source": "Public",
+      "Original": "Tall Diving Board",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAEAC1F46",
+      "Value": "Diving Board",
+      "Source": "Public",
+      "Original": "Diving Board",
       "Status": "Unchanged"
     },
     {
@@ -2590,9 +2717,7 @@
     {
       "Key": "0xB3653BA1",
       "Value": "#69",
-      "Source": "Patreon",
-      "Original": "#69",
-      "Status": "Unchanged"
+      "Source": "Patreon"
     },
     {
       "Key": "0xDAABA155",
@@ -4177,17 +4302,17 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xA3A82AE6",
-      "Value": "Get Naked",
-      "Source": "Public",
-      "Original": "Get Naked",
-      "Status": "Unchanged"
-    },
-    {
       "Key": "0xDF685AE6",
       "Value": "Sims will get completely naked.",
       "Source": "Public",
       "Original": "Sims will get completely naked.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA3A82AE6",
+      "Value": "Get Naked",
+      "Source": "Public",
+      "Original": "Get Naked",
       "Status": "Unchanged"
     },
     {
@@ -4212,18 +4337,18 @@
       "Status": "Unchanged"
     },
     {
-      "Key": "0xF60DE64A",
-      "Value": "Заниматься сексом",
-      "Source": "Public",
-      "Original": "Have Sex",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xDEB2AB15",
       "Value": "Sims will offer to have sex with other Sims.",
       "Source": "Public",
       "Original": "Sims will offer to have sex with other Sims.",
       "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF60DE64A",
+      "Value": "Заниматься сексом",
+      "Source": "Public",
+      "Original": "Have Sex",
+      "Status": "Changed"
     },
     {
       "Key": "0xE00156C0",
@@ -4485,13 +4610,6 @@
       "Source": "Public",
       "Original": "<p align=\"center\"><font size=\"30\"><b>SCRIPT MISSING ERROR!</b></font></p>\\n\\nThe '<b>TURBODRIVER_WickedWhims_Scripts.ts4script</b>' file was not loaded! The WickedWhims mod will not work.\\n\\nThe WickedWhims script file is missing or cannot be loaded. Here are the potential reasons for this:\\n<ul><li>Bad installation, the game is unable to find the script file. Don't place script files (TS4SCRIPT) into too many folders. Script files can only be placed one-folder deep.</li><li>Script Mods are not enabled. Open Game Options and go into the 'Other' menu, Script Mods need to be allowed.</li></ul>\\nTry correcting this issue and restart the game or visit <b>wickedwhimsmod.com</b> for help.",
       "Status": "Unchanged"
-    },
-    {
-      "Key": "0x64FC48C1",
-      "Value": "<p align=\"center\"><b>КРИТИЧЕСКАЯ ОШИБКА - WONDERFULWHIMS И WICKEDWHIMS</b></p>\\n\\nНельзя устанавливать WickedWhims и WonderfulWhims одновременно!\\nWickedWhims содержит весь функционал WonderfulWhims.\\n\\n<b>Вам необходимо удалить WonderfulWhims!</b>\\n\\nКак исправить:\\n  1. Найти и удалить все файлы WonderfulWhims из папки \"Mods\".\\n  2. Готово.",
-      "Source": "Public",
-      "Original": "<p align=\"center\"><b>CONFLICTING MODS ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done.",
-      "Status": "Changed"
     },
     {
       "Key": "0xD2A661E7",
@@ -5549,10 +5667,10 @@
     },
     {
       "Key": "0xE50B40FB",
-      "Value": "Include Mermaid Occult Sims",
+      "Value": "Include Merfolk Occult Sims",
       "Source": "Public",
       "Original": "Include Merfolk Occult Sims",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x00BCAD78",
@@ -5668,10 +5786,10 @@
     },
     {
       "Key": "0xCDC85D55",
-      "Value": "Mermaid",
+      "Value": "Merfolk",
       "Source": "Public",
       "Original": "Merfolk",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x41767B5E",
@@ -8085,17 +8203,17 @@
     },
     {
       "Key": "0xB3481A1A",
-      "Value": "Lovense Sex Devices Support Switch",
+      "Value": "Sex Devices Support Switch",
       "Source": "Public",
       "Original": "Sex Devices Support Switch",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x0E1F2937",
-      "Value": "Check to enable support for sex devices from Lovense.",
+      "Value": "Check to enable support for Lovense and custom sex devices.",
       "Source": "Public",
       "Original": "Check to enable support for Lovense and custom sex devices.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x4ECC1952",
@@ -8106,143 +8224,143 @@
     },
     {
       "Key": "0x7378CEED",
-      "Value": "Lovense Pattern Strength",
+      "Value": "Sex Devices Pattern Strength",
       "Source": "Public",
       "Original": "Sex Devices Pattern Strength",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x0F9B5862",
-      "Value": "Adjust patterns strength of all Lovense devices.\\n(Default: 100%)",
+      "Value": "Adjust patterns strength of all sex devices.\\n(Default: 100%)",
       "Source": "Public",
       "Original": "Adjust patterns strength of all sex devices.\\n(Default: 100%)",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xA4709763",
-      "Value": "Lovense Pattern Speed",
+      "Value": "Sex Devices Pattern Speed",
       "Source": "Public",
       "Original": "Sex Devices Pattern Speed",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x7F60C7E0",
-      "Value": "Adjust patterns speed of all Lovense devices.\\n(Default: 100%)",
+      "Value": "Adjust patterns speed of all sex devices.\\n(Default: 100%)",
       "Source": "Public",
       "Original": "Adjust patterns speed of all sex devices.\\n(Default: 100%)",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x68AFA54D",
-      "Value": "Lovense Vibration Devices Function",
+      "Value": "Sex Devices Vibration Function",
       "Source": "Public",
       "Original": "Sex Devices Vibration Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xF722886C",
-      "Value": "Check to allow sex devices from Lovense to use the Vibration function.",
+      "Value": "Check to enable sex devices to use the Vibration function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Vibration function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x9157FC97",
-      "Value": "Lovense Contraction Devices Function",
+      "Value": "Sex Devices Contraction Function",
       "Source": "Public",
       "Original": "Sex Devices Contraction Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xDB3229EA",
-      "Value": "Check to allow sex devices from Lovense to use the Contraction function.",
+      "Value": "Check to enable sex devices to use the Contraction function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Contraction function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x08527F99",
-      "Value": "Lovense Rotation Devices Function",
+      "Value": "Sex Devices Rotation Function",
       "Source": "Public",
       "Original": "Sex Devices Rotation Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x7C30CEA8",
-      "Value": "Check to allow sex devices from Lovense to use the Rotation function.",
+      "Value": "Check to enable sex devices to use the Rotation function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Rotation function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xB97DF136",
-      "Value": "Lovense Fingering Devices Function",
+      "Value": "Sex Devices Fingering Function",
       "Source": "Public",
       "Original": "Sex Devices Fingering Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x2D685651",
-      "Value": "Check to allow sex devices from Lovense to use the Fingering function.",
+      "Value": "Check to enable sex devices to use the Fingering function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Fingering function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xDA84D276",
-      "Value": "Lovense Suction Devices Function",
+      "Value": "Sex Devices Suction Function",
       "Source": "Public",
       "Original": "Sex Devices Suction Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x39227551",
-      "Value": "Check to allow sex devices from Lovense to use the Suction function.",
+      "Value": "Check to enable sex devices to use the Suction function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Suction function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x71D966AD",
-      "Value": "Lovense Thrusting Devices Function",
+      "Value": "Sex Devices Thrusting Function",
       "Source": "Public",
       "Original": "Sex Devices Thrusting Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x6534F7B0",
-      "Value": "Check to allow sex devices from Lovense to use the Thrusting function.",
+      "Value": "Check to enable sex devices to use the Thrusting function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Thrusting function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xCFF3B66C",
-      "Value": "Lovense Depth Devices Function",
+      "Value": "Sex Devices Depth Function",
       "Source": "Public",
       "Original": "Sex Devices Depth Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xA8C5EF73",
-      "Value": "Check to allow sex devices from Lovense to use the Depth function.",
+      "Value": "Check to enable sex devices to use the Depth function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Depth function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x4AA7538D",
-      "Value": "Lovense Oscillate Devices Function",
+      "Value": "Sex Devices Oscillate Function",
       "Source": "Public",
       "Original": "Sex Devices Oscillate Function",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x6B012A6C",
-      "Value": "Check to allow sex devices from Lovense to use the Oscillate function.",
+      "Value": "Check to enable sex devices to use the Oscillate function.",
       "Source": "Public",
       "Original": "Check to enable sex devices to use the Oscillate function.",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xA279DD33",
@@ -8260,10 +8378,10 @@
     },
     {
       "Key": "0x1F05689F",
-      "Value": "Connect Lovense Devices",
+      "Value": "Connect <font color='#F20C7F'>Lovense</font> Devices",
       "Source": "Public",
       "Original": "Connect <font color='#F20C7F'>Lovense</font> Devices",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xEBE386A5",
@@ -8274,10 +8392,10 @@
     },
     {
       "Key": "0xC56CC748",
-      "Value": "Visit Lovense Store",
+      "Value": "Visit <font color='#F20C7F'>Lovense</font> Store",
       "Source": "Public",
       "Original": "Visit <font color='#F20C7F'>Lovense</font> Store",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x1C8C876D",
@@ -8288,10 +8406,10 @@
     },
     {
       "Key": "0xE0ADA98F",
-      "Value": "Get Lovense Remote App",
+      "Value": "Get <font color='#F20C7F'>Lovense</font> Remote App",
       "Source": "Public",
       "Original": "Get <font color='#F20C7F'>Lovense</font> Remote App",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x4BC141B2",
@@ -12310,10 +12428,10 @@
     },
     {
       "Key": "0xB740C99B",
-      "Value": "Mermaid Male",
+      "Value": "Merfolk Male",
       "Source": "Public",
       "Original": "Merfolk Male",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xA9B01D03",
@@ -12373,10 +12491,10 @@
     },
     {
       "Key": "0xEDAC99E6",
-      "Value": "Mermaid Female",
+      "Value": "Merfolk Female",
       "Source": "Public",
       "Original": "Merfolk Female",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0x89E276CE",
@@ -12436,10 +12554,10 @@
     },
     {
       "Key": "0xED79E251",
-      "Value": "Mermaid Both",
+      "Value": "Merfolk Both",
       "Source": "Public",
       "Original": "Merfolk Both",
-      "Status": "Changed"
+      "Status": "Unchanged"
     },
     {
       "Key": "0xF1A4F8B9",

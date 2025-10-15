@@ -6,6 +6,26 @@
       "Source": "Public"
     },
     {
+      "Key": "0x91D106F1",
+      "Value": "WickedWhims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC21918F5",
+      "Value": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xF9421FE7",
+      "Value": "WickedWhims is sad...",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA66FFF3C",
+      "Value": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public"
+    },
+    {
       "Key": "0xF0A2873B",
       "Value": "Looks like WickedWhims complex save data failed to be processed.\\n\\n<b>Why did this happen?</b>\\n • Your operating system or other applications might be altering The Sims 4 files access permissions which could be preventing reading save file data.\\n\\nMajority of WickedWhims save data doesn't depend on complex save data file, so you can continue playing, but some features might be missing progress.",
       "Source": "Public"
@@ -33,6 +53,16 @@
     {
       "Key": "0xC895BEA7",
       "Value": "Uh Oh!",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xB407F97E",
+      "Value": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xFBB16F6B",
+      "Value": "Save Game",
       "Source": "Public"
     },
     {
@@ -1381,13 +1411,23 @@
       "Source": "Public"
     },
     {
+      "Key": "0xC65D5EA0",
+      "Value": "Random Custom Venue Sex Probability",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x8C320862",
+      "Value": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Source": "Public"
+    },
+    {
       "Key": "0x97E40AF9",
       "Value": "Small Business Sex Minimum Cooldown Time",
       "Source": "Public"
     },
     {
-      "Key": "0xEFF9222C",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
+      "Key": "0x8403D18E",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Source": "Public"
     },
     {
@@ -1396,8 +1436,28 @@
       "Source": "Public"
     },
     {
-      "Key": "0x821E11F1",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
+      "Key": "0x9B57F65B",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x939F5032",
+      "Value": "Custom Venue Sex Minimum Cooldown Time",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xFB153713",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xB70CC1A0",
+      "Value": "Custom Venue Sex Maximum Cooldown Time",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x804E1646",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Source": "Public"
     },
     {
@@ -1508,6 +1568,41 @@
     {
       "Key": "0xF8B49C0F",
       "Value": "Check for {0.SimFirstName} to always keep glasses on during sex.",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA0D790FA",
+      "Value": "Spinning Bike",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x94E4D500",
+      "Value": "Free Weights",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x807F8C71",
+      "Value": "Treadmill",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xCA1E5EBF",
+      "Value": "Punching Bag",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xA1849FD1",
+      "Value": "Hot Tub In Ground",
+      "Source": "Public"
+    },
+    {
+      "Key": "0x8F5DC65B",
+      "Value": "Tall Diving Board",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xAEAC1F46",
+      "Value": "Diving Board",
       "Source": "Public"
     },
     {
@@ -2991,13 +3086,13 @@
       "Source": "Patreon"
     },
     {
-      "Key": "0xA3A82AE6",
-      "Value": "Get Naked",
+      "Key": "0xDF685AE6",
+      "Value": "Sims will get completely naked.",
       "Source": "Public"
     },
     {
-      "Key": "0xDF685AE6",
-      "Value": "Sims will get completely naked.",
+      "Key": "0xA3A82AE6",
+      "Value": "Get Naked",
       "Source": "Public"
     },
     {
@@ -3016,13 +3111,13 @@
       "Source": "Patreon"
     },
     {
-      "Key": "0xF60DE64A",
-      "Value": "Have Sex",
+      "Key": "0xDEB2AB15",
+      "Value": "Sims will offer to have sex with other Sims.",
       "Source": "Public"
     },
     {
-      "Key": "0xDEB2AB15",
-      "Value": "Sims will offer to have sex with other Sims.",
+      "Key": "0xF60DE64A",
+      "Value": "Have Sex",
       "Source": "Public"
     },
     {
@@ -3228,11 +3323,6 @@
     {
       "Key": "0x81A2270A",
       "Value": "<p align=\"center\"><font size=\"30\"><b>SCRIPT MISSING ERROR!</b></font></p>\\n\\nThe '<b>TURBODRIVER_WickedWhims_Scripts.ts4script</b>' file was not loaded! The WickedWhims mod will not work.\\n\\nThe WickedWhims script file is missing or cannot be loaded. Here are the potential reasons for this:\\n<ul><li>Bad installation, the game is unable to find the script file. Don't place script files (TS4SCRIPT) into too many folders. Script files can only be placed one-folder deep.</li><li>Script Mods are not enabled. Open Game Options and go into the 'Other' menu, Script Mods need to be allowed.</li></ul>\\nTry correcting this issue and restart the game or visit <b>wickedwhimsmod.com</b> for help.",
-      "Source": "Public"
-    },
-    {
-      "Key": "0x64FC48C1",
-      "Value": "<p align=\"center\"><b>CONFLICTING MODS ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done.",
       "Source": "Public"
     },
     {

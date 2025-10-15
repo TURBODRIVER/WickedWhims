@@ -6,6 +6,32 @@
       "Source": "Public"
     },
     {
+      "Key": "0x91D106F1",
+      "Value": "WickedWhims",
+      "Source": "Public"
+    },
+    {
+      "Key": "0xC21918F5",
+      "Value": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><font size='30'><b>WICKED & WONDERFUL CONFLICT</b></font></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b>' cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xF9421FE7",
+      "Value": "WickedWhims is sad...",
+      "Source": "Public",
+      "Original": "WickedWhims is sad...",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA66FFF3C",
+      "Value": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Source": "Public",
+      "Original": "<p align='center'><b>WICKED & WONDERFUL CONFLICT</b></p>\\n\\nThe mods '<b>WickedWhims</b>' & '<b>WonderfulWhims</b> cannot be installed at the same time!\\n\\nAll of the features of WonderfulWhims are already in WickedWhims so all you need to do is <b>delete the WonderfulWhims mod</b>.",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0xF0A2873B",
       "Value": "WickedWhimsの複雑なセーブデータの処理に失敗しました。\\n\\n<b>なぜこれが起きたのでしょうか？</b>\\n • オペレーティングシステムまたは他のアプリケーションがThe Sims 4のファイルアクセス権限を変更している可能性があり、セーブファイルデータの読み取りが妨げられている可能性があります。\\n\\nWickedWhimsのセーブデータの大部分は複雑なセーブデータファイルに依存していないため、プレイを続けることはできますが、一部の機能の進行状況が失われている可能性があります。",
       "Source": "Public",
@@ -46,6 +72,20 @@
       "Source": "Public",
       "Original": "Uh Oh!",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xB407F97E",
+      "Value": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Source": "Public",
+      "Original": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFBB16F6B",
+      "Value": "Save Game",
+      "Source": "Public",
+      "Original": "Save Game",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xF7694739",
@@ -1929,6 +1969,20 @@
       "Status": "Changed"
     },
     {
+      "Key": "0xC65D5EA0",
+      "Value": "Random Custom Venue Sex Probability",
+      "Source": "Public",
+      "Original": "Random Custom Venue Sex Probability",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8C320862",
+      "Value": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Source": "Public",
+      "Original": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Status": "Unchanged"
+    },
+    {
       "Key": "0x97E40AF9",
       "Value": "小規模店舗でのセックス最小クールダウン時間",
       "Source": "Public",
@@ -1936,11 +1990,11 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xEFF9222C",
-      "Value": "シムが自律的に小規模店舗でのセックスを再試行するまでの最小待機時間を実時間（秒）で設定します。\\n（デフォルト：45、最小値：0）",
+      "Key": "0x8403D18E",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
       "Source": "Public",
-      "Original": "Set a number of minimum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 45, Minimum: 0)",
-      "Status": "Changed"
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Status": "Unchanged"
     },
     {
       "Key": "0x94D218EF",
@@ -1950,11 +2004,39 @@
       "Status": "Changed"
     },
     {
-      "Key": "0x821E11F1",
-      "Value": "シムが自律的に小規模店舗でのセックスを再試行するまでの最大待機時間を実時間（秒）で設定します。\\n（デフォルト：90、最小値：1）",
+      "Key": "0x9B57F65B",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
       "Source": "Public",
-      "Original": "Set a number of maximum realtime seconds Sims wait before attempting autonomy small business sex again.\\n(Default: 90, Minimum: 1)",
-      "Status": "Changed"
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x939F5032",
+      "Value": "Custom Venue Sex Minimum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Minimum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xFB153713",
+      "Value": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Source": "Public",
+      "Original": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xB70CC1A0",
+      "Value": "Custom Venue Sex Maximum Cooldown Time",
+      "Source": "Public",
+      "Original": "Custom Venue Sex Maximum Cooldown Time",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x804E1646",
+      "Value": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Source": "Public",
+      "Original": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xEB803B6A",
@@ -2029,16 +2111,12 @@
     {
       "Key": "0xA356EC3B",
       "Value": "127.0.0.1",
-      "Source": "Public",
-      "Original": "127.0.0.1",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xABF0C489",
       "Value": "60069",
-      "Source": "Public",
-      "Original": "60069",
-      "Status": "Unchanged"
+      "Source": "Public"
     },
     {
       "Key": "0xF8986262",
@@ -2109,6 +2187,55 @@
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to always keep glasses on during sex.",
       "Status": "Changed"
+    },
+    {
+      "Key": "0xA0D790FA",
+      "Value": "Spinning Bike",
+      "Source": "Public",
+      "Original": "Spinning Bike",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x94E4D500",
+      "Value": "Free Weights",
+      "Source": "Public",
+      "Original": "Free Weights",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x807F8C71",
+      "Value": "Treadmill",
+      "Source": "Public",
+      "Original": "Treadmill",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xCA1E5EBF",
+      "Value": "Punching Bag",
+      "Source": "Public",
+      "Original": "Punching Bag",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xA1849FD1",
+      "Value": "Hot Tub In Ground",
+      "Source": "Public",
+      "Original": "Hot Tub In Ground",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0x8F5DC65B",
+      "Value": "Tall Diving Board",
+      "Source": "Public",
+      "Original": "Tall Diving Board",
+      "Status": "Unchanged"
+    },
+    {
+      "Key": "0xAEAC1F46",
+      "Value": "Diving Board",
+      "Source": "Public",
+      "Original": "Diving Board",
+      "Status": "Unchanged"
     },
     {
       "Key": "0xE05BDE46",
@@ -2589,10 +2716,8 @@
     },
     {
       "Key": "0xB3653BA1",
-      "Value": "#シックスナイン",
-      "Source": "Patreon",
-      "Original": "#69",
-      "Status": "Changed"
+      "Value": "#69",
+      "Source": "Patreon"
     },
     {
       "Key": "0xDAABA155",
@@ -4177,17 +4302,17 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xA3A82AE6",
-      "Value": "裸になる",
-      "Source": "Public",
-      "Original": "Get Naked",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xDF685AE6",
       "Value": "シムは完全に裸になります。",
       "Source": "Public",
       "Original": "Sims will get completely naked.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xA3A82AE6",
+      "Value": "裸になる",
+      "Source": "Public",
+      "Original": "Get Naked",
       "Status": "Changed"
     },
     {
@@ -4212,17 +4337,17 @@
       "Status": "Changed"
     },
     {
-      "Key": "0xF60DE64A",
-      "Value": "セックスをする",
-      "Source": "Public",
-      "Original": "Have Sex",
-      "Status": "Changed"
-    },
-    {
       "Key": "0xDEB2AB15",
       "Value": "シムは他のシムにセックスを誘います。",
       "Source": "Public",
       "Original": "Sims will offer to have sex with other Sims.",
+      "Status": "Changed"
+    },
+    {
+      "Key": "0xF60DE64A",
+      "Value": "セックスをする",
+      "Source": "Public",
+      "Original": "Have Sex",
       "Status": "Changed"
     },
     {
@@ -4484,13 +4609,6 @@
       "Value": "<p align=\"center\"><font size=\"30\"><b>致命的なエラーです!</b></font></p>\\n\\n「<b>TURBODRIVER_WickedWhims_Scripts.ts4script</b>」ファイルが読み込まれませんでした。WickedWhims mod は動作しません。WickedWhims\\n\\nスクリプト ファイルが見つからないか、読み込めません。考えられる原因は次のとおりです:\\n<ul><li>インストールが間違っているため、ゲームがスクリプト ファイルを見つけることができません。スクリプト ファイル (TS4SCRIPT) をあまり多くのフォルダーに配置しないでください。スクリプト ファイルは 1 つのフォルダーの深さにしか配置できません。</li><li>スクリプト Mod が有効になっていません。ゲーム オプションを開いて [その他] メニューに移動し、スクリプト Mod を許可する必要があります。</li></ul>\\nこの問題を修正してゲームを再起動するか、<b>wickedwhimsmod.com</b> にアクセスしてサポートを受けてください。",
       "Source": "Public",
       "Original": "<p align=\"center\"><font size=\"30\"><b>SCRIPT MISSING ERROR!</b></font></p>\\n\\nThe '<b>TURBODRIVER_WickedWhims_Scripts.ts4script</b>' file was not loaded! The WickedWhims mod will not work.\\n\\nThe WickedWhims script file is missing or cannot be loaded. Here are the potential reasons for this:\\n<ul><li>Bad installation, the game is unable to find the script file. Don't place script files (TS4SCRIPT) into too many folders. Script files can only be placed one-folder deep.</li><li>Script Mods are not enabled. Open Game Options and go into the 'Other' menu, Script Mods need to be allowed.</li></ul>\\nTry correcting this issue and restart the game or visit <b>wickedwhimsmod.com</b> for help.",
-      "Status": "Changed"
-    },
-    {
-      "Key": "0x64FC48C1",
-      "Value": "<p align=\"center\"><b>致命的なエラー - 素晴らしい & 邪悪</b></p>\\n\\nWickedWhims と WonderfulWhims を同時にインストールすることはできません!\\nWickedWhims には、WonderfulWhims のすべての機能が含まれています。\\n\\n<b>WonderfulWhims を削除する必要があります!</b>\\n\\n修正方法:\\n1. Mods フォルダからすべての WonderfulWhims ファイルを見つけて削除します。\\n2.完了。",
-      "Source": "Public",
-      "Original": "<p align=\"center\"><b>CONFLICTING MODS ERROR - WONDERFUL & WICKED</b></p>\\n\\nYou cannot install WickedWhims and WonderfulWhims at the same time!\\nWickedWhims contains all features of WonderfulWhims.\\n\\n<b>You need to delete WonderfulWhims!</b>\\n\\nHow to fix:\\n  1. Find and delete all WonderfulWhims files from the Mods folder.\\n  2. Done.",
       "Status": "Changed"
     },
     {
