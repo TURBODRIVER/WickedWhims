@@ -68,10 +68,10 @@
     },
     {
       "Key": "0xC895BEA7",
-      "Value": "Uh Oh!",
+      "Value": "Åh åh!",
       "Source": "Public",
       "Original": "Uh Oh!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB407F97E",
@@ -215,10 +215,10 @@
     },
     {
       "Key": "0xFB3A598B",
-      "Value": "Default",
+      "Value": "Standard",
       "Source": "Public",
       "Original": "Default",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC53679F6",
@@ -2096,17 +2096,17 @@
     },
     {
       "Key": "0xF2E6B748",
-      "Value": "Connect",
+      "Value": "Forbind",
       "Source": "Public",
       "Original": "Connect",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFE95BD22",
-      "Value": "Cancel",
+      "Value": "Afbryd",
       "Source": "Public",
       "Original": "Cancel",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA356EC3B",
@@ -2120,10 +2120,10 @@
     },
     {
       "Key": "0xF8986262",
-      "Value": "Success!",
+      "Value": "Gennemført!",
       "Source": "Public",
       "Original": "Success!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF316BB23",
@@ -2134,10 +2134,10 @@
     },
     {
       "Key": "0xA4F197D9",
-      "Value": "No Devices Found!",
+      "Value": "Ingen Enheder Fundet!",
       "Source": "Public",
       "Original": "No Devices Found!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA67B3CF9",
@@ -2148,10 +2148,10 @@
     },
     {
       "Key": "0xEABF6EAC",
-      "Value": "No Connection!",
+      "Value": "Ingen Forbindelse!",
       "Source": "Public",
       "Original": "No Connection!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF50C332F",
@@ -3645,10 +3645,10 @@
     },
     {
       "Key": "0xB7FB6B72",
-      "Value": "Masturbation",
+      "Value": "Onani",
       "Source": "Public",
       "Original": "Masturbation",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFB05B8E1",
@@ -4366,10 +4366,10 @@
     },
     {
       "Key": "0xDA75D015",
-      "Value": "Watch Sex",
+      "Value": "Se På Sex",
       "Source": "Public",
       "Original": "Watch Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE599D763",
@@ -19601,7 +19601,7 @@
     },
     {
       "Key": "0xDA3346B8",
-      "Value": "<font color='#510061'>Mod Bedre Dømmekraft</font>",
+      "Value": "<font color='#510061'>Imod Bedre Dømmekraft</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Against Better Judgement</font>",
       "Status": "Changed"
@@ -19615,297 +19615,297 @@
     },
     {
       "Key": "0x74EC4894",
-      "Value": "<font color='#510061'>Arousing Stares</font>",
+      "Value": "<font color='#510061'>Ophidsende Blikke</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Arousing Stares</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x466203F4",
-      "Value": "Someone walked in on {0.SimFirstName} doing it with another Sim, which would be a buzzkill if {M0.he}{F0.she} was not comfortable with showing off {M0.his}{F0.her} body. In turn, it just made the whole thing much more exciting!",
+      "Value": "Nogen kom ind, mens {0.SimFirstName} var i gang med en anden Simmer. Normalt ville det være en katastrofe, hvis ikke det var fordi {M0.han}{F0.hun} havde det helt fint med at vise sin krop frem. I stedet gjorde det hele oplevelsen endnu mere fræk!",
       "Source": "Public",
       "Original": "Someone walked in on {0.SimFirstName} doing it with another Sim, which would be a buzzkill if {M0.he}{F0.she} was not comfortable with showing off {M0.his}{F0.her} body. In turn, it just made the whole thing much more exciting!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF18DA0C3",
-      "Value": "<font color='#510061'>Piercing Stares</font>",
+      "Value": "<font color='#510061'>Gennemborende Blikke</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Piercing Stares</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x734357C8",
-      "Value": "Oh no... Someone walked in on {0.SimFirstName} having sex and totally killed the mood.",
+      "Value": "Åh nej... Nogen er lige vadet ind i rummet, mens {0.SimFirstName} havde sex, og det ødelagde stemningen fuldstændigt.",
       "Source": "Public",
       "Original": "Oh no... Someone walked in on {0.SimFirstName} having sex and totally killed the mood.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0D9FBF2B",
-      "Value": "<font color='#510061'>Do It Yourself Expert</font>",
+      "Value": "<font color='#510061'>Gør det selv-Ekspert</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Do It Yourself Expert</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x68375022",
-      "Value": "Sometimes, taking matters into your own hands might be just what you need at that moment.",
+      "Value": "Sommetider er det bedst bare at tage sagen i egen hånd.",
       "Source": "Public",
       "Original": "Sometimes, taking matters into your own hands might be just what you need at that moment.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x28F9FACD",
-      "Value": "<font color='#510061'>Spotless Mind</font>",
+      "Value": "<font color='#510061'>Pletfri Tanker</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Spotless Mind</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEA1B0C92",
-      "Value": "{0.SimFirstName} worries not about the physical cravings of a polluted mind. {M0.His}{F0.Her} vision is clear, as {M0.he}{F0.she} rises above such primitive desires.",
+      "Value": "{0.SimFirstName} bekymrer sig ikke om de fysiske længsler fra et forurenet sind. {M0.Han}{F0.Hun} ser klart og hæver sig over sådanne primitive behov.",
       "Source": "Public",
       "Original": "{0.SimFirstName} worries not about the physical cravings of a polluted mind. {M0.His}{F0.Her} vision is clear, as {M0.he}{F0.she} rises above such primitive desires.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x89B675C0",
-      "Value": "<font color='#510061'>DI-Why</font>",
+      "Value": "<font color='#510061'>Gør-det...selv?</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>DI-Why</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFC22E3BF",
-      "Value": "Self-care should be relaxing, but maybe {0.SimFirstName} should try doing something else, and keep {M0.his}{F0.her} hands NOT to {0.SimPronounReflexive}.",
+      "Value": "'Alenetid' burde være hyggeligt, men måske burde {0.SimFirstName} prøve at lave noget andet - og IKKE holde hænderne for sig selv.",
       "Source": "Public",
       "Original": "Self-care should be relaxing, but maybe {0.SimFirstName} should try doing something else, and keep {M0.his}{F0.her} hands NOT to {0.SimPronounReflexive}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB4EA0202",
-      "Value": "<font color='#510061'>Coordinated Handler</font>",
+      "Value": "<font color='#510061'>Helt i Balance</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Coordinated Handler</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x816CE8C4",
-      "Value": "With sexual tension out of {M0.his}{F0.her} system, no desires dirtying {M0.his}{F0.her} mind, {0.SimFirstName} is feeling like {M0.he}{F0.she} can move mountains.",
+      "Value": "Med den seksuelle spænding ude af systemet og uden beskidte længsler til at forstyrre {M0.hans}{F0.hendes} tanker, føler {0.SimFirstName} sig klar i hovedet og klar til at flytte bjerge.",
       "Source": "Public",
       "Original": "With sexual tension out of {M0.his}{F0.her} system, no desires dirtying {M0.his}{F0.her} mind, {0.SimFirstName} is feeling like {M0.he}{F0.she} can move mountains.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB842179C",
-      "Value": "<font color='#510061'>Bloodlust</font>",
+      "Value": "<font color='#510061'>Blodtørstig</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Bloodlust</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA45F9121",
-      "Value": "The scent and look of blood really made {0.SimFirstName}'s latest sexual adventure worthwhile.",
+      "Value": "Lugten og synet af blod gjorde virkelig {0.SimFirstName}s seneste seksuelle eventyr det hele værd.",
       "Source": "Public",
       "Original": "The scent and look of blood really made {0.SimFirstName}'s latest sexual adventure worthwhile.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD91918F4",
-      "Value": "<font color='#510061'>Sexual Hive Mind</font>",
+      "Value": "<font color='#510061'>Kollektive Sexlyster</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Sexual Hive Mind</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5410BA9C",
-      "Value": "When you surround yourself with like-minded Sims, there's a high chance you'll walk out of every 'encounter' very satisfied.",
+      "Value": "Når du omgiver dig selv med ligesindede Simmere, er der langt større chance for, at du går fra ethvert 'møde' mere tilfredsstillet.",
       "Source": "Public",
       "Original": "When you surround yourself with like-minded Sims, there's a high chance you'll walk out of every 'encounter' very satisfied.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x62E310EE",
-      "Value": "<font color='#510061'>Public Service</font>",
+      "Value": "<font color='#510061'>Offentlig Service</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Public Service</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x67ECBAD5",
-      "Value": "Possibility of anyone being able to walk in on {0.SimFirstName} and {M0.his}{F0.her} partner made that intimate encounter in a public place much more exciting.",
+      "Value": "Risikoen for, at nogen kunne opdage {0.SimFirstName} og {M0.hans}{F0.hendes} partner når som helst, gjorde deres offentlige, intime møde endnu mere spændende.",
       "Source": "Public",
       "Original": "Possibility of anyone being able to walk in on {0.SimFirstName} and {M0.his}{F0.her} partner made that intimate encounter in a public place much more exciting.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDD0F4CCB",
-      "Value": "<font color='#510061'>Too Close for Comfort</font>",
+      "Value": "<font color='#510061'>For Tæt På</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Too Close for Comfort</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x56344812",
-      "Value": "{0.SimFirstName} risked a lot by 'doing it' in a public space, but was left unfulfilled and thinking it was definitely <b>not</b> worth it...",
+      "Value": "{0.SimFirstName} risikerede en masse ved at 'gøre det' et offentligt sted, men blev ikke ordentligt tilfredsstillet og føler bestemt <b>ikke</b>, at det var det værd...",
       "Source": "Public",
       "Original": "{0.SimFirstName} risked a lot by 'doing it' in a public space, but was left unfulfilled and thinking it was definitely <b>not</b> worth it...",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5EF2FC64",
-      "Value": "<font color='#510061'>Carnal Fun</font>",
+      "Value": "<font color='#510061'>Kødelig Sjov</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Carnal Fun</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x407D863C",
-      "Value": "A little bit of naughty fun with a loved one, who knows and understands {0.SimFirstName}, is sure to lead to great experiences, and even better memories.",
+      "Value": "En smule kinky sjov med én, {M0.han}{F0.hun} elsker, og som virkelig forstår {0.SimFirstName}, er en garanteret god oplevelse med endnu bedre minder.",
       "Source": "Public",
       "Original": "A little bit of naughty fun with a loved one, who knows and understands {0.SimFirstName}, is sure to lead to great experiences, and even better memories.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD4049428",
-      "Value": "<font color='#510061'>Tender Love and Care</font>",
+      "Value": "<font color='#510061'>Kærlighed og Omsorg</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Tender Love and Care</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB4ADDFDA",
-      "Value": "For some Sims, sex is a purely selfish, physical act. Not for {0.SimFirstName} and {M0.his}{F0.her} partner, who form a deeper emotional connection every time they get intimate with each other, making one appreciate the other even more, as they satiate their desires together.",
+      "Value": "For nogle Simmere er sex kun en egoistisk, fysisk handling. Ikke for {0.SimFirstName} og {M0.hans}{F0.hendes} partner, som skaber en endnu dybere følelsesmæssig forbindelse, hver gang de er intime med hinanden. Det får dem til at sætte endnu større pris på hinanden, mens de tilfredsstiller deres lyster sammen.",
       "Source": "Public",
       "Original": "For some Sims, sex is a purely selfish, physical act. Not for {0.SimFirstName} and {M0.his}{F0.her} partner, who form a deeper emotional connection every time they get intimate with each other, making one appreciate the other even more, as they satiate their desires together.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x10872760",
-      "Value": "<font color='#510061'>More Than Sex</font>",
+      "Value": "<font color='#510061'>Mere end Sex</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>More Than Sex</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEC104749",
-      "Value": "When you and your partner know each other bodies so well, you can be sure to walk out of each intimate adventure with a great mood and a pep in your step.",
+      "Value": "Når du og din partner kender hinandens kroppe så godt, kan du være sikker på, at du går fra hvert intimt eventyr endnu mere let på tå.",
       "Source": "Public",
       "Original": "When you and your partner know each other bodies so well, you can be sure to walk out of each intimate adventure with a great mood and a pep in your step.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x89E06726",
-      "Value": "<font color='#510061'>Sexual Equilibrium</font>",
+      "Value": "<font color='#510061'>Seksuel Ligevægt</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Sexual Equilibrium</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8FC76F2B",
-      "Value": "As bodies of {0.SimFirstName} and {M0.his}{F0.her} partner intertwined in a beautiful dance of love, they ceased to be individuals and became as one.",
+      "Value": "Som {0.SimFirstName} og {M0.hans}{F0.hendes} partneres kroppe smeltede sammen i en smuk kærlighedsdans, stoppede de med at eksistere som to individer og blev i stedet ét.",
       "Source": "Public",
       "Original": "As bodies of {0.SimFirstName} and {M0.his}{F0.her} partner intertwined in a beautiful dance of love, they ceased to be individuals and became as one.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCCA00F81",
-      "Value": "<font color='#510061'>Two Hearts, One Body</font>",
+      "Value": "<font color='#510061'>To Hjerter, En Krop</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Two Hearts, One Body</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4F4B593E",
-      "Value": "Some memories are worth cherishing, like the one {0.SimFirstName} just made with their loved one after their intense session of steamy lovemaking full of unbridled lust.",
+      "Value": "Visse minder er værd at huske, som det, {0.SimFirstName} lige har skabt med sin elskede efter deres intense omgang dampende elskov, fuld af vild og utæmmet lyst.",
       "Source": "Public",
       "Original": "Some memories are worth cherishing, like the one {0.SimFirstName} just made with their loved one after their intense session of steamy lovemaking full of unbridled lust.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAB313671",
-      "Value": "<font color='#510061'>Lover's Bliss</font>",
+      "Value": "<font color='#510061'>Elskerens Lykke</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Lover's Bliss</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0B17D4A4",
-      "Value": "That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} partner.",
+      "Value": "Det var skønt - der er intet som en elskers velkendte favn. {0.SimFirstName} er oprigtigt glad for at have delt et lidenskabeligt øjeblik med {M0.hans}{F0.hendes} partner.",
       "Source": "Public",
       "Original": "That was wonderful, there's nothing quite like the familiar touch of a lover's embrace. {0.SimFirstName} is truly glad to have shared a passionate moment with {M0.his}{F0.her} partner.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x54792F4B",
-      "Value": "<font color='#510061'>Unsynchronized</font>",
+      "Value": "<font color='#510061'>Usynkroniseret</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Unsynchronized</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9F7ED22A",
-      "Value": "Even the best duos fall out of sync every now and again. Maybe it's an opportunity to talk about it, and make sure next time is going to be better?",
+      "Value": "Selv de bedste par taber rytmen indimellem. Måske er det en oplagt mulighed for at tale om det og sikre, at det bliver bedre næste gang?",
       "Source": "Public",
       "Original": "Even the best duos fall out of sync every now and again. Maybe it's an opportunity to talk about it, and make sure next time is going to be better?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x1AB6F826",
-      "Value": "<font color='#510061'>Satisfying Encounter</font>",
+      "Value": "<font color='#510061'>Tilfredsstillende Møde</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Satisfying Encounter</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x78F09A5B",
-      "Value": "{0.SimFirstName}'s latest sexual encounter left {0.SimPronounObjective} feeling quite good.",
+      "Value": "{0.SimFirstName}s seneste seksuelle møde efterlod {0.SimPronounObjective} i rigtig godt humør.",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s latest sexual encounter left {0.SimPronounObjective} feeling quite good.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA3B0F2FC",
-      "Value": "<font color='#510061'>Enjoyable Time</font>",
+      "Value": "<font color='#510061'>En Hyggelig Stund</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Enjoyable Time</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDAE33238",
-      "Value": "{0.SimFirstName} made love with another Sim and enjoyed it thoroughly.",
+      "Value": "{0.SimFirstName} havde sex med en anden Simmer og nød hvert øjeblik af det.",
       "Source": "Public",
       "Original": "{0.SimFirstName} made love with another Sim and enjoyed it thoroughly.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8EA950E6",
-      "Value": "<font color='#510061'>Instant Regret</font>",
+      "Value": "<font color='#510061'>Øjeblikkelig Fortrydelse</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Instant Regret</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDAF014DD",
-      "Value": "That sexual encounter was both regrettable and forgettable.",
+      "Value": "Det seksuelle møde var både fortrydeligt og værd at glemme alt om.",
       "Source": "Public",
       "Original": "That sexual encounter was both regrettable and forgettable.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9FFE1BBF",
-      "Value": "<font color='#510061'>A Bad Time</font>",
+      "Value": "<font color='#510061'>En Dårlig Omgang</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>A Bad Time</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x890CB1E8",
-      "Value": "That sex left {0.SimFirstName} simply disappointed.",
+      "Value": "Den omgang sex efterlod ganske enkelt {0.SimFirstName} skuffet.",
       "Source": "Public",
       "Original": "That sex left {0.SimFirstName} simply disappointed.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB78A0F30",
@@ -19914,269 +19914,269 @@
     },
     {
       "Key": "0xC27C730F",
-      "Value": "Enable Sex Reactions",
+      "Value": "Aktivér Reaktioner på Sex",
       "Source": "Public",
       "Original": "Enable Sex Reactions",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x160AE154",
-      "Value": "Disable Sex Reactions",
+      "Value": "Deaktivér Reaktioner på Sex",
       "Source": "Public",
       "Original": "Disable Sex Reactions",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD0B19A16",
-      "Value": "Reacting to Sex",
+      "Value": "Reagerer på Sex",
       "Source": "Public",
       "Original": "Reacting to Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF6BE775D",
-      "Value": "(From Reacting To Sex)",
+      "Value": "(Fra at reagere på sex)",
       "Source": "Public",
       "Original": "(From Reacting To Sex)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCF5669AC",
-      "Value": "<font color='#510061'>{M0.Cuckold}{F0.Cuckquean}</font>",
+      "Value": "<font color='#510061'>{M0.Hanrej}{F0.Cuckquean}</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>{M0.Cuckold}{F0.Cuckquean}</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE8412F45",
-      "Value": "{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else.",
+      "Value": "{0.SimFirstName} tænder virkelig på at se sin partner have sex med en anden.",
       "Source": "Public",
       "Original": "{0.SimFirstName} is really turned on by seeing {M0.his}{F0.her} partner have sex with someone else.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x01B9823E",
-      "Value": "<font color='#510061'>Scandal In The Family</font>",
+      "Value": "<font color='#510061'>Familieskandale</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Scandal In The Family</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8E644298",
-      "Value": "They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!",
+      "Value": "De har HVAD? {0.SimFirstName} er fuldstændig mundlam efter at have taget sit barn i at have sex med sin slægtning! {M0.Han}{F0.Hun} aner ikke, hvordan det her startede, men det STOPPER NU!",
       "Source": "Public",
       "Original": "They're doing WHAT? {0.SimFirstName} is completely at a loss for words after catching {M0.his}{F0.her} child in the middle of having sex with their relative! {M0.He}{F0.She} has no idea how this started but this needs to END NOW!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCF524DF2",
-      "Value": "<font color='#510061'>Scandalous Scenery</font>",
+      "Value": "<font color='#510061'>Skandaløs Udsigt </font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Scandalous Scenery</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x339FBD6D",
-      "Value": "How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have.",
+      "Value": "Skandaløst! De Simmere var i gang med et incestuøst samleje! {0.SimFirstName} har lige set noget, {M0.han}{F0.hun} virkelig ikke skulle have set.",
       "Source": "Public",
       "Original": "How Scandalous! Those Sims were in the middle of an incestuous encounter! {0.SimFirstName} just saw something {M0.he}{F0.she} really shouldn't have.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x73BB4D3B",
-      "Value": "<font color='#510061'>Adult Activities</font>",
+      "Value": "<font color='#510061'>Voksenaktiviteter</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Adult Activities</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5776F6AE",
-      "Value": "{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good.",
+      "Value": "{0.SimFirstName} blev nysgerrig, og nu har {M0.han}{F0.hun} ingen anelse om, hvad der foregik. Ud fra al den grynten, stønnen og sved at dømme kan det umuligt være godt.",
       "Source": "Public",
       "Original": "{0.SimFirstName} got curious and now {M0.he}{F0.she} has no idea what they've stumbled across. From all that grunting, moaning and sweat it can't be good.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x71ED770F",
-      "Value": "<font color='#510061'>Growing up too fast!</font>",
+      "Value": "<font color='#510061'>Bliver alt for hurtigt Voksen!</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Growing up too fast!</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5D5044B2",
-      "Value": "What do these kids think they're doing? {0.SimFirstName} just saw {M0.his}{F0.her} child in the middle of a dirty deed with another Sim! If they aren't using protection there'll be hell to pay!",
+      "Value": "Hvad tror de unger, lige de laver? {0.SimFirstName} har lige set sit barn midt i en hed omgang med en anden Simmer! Hvis de ikke bruger beskyttelse, bliver der ballade!",
       "Source": "Public",
       "Original": "What do these kids think they're doing? {0.SimFirstName} just saw {M0.his}{F0.her} child in the middle of a dirty deed with another Sim! If they aren't using protection there'll be hell to pay!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x61BBB038",
-      "Value": "<font color='#510061'>Parental Nightmare</font>",
+      "Value": "<font color='#510061'>Enhver Forældres Mareridt</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Parental Nightmare</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x085F3BED",
-      "Value": "Any Parent would be outraged to see their child going at it with a Sim who is much older than they are. This is disgusting, that Sim is too old and {0.SimFirstName}'s child is too young!",
+      "Value": "Enhver forældre ville blive rasende over at se sit barn være i fuld gang med en Simmer, der er meget ældre end dem selv. Det her er klamt, den Simmer er alt for gammel og {0.SimFirstName}s barn er alt for ung!",
       "Source": "Public",
       "Original": "Any Parent would be outraged to see their child going at it with a Sim who is much older than they are. This is disgusting, that Sim is too old and {0.SimFirstName}'s child is too young!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9002C203",
-      "Value": "<font color='#510061'>Knock Next Time!</font>",
+      "Value": "<font color='#510061'>Bank på Næste Gang!</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Knock Next Time!</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4B4231CE",
-      "Value": "That was awkward! No parent expects to walk into a room and see their child masturbating. {0.SimFirstName} better make sure to knock next time before they enter the room!",
+      "Value": "Det var akavet! Ingen forældre ønsker at gå ind i et rum og se sit barn onanere. {0.SimFirstName} må hellere sørge for at banke på næste gang!",
       "Source": "Public",
       "Original": "That was awkward! No parent expects to walk into a room and see their child masturbating. {0.SimFirstName} better make sure to knock next time before they enter the room!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8623A371",
-      "Value": "<font color='#510061'>Learning to Knock</font>",
+      "Value": "<font color='#510061'>Lærer at Banke På</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Learning to Knock</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8C875109",
-      "Value": "That'll teach {0.SimFirstName} the importance of knocking! Their child isn't a little kid anymore, perhaps they do need their privacy.",
+      "Value": "Det vil lære {0.SimFirstName} vigtigheden af at banke på! {M0.Hans}{F0.Hendes} barn er ikke et lille barn mere, måske der er brug for mere privatliv.",
       "Source": "Public",
       "Original": "That'll teach {0.SimFirstName} the importance of knocking! Their child isn't a little kid anymore, perhaps they do need their privacy.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4019B302",
-      "Value": "<font color='#510061'>Conception Interception</font>",
+      "Value": "<font color='#510061'>Indblik i Undfangelse</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Conception Interception</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x57808F3A",
-      "Value": "Gross! No {M0.son}{F0.daughter} wants to see their parents getting it on. {0.SimFirstName} is going to be mentally scarred from this experience. {M0.He}{F0.She} did not enjoy this unpleasant lesson on their conception.",
+      "Value": "Klamt! Ingen {M0.søn}{F0.datter} ønsker at se sine forældre 'hygge sig'. Synet har brændt sig fast i {0.SimFirstName}s nethinde. {M0.Han}{F0.Hun} satte ikke pris på den forfærdelige lektion i, hvordan {M0.han}{F0.hun} blev undfanget.",
       "Source": "Public",
       "Original": "Gross! No {M0.son}{F0.daughter} wants to see their parents getting it on. {0.SimFirstName} is going to be mentally scarred from this experience. {M0.He}{F0.She} did not enjoy this unpleasant lesson on their conception.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x5A34EA33",
-      "Value": "<font color='#510061'>Way Too Welcome</font>",
+      "Value": "<font color='#510061'>Alt for Velkommen</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Way Too Welcome</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x724FB433",
-      "Value": "Wait... This is {0.SimFirstName}'s house. This isn't their house! {0.SimFirstName} is sure everyone's well aware of the phrase 'My Home Is Your Home', but this is going WAY TOO FAR!",
+      "Value": "Vent... Det her er jo {0.SimFirstName}s hjem. Det er ikke deres hjem! {0.SimFirstName} er sikker på, at de fleste kender til sætningen 'føl dig bare hjemme', men det her er langt over grænsen!",
       "Source": "Public",
       "Original": "Wait... This is {0.SimFirstName}'s house. This isn't their house! {0.SimFirstName} is sure everyone's well aware of the phrase 'My Home Is Your Home', but this is going WAY TOO FAR!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x82C57DEC",
-      "Value": "<font color='#510061'>Fanning the Flames</font>",
+      "Value": "<font color='#510061'>Benzin på Bålet</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Fanning the Flames</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6C20A0C6",
-      "Value": "{0.SimFirstName} is neck deep in stress right now and the last thing they want is to see other Sims enjoying themselves. That's unfair! {M0.He}{F0.She} wishes {M0.he}{F0.she} could be as carefree as those Sims right now!",
+      "Value": "{0.SimFirstName} står i stress til halsen lige nu, og det sidste {M0.han}{F0.hun} har brug for, er at se andre Simmere have det sjovt. Det er uretfærdigt! {M0.Han}{F0.Hun} ville ønske, at {M0.han}{F0.hun} kunne være lige så bekymringsfri som dem!",
       "Source": "Public",
       "Original": "{0.SimFirstName} is neck deep in stress right now and the last thing they want is to see other Sims enjoying themselves. That's unfair! {M0.He}{F0.She} wishes {M0.he}{F0.she} could be as carefree as those Sims right now!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF56BAD75",
-      "Value": "<font color='#510061'>Just Walk Away</font>",
+      "Value": "<font color='#510061'>Bare gå din Vej</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Just Walk Away</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x3B6C4EB7",
-      "Value": "{0.SimFirstName} utterly hates that Sim. The sight of them getting off has left a bad taste in {M0.his}{F0.her} mouth. Better move along before {M0.he}{F0.she} decides to do something stupid.",
+      "Value": "{0.SimFirstName} hader den Simmer inderligt, og bare synet af dem blive tilfredsstillet efterlader en grim smag i {M0.hans}{F0.hendes} mund. Det er nok bedst at gå, før {M0.han}{F0.hun} beslutter sig for at gøre noget dumt.",
       "Source": "Public",
       "Original": "{0.SimFirstName} utterly hates that Sim. The sight of them getting off has left a bad taste in {M0.his}{F0.her} mouth. Better move along before {M0.he}{F0.she} decides to do something stupid.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9FDF23D0",
-      "Value": "<font color='#510061'>Shattered Heart</font>",
+      "Value": "<font color='#510061'>Knust Hjerte</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Shattered Heart</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA9D7A68C",
-      "Value": "What is this feeling? {0.SimFirstName} cannot comprehend this deep sense of longing and melancholy after watching love that once was but can never be again. So this is what it's like to have a heart shatter.",
+      "Value": "Hvad er det for en følelse? {0.SimFirstName} kan ikke placere den her følelse af længsel og melankoli, efter at have oplevet kærlighed, som aldrig kommer til at være igen. Så det er altså sådan, det føles, når ens hjerte bliver knust i atomer.",
       "Source": "Public",
       "Original": "What is this feeling? {0.SimFirstName} cannot comprehend this deep sense of longing and melancholy after watching love that once was but can never be again. So this is what it's like to have a heart shatter.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA25F3507",
-      "Value": "<font color='#510061'>A Relieving Sight</font>",
+      "Value": "<font color='#510061'>Et Lettende Syn</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>A Relieving Sight</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9AF513DD",
-      "Value": "That was just what {0.SimFirstName} needed. A rather exciting scene to relieve the stress {0.SimFirstName} has been feeling. Perhaps now {M0.he}{F0.she} wont be so on edge.",
+      "Value": "Det var lige, hvad {0.SimFirstName} havde brug for. En særligt spændende oplevelse til at lindre den stress, {0.SimFirstName} har følt. Måske vil {M0.han}{F0.hun} ikke føle sig helt så anspændt længere.",
       "Source": "Public",
       "Original": "That was just what {0.SimFirstName} needed. A rather exciting scene to relieve the stress {0.SimFirstName} has been feeling. Perhaps now {M0.he}{F0.she} wont be so on edge.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0DC14EE6",
-      "Value": "<font color='#510061'>Right On!</font>",
+      "Value": "<font color='#510061'>Sådan!</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Right On!</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFD661DB6",
-      "Value": "Good for them! {0.SimFirstName} fondly remembers a pleasant encounter with that Sim and now seeing them enjoy themselves so vigorously makes {0.SimPronounObjective} just want to cheer them on.",
+      "Value": "Godt for dem! {0.SimFirstName} husker glædeligt tilbage på et behageligt møde med denne Simmer, og at se vedkommende være så glad, giver {0.SimPronounObjective} lyst til at heppe på dem.",
       "Source": "Public",
       "Original": "Good for them! {0.SimFirstName} fondly remembers a pleasant encounter with that Sim and now seeing them enjoy themselves so vigorously makes {0.SimPronounObjective} just want to cheer them on.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF521C79F",
-      "Value": "<font color='#510061'>Lover's Delight</font>",
+      "Value": "<font color='#510061'>Elskerens Fryd</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Lover's Delight</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA2349658",
-      "Value": "If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning.",
+      "Value": "Hvis der er én ting, der glæder {0.SimFirstName} mere end noget andet, så er det synet af den {M0.han}{F0.hun} elsker - nøgen, svedig og stønnende.",
       "Source": "Public",
       "Original": "If there's one thing that excites {0.SimFirstName} more than anything else, it's the sight of the one {M0.he}{F0.she} loves - naked, sweating and moaning.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAF554E2D",
-      "Value": "<font color='#510061'>Unexpected</font>",
+      "Value": "<font color='#510061'>Uventet</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Unexpected</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x523E17FD",
-      "Value": "{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!",
+      "Value": "{0.SimFirstName} havde ingen forventninger om, at {M0.han}{F0.hun} i dag ville se en Simmer i fuld gang lige for øjnene af {M0.ham}{F0.hende}. Det er i hvert fald noget, man ikke ser hver dag!",
       "Source": "Public",
       "Original": "{0.SimFirstName} had no expectations that today {M0.he}{F0.she} would find a Sim going at it right in front of {M0.his}{F0.her} eyes. You don't see that every day!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x29B757D1",
@@ -20192,178 +20192,178 @@
     },
     {
       "Key": "0xD37C6367",
-      "Value": "Got Accepted to Have Sex",
+      "Value": "Blev accepteret til at have sex",
       "Source": "Public",
       "Original": "Got Accepted to Have Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x84C46FD0",
-      "Value": "Got Rejected to Have Sex",
+      "Value": "Blev afvist i at have sex",
       "Source": "Public",
       "Original": "Got Rejected to Have Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x1909E5BE",
-      "Value": "Times Had Sex",
+      "Value": "Antal gange for sex",
       "Source": "Public",
       "Original": "Times Had Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD0AEC97A",
-      "Value": "Times Had Autonomy Sex",
+      "Value": "Antal gange for autonom sex",
       "Source": "Public",
       "Original": "Times Had Autonomy Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x17828F93",
-      "Value": "Times Masturbated",
+      "Value": "Antal gange onaneret",
       "Source": "Public",
       "Original": "Times Masturbated",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x89F09439",
-      "Value": "Times Autonomy Masturbated",
+      "Value": "Antal gange for autonom onani",
       "Source": "Public",
       "Original": "Times Autonomy Masturbated",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x78F9861A",
-      "Value": "Times Joined Sex",
+      "Value": "Antal gange har sluttet sig til sex",
       "Source": "Public",
       "Original": "Times Joined Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x72E8E55F",
-      "Value": "Sex Animations Played",
+      "Value": "Sexanimationer afspillet",
       "Source": "Public",
       "Original": "Sex Animations Played",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4132D77A",
-      "Value": "Times Caught Having Sex",
+      "Value": "Antal gange opdaget i at have sex",
       "Source": "Public",
       "Original": "Times Caught Having Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA23AAB34",
-      "Value": "Reactions to Sex",
+      "Value": "Reaktioner på sex",
       "Source": "Public",
       "Original": "Reactions to Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x950C43D2",
-      "Value": "Times Got Cucked",
+      "Value": "Antal gange blev cucked",
       "Source": "Public",
       "Original": "Times Got Cucked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x58E737BF",
-      "Value": "Times Received Cum",
+      "Value": "Antal gange modtaget sæd",
       "Source": "Public",
       "Original": "Times Received Cum",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x1F642293",
-      "Value": "Times Had Satisfying Sex",
+      "Value": "Antal gange haft tilfredsstillende sex",
       "Source": "Public",
       "Original": "Times Had Satisfying Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA6A5E468",
-      "Value": "Times Had Unsatisfying Sex",
+      "Value": "Antal gange haft utilfredsstillende sex",
       "Source": "Public",
       "Original": "Times Had Unsatisfying Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x314EBB87",
-      "Value": "Unique Sex Partners",
+      "Value": "Unikke sexpartnere",
       "Source": "Public",
       "Original": "Unique Sex Partners",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6BEAA2DA",
-      "Value": "Sex Pregnancy",
+      "Value": "Sex graviditet",
       "Source": "Public",
       "Original": "Sex Pregnancy",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x970DDF24",
-      "Value": "Times Used Condom",
+      "Value": "Antal gange kondom blev brugt",
       "Source": "Public",
       "Original": "Times Used Condom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA82C5EA5",
-      "Value": "Times Taken Birth Control Pill",
+      "Value": "Antal gange taget præventionspiller",
       "Source": "Public",
       "Original": "Times Taken Birth Control Pill",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x7E013F69",
-      "Value": "Times Impregnated",
+      "Value": "Antal gange gjort andre gravide",
       "Source": "Public",
       "Original": "Times Impregnated",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFCE2D450",
-      "Value": "Times Got Pregnant",
+      "Value": "Antal gange været gravid",
       "Source": "Public",
       "Original": "Times Got Pregnant",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA3C6D27D",
-      "Value": "Times Terminated Pregnancy",
+      "Value": "Antal gange for afsluttelse af graviditeter",
       "Source": "Public",
       "Original": "Times Terminated Pregnancy",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x09727660",
-      "Value": "Times Miscarried",
+      "Value": "Antal gange aborteret",
       "Source": "Public",
       "Original": "Times Miscarried",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4EBA3DA5",
-      "Value": "Times Had Period",
+      "Value": "Antal gange for menstruation",
       "Source": "Public",
       "Original": "Times Had Period",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD1BC4840",
-      "Value": "Times Used Menstrual Pad",
+      "Value": "Antal gange for brug af menstruationsbind",
       "Source": "Public",
       "Original": "Times Used Menstrual Pad",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6B876072",
-      "Value": "Times Used Menstrual Tampon",
+      "Value": "Antal gange for brug af tampon",
       "Source": "Public",
       "Original": "Times Used Menstrual Tampon",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC6CA0209",
@@ -20372,31 +20372,31 @@
     },
     {
       "Key": "0x349887A8",
-      "Value": "Command to Be Promiscuous",
+      "Value": "Befal at være promiskuøs",
       "Source": "Public",
       "Original": "Command to Be Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x7F0D4785",
-      "Value": "Irresistible Command to Be Promiscuous",
+      "Value": "Uimodståelig befaling om at være promiskuøs",
       "Source": "Public",
       "Original": "Irresistible Command to Be Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD0B13391",
-      "Value": "Dispel Command to Be Promiscuous",
+      "Value": "Ophæv befalingen om at være promiskuøs",
       "Source": "Public",
       "Original": "Dispel Command to Be Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2766BBBD",
-      "Value": "Strangely...compelled...to...have...sex.",
+      "Value": "Underligt...tvunget...til...at...have...sex.",
       "Source": "Public",
       "Original": "Strangely...compelled...to...have...sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x3225EFE5",
@@ -20405,52 +20405,52 @@
     },
     {
       "Key": "0x5003578D",
-      "Value": "Promiscuoso",
+      "Value": "Promiskuoso",
       "Source": "Public",
       "Original": "Promiscuoso",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x07603DC8",
-      "Value": "Makes the Sim urgently chase their sexual desires.",
+      "Value": "Får Simmeren til straks at jagte sine seksuelle lyster.",
       "Source": "Public",
       "Original": "Makes the Sim urgently chase their sexual desires.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFA0B3C45",
-      "Value": "(From Failed Promiscuoso Spell)",
+      "Value": "(Fra mislykket Promiskuoso-besværgelse)",
       "Source": "Public",
       "Original": "(From Failed Promiscuoso Spell)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC9951C01",
-      "Value": "Tome of Promiscuoso",
+      "Value": "Skrift om Promiskuoso",
       "Source": "Public",
       "Original": "Tome of Promiscuoso",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE9E2E6DC",
-      "Value": "<b>Requires:</b> Rank Master\\nTeaches the reader a Spell to make Sims desire sex.",
+      "Value": "<b>Kræver:</b> Mesterrang\\nLærer læseren en besværgelse, som får Simmere til at ville have sex.",
       "Source": "Public",
       "Original": "<b>Requires:</b> Rank Master\\nTeaches the reader a Spell to make Sims desire sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x26FB6A82",
-      "Value": "<font color='#510061'>Mysterious Lust</font>",
+      "Value": "<font color='#510061'>Mystisk Begær</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Mysterious Lust</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0B8A352E",
-      "Value": "Some mysterious power is making {0.SimFirstName} feel exceptionally lustful, as if under a spell.",
+      "Value": "Nogle mystiske kræfter får {0.SimFirstName} til at føle sig usædvanligt sexlysten, som om {M0.han}{F0.hun} var tryllebundet.",
       "Source": "Public",
       "Original": "Some mysterious power is making {0.SimFirstName} feel exceptionally lustful, as if under a spell.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0FC8BC73",
@@ -20459,45 +20459,45 @@
     },
     {
       "Key": "0xE02AD581",
-      "Value": "Sexual Openness",
+      "Value": "Seksuel Åbenhed",
       "Source": "Public",
       "Original": "Sexual Openness",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2AAE7A67",
-      "Value": "The mood is right and the day is special - waste no time, pick up a cutie and fool around.\\n\\nTo participate, have satisfying sex with a Sim.",
+      "Value": "Humøret er godt, og dagen føles speciel - spild ikke tiden, find en lækkerbisken og kom i gang.\\n\\nFor at deltage skal du have tilfredsstillende sex med en Simmer.",
       "Source": "Public",
       "Original": "The mood is right and the day is special - waste no time, pick up a cutie and fool around.\\n\\nTo participate, have satisfying sex with a Sim.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x01A42DD6",
-      "Value": "(From Being a Cum Slut)",
+      "Value": "(Fra at Elske Sæd)",
       "Source": "Public",
       "Original": "(From Being a Cum Slut)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC462EBC3",
-      "Value": "(From Being a Generous Lover)",
+      "Value": "(Fra at være en Generøs Elsker)",
       "Source": "Public",
       "Original": "(From Being a Generous Lover)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD42A84E1",
-      "Value": "(From Being an Adulterer)",
+      "Value": "(Fra at være en Skørtejæger)",
       "Source": "Public",
       "Original": "(From Being an Adulterer)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEEDBD39B",
-      "Value": "(From Being Sexually Abstinent)",
+      "Value": "(Fra at være Seksuelt Afholden)",
       "Source": "Public",
       "Original": "(From Being Sexually Abstinent)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDB5477FF",
@@ -20506,38 +20506,38 @@
     },
     {
       "Key": "0x86CEB9DF",
-      "Value": "Promiscuous",
+      "Value": "Promiskuøs",
       "Source": "Public",
       "Original": "Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x01A6007E",
-      "Value": "Upgrade Mind Control: Promiscuous",
+      "Value": "Opgradér Tankekontrol: Promiskuøs",
       "Source": "Public",
       "Original": "Upgrade Mind Control: Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x100D9704",
-      "Value": "Continue Upgrading Mind Control: Promiscuous",
+      "Value": "Fortsæt med at Opgradere Tankekontrol: Promiskuøs",
       "Source": "Public",
       "Original": "Continue Upgrading Mind Control: Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFE60B016",
-      "Value": "{0.SimFirstName} has upgraded the SimRay so it can Mind Control Sims to be \"Promiscuous.\" Ready to get freaky?",
+      "Value": "{0.SimFirstName} har opgraderet SimRay'en, så den nu kan Tankekontrollere andre Simmere til at være \"Promiskuøse.\" Klar til at blive kinky?",
       "Source": "Public",
       "Original": "{0.SimFirstName} has upgraded the SimRay so it can Mind Control Sims to be \"Promiscuous.\" Ready to get freaky?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEB167787",
-      "Value": "Mind Controlled: Promiscuous",
+      "Value": "Tankekontrolleret: Promiskuøs",
       "Source": "Public",
       "Original": "Mind Controlled: Promiscuous",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD37F7C28",
@@ -20553,80 +20553,80 @@
     },
     {
       "Key": "0x83B93A76",
-      "Value": "Have Sex",
+      "Value": "Hav Sex",
       "Source": "Public",
       "Original": "Have Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x75CB3001",
-      "Value": "Okay, let's do it. Lead the way.",
+      "Value": "Okay, lad os gøre det. Du viser vejen.",
       "Source": "Public",
       "Original": "Okay, let's do it. Lead the way.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC6613A0E",
-      "Value": "Sorry, I'm not sure I understand what you're asking for so the answer is no.",
+      "Value": "Beklager, men jeg er ikke sikker på, at jeg forstår, hvad det er, du beder mig om - så svaret er nej.",
       "Source": "Public",
       "Original": "Sorry, I'm not sure I understand what you're asking for so the answer is no.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9257FB05",
-      "Value": "Umm.. I'm uncertain about this. No.",
+      "Value": "Øhh.. Jeg er ikke sikker på det her. Nej.",
       "Source": "Public",
       "Original": "Umm.. I'm uncertain about this. No.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA812F6B5",
-      "Value": "That's an interesting idea, but what does that have to do with me?",
+      "Value": "Det er et interessant forslag, men hvad har det med mig at gøre?",
       "Source": "Public",
       "Original": "That's an interesting idea, but what does that have to do with me?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAC86C050",
-      "Value": "Could you explain what you mean again? Actually, never mind, I don't have the time for that.",
+      "Value": "Kunne du forklare igen, hvad du mener? Ved du hvad, bare glem det - jeg har ikke tid til det her.",
       "Source": "Public",
       "Original": "Could you explain what you mean again? Actually, never mind, I don't have the time for that.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x65EA61B2",
-      "Value": "I'm having trouble making sense of what you're saying, so I guess... no.",
+      "Value": "Jeg har svært ved at finde ud af, hvad du mener, så... nej.",
       "Source": "Public",
       "Original": "I'm having trouble making sense of what you're saying, so I guess... no.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC4B1325C",
-      "Value": "I'm not sure I understand the concept you're proposing. Uh, no?",
+      "Value": "Jeg er ikke sikker på at jeg forstår konceptet af dit forslag. Øh, nej?",
       "Source": "Public",
       "Original": "I'm not sure I understand the concept you're proposing. Uh, no?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x079B9A62",
-      "Value": "Oh, let me think about it and get back to you never.",
+      "Value": "Åh, lad mig tænke over det og vende tilbage til dig om... aldrig.",
       "Source": "Public",
       "Original": "Oh, let me think about it and get back to you never.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF35B96E7",
-      "Value": "I'm struggling to understand why are you talking to me about this.",
+      "Value": "Jeg har svært ved at forstå, hvorfor du taler med mig om dette.",
       "Source": "Public",
       "Original": "I'm struggling to understand why are you talking to me about this.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x912CEE93",
-      "Value": "Sorry, I am not interested in doing that kind of thing with {M0.men}{F0.women}.",
+      "Value": "Beklager, men jeg er ikke interesseret i at gøre den slags med {M0.mænd}{F0.kvinder}.",
       "Source": "Public",
       "Original": "Sorry, I am not interested in doing that kind of thing with {M0.men}{F0.women}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF54814B2",
@@ -20635,171 +20635,171 @@
     },
     {
       "Key": "0x048C606E",
-      "Value": "Ask about Health",
+      "Value": "Spørg ind til helbred",
       "Source": "Public",
       "Original": "Ask about Health",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD0DE5909",
-      "Value": "I'm all clean, no need to fear catching anything nasty from me.",
+      "Value": "Jeg er ren. Du behøver ikke at være bange for at blive smittet med noget klamt af mig.",
       "Source": "Public",
       "Original": "I'm all clean, no need to fear catching anything nasty from me.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x51A42F8C",
-      "Value": "I.. think I'm fine. Maybe? I might need to get tested to be sure.",
+      "Value": "Jeg tror, jeg er okay... Måske? Jeg er nok nødt til at blive testet for at være sikker.",
       "Source": "Public",
       "Original": "I.. think I'm fine. Maybe? I might need to get tested to be sure.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0AD2B541",
-      "Value": "Oh no, I'm not doing well. I caught something nasty recently.",
+      "Value": "Åh nej, jeg er ikke okay. Jeg er blevet smittet med noget klamt for nylig.",
       "Source": "Public",
       "Original": "Oh no, I'm not doing well. I caught something nasty recently.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x492CB7AF",
-      "Value": "I'm doing well, thank you for asking. That's what you meant, right?",
+      "Value": "Jeg har det fint, tak fordi du spørger. Det var det du mente, ikke?",
       "Source": "Public",
       "Original": "I'm doing well, thank you for asking. That's what you meant, right?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x7128AEB2",
-      "Value": "What's it to you? I'm feeling just fine, I don't understand why you would ask that.",
+      "Value": "Hvad rager det dig? Jeg har det helt fint, så jeg forstår ikke, hvorfor du spørger.",
       "Source": "Public",
       "Original": "What's it to you? I'm feeling just fine, I don't understand why you would ask that.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDC8DF765",
-      "Value": "Turn into Crabs Sleeper Agent",
+      "Value": "Gør til Sovende Agent med fladlus",
       "Source": "Public",
       "Original": "Turn into Crabs Sleeper Agent",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x93BEA31C",
-      "Value": "Infect with Crabs",
+      "Value": "Inficér med Fladlus",
       "Source": "Public",
       "Original": "Infect with Crabs",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x482A4B70",
-      "Value": "Crabs Immune",
+      "Value": "Immunitet mod fladlus",
       "Source": "Public",
       "Original": "Crabs Immune",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9D259005",
-      "Value": "Crabs Immune",
+      "Value": "Immunitet mod fladlus",
       "Source": "Public",
       "Original": "Crabs Immune",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x059BEE36",
-      "Value": "Sims immune to Crabs no longer contract Crab Lice.",
+      "Value": "Simmere der er immune mod fladlus, kan ikke længere få fladlus.",
       "Source": "Public",
       "Original": "Sims immune to Crabs no longer contract Crab Lice.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4E52DD81",
-      "Value": "<font color='#510061'>Itching in Pubic Area</font>",
+      "Value": "<font color='#510061'>Kløe i Underlivet</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Itching in Pubic Area</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x05CA1B79",
-      "Value": "{0.SimFirstName} is experiencing an itching sensation around {M0.his}{F0.her} genitals. Could this be something serious?",
+      "Value": "{0.SimFirstName} oplever en kløende fornemmelse i sit underliv. Kunne det være noget alvorligt?",
       "Source": "Public",
       "Original": "{0.SimFirstName} is experiencing an itching sensation around {M0.his}{F0.her} genitals. Could this be something serious?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x92F33C0C",
-      "Value": "<font color='#510061'>Intense Itching</font>",
+      "Value": "<font color='#510061'>Intens Kløe</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Intense Itching</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDDC1CE94",
-      "Value": "(From Crab Lice)",
+      "Value": "(Fra fladlus)",
       "Source": "Public",
       "Original": "(From Crab Lice)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x330AB990",
-      "Value": "Oh no! {0.SimFirstName} contracted Crab Lice! The intense itching caused by the little bugs living around {M0.his}{F0.her} genitalia is not going to clear out without proper treatment.",
+      "Value": "Åh nej! {0.SimFirstName} har fået fladlus! Den intense kløe, forårsaget af de små kryb, der nu lever i {M0.hans}{F0.hendes} underliv, forsvinder ikke uden korrekt behandling.",
       "Source": "Public",
       "Original": "Oh no! {0.SimFirstName} contracted Crab Lice! The intense itching caused by the little bugs living around {M0.his}{F0.her} genitalia is not going to clear out without proper treatment.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x51546A94",
-      "Value": "Acquired Crab Lice!",
+      "Value": "Har fået fladlus!",
       "Source": "Public",
       "Original": "Acquired Crab Lice!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAF794EE8",
-      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store or acquired from a Medical Specialist.",
+      "Value": "{0.SimName} har fået fladlus, parasitære insekter, der angriber de menneskelige kønsdele og forårsager intens kløe. Typisk fås det gennem samleje med en smittet Simmer eller ved at sove i infesterede senge.\\n\\nFladlus forsvinder ikke af sig selv, så målrettet behandling er nødvendig.\\n\\nLusedræbende shampoo kan købes fra Wicked-butikken eller erhverves fra en sundhedsfaglig specialist.",
       "Source": "Patreon",
       "Original": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store or acquired from a Medical Specialist.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x01886BE8",
-      "Value": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store via phone or computer.",
+      "Value": "{0.SimName} har fået fladlus, parasitære insekter, der angriber de menneskelige kønsdele og forårsager intens kløe. Typisk fås det gennem samleje med en smittet Simmer eller ved at sove i infesterede senge.\\n\\nFladlus forsvinder ikke af sig selv, så målrettet behandling er nødvendig.\\n\\nLusedræbende shampoo kan købes fra Wicked-butikken via telefon eller computer.",
       "Source": "Public",
       "Original": "{0.SimName} acquired Crab Lice, parasitic insects that infest human genital area and cause intense itching. Typically contracted through sexual intercourse with infected Sims or from sleeping in infested beds.\\n\\nPubic Lice do not voluntarily leave, so proper treatment with specialized medication is required.\\n\\nLice Killer Shampoo can be purchased from the Wicked Store via phone or computer.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB27675D1",
-      "Value": "Use Medicine",
+      "Value": "Brug medicin",
       "Source": "Public",
       "Original": "Use Medicine",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x04A1BE59",
-      "Value": "Lice Killing Shampoo can only be used while taking a shower or a bath.",
+      "Value": "Lusedræbende shampoo kan kun bruges, når Simmeren tager et bad eller et brusebad.",
       "Source": "Public",
       "Original": "Lice Killing Shampoo can only be used while taking a shower or a bath.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA0A7F9FC",
-      "Value": "<font color='#510061'>Not-So-Wicked Lice Killing Shampoo</font>",
+      "Value": "<font color='#510061'>Ikke-Så-Fræk Lusedræbende Shampoo</font>",
       "Source": "Public",
       "Original": "<font color='#510061'>Not-So-Wicked Lice Killing Shampoo</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4F01AB56",
-      "Value": "This complex formula of corrosive acid, slimy goo, and purple dye will completely remove any crabby bugs from your body and protect it for more than 24 hours. Our product definitely does not contain any chemicals that may cause damage to your health.\\n\\n<i>The Lice Killing Shampoo can only be used from Sim inventory and only during a shower or a bath.</i>",
+      "Value": "Denne komplekse formel af ætsende syre, slimet snask og lilla farvestof vil fuldstændigt fjerne ethvert kryb fra din krop og beskytte dig i over 24 timer. Vores produkt indeholder helt sikkert ikke nogen kemikalier, der kan skade dit helbred.\\n\\n<i>Den lusedræbende shampoo kan kun bruges fra Simmerens inventar og kun, når Simmeren tager et bad eller et brusebad</i>",
       "Source": "Public",
       "Original": "This complex formula of corrosive acid, slimy goo, and purple dye will completely remove any crabby bugs from your body and protect it for more than 24 hours. Our product definitely does not contain any chemicals that may cause damage to your health.\\n\\n<i>The Lice Killing Shampoo can only be used from Sim inventory and only during a shower or a bath.</i>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4CA7A611",
-      "Value": "No More Itching!",
+      "Value": "Ikke mere kløe!",
       "Source": "Public",
       "Original": "No More Itching!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x366B50EE",
@@ -20808,115 +20808,115 @@
     },
     {
       "Key": "0x96664A24",
-      "Value": "Burning Bladder Infection",
+      "Value": "Brændende Blærebetændelse",
       "Source": "Patreon",
       "Original": "Burning Bladder Infection",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD6423E7F",
-      "Value": "Turn into Burning Bladder Sleeper Agent",
+      "Value": "Gør til Sovende Agent med brændende blærebetændelse",
       "Source": "Patreon",
       "Original": "Turn into Burning Bladder Sleeper Agent",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8099BB9E",
-      "Value": "Infect with Burning Bladder",
+      "Value": "Inficér med brændende blærebetændelse",
       "Source": "Patreon",
       "Original": "Infect with Burning Bladder",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9EB2817F",
-      "Value": "Acquired Burning Bladder Infection!",
+      "Value": "Har fået brændende blærebetændelse!",
       "Source": "Patreon",
       "Original": "Acquired Burning Bladder Infection!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE0641C5B",
-      "Value": "{0.SimName} acquired Burning Bladder Infection, bacteria that affects the bladder causing burning pain after urination. Typically contracted through sexual intercourse with infected Sims.\\n\\nBurning Bladder Infection requires proper treatment from a medical specialist.\\nVisit a Medical Specialist using Sim phone under the Wicked category.",
+      "Value": "{0.SimName} har fået en brændende blærebetændelse forårsaget af bakterier, der påvirker blæren og giver brændende fornemmelser i underlivet efter vandladning. Typisk fås det gennem samleje med en smittet Simmer.\\n\\nBrændende blærebetændelse forsvinder ikke af sig selv, så målrettet behandling er nødvendig.\\nBesøg en læge gennem Simmerens telefon under Wicked-kategorien.",
       "Source": "Patreon",
       "Original": "{0.SimName} acquired Burning Bladder Infection, bacteria that affects the bladder causing burning pain after urination. Typically contracted through sexual intercourse with infected Sims.\\n\\nBurning Bladder Infection requires proper treatment from a medical specialist.\\nVisit a Medical Specialist using Sim phone under the Wicked category.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA54A399",
-      "Value": "<font color='#510061'>Burning Sensation</font>",
+      "Value": "<font color='#510061'>Brændende Fornemmelse</font>",
       "Source": "Patreon",
       "Original": "<font color='#510061'>Burning Sensation</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC9D0FACF",
-      "Value": "(From Burning Bladder Infection)",
+      "Value": "(Fra Brændende Blærebetændelse)",
       "Source": "Patreon",
       "Original": "(From Burning Bladder Infection)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE5579C62",
-      "Value": "Ouch! {0.SimFirstName} is experiencing a burning sensation after peeing, suggesting an infection. Seeking the expertise of a medical specialist is essential to address this discomfort.",
+      "Value": "Av! {0.SimFirstName} oplever en sviende, brændende fornemmelse efter vandladning, hvilket tyder på infektion. Det vil være nødvendigt at søge læge for at få behandling mod ubehaget.",
       "Source": "Patreon",
       "Original": "Ouch! {0.SimFirstName} is experiencing a burning sensation after peeing, suggesting an infection. Seeking the expertise of a medical specialist is essential to address this discomfort.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4899F7F2",
-      "Value": "Burning Bladder Immune",
+      "Value": "Brændende Blære Immun",
       "Source": "Patreon",
       "Original": "Burning Bladder Immune",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC84554BB",
-      "Value": "Burning Bladder Immune",
+      "Value": "Brændende Blære Immun",
       "Source": "Patreon",
       "Original": "Burning Bladder Immune",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x485B4E92",
-      "Value": "Sims immune to Burning Bladder no longer contract the Burning Bladder Infection.",
+      "Value": "Simmere, der er immune over for Brændende Blære kan ikke længere få Brændende Blærebetændelse.",
       "Source": "Patreon",
       "Original": "Sims immune to Burning Bladder no longer contract the Burning Bladder Infection.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6BE46929",
-      "Value": "Visit Medical Specialist",
+      "Value": "Besøg Lægen",
       "Source": "Patreon",
       "Original": "Visit Medical Specialist",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x73F5A953",
-      "Value": "Visiting Medical Specialist",
+      "Value": "Er ved lægen",
       "Source": "Patreon",
       "Original": "Visiting Medical Specialist",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x57420EE1",
-      "Value": "Medical Specialists will be available again between 7 AM and 9 PM.",
+      "Value": "Lægerne er tilgængelig igen mellem klokken 07:00 og 21:00.",
       "Source": "Patreon",
       "Original": "Medical Specialists will be available again between 7 AM and 9 PM.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x71652B9F",
-      "Value": "Medical Specialists Services",
+      "Value": "Lægeservices",
       "Source": "Patreon",
       "Original": "Medical Specialists Services",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x323CC6B3",
-      "Value": "Select medical service for {0.SimFirstName} to visit.",
+      "Value": "Vælg den lægeservice {0.SimFirstName} skal bruge.",
       "Source": "Patreon",
       "Original": "Select medical service for {0.SimFirstName} to visit.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x360B21BD",
@@ -20925,73 +20925,73 @@
     },
     {
       "Key": "0xFC797EFE",
-      "Value": "Cancel Visit?",
+      "Value": "Aflys besøg?",
       "Source": "Patreon",
       "Original": "Cancel Visit?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBDA12D36",
-      "Value": "{0.SimFirstName} is currently at the medical appointment. Leaving will cancel the service free of charge.\\n\\nAre you sure {0.SimFirstName} should leave?",
+      "Value": "{0.SimFirstName} er i øjeblikket til en lægeaftale. Hvis {0.SimFirstName} forlader aftalen nu, vil aftalen blive annulleret uden omkostninger.\\n\\nEr du sikker på, at {0.SimFirstName} skal forlade lægeaftalen?",
       "Source": "Patreon",
       "Original": "{0.SimFirstName} is currently at the medical appointment. Leaving will cancel the service free of charge.\\n\\nAre you sure {0.SimFirstName} should leave?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x0EC69573",
-      "Value": "(From Medical Service)",
+      "Value": "(Fra Lægeservice)",
       "Source": "Patreon",
       "Original": "(From Medical Service)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE2B08E7C",
-      "Value": "Erectile Dysfunction Consultation",
+      "Value": "Rejsningsproblemer Konsultation",
       "Source": "Patreon",
       "Original": "Erectile Dysfunction Consultation",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6DF46D6D",
-      "Value": "Visit an expert sexologist to address issues related to erectile dysfunction.",
+      "Value": "Besøg en sexologisk ekspert for at løse problemer med rejsningsbesvær.",
       "Source": "Patreon",
       "Original": "Visit an expert sexologist to address issues related to erectile dysfunction.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC5B5E2CB",
-      "Value": "{0.SimFirstName} visited an expert sexologist to get help for {0.SimPronounPossessiveDependent} Erectile Dysfunction. After a thorough examination and some rather personal questions, {0.SimFirstName} left with a prescription that promises to turn their love life from lackluster to legendary! WickedMax Purple Pills have been added to {0.SimFirstName}'s inventory.",
+      "Value": "{0.SimFirstName} besøgte en sexolog for at få hjælp til sine rejsningsproblemer. Efter grundig undersøgelse og nogle ret personlige spørgsmål gik {0.SimFirstName} derfra med en recept på medicin, der lover at vende hans sexliv fra rynket rosin til fuldfed aubergine! WickedMax Lilla Piller er blevet tilføjet til {0.SimFirstName}s inventar.",
       "Source": "Patreon",
       "Original": "{0.SimFirstName} visited an expert sexologist to get help for {0.SimPronounPossessiveDependent} Erectile Dysfunction. After a thorough examination and some rather personal questions, {0.SimFirstName} left with a prescription that promises to turn their love life from lackluster to legendary! WickedMax Purple Pills have been added to {0.SimFirstName}'s inventory.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEFB9A16C",
-      "Value": "{0.SimFirstName} visited an expert sexologist with a worry regarding Erectile Dysfunction. After a series of eyebrow-raising questions and blush-inducing tests, the expert sexologist declared that {0.SimFirstName} is as fit as a fiddle down under. No pills needed here! Keep doing what you're doing, and maybe even a bit more, for good measure!",
+      "Value": "{0.SimFirstName} besøgte en sexologisk ekspert med bekymringer om rejsningsproblemer. Efter en række grænseoverskridende spørgsmål og en undersøgelse, der kan få enhver til at tvivle på sine egne beslutninger, konstaterede sexologen, at {0.SimFirstName} er frisk og frejdig i de nedre regioner. Ingen piller nødvendige her! Fortsæt som du allerede gør og måske endda lidt ekstra til, bare for god ordens skyld!",
       "Source": "Patreon",
       "Original": "{0.SimFirstName} visited an expert sexologist with a worry regarding Erectile Dysfunction. After a series of eyebrow-raising questions and blush-inducing tests, the expert sexologist declared that {0.SimFirstName} is as fit as a fiddle down under. No pills needed here! Keep doing what you're doing, and maybe even a bit more, for good measure!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDFC11DDA",
-      "Value": "<font color='#510061'>Doctor's Orders</font>",
+      "Value": "<font color='#510061'>Lægens Ord</font>",
       "Source": "Patreon",
       "Original": "<font color='#510061'>Doctor's Orders</font>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x57AFA682",
-      "Value": "The doctor says {0.SimFirstName} is more than okay - they're exceptional! With this medical stamp of approval on sexual prowess, it's time to embrace it and enjoy the fruits of being worry-free and ready to impress!",
+      "Value": "Lægen siger, at {0.SimFirstName} har det bedre end okay - {M0.han}{F0.hun} er ganske enkelt ekseptionel! Med dette kvalitetsstempel på seksuel dygtighed er det tid til at nyde bekymringsfriheden og begynde at imponere!",
       "Source": "Patreon",
       "Original": "The doctor says {0.SimFirstName} is more than okay - they're exceptional! With this medical stamp of approval on sexual prowess, it's time to embrace it and enjoy the fruits of being worry-free and ready to impress!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x66EF467D",
-      "Value": "Burning Bladder Infection Consultation",
+      "Value": "Brændende Blærebetændelse Konsultation",
       "Source": "Patreon",
       "Original": "Burning Bladder Infection Consultation",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2B4A9833",
@@ -21002,10 +21002,10 @@
     },
     {
       "Key": "0x73954B49",
-      "Value": "{0.SimFirstName} visited a sexual health professional for a thorough consultation regarding Burning Bladder Infection. After some blush-worthy probing and a procedure that's best left to the imagination, {0.SimFirstName} is now free from the fiery clutches of the infection!",
+      "Value": "{0.SimFirstName} var til konsultation hos lægen på grund af brændende blærebetændelse. Efter en grænseoverskridende undersøgelse og en procedure, der bedst overlades til fantasien, er {0.SimFirstName} nu fri af infektionens brændende kløer!",
       "Source": "Patreon",
       "Original": "{0.SimFirstName} visited a sexual health professional for a thorough consultation regarding Burning Bladder Infection. After some blush-worthy probing and a procedure that's best left to the imagination, {0.SimFirstName} is now free from the fiery clutches of the infection!",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBE5DE844",
