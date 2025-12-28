@@ -19,10 +19,10 @@
     },
     {
       "Key": "0xF9421FE7",
-      "Value": "WickedWhims is sad...",
+      "Value": "WickedWhims está triste...",
       "Source": "Public",
       "Original": "WickedWhims is sad...",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA66FFF3C",
@@ -75,17 +75,17 @@
     },
     {
       "Key": "0xB407F97E",
-      "Value": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
+      "Value": "¡Ey! No has guardado tu juego durante al menos una hora. No te arriesgues a perder el progreso del juego, guarda el juego ahora mismo.",
       "Source": "Public",
       "Original": "Hey! You haven't saved your game for at least an hour. Don't risk losing your game progress, please save the game right now.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFBB16F6B",
-      "Value": "Save Game",
+      "Value": "Guardar juego",
       "Source": "Public",
       "Original": "Save Game",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF7694739",
@@ -236,143 +236,143 @@
     },
     {
       "Key": "0xDF174B2D",
-      "Value": "Default (Alternative)",
+      "Value": "Predeterminado (alternativa)",
       "Source": "Public",
       "Original": "Default (Alternative)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAFF33CBB",
-      "Value": "Penis Size Manipulation Setting (Nudity > Body Settings) has to be enabled to adjust penis size.",
+      "Value": "La configuración de manipulación del tamaño del pene (Desnudez > Configuración del cuerpo) debe estar habilitada para ajustar el tamaño del pene.",
       "Source": "Public",
       "Original": "Penis Size Manipulation Setting (Nudity > Body Settings) has to be enabled to adjust penis size.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC376959A",
-      "Value": "Change Sims Penis Size",
+      "Value": "Cambiar el tamaño del pene de los Sims",
       "Source": "Public",
       "Original": "Change Sims Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCD86A297",
-      "Value": "Select Sims for penis size adjustments.",
+      "Value": "Seleccionar Sims para ajustar el tamaño del pene.",
       "Source": "Public",
       "Original": "Select Sims for penis size adjustments.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB471209E",
-      "Value": "Penis Size Adjustments",
+      "Value": "Ajustes del tamaño del pene",
       "Source": "Public",
       "Original": "Penis Size Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB579A2D9",
-      "Value": "Applied penis size adjustments to {0.Number} Sim{P0.s}.",
+      "Value": "Se aplicaron ajustes de tamaño del pene a {0.Number} Sim{P0.s}.",
       "Source": "Public",
       "Original": "Applied penis size adjustments to {0.Number} Sim{P0.s}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCC814DDE",
-      "Value": "{0.SimFirstName}'s Alien Penis Adjustments",
+      "Value": "Ajustes del pene alienígena de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Alien Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF9DC578D",
-      "Value": "{0.SimFirstName}'s Vampire Penis Adjustments",
+      "Value": "Ajustes del pene de vampiro de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Vampire Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDFBB718B",
-      "Value": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Penis Adjustments",
+      "Value": "Ajustes del pene de {M0.tritón}{F0.sirena} de {0.SimFirstName} ",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE3505D0E",
-      "Value": "{0.SimFirstName}'s Werewolf Penis Adjustments",
+      "Value": "Ajustes del pene de hombre lobo de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Werewolf Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x896E3274",
-      "Value": "{0.SimFirstName}'s Fairy Penis Adjustments",
+      "Value": "Ajustes del pene de hada de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Fairy Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA4CC7436",
-      "Value": "{0.SimFirstName}'s Succubus Penis Adjustments",
+      "Value": "Ajustes del pene de súcubo de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Succubus Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEC83D3E8",
-      "Value": "{0.SimFirstName}'s Human Penis Adjustments",
+      "Value": "Ajustes del pene humano de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Human Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA4AABB31",
-      "Value": "Selected Sims Alien Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene alienígena de los Sims",
       "Source": "Public",
       "Original": "Selected Sims Alien Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAB29D2F6",
-      "Value": "Selected Sims Vampire Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene de los Sims Vampiro",
       "Source": "Public",
       "Original": "Selected Sims Vampire Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFDDBC152",
-      "Value": "Selected Sims Merfolk Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene de los Sims Merfolk",
       "Source": "Public",
       "Original": "Selected Sims Merfolk Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD67DDA17",
-      "Value": "Selected Sims Werewolf Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene del hombre lobo de los Sims",
       "Source": "Public",
       "Original": "Selected Sims Werewolf Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFA69D29F",
-      "Value": "Selected Sims Fairy Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene de los Sims Fairy",
       "Source": "Public",
       "Original": "Selected Sims Fairy Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC53F1C03",
-      "Value": "Selected Sims Succubus Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene de Sims Succubus",
       "Source": "Public",
       "Original": "Selected Sims Succubus Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE0EAB27F",
-      "Value": "Selected Sims Human Penis Adjustments",
+      "Value": "Ajustes seleccionados del pene humano de los Sims",
       "Source": "Public",
       "Original": "Selected Sims Human Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA2E9B04",
@@ -390,10 +390,10 @@
     },
     {
       "Key": "0x9F076D58",
-      "Value": "Select penis length value.\\n<b>Current:</b> {0.Number}%",
+      "Value": "Seleccione el valor de la longitud del pene.\\n<b>Actual:</b> {0.Number}%",
       "Source": "Public",
       "Original": "Select penis length value.\\n<b>Current:</b> {0.Number}%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE135E1B8",
@@ -411,17 +411,17 @@
     },
     {
       "Key": "0x97BA4ACE",
-      "Value": "Select penis girth value.\\n<b>Current:</b> {0.Number}%",
+      "Value": "Seleccione el valor de la circunferencia del pene.\\n<b>Actual:</b> {0.Number}%",
       "Source": "Public",
       "Original": "Select penis girth value.\\n<b>Current:</b> {0.Number}%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x880D2FA4",
-      "Value": "Adjust Testicles Size",
+      "Value": "Ajustar el tamaño de los testículos",
       "Source": "Public",
       "Original": "Adjust Testicles Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD3F2C464",
@@ -432,10 +432,10 @@
     },
     {
       "Key": "0xB0C6019A",
-      "Value": "Select esticles size value.\\n<b>Current:</b> {0.Number}%",
+      "Value": "Seleccione el valor del tamaño de los testículos.\\n<b>Actual:</b> {0.Number}%",
       "Source": "Public",
       "Original": "Select esticles size value.\\n<b>Current:</b> {0.Number}%",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF1B1F541",
@@ -446,31 +446,31 @@
     },
     {
       "Key": "0xE434E4FA",
-      "Value": "Randomize penis length, girth and testicles size.",
+      "Value": "Aleatorice la longitud, el grosor y el tamaño de los testículos y del pene.",
       "Source": "Public",
       "Original": "Randomize penis length, girth and testicles size.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC561CE8B",
-      "Value": "Custom Penis Size Adjustments",
+      "Value": "Ajustes personalizados del tamaño del pene",
       "Source": "Public",
       "Original": "Custom Penis Size Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBF47AE51",
-      "Value": "Input penis length, girth and testicles size values.",
+      "Value": "Introduzca los valores de longitud, circunferencia y tamaño de los testículos y del pene.",
       "Source": "Public",
       "Original": "Input penis length, girth and testicles size values.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9F0066B2",
-      "Value": "Cosmetic Penis Adjustments",
+      "Value": "Ajustes cosméticos del pene",
       "Source": "Public",
       "Original": "Cosmetic Penis Adjustments",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD7427A74",
@@ -565,31 +565,31 @@
     },
     {
       "Key": "0x871B7677",
-      "Value": "Select a size to apply to the Sim{P0.s}.",
+      "Value": "Seleccione un tamaño para aplicar al Sim{P0.s}.",
       "Source": "Public",
       "Original": "Select a size to apply to the Sim{P0.s}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC802957B",
-      "Value": "Invalid values inputted, failed to adjust Sim{P0.s} penis size.",
+      "Value": "Se ingresaron valores no válidos, no se pudo ajustar el tamaño del pene de Sim{P0.s}.",
       "Source": "Public",
       "Original": "Invalid values inputted, failed to adjust Sim{P0.s} penis size.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x99E625CC",
-      "Value": "Adjust Custom Penis Size Values",
+      "Value": "Ajustar los valores personalizados del tamaño del pene",
       "Source": "Public",
       "Original": "Adjust Custom Penis Size Values",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAE57AD85",
-      "Value": "Input values, from 0 to 100, to apply to the Sim{P0.s}.",
+      "Value": "Valores de entrada, de 0 a 100, para aplicar al Sim{P0.s}.",
       "Source": "Public",
       "Original": "Input values, from 0 to 100, to apply to the Sim{P0.s}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB591A9D6",
@@ -614,17 +614,17 @@
     },
     {
       "Key": "0xB255D944",
-      "Value": "Invalid values inputted, failed to adjust Sim{P0.s} penis cosmetics.",
+      "Value": "Se ingresaron valores no válidos, no se pudieron ajustar los cosméticos del pene Sim{P0.s}.",
       "Source": "Public",
       "Original": "Invalid values inputted, failed to adjust Sim{P0.s} penis cosmetics.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC1796E2B",
-      "Value": "Adjust Penis Cosmetic Values",
+      "Value": "Ajustar los valores cosméticos del pene",
       "Source": "Public",
       "Original": "Adjust Penis Cosmetic Values",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAAE154D4",
@@ -649,367 +649,367 @@
     },
     {
       "Key": "0xCBE72110",
-      "Value": "Use the <b>Body Selector</b> to pick custom naked body parts for Sims. Available to select body parts depend on the Sim CAS Gender Settings.\\n\\nOnly body mods that were made to be compatible with WickedWhims will be available in the Body Selector.\\n\\n<b>Please note that Sims with altered Physical Frame in CAS Gender Settings can select body parts incompatible for their gender which might result in random clothing appearing on them when undressing.</b>",
+      "Value": "Usa el <b>Selector de cuerpo</b> para elegir partes del cuerpo desnudo personalizadas para tus Sims. Disponible para seleccionar partes del cuerpo depende de la configuración de género de Sim CAS.\\n\\nSolo las modificaciones corporales que fueron diseñadas para ser compatibles con WickedWhims estarán disponibles en el Selector de cuerpo.\\n\\n<b>Ten en cuenta que los Sims con una estructura física alterada en la configuración de género de CAS pueden seleccionar partes del cuerpo incompatibles con su género, lo que podría provocar que les aparezca ropa aleatoria al desvestirse.</b>",
       "Source": "Public",
       "Original": "Use the <b>Body Selector</b> to pick custom naked body parts for Sims. Available to select body parts depend on the Sim CAS Gender Settings.\\n\\nOnly body mods that were made to be compatible with WickedWhims will be available in the Body Selector.\\n\\n<b>Please note that Sims with altered Physical Frame in CAS Gender Settings can select body parts incompatible for their gender which might result in random clothing appearing on them when undressing.</b>",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8D5C3826",
-      "Value": "Select Sims for body modifications.",
+      "Value": "Selecciona Sims para modificaciones corporales.",
       "Source": "Public",
       "Original": "Select Sims for body modifications.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEC441A56",
-      "Value": "Saved selected default body parts for Sims.\\n\\nNewly created Sims will use the selected body parts.",
+      "Value": "Se guardaron partes del cuerpo predeterminadas seleccionadas para los Sims.\\n\\nLos Sims recién creados utilizarán las partes del cuerpo seleccionadas.",
       "Source": "Public",
       "Original": "Saved selected default body parts for Sims.\\n\\nNewly created Sims will use the selected body parts.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD47EFEF9",
-      "Value": "Choose {0.SimFirstName}'s occult state to modify.",
+      "Value": "Elija el estado oculto de {0.SimFirstName} para modificarlo.",
       "Source": "Public",
       "Original": "Choose {0.SimFirstName}'s occult state to modify.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD6513D8D",
-      "Value": "Choose occult state to modify newly created Sims default body parts.",
+      "Value": "Elige el estado oculto para modificar las partes del cuerpo predeterminadas de los Sims recién creadas.",
       "Source": "Public",
       "Original": "Choose occult state to modify newly created Sims default body parts.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDD1D89D1",
-      "Value": "Choose Sims occult state to modify.",
+      "Value": "Elige el estado oculto de los Sims para modificarlo.",
       "Source": "Public",
       "Original": "Choose Sims occult state to modify.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA7952169",
-      "Value": "Modify Human Form",
+      "Value": "Modificar la forma humana",
       "Source": "Public",
       "Original": "Modify Human Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC80CC115",
-      "Value": "Modify Sim{P0.s} naked body when in human form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando tenga forma humana.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in human form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBEB7FF67",
-      "Value": "Modify Alien Form",
+      "Value": "Modificar forma de alienígena",
       "Source": "Public",
       "Original": "Modify Alien Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x92A4B95B",
-      "Value": "Modify Sim{P0.s} naked body when in alien form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma alienígena.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in alien form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC90EF046",
-      "Value": "Modify Vampire Form",
+      "Value": "Modificar forma de vampiro",
       "Source": "Public",
       "Original": "Modify Vampire Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC894E0FC",
-      "Value": "Modify Sim{P0.s} naked body when in vampire form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma de vampiro.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in vampire form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8DFF1A92",
-      "Value": "Modify Merfolk Form",
+      "Value": "Modificar forma de sirena",
       "Source": "Public",
       "Original": "Modify Merfolk Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x885B7070",
-      "Value": "Modify Sim{P0.s} naked body when in merfolk form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma de sirena.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in merfolk form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFC1887B3",
-      "Value": "Modify Werewolf Form",
+      "Value": "Modificar forma de hombre lobo",
       "Source": "Public",
       "Original": "Modify Werewolf Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD6AC4F63",
-      "Value": "Modify Sim{P0.s} naked body when in werewolf form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma de hombre lobo.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in werewolf form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8F410249",
-      "Value": "Modify Fairy Form",
+      "Value": "Modificar forma de hada",
       "Source": "Public",
       "Original": "Modify Fairy Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC31119E9",
-      "Value": "Modify Sim{P0.s} naked body when in fairy form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma de hada.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in fairy form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA431963",
-      "Value": "Modify Succubus Form",
+      "Value": "Modificar forma de súcubo",
       "Source": "Public",
       "Original": "Modify Succubus Form",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9A617A6B",
-      "Value": "Modify Sim{P0.s} naked body when in succubus form.",
+      "Value": "Modifica el cuerpo desnudo de Sim{P0.s} cuando esté en forma de súcubo.",
       "Source": "Public",
       "Original": "Modify Sim{P0.s} naked body when in succubus form.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8EF9BB9C",
-      "Value": "{0.SimFirstName}'s Alien Body Selector",
+      "Value": "Selector de cuerpo alienígena de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Alien Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB0999E3F",
-      "Value": "{0.SimFirstName}'s Vampire Body Selector",
+      "Value": "Selector de cuerpo de vampiro de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Vampire Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFE30DC85",
-      "Value": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Body Selector",
+      "Value": "Selector de cuerpo de {M0.tritón}{F0.sirena} de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s {M0.Merman}{F0.Mermaid} Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEB7C5D2C",
-      "Value": "{0.SimFirstName}'s Werewolf Body Selector",
+      "Value": "Selector de cuerpo de {M0.hombre lobo}{F0.mujer loba} de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Werewolf Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEDACE292",
-      "Value": "{0.SimFirstName}'s Fairy Body Selector",
+      "Value": "Selector de cuerpo de hada de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Fairy Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x86B448A4",
-      "Value": "{0.SimFirstName}'s Succubus Body Selector",
+      "Value": "Selector de cuerpo de súcubo de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Succubus Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF7B2D406",
-      "Value": "{0.SimFirstName}'s Human Body Selector",
+      "Value": "Selector de cuerpo humano de {0.SimFirstName}",
       "Source": "Public",
       "Original": "{0.SimFirstName}'s Human Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE3621203",
-      "Value": "Selected Sims Alien Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados alienígena",
       "Source": "Public",
       "Original": "Selected Sims Alien Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA8FFDA64",
-      "Value": "Selected Sims Vampire Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados vampiro",
       "Source": "Public",
       "Original": "Selected Sims Vampire Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDAF5BE70",
-      "Value": "Selected Sims Merfolk Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados sirenas",
       "Source": "Public",
       "Original": "Selected Sims Merfolk Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE799DC11",
-      "Value": "Selected Sims Werewolf Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados hombre lobo",
       "Source": "Public",
       "Original": "Selected Sims Werewolf Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE5A82D89",
-      "Value": "Selected Sims Fairy Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados hadas",
       "Source": "Public",
       "Original": "Selected Sims Fairy Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC8963F2D",
-      "Value": "Selected Sims Succubus Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados súcubo",
       "Source": "Public",
       "Original": "Selected Sims Succubus Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x946C7F69",
-      "Value": "Selected Sims Human Body Selector",
+      "Value": "Selector de cuerpo de los Sims seleccionados humanos",
       "Source": "Public",
       "Original": "Selected Sims Human Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8CDA21EB",
-      "Value": "Sims Default Alien Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims alienígena",
       "Source": "Public",
       "Original": "Sims Default Alien Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9BB323FC",
-      "Value": "Sims Default Vampire Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims vampiro",
       "Source": "Public",
       "Original": "Sims Default Vampire Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC4F30DE8",
-      "Value": "Sims Default Merfolk Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims sirenas",
       "Source": "Public",
       "Original": "Sims Default Merfolk Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF24EACF9",
-      "Value": "Sims Default Werewolf Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims hombre lobo",
       "Source": "Public",
       "Original": "Sims Default Werewolf Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDD213AA1",
-      "Value": "Sims Default Fairy Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims hada",
       "Source": "Public",
       "Original": "Sims Default Fairy Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEB57D8B5",
-      "Value": "Sims Default Succubus Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims súcubo",
       "Source": "Public",
       "Original": "Sims Default Succubus Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDDCC7A91",
-      "Value": "Sims Default Human Body Selector",
+      "Value": "Selector de cuerpo predeterminado de los Sims humano",
       "Source": "Public",
       "Original": "Sims Default Human Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD4939C62",
-      "Value": "Alien Body Selector",
+      "Value": "Selector de cuerpo alienígena",
       "Source": "Public",
       "Original": "Alien Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCB59A771",
-      "Value": "Vampire Body Selector",
+      "Value": "Selector de cuerpo de vampiro",
       "Source": "Public",
       "Original": "Vampire Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBACA1F05",
-      "Value": "Merfolk Body Selector",
+      "Value": "Selector de cuerpo de tritones",
       "Source": "Public",
       "Original": "Merfolk Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9F92A6B5",
-      "Value": "Werwolf Body Selector",
+      "Value": "Selector de cuerpo de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCE94EB3C",
-      "Value": "Fairy Body Selector",
+      "Value": "Selector de cuerpo de hada",
       "Source": "Public",
       "Original": "Fairy Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x91B47E76",
-      "Value": "Succubus Body Selector",
+      "Value": "Selector de cuerpo de súcubo",
       "Source": "Public",
       "Original": "Succubus Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x999356DC",
-      "Value": "Human Body Selector",
+      "Value": "Selector de cuerpo humano",
       "Source": "Public",
       "Original": "Human Body Selector",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF76E9D60",
-      "Value": "<b>Selected:</b> {0.String} by {1.String}",
+      "Value": "<b>Seleccionado:</b> {0.String} por {1.String}",
       "Source": "Public",
       "Original": "<b>Selected:</b> {0.String} by {1.String}",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAF155805",
-      "Value": "<b>Selected:</b> Nothing",
+      "Value": "<b>Seleccionado:</b> Nada",
       "Source": "Public",
       "Original": "<b>Selected:</b> Nothing",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA64E9FC1",
-      "Value": "Servo Erect Penis",
+      "Value": "Pene de servo erecto",
       "Source": "Public",
       "Original": "Servo Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9647D0D3",
-      "Value": "Adjust Sim{P0.s} penis size.",
+      "Value": "Ajusta el tamaño del pene de Sim{P0.s}.",
       "Source": "Public",
       "Original": "Adjust Sim{P0.s} penis size.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB7A65C73",
@@ -1018,626 +1018,626 @@
     },
     {
       "Key": "0xC9EFFD49",
-      "Value": "<b>Author:</b> {0.String}",
+      "Value": "<b>Autor:</b> {0.String}",
       "Source": "Public",
       "Original": "<b>Author:</b> {0.String}",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE99ECD91",
-      "Value": "Alien Tongue",
+      "Value": "Lengua de alienígena",
       "Source": "Public",
       "Original": "Alien Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE3055EB8",
-      "Value": "Vampire Tongue",
+      "Value": "Lengua de vampiro",
       "Source": "Public",
       "Original": "Vampire Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9448D10C",
-      "Value": "Merfolk Tongue",
+      "Value": "Lengua de tritón",
       "Source": "Public",
       "Original": "Merfolk Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xADAF9DDC",
-      "Value": "Werwolf Tongue",
+      "Value": "Lengua de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB77E0CA3",
-      "Value": "Fairy Tongue",
+      "Value": "Lengua de hada",
       "Source": "Public",
       "Original": "Fairy Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEE2C9E95",
-      "Value": "Succubus Tongue",
+      "Value": "Lengua de súcubo",
       "Source": "Public",
       "Original": "Succubus Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFE5C2EC3",
-      "Value": "Human Tongue",
+      "Value": "Lengua humana",
       "Source": "Public",
       "Original": "Human Tongue",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDC0A375F",
-      "Value": "Alien Masculine Top",
+      "Value": "Parte superior masculina de alienígena",
       "Source": "Public",
       "Original": "Alien Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x834391A8",
-      "Value": "Vampire Masculine Top",
+      "Value": "Parte superior masculina de vampiro",
       "Source": "Public",
       "Original": "Vampire Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD65629C0",
-      "Value": "Merman Masculine Top",
+      "Value": "Parte superior masculina de tritón",
       "Source": "Public",
       "Original": "Merman Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBAB2BDDC",
-      "Value": "Werwolf Masculine Top",
+      "Value": "Parte superior masculina de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9E333A41",
-      "Value": "Fairy Masculine Top",
+      "Value": "Parte superior masculina de hada",
       "Source": "Public",
       "Original": "Fairy Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x80146583",
-      "Value": "Succubus Masculine Top",
+      "Value": "Parte superior masculina de súcubo",
       "Source": "Public",
       "Original": "Succubus Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCFFD8C61",
-      "Value": "Human Masculine Top",
+      "Value": "Parte superior masculina de humano",
       "Source": "Public",
       "Original": "Human Masculine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA1958891",
-      "Value": "Alien Feminine Top",
+      "Value": "Parte superior femenina de alienígena",
       "Source": "Public",
       "Original": "Alien Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC356C020",
-      "Value": "Vampire Feminine Top",
+      "Value": "Parte superior femenina de vampiro",
       "Source": "Public",
       "Original": "Vampire Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x92A49005",
-      "Value": "Mermaid Feminine Top",
+      "Value": "Parte superior femenina de sirena",
       "Source": "Public",
       "Original": "Mermaid Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF6AFA784",
-      "Value": "Werwolf Feminine Top",
+      "Value": "Parte superior femenina de mujer loba",
       "Source": "Public",
       "Original": "Werwolf Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xED597E0F",
-      "Value": "Fairy Feminine Top",
+      "Value": "Parte superior femenina de hada",
       "Source": "Public",
       "Original": "Fairy Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCFF6AB75",
-      "Value": "Succubus Feminine Top",
+      "Value": "Parte superior femenina de súcubo",
       "Source": "Public",
       "Original": "Succubus Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x90D5E02F",
-      "Value": "Human Feminine Top",
+      "Value": "Parte superior femenina de humano",
       "Source": "Public",
       "Original": "Human Feminine Top",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9B557B69",
-      "Value": "Alien Masculine Bottom",
+      "Value": "Parte inferior masculina de alienígena",
       "Source": "Public",
       "Original": "Alien Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x85CA2AF4",
-      "Value": "Vampire Masculine Bottom",
+      "Value": "Parte inferior masculina de vampiro",
       "Source": "Public",
       "Original": "Vampire Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF0B1759C",
-      "Value": "Merman Masculine Bottom",
+      "Value": "Parte inferior masculina de tritón",
       "Source": "Public",
       "Original": "Merman Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD31301B8",
-      "Value": "Werwolf Masculine Bottom",
+      "Value": "Parte inferior masculina de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE8323267",
-      "Value": "Fairy Masculine Bottom",
+      "Value": "Parte inferior masculina de hada",
       "Source": "Public",
       "Original": "Fairy Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x830DD19D",
-      "Value": "Succubus Masculine Bottom",
+      "Value": "Parte inferior masculina de súcubo",
       "Source": "Public",
       "Original": "Succubus Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFAD4F307",
-      "Value": "Human Masculine Bottom",
+      "Value": "Parte inferior masculina de humano",
       "Source": "Public",
       "Original": "Human Masculine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF8DFE957",
-      "Value": "Alien Feminine Bottom",
+      "Value": "Parte inferior femenina de alienígena",
       "Source": "Public",
       "Original": "Alien Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9F57DF7C",
-      "Value": "Vampire Feminine Bottom",
+      "Value": "Parte inferior femenina de vampiro",
       "Source": "Public",
       "Original": "Vampire Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9F507BFB",
-      "Value": "Mermaid Feminine Bottom",
+      "Value": "Parte inferior femenina de sirena",
       "Source": "Public",
       "Original": "Mermaid Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x928C6DB0",
-      "Value": "Werwolf Feminine Bottom",
+      "Value": "Parte inferior femenina de mujer loba",
       "Source": "Public",
       "Original": "Werwolf Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE9AED779",
-      "Value": "Fairy Feminine Bottom",
+      "Value": "Parte inferior femenina de hada",
       "Source": "Public",
       "Original": "Fairy Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEA2E108B",
-      "Value": "Succubus Feminine Bottom",
+      "Value": "Parte inferior femenina de súcubo",
       "Source": "Public",
       "Original": "Succubus Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8F541C19",
-      "Value": "Human Feminine Bottom",
+      "Value": "Parte inferior femenina de humano",
       "Source": "Public",
       "Original": "Human Feminine Bottom",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAC15B934",
-      "Value": "Alien Masculine Feet",
+      "Value": "Pies masculinos de alienígena",
       "Source": "Public",
       "Original": "Alien Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8A59B8F5",
-      "Value": "Vampire Masculine Feet",
+      "Value": "Pies masculinos de vampiro",
       "Source": "Public",
       "Original": "Vampire Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAFC7660D",
-      "Value": "Merman Masculine Feet",
+      "Value": "Pies masculinos de tritón",
       "Source": "Public",
       "Original": "Merman Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE72A96B1",
-      "Value": "Werwolf Masculine Feet",
+      "Value": "Pies masculinos de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x81829A82",
-      "Value": "Fairy Masculine Feet",
+      "Value": "Pies masculinos de hada",
       "Source": "Public",
       "Original": "Fairy Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA2543A30",
-      "Value": "Succubus Masculine Feet",
+      "Value": "Pies masculinos de súcubo",
       "Source": "Public",
       "Original": "Succubus Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBCA93422",
-      "Value": "Human Masculine Feet",
+      "Value": "Pies masculinos de humano",
       "Source": "Public",
       "Original": "Human Masculine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA8A15BD2",
-      "Value": "Alien Feminine Feet",
+      "Value": "Pies femeninos de alienígena",
       "Source": "Public",
       "Original": "Alien Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB9D45DED",
-      "Value": "Vampire Feminine Feet",
+      "Value": "Pies femeninos de vampiro",
       "Source": "Public",
       "Original": "Vampire Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF0417B5E",
-      "Value": "Mermaid Feminine Feet",
+      "Value": "Pies femeninos de sirena",
       "Source": "Public",
       "Original": "Mermaid Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBE8B5859",
-      "Value": "Werwolf Feminine Feet",
+      "Value": "Pies femeninos de mujer loba",
       "Source": "Public",
       "Original": "Werwolf Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x85B670E4",
-      "Value": "Fairy Feminine Feet",
+      "Value": "Pies femeninos de hada",
       "Source": "Public",
       "Original": "Fairy Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x802DF90E",
-      "Value": "Succubus Feminine Feet",
+      "Value": "Pies femeninos de súcubo",
       "Source": "Public",
       "Original": "Succubus Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8D557584",
-      "Value": "Human Feminine Feet",
+      "Value": "Pies femeninos de humano",
       "Source": "Public",
       "Original": "Human Feminine Feet",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x89177915",
-      "Value": "Alien Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de alienígena",
       "Source": "Public",
       "Original": "Alien Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB7AC544A",
-      "Value": "Vampire Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de vampiro",
       "Source": "Public",
       "Original": "Vampire Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE5C42392",
-      "Value": "Merman Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de tritón",
       "Source": "Public",
       "Original": "Merman Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD26906B6",
-      "Value": "Werwolf Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x91D1E7D7",
-      "Value": "Fairy Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de hada",
       "Source": "Public",
       "Original": "Fairy Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFB5856F1",
-      "Value": "Succubus Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de súcubo",
       "Source": "Public",
       "Original": "Succubus Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEF62D0F7",
-      "Value": "Human Masculine Flaccid Penis",
+      "Value": "Pene flácido masculino de humano",
       "Source": "Public",
       "Original": "Human Masculine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x93531267",
-      "Value": "Alien Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de alienígena",
       "Source": "Public",
       "Original": "Alien Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF991E4F2",
-      "Value": "Vampire Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de vampiro",
       "Source": "Public",
       "Original": "Vampire Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA52B5D43",
-      "Value": "Mermaid Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de sirena",
       "Source": "Public",
       "Original": "Mermaid Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCBDCC9AE",
-      "Value": "Werwolf Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de mujer loba",
       "Source": "Public",
       "Original": "Werwolf Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8710FFC5",
-      "Value": "Fairy Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de hada",
       "Source": "Public",
       "Original": "Fairy Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB88AD033",
-      "Value": "Succubus Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de súcubo",
       "Source": "Public",
       "Original": "Succubus Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD15A5AE5",
-      "Value": "Human Feminine Flaccid Penis",
+      "Value": "Pene flácido femenino de humano",
       "Source": "Public",
       "Original": "Human Feminine Flaccid Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x93145B8C",
-      "Value": "Alien Masculine Erect Penis",
+      "Value": "Pene erecto masculino de alienígena",
       "Source": "Public",
       "Original": "Alien Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE5279F67",
-      "Value": "Vampire Masculine Erect Penis",
+      "Value": "Pene erecto masculino de vampiro",
       "Source": "Public",
       "Original": "Vampire Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x864CE6CF",
-      "Value": "Merman Masculine Erect Penis",
+      "Value": "Pene erecto masculino de tritón",
       "Source": "Public",
       "Original": "Merman Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8D0DAAC3",
-      "Value": "Werwolf Masculine Erect Penis",
+      "Value": "Pene erecto masculino de hombre lobo",
       "Source": "Public",
       "Original": "Werwolf Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA549F8EA",
-      "Value": "Fairy Masculine Erect Penis",
+      "Value": "Pene erecto masculino de hada",
       "Source": "Public",
       "Original": "Fairy Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBBA22F88",
-      "Value": "Succubus Masculine Erect Penis",
+      "Value": "Pene erecto masculino de súcubo",
       "Source": "Public",
       "Original": "Succubus Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9621D88A",
-      "Value": "Human Masculine Erect Penis",
+      "Value": "Pene erecto masculino humano",
       "Source": "Public",
       "Original": "Human Masculine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE51AD73A",
-      "Value": "Alien Feminine Erect Penis",
+      "Value": "Pene erecto femenino de alienígena",
       "Source": "Public",
       "Original": "Alien Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x867384AF",
-      "Value": "Vampire Feminine Erect Penis",
+      "Value": "Pene erecto femenino de vampiro",
       "Source": "Public",
       "Original": "Vampire Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9B815E66",
-      "Value": "Mermaid Feminine Erect Penis",
+      "Value": "Pene erecto femenino de sirena",
       "Source": "Public",
       "Original": "Mermaid Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA001BD7B",
-      "Value": "Werwolf Feminine Erect Penis",
+      "Value": "Pene erecto femenino de mujer loba",
       "Source": "Public",
       "Original": "Werwolf Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAB10EA3C",
-      "Value": "Fairy Feminine Erect Penis",
+      "Value": "Pene erecto femenino de hada",
       "Source": "Public",
       "Original": "Fairy Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD6DBC796",
-      "Value": "Succubus Feminine Erect Penis",
+      "Value": "Pene erecto femenino de súcubo",
       "Source": "Public",
       "Original": "Succubus Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB90FA05C",
-      "Value": "Human Feminine Erect Penis",
+      "Value": "Pene erecto femenino de humano",
       "Source": "Public",
       "Original": "Human Feminine Erect Penis",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC49B9327",
-      "Value": "Change Alien Penis Size",
+      "Value": "Cambiar el tamaño del pene alienígena",
       "Source": "Public",
       "Original": "Change Alien Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD3CE255A",
-      "Value": "Change Vampire Penis Size",
+      "Value": "Cambiar el tamaño del pene de vampiro",
       "Source": "Public",
       "Original": "Change Vampire Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD78C3AAE",
-      "Value": "Change Merfolk Penis Size",
+      "Value": "Cambiar el tamaño del pene de sirenas",
       "Source": "Public",
       "Original": "Change Merfolk Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC253DBCA",
-      "Value": "Change Werwolf Penis Size",
+      "Value": "Cambiar el tamaño del pene de hombre lobo",
       "Source": "Public",
       "Original": "Change Werwolf Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCB974549",
-      "Value": "Change Fairy Penis Size",
+      "Value": "Cambiar el tamaño del pene de hadas",
       "Source": "Public",
       "Original": "Change Fairy Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC4948397",
-      "Value": "Change Succubus Penis Size",
+      "Value": "Cambiar el tamaño del pene de súcubo",
       "Source": "Public",
       "Original": "Change Succubus Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA01D8A45",
-      "Value": "Change Human Penis Size",
+      "Value": "Cambiar el tamaño del pene de humano",
       "Source": "Public",
       "Original": "Change Human Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBA4F36DE",
-      "Value": "Unidentified Flesh",
+      "Value": "Carne no identificada",
       "Source": "Public",
       "Original": "Unidentified Flesh",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9CC3F5EC",
-      "Value": "Applied selected body parts to {0.Number} Sim{P0.s}.",
+      "Value": "Se aplicaron partes del cuerpo seleccionadas a {0.Number} Sim{P0.s}.",
       "Source": "Public",
       "Original": "Applied selected body parts to {0.Number} Sim{P0.s}.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA98B9962",
-      "Value": "Modify All Sims Default Body Parts",
+      "Value": "Modificar todas las partes del cuerpo predeterminadas de los Sims",
       "Source": "Public",
       "Original": "Modify All Sims Default Body Parts",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCC2BB6CC",
-      "Value": "Modify Select Sims Body Parts",
+      "Value": "Modificar determinadas partes del cuerpo de los Sims",
       "Source": "Public",
       "Original": "Modify Select Sims Body Parts",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCEC23BD9",
@@ -1648,17 +1648,17 @@
     },
     {
       "Key": "0xC076B37F",
-      "Value": "Adjust {0.SimFirstName}'s Penis Size",
+      "Value": "Ajustar el tamaño del pene de {0.SimFirstName}",
       "Source": "Public",
       "Original": "Adjust {0.SimFirstName}'s Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF4197712",
-      "Value": "Adjust All Sims Penis Size",
+      "Value": "Ajustar el tamaño del pene de todos los Sims",
       "Source": "Public",
       "Original": "Adjust All Sims Penis Size",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE6265D7B",
@@ -1816,17 +1816,17 @@
     },
     {
       "Key": "0xF2493779",
-      "Value": "Instant Sexuality Preference Knowledge",
+      "Value": "Conocimiento instantáneo de preferencias de sexualidad",
       "Source": "Public",
       "Original": "Instant Sexuality Preference Knowledge",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD06D5EC2",
-      "Value": "Check to reveal newly met Sims sexuality preferences without the need to ask.\\nUncheck to keep the default behavior of needing to ask about sexuality preferences.",
+      "Value": "Marca esta opción para revelar las preferencias sexuales de los Sims recién conocidos sin necesidad de preguntar.\\nDesmárcala para mantener el comportamiento predeterminado de tener que preguntar sobre preferencias sexuales.",
       "Source": "Public",
       "Original": "Check to reveal newly met Sims sexuality preferences without the need to ask.\\nUncheck to keep the default behavior of needing to ask about sexuality preferences.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF8A2148E",
@@ -1914,185 +1914,185 @@
     },
     {
       "Key": "0xA0580AE6",
-      "Value": "Sex Positioning Saving (Unstable)",
+      "Value": "Guardar posicionamiento sexual (inestable)",
       "Source": "Patreon",
       "Original": "Sex Positioning Saving (Unstable)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBAAEB1F7",
-      "Value": "Check to enable the ability to save modified positioning of sex animations. This feature is unstable and will produce inconsistent results depending on used locations rotation/positioning variations.",
+      "Value": "Marca esta opción habilitar la capacidad de guardar la posición modificada de las animaciones sexuales. Esta característica es inestable y producirá resultados inconsistentes dependiendo de las variaciones de rotación/posicionamiento de las ubicaciones utilizadas.",
       "Source": "Patreon",
       "Original": "Check to enable the ability to save modified positioning of sex animations. This feature is unstable and will produce inconsistent results depending on used locations rotation/positioning variations.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDC001BAA",
-      "Value": "Single-Loop Climax Sex Animations Override",
+      "Value": "Anulación de animaciones sexuales de clímax de bucle único",
       "Source": "Public",
       "Original": "Single-Loop Climax Sex Animations Override",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEB9BABE4",
-      "Value": "Check to override climax sex animations duration to play only a single loop.\\nUncheck to use the default climax sex animation duration that was defined by the authors.",
+      "Value": "Marca esta opción para anular la duración de las animaciones sexuales del clímax para reproducir solo un bucle.\\nDesmárcala para usar la duración predeterminada de la animación sexual del clímax definida por los autores.",
       "Source": "Public",
       "Original": "Check to override climax sex animations duration to play only a single loop.\\nUncheck to use the default climax sex animation duration that was defined by the authors.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBCB96517",
-      "Value": "Small Business Sex",
+      "Value": "Sexo para pequeños negocios",
       "Source": "Public",
       "Original": "Small Business Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA07AEAE7",
-      "Value": "Check to allow Sims to initiate sex interactions when at a small business with sex activities.",
+      "Value": "Marca esta opción para permitir que los Sims inicien interacciones sexuales cuando estén en una pequeño negocio con actividades sexuales.",
       "Source": "Public",
       "Original": "Check to allow Sims to initiate sex interactions when at a small business with sex activities.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCA846283",
-      "Value": "Random Small Business Sex Probability",
+      "Value": "Probabilidad sexual aleatoria para pequeños negocios",
       "Source": "Public",
       "Original": "Random Small Business Sex Probability",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xED2087F1",
-      "Value": "Set a unit interval value for chance of random small business sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Value": "Establezca un valor de intervalo unitario para la probabilidad de que se produzcan actividades sexuales aleatorias en pequeños negocios. El valor 1,0 es 100% de probabilidad.\\n(Predeterminado: 1.0, Mínimo: 0.0)",
       "Source": "Public",
       "Original": "Set a unit interval value for chance of random small business sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC65D5EA0",
-      "Value": "Random Custom Venue Sex Probability",
+      "Value": "Probabilidad de sexo de lugar personalizado aleatorio",
       "Source": "Public",
       "Original": "Random Custom Venue Sex Probability",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8C320862",
-      "Value": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
+      "Value": "Establezca un valor de intervalo unitario para la probabilidad de que se produzcan actividades sexuales aleatorias en un lugar personalizado. El valor 1,0 es 100% de probabilidad.\\n(Predeterminado: 1.0, Mínimo: 0.0)",
       "Source": "Public",
       "Original": "Set a unit interval value for chance of random custom venue sex activities occurring. Value 1.0 is 100% chance.\\n(Default: 1.0, Minimum: 0.0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x97E40AF9",
-      "Value": "Small Business Sex Minimum Cooldown Time",
+      "Value": "Tiempo mínimo de recuperación de sexo para pequeños negocios",
       "Source": "Public",
       "Original": "Small Business Sex Minimum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8403D18E",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Value": "Establece un número mínimo de segundos en tiempo real que los Sims deben esperar antes de volver a intentar tener relaciones sexuales autónomas en pequeños negocios.\\n(Predeterminado: 45, Mínimo: 0)",
       "Source": "Public",
       "Original": "Set a number of minimum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 45, Minimum: 0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x94D218EF",
-      "Value": "Small Business Sex Maximum Cooldown Time",
+      "Value": "Tiempo máximo de recuperación de sexo para pequeños negocios",
       "Source": "Public",
       "Original": "Small Business Sex Maximum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9B57F65B",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Value": "Establece un número máximo de segundos en tiempo real que los Sims deben esperar antes de volver a intentar tener relaciones sexuales autónomas en pequeños negocios.\\n(Predeterminado: 90, Mínimo: 1)",
       "Source": "Public",
       "Original": "Set a number of maximum realtime seconds Sims wait before attempting small business autonomy sex again.\\n(Default: 90, Minimum: 1)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x939F5032",
-      "Value": "Custom Venue Sex Minimum Cooldown Time",
+      "Value": "Tiempo de recuperación mínimo de sexo en el lugar personalizado",
       "Source": "Public",
       "Original": "Custom Venue Sex Minimum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFB153713",
-      "Value": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
+      "Value": "Establece un número mínimo de segundos en tiempo real que los Sims deben esperar antes de volver a intentar tener relaciones sexuales autónomas en un lugar personalizado.\\n(Predeterminado: 45, Mínimo: 0)",
       "Source": "Public",
       "Original": "Set a number of minimum realtime seconds Sims wait before attempting custom venue autonomy sex again.\\n(Default: 45, Minimum: 0)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB70CC1A0",
-      "Value": "Custom Venue Sex Maximum Cooldown Time",
+      "Value": "Tiempo de recuperación máximo de sexo en el lugar personalizado",
       "Source": "Public",
       "Original": "Custom Venue Sex Maximum Cooldown Time",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x804E1646",
-      "Value": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
+      "Value": "Establece un número máximo de segundos en tiempo real que los Sims deben esperar antes de volver a intentar tener relaciones sexuales con autonomía en el lugar personalizado.\\n(Predeterminado: 90, Mínimo: 1)",
       "Source": "Public",
       "Original": "Set a number of maximum realtime seconds Sims wait before attempting Custom Venue autonomy sex again.\\n(Default: 90, Minimum: 1)",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEB803B6A",
-      "Value": "Connect Custom Sex Devices",
+      "Value": "Conecte dispositivos sexuales personalizados",
       "Source": "Public",
       "Original": "Connect Custom Sex Devices",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xED43F8FB",
-      "Value": "Connect custom sex devices to WickedWhims via local address.",
+      "Value": "Conecte dispositivos sexuales personalizados a WickedWhims a través de la dirección local.",
       "Source": "Public",
       "Original": "Connect custom sex devices to WickedWhims via local address.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC93B18E5",
-      "Value": "Disconnect Sex Devices",
+      "Value": "Desconectar dispositivos sexuales",
       "Source": "Public",
       "Original": "Disconnect Sex Devices",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC4185B6F",
-      "Value": "Disconnect all sex devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}",
+      "Value": "Desconecta todos los dispositivos sexuales de WickedWhims.\\n<b>Dispositivos conectados:</b> {0.String}",
       "Source": "Public",
       "Original": "Disconnect all sex devices from WickedWhims.\\n<b>Connected Devices:</b> {0.String}",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA6FDC27B",
-      "Value": "Incorrect Local IP or Port.",
+      "Value": "IP o puerto local incorrecto.",
       "Source": "Public",
       "Original": "Incorrect Local IP or Port.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x867196CF",
-      "Value": "The IP address or Port you entered is incorrect.",
+      "Value": "La dirección IP o el puerto que ingresó es incorrecto.",
       "Source": "Public",
       "Original": "The IP address or Port you entered is incorrect.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC22DA720",
-      "Value": "Enter Local IP and Port",
+      "Value": "Ingrese la IP y el puerto locales",
       "Source": "Public",
       "Original": "Enter Local IP and Port",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEF2AD74D",
-      "Value": "Follow instructions provided by the intended sex device compatibility software.",
+      "Value": "Siga las instrucciones proporcionadas por el software de compatibilidad de dispositivos sexuales previsto.",
       "Source": "Public",
       "Original": "Follow instructions provided by the intended sex device compatibility software.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF2E6B748",
@@ -2127,10 +2127,10 @@
     },
     {
       "Key": "0xF316BB23",
-      "Value": "Your sex devices are now connected!\\\\n\\\\n<b>Devices Names:</b> {0.String}\\\\n\\\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again.",
+      "Value": "¡Tus dispositivos sexuales ahora están conectados!\\\\n\\\\n<b>Nombres de dispositivos:</b> {0.String}\\\\n\\\\nLos Sims seleccionados activamente que tengan relaciones sexuales ahora usarán tus dispositivos. Si los dispositivos dejan de funcionar, verifique si todo sigue encendido e intente conectarse nuevamente.",
       "Source": "Public",
       "Original": "Your sex devices are now connected!\\\\n\\\\n<b>Devices Names:</b> {0.String}\\\\n\\\\nActively selected Sims having sex will now use your devices. If devices stop working, check if everything is still turned on and try connecting again.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA4F197D9",
@@ -2141,10 +2141,10 @@
     },
     {
       "Key": "0xA67B3CF9",
-      "Value": "Connection with sex devices software was successful, but there are no devices to use. Make sure your devices are turned on and added to the used software.",
+      "Value": "La conexión con el software de dispositivos sexuales fue exitosa, pero no hay dispositivos para usar. Asegúrese de que sus dispositivos estén encendidos y agregados al software usado.",
       "Source": "Public",
       "Original": "Connection with sex devices software was successful, but there are no devices to use. Make sure your devices are turned on and added to the used software.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEABF6EAC",
@@ -2155,10 +2155,10 @@
     },
     {
       "Key": "0xF50C332F",
-      "Value": "Unable to connect with sex devices software. Make sure everything is still turned on.",
+      "Value": "No se puede conectar con el software de dispositivos sexuales. Asegúrate de que todo siga encendido.",
       "Source": "Public",
       "Original": "Unable to connect with sex devices software. Make sure everything is still turned on.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB5B3F651",
@@ -2190,66 +2190,66 @@
     },
     {
       "Key": "0xA0D790FA",
-      "Value": "Spinning Bike",
+      "Value": "Bicicleta de spinning",
       "Source": "Public",
       "Original": "Spinning Bike",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x94E4D500",
-      "Value": "Free Weights",
+      "Value": "Peso muerto",
       "Source": "Public",
       "Original": "Free Weights",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x807F8C71",
-      "Value": "Treadmill",
+      "Value": "Rueda de andar",
       "Source": "Public",
       "Original": "Treadmill",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCA1E5EBF",
-      "Value": "Punching Bag",
+      "Value": "Saco de arena",
       "Source": "Public",
       "Original": "Punching Bag",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA1849FD1",
-      "Value": "Hot Tub In Ground",
+      "Value": "Bañera de hidromasaje en el suelo",
       "Source": "Public",
       "Original": "Hot Tub In Ground",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8F5DC65B",
-      "Value": "Tall Diving Board",
+      "Value": "Trampolín alto",
       "Source": "Public",
       "Original": "Tall Diving Board",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xAEAC1F46",
-      "Value": "Diving Board",
+      "Value": "Tabla de buceo",
       "Source": "Public",
       "Original": "Diving Board",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE05BDE46",
-      "Value": "Animation Number of Loops",
+      "Value": "Número de bucles de animación",
       "Source": "Public",
       "Original": "Animation Number of Loops",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD93E5CCA",
-      "Value": "Single Loop Duration: {1.String}s",
+      "Value": "Duración de bucle único: {1.String}s",
       "Source": "Public",
       "Original": "Single Loop Duration: {1.String}s",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD5BCEFF1",
@@ -2258,17 +2258,17 @@
     },
     {
       "Key": "0x8AFA59E9",
-      "Value": "Conceal Fairy Wings",
+      "Value": "Ocultar alas de hadas",
       "Source": "Public",
       "Original": "Conceal Fairy Wings",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC7126B7F",
-      "Value": "Reveal Fairy Wings",
+      "Value": "Revelar alas de hada",
       "Source": "Public",
       "Original": "Reveal Fairy Wings",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCB1D16DF",
@@ -2356,94 +2356,94 @@
     },
     {
       "Key": "0xD874EBA6",
-      "Value": "Modify Currently Playing Animation Number of Loops",
+      "Value": "Modificar el número de bucles de la animación que se está reproduciendo actualmente",
       "Source": "Public",
       "Original": "Modify Currently Playing Animation Number of Loops",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD78649B7",
-      "Value": "Are you interested in spending some time together?",
+      "Value": "¿Estás interesado en pasar un tiempo juntos?",
       "Source": "Public",
       "Original": "Are you interested in spending some time together?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA1BF2DE2",
-      "Value": "Of course.",
+      "Value": "Por supuesto.",
       "Source": "Public",
       "Original": "Of course.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x92370160",
-      "Value": "Maybe not at this moment.",
+      "Value": "Quizás no en este momento.",
       "Source": "Public",
       "Original": "Maybe not at this moment.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9C328EAF",
-      "Value": "Are there any specific things you would like to do with me?",
+      "Value": "¿Hay alguna cosa específica que te gustaría hacer conmigo?",
       "Source": "Public",
       "Original": "Are there any specific things you would like to do with me?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF97B1680",
-      "Value": "Oh yes, let me just show you what I would like.",
+      "Value": "Oh, sí, déjame mostrarte lo que me gustaría.",
       "Source": "Public",
       "Original": "Oh yes, let me just show you what I would like.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD96A61E8",
-      "Value": "Sorry, nothing is coming to mind.",
+      "Value": "Lo siento, no se me ocurre nada.",
       "Source": "Public",
       "Original": "Sorry, nothing is coming to mind.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCBF70D76",
-      "Value": "Do you like what you see?",
+      "Value": "¿Te gusta lo que ves?",
       "Source": "Public",
       "Original": "Do you like what you see?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB86CCD89",
-      "Value": "I do, but I'm not here just to look.",
+      "Value": "Sí, pero no estoy aquí sólo para mirar.",
       "Source": "Public",
       "Original": "I do, but I'm not here just to look.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9B012CD8",
-      "Value": "Sorry, I can't see well, I forgot my glasses.",
+      "Value": "Lo siento, no veo bien, olvidé mis gafas.",
       "Source": "Public",
       "Original": "Sorry, I can't see well, I forgot my glasses.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFD12D2B1",
-      "Value": "You look like you would be a lot of fun. Care to entertain me?",
+      "Value": "Parece que serías muy divertido. ¿Te importaría entretenerme?",
       "Source": "Public",
       "Original": "You look like you would be a lot of fun. Care to entertain me?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x85373B47",
-      "Value": "Oh you will find out how fun I am.",
+      "Value": "Oh, descubrirás lo divertido que soy.",
       "Source": "Public",
       "Original": "Oh you will find out how fun I am.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDC7558CC",
-      "Value": "Uh.. no.",
+      "Value": "Eh... no.",
       "Source": "Public",
       "Original": "Uh.. no.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA01AD42F",
@@ -4303,24 +4303,24 @@
     },
     {
       "Key": "0xDF685AE6",
-      "Value": "Sims will get completely naked.",
+      "Value": "Los Sims quedarán completamente desnudos.",
       "Source": "Public",
       "Original": "Sims will get completely naked.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA3A82AE6",
-      "Value": "Get Naked",
+      "Value": "Desnudarse",
       "Source": "Public",
       "Original": "Get Naked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xECAAE440",
-      "Value": "Don't Get Naked",
+      "Value": "No desnudarse",
       "Source": "Public",
       "Original": "Don't Get Naked",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC09AE7D1",
@@ -4338,10 +4338,10 @@
     },
     {
       "Key": "0xDEB2AB15",
-      "Value": "Sims will offer to have sex with other Sims.",
+      "Value": "Los Sims se ofrecerán a tener relaciones sexuales con otros Sims.",
       "Source": "Public",
       "Original": "Sims will offer to have sex with other Sims.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF60DE64A",
@@ -4352,17 +4352,17 @@
     },
     {
       "Key": "0xE00156C0",
-      "Value": "Don't Have Sex",
+      "Value": "No tener sexo",
       "Source": "Public",
       "Original": "Don't Have Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFF14DD27",
-      "Value": "Sims will accept received offers from other Sims to have sex.",
+      "Value": "Los Sims aceptarán ofertas recibidas de otros Sims para tener relaciones sexuales.",
       "Source": "Public",
       "Original": "Sims will accept received offers from other Sims to have sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA75D015",
@@ -4373,17 +4373,17 @@
     },
     {
       "Key": "0xE599D763",
-      "Value": "Don't Watch Sex",
+      "Value": "No mirar sexo",
       "Source": "Public",
       "Original": "Don't Watch Sex",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xCFC1F802",
-      "Value": "Sims will watch other Sims having sex.",
+      "Value": "Los Sims verán a otros Sims teniendo sexo.",
       "Source": "Public",
       "Original": "Sims will watch other Sims having sex.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x712B19E6",
@@ -5702,10 +5702,10 @@
     },
     {
       "Key": "0x4E31E561",
-      "Value": "Include Fairy Occult Sims",
+      "Value": "Incluir Sims hadas",
       "Source": "Public",
       "Original": "Include Fairy Occult Sims",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x951671ED",
@@ -5821,10 +5821,10 @@
     },
     {
       "Key": "0xA654A7DF",
-      "Value": "Fairy",
+      "Value": "Hada",
       "Source": "Public",
       "Original": "Fairy",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB3FBE814",
@@ -6060,10 +6060,10 @@
     },
     {
       "Key": "0x2240A586",
-      "Value": "Select Fairy Occult Sims",
+      "Value": "Seleccionar Sims hadas",
       "Source": "Public",
       "Original": "Select Fairy Occult Sims",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA0A4DF2",
@@ -6177,17 +6177,17 @@
     },
     {
       "Key": "0xAC8B1942",
-      "Value": "Clone an Existing Protocol",
+      "Value": "Clonar un protocolo existente",
       "Source": "Public",
       "Original": "Clone an Existing Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x28DEA0A8",
-      "Value": "Clone an existing group of Sims.",
+      "Value": "Clona un grupo existente de Sims.",
       "Source": "Public",
       "Original": "Clone an existing group of Sims.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xACAE054F",
@@ -6261,17 +6261,17 @@
     },
     {
       "Key": "0xCA4E8808",
-      "Value": "Add Sim by Name in Protocol",
+      "Value": "Agregar Sim por nombre en el protocolo",
       "Source": "Public",
       "Original": "Add Sim by Name in Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x3922EE95",
-      "Value": "Add Sim by name to this group.",
+      "Value": "Agregar Sim por nombre a este grupo.",
       "Source": "Public",
       "Original": "Add Sim by name to this group.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2C4C418F",
@@ -6394,31 +6394,31 @@
     },
     {
       "Key": "0x35D656E7",
-      "Value": "Add Sim by Name",
+      "Value": "Agregar Sim por nombre",
       "Source": "Public",
       "Original": "Add Sim by Name",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xBC1527EC",
-      "Value": "Type in the full name of the Sim to add.",
+      "Value": "Escribe el nombre completo del Sim que deseas agregar.",
       "Source": "Public",
       "Original": "Type in the full name of the Sim to add.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x2ACBC6DF",
-      "Value": "Sim with the name <b>{0.String}</b> was not found.",
+      "Value": "No se encontró un Sim con el nombre <b>{0.String}</b>.",
       "Source": "Public",
       "Original": "Sim with the name <b>{0.String}</b> was not found.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x99BC6200",
-      "Value": "Do you want to add Sim with the name <b>{0.String}</b> to the <b>{1.String}</b> protocol?",
+      "Value": "¿Quieres agregar un Sim con el nombre <b>{0.String}</b> al protocolo <b>{1.String}</b>?",
       "Source": "Public",
       "Original": "Do you want to add Sim with the name <b>{0.String}</b> to the <b>{1.String}</b> protocol?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4FE375EE",
@@ -6681,17 +6681,17 @@
     },
     {
       "Key": "0xDE909636",
-      "Value": "Fairy Occult Sims",
+      "Value": "Sims hadas",
       "Source": "Public",
       "Original": "Fairy Occult Sims",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x6D631FB6",
-      "Value": "Include All Sims with Fairy occult in this Protocol.",
+      "Value": "Incluye a todos los Sims con hadas en este protocolo.",
       "Source": "Public",
       "Original": "Include All Sims with Fairy occult in this Protocol.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x4AD537D4",
@@ -6772,17 +6772,17 @@
     },
     {
       "Key": "0xE235D37D",
-      "Value": "Clone This Protocol?",
+      "Value": "¿Clonar este protocolo?",
       "Source": "Public",
       "Original": "Clone This Protocol?",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x59211A1D",
-      "Value": "Select Protocol to clone.",
+      "Value": "Seleccione Protocolo para clonar.",
       "Source": "Public",
       "Original": "Select Protocol to clone.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE8AE8DB4",
@@ -12456,10 +12456,10 @@
     },
     {
       "Key": "0xCF42760D",
-      "Value": "Fairy Male",
+      "Value": "Hada masculino",
       "Source": "Public",
       "Original": "Fairy Male",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x418B86CF",
@@ -12519,10 +12519,10 @@
     },
     {
       "Key": "0xAEFC2914",
-      "Value": "Fairy Female",
+      "Value": "Hada femenina",
       "Source": "Public",
       "Original": "Fairy Female",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x30F547CC",
@@ -12582,10 +12582,10 @@
     },
     {
       "Key": "0xD1755253",
-      "Value": "Fairy Both",
+      "Value": "Hada ambos",
       "Source": "Public",
       "Original": "Fairy Both",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x478A67FF",
@@ -18471,10 +18471,10 @@
     },
     {
       "Key": "0x1C522CAD",
-      "Value": "{0.SimFirstName} is having bad luck.",
+      "Value": "{0.SimFirstName} está teniendo mala suerte.",
       "Source": "Public",
       "Original": "{0.SimFirstName} is having bad luck.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xDA3271AA",
@@ -42069,10 +42069,10 @@
     },
     {
       "Key": "0x13FB67FB",
-      "Value": "Fairy Occult",
+      "Value": "Hada",
       "Source": "Public",
       "Original": "Fairy Occult",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xEABFF419",
@@ -42956,17 +42956,17 @@
     },
     {
       "Key": "0x277D8915",
-      "Value": "I dislike Fairies.",
+      "Value": "No me gustan las hadas.",
       "Source": "Public",
       "Original": "I dislike Fairies.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD35E2A7F",
-      "Value": "{0.SimFirstName} dislikes Fairies.",
+      "Value": "A {0.SimFirstName} no le gustan las hadas.",
       "Source": "Public",
       "Original": "{0.SimFirstName} dislikes Fairies.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFD72C8AD",
@@ -45271,10 +45271,10 @@
     },
     {
       "Key": "0xC7E9E3E1",
-      "Value": "Select Fairy Occult Sims",
+      "Value": "Seleccionar Sims hadas",
       "Source": "Public",
       "Original": "Select Fairy Occult Sims",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x73DDF9DE",
